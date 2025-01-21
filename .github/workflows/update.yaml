@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+      - cron: '30 16 * * 1-5' # 00:30 Beijing time every Monday to Friday
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.12'
 
     - name: Install dependencies
       run: pip install -r requirements.txt
@@ -38,8 +38,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: jiangnanhugo
+        email: jiangnan.hugo@gmail.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2

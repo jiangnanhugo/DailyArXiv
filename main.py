@@ -7,7 +7,7 @@ from utils import get_daily_papers_by_keyword_with_retries, generate_table, back
     restore_files, remove_backups, get_daily_date
 
 
-beijing_timezone = pytz.timezone('Asia/Shanghai')
+beijing_timezone = pytz.timezone('America/New_York')
 
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
 
@@ -45,7 +45,7 @@ f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
+f_is.write("**Please check the [Github](https://github.com/jiangnanhugo/Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
