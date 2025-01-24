@@ -7,12 +7,12 @@ from utils import get_daily_papers_by_keyword_with_retries, generate_table, back
     restore_files, remove_backups, get_daily_date
 
 
-beijing_timezone = pytz.timezone('America/New_York')
+ny_timezone = pytz.timezone('America/New_York')
 
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
 
 # get current beijing time date in the format of "2021-08-01"
-current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
+current_date = datetime.now(ny_timezone).strftime("%Y-%m-%d")
 # get last update date from README.md
 with open("README.md", "r") as f:
     while True:
@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Time Series", "Trajectory", "Logical Reasoning"] # TODO add more keywords
+keywords = ["Time Series", "Neuro symbolic AI", "Logical Reasoning"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
