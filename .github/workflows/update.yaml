@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 1-5' # 00:30 Beijing time every Monday to Friday
+      - cron: '00 12 * * 1-7' # 00:30 Beijing time every Monday to Friday
 
 permissions:
   contents: write
@@ -42,6 +42,6 @@ jobs:
         email: jiangnan.hugo@gmail.com
 
     - name: Create an issue to notify
-      uses: JasonEtco/create-an-issue@v2
+      uses: JasonEtco/create-an-issue@v2.9.2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
