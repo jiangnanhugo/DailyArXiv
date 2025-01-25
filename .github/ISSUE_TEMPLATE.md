@@ -2,7 +2,7 @@
 title: Latest 15 Papers - January 25, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/jiangnanhugo/Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
@@ -23,41 +23,41 @@ labels: documentation
 | **[The Dynamic Triple Gamma Prior as a Shrinkage Process Prior for Time-Varying Parameter Models](http://arxiv.org/abs/2312.10487v2)** | 2025-01-22 |  |
 | **[Multiple change point detection based on Hodrick-Prescott and $l_1$ filtering method for random walk time series data](http://arxiv.org/abs/2501.11805v2)** | 2025-01-22 |  |
 
-## Trajectory
+## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Where Do You Go? Pedestrian Trajectory Prediction using Scene Features](http://arxiv.org/abs/2501.13848v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted by 2024 International Conference on Intelligent Computing and its Emerging Applications</p></details> |
-| **[In-Trajectory Inverse Reinforcement Learning: Learn Incrementally Before An Ongoing Trajectory Terminates](http://arxiv.org/abs/2410.15612v5)** | 2025-01-23 |  |
-| **[Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything](http://arxiv.org/abs/2501.13461v1)** | 2025-01-23 |  |
-| **[Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks](http://arxiv.org/abs/2501.13457v1)** | 2025-01-23 | submitted |
-| **[One Fits All: General Mobility Trajectory Modeling via Masked Conditional Diffusion](http://arxiv.org/abs/2501.13347v1)** | 2025-01-23 |  |
-| **[Trajectory tracking model-following control using Lyapunov redesign with output time-derivatives to compensate unmatched uncertainties](http://arxiv.org/abs/2501.12916v1)** | 2025-01-22 |  |
-| **[Learning segmentation from point trajectories](http://arxiv.org/abs/2501.12392v1)** | 2025-01-21 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Spotlight. Project https://www.robots.ox.ac.uk/~vgg/research/lrtl/</p></details> |
-| **[Algorithm Selection with Probing Trajectories: Benchmarking the Choice of Classifier Model](http://arxiv.org/abs/2501.11414v1)** | 2025-01-20 | <details><summary>To ap...</summary><p>To appear in Applications of Evolutionary Computation 28th International Conference, EvoApplications 2025</p></details> |
-| **[Spatio-temporal characterisation of underwater noise through semantic trajectories](http://arxiv.org/abs/2501.11131v1)** | 2025-01-19 |  |
-| **[TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification](http://arxiv.org/abs/2412.13037v6)** | 2025-01-19 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling](http://arxiv.org/abs/2412.12698v5)** | 2025-01-19 | Accepted for ICASSP |
-| **[Three-dimensional Trajectory Optimization for Quadrotor Tail-sitter UAVs: Traversing through Given Waypoints](http://arxiv.org/abs/2406.08347v3)** | 2025-01-18 |  |
-| **[Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments](http://arxiv.org/abs/2501.10636v1)** | 2025-01-18 |  |
-| **[On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression](http://arxiv.org/abs/2501.09327v2)** | 2025-01-17 | AAMAS 2025 |
-| **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
+| **[Neuro-Symbolic AI in 2024: A Systematic Review](http://arxiv.org/abs/2501.05435v1)** | 2025-01-09 | 19 pages |
+| **[Neuro-Photonix: Enabling Near-Sensor Neuro-Symbolic AI Computing on Silicon Photonics Substrate](http://arxiv.org/abs/2412.10187v1)** | 2024-12-13 | 12 pages, 15 figures |
+| **[A Semantic Framework for Neuro-Symbolic Computing](http://arxiv.org/abs/2212.12050v5)** | 2024-11-27 |  |
+| **[Aligning Generalisation Between Humans and Machines](http://arxiv.org/abs/2411.15626v1)** | 2024-11-23 |  |
+| **[V-LoL: A Diagnostic Dataset for Visual Logical Learning](http://arxiv.org/abs/2306.07743v3)** | 2024-11-13 |  |
+| **[Bridging the Gap: Representation Spaces in Neuro-Symbolic AI](http://arxiv.org/abs/2411.04393v1)** | 2024-11-07 |  |
+| **[Neuro-Symbolic AI: Explainability, Challenges, and Future Trends](http://arxiv.org/abs/2411.04383v1)** | 2024-11-07 |  |
+| **[LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation](http://arxiv.org/abs/2411.00773v1)** | 2024-11-01 | 25 pages, 8 figures |
+| **[A Walsh Hadamard Derived Linear Vector Symbolic Architecture](http://arxiv.org/abs/2410.22669v1)** | 2024-10-30 | <details><summary>To ap...</summary><p>To appear in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</p></details> |
+| **[Mapping the Neuro-Symbolic AI Landscape by Architectures: A Handbook on Augmenting Deep Learning Through Symbolic Reasoning](http://arxiv.org/abs/2410.22077v1)** | 2024-10-29 | 57 pages |
+| **[Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future](http://arxiv.org/abs/2410.20984v1)** | 2024-10-28 |  |
+| **[A Remedy to Compute-in-Memory with Dynamic Random Access Memory: 1FeFET-1C Technology for Neuro-Symbolic AI](http://arxiv.org/abs/2410.15296v1)** | 2024-10-20 |  |
+| **[Formal Explanations for Neuro-Symbolic AI](http://arxiv.org/abs/2410.14219v1)** | 2024-10-18 |  |
+| **[Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered Autonomous Agents](http://arxiv.org/abs/2407.08516v5)** | 2024-10-14 |  |
+| **[Towards Efficient Neuro-Symbolic AI: From Workload Characterization to Hardware Architecture](http://arxiv.org/abs/2409.13153v2)** | 2024-09-23 | <details><summary>14 pa...</summary><p>14 pages, 11 figures, 7 tables; IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI), 2024</p></details> |
 
-## Graph Neural Networks
+## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Crossfire: An Elastic Defense Framework for Graph Neural Networks Under Bit Flip Attacks](http://arxiv.org/abs/2501.13776v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025, DOI will be included after publication</p></details> |
-| **[Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function](http://arxiv.org/abs/2501.13734v1)** | 2025-01-23 | 48 pages, 4 figures |
-| **[The Road to Learning Explainable Inverse Kinematic Models: Graph Neural Networks as Inductive Bias for Symbolic Regression](http://arxiv.org/abs/2501.13641v1)** | 2025-01-23 |  |
-| **[FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling](http://arxiv.org/abs/2501.12592v2)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to SDM2025 (SIAM Data Mining 2025)</p></details> |
-| **[VARFVV: View-Adaptive Real-Time Interactive Free-View Video Streaming with Edge Computing](http://arxiv.org/abs/2501.13630v1)** | 2025-01-23 |  |
-| **[GCAD: Anomaly Detection in Multivariate Time Series from the Perspective of Granger Causality](http://arxiv.org/abs/2501.13493v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[MeshMask: Physics-Based Simulations with Masked Graph Neural Networks](http://arxiv.org/abs/2501.08738v2)** | 2025-01-23 |  |
-| **[RIDA: A Robust Attack Framework on Incomplete Graphs](http://arxiv.org/abs/2407.18170v2)** | 2025-01-23 |  |
-| **[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](http://arxiv.org/abs/2405.13707v2)** | 2025-01-23 | <details><summary>ACM W...</summary><p>ACM Web Conference 2025 (WWW '25)</p></details> |
-| **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v1)** | 2025-01-23 |  |
-| **[Generative Graphical Inverse Kinematics](http://arxiv.org/abs/2209.08812v5)** | 2025-01-23 | 17 pages, 9 figures |
-| **[Stress Predictions in Polycrystal Plasticity using Graph Neural Networks with Subgraph Training](http://arxiv.org/abs/2409.05169v4)** | 2025-01-23 | <details><summary>25 pa...</summary><p>25 pages, 11 figures (main manuscript)</p></details> |
-| **[Deep Inverse Design for High-Level Synthesis](http://arxiv.org/abs/2407.08797v2)** | 2025-01-22 |  |
-| **[HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks](http://arxiv.org/abs/2501.12857v1)** | 2025-01-22 |  |
-| **[GRAMA: Adaptive Graph Autoregressive Moving Average Models](http://arxiv.org/abs/2501.12732v1)** | 2025-01-22 |  |
+| **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v2)** | 2025-01-23 | <details><summary>36 pa...</summary><p>36 pages, 18 figures, technique report</p></details> |
+| **[Assessing the Alignment of FOL Closeness Metrics with Human Judgement](http://arxiv.org/abs/2501.08613v2)** | 2025-01-21 | <details><summary>Code:...</summary><p>Code: https://github.com/RamyaKeerthy/AlignmentFOL</p></details> |
+| **[Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning](http://arxiv.org/abs/2501.07021v2)** | 2025-01-20 |  |
+| **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v5)** | 2025-01-17 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium, and the full version was accepted by ICONIP 2024</p></details> |
+| **[Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization](http://arxiv.org/abs/2501.05079v2)** | 2025-01-15 |  |
+| **[Do Large Language Models Mirror Cognitive Language Processing?](http://arxiv.org/abs/2402.18023v3)** | 2025-01-15 |  |
+| **[LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking](http://arxiv.org/abs/2501.08168v1)** | 2025-01-14 |  |
+| **[Reasoning with Graphs: Structuring Implicit Knowledge to Enhance LLMs Reasoning](http://arxiv.org/abs/2501.07845v1)** | 2025-01-14 |  |
+| **[FlashRNN: Optimizing Traditional RNNs on Modern Hardware](http://arxiv.org/abs/2412.07752v2)** | 2025-01-13 |  |
+| **[TimeLogic: A Temporal Logic Benchmark for Video QA](http://arxiv.org/abs/2501.07214v1)** | 2025-01-13 |  |
+| **[LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](http://arxiv.org/abs/2411.10440v3)** | 2025-01-09 |  |
+| **[LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](http://arxiv.org/abs/2501.01767v2)** | 2025-01-08 | <details><summary>Accep...</summary><p>Accepted for publication at aaai25, project page: https://jasonjin34.github.io/logicad.github.io/</p></details> |
+| **[Bongard-OpenWorld: Few-Shot Reasoning for Free-form Visual Concepts in the Real World](http://arxiv.org/abs/2310.10207v6)** | 2025-01-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2024</p></details> |
+| **[Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation](http://arxiv.org/abs/2412.18537v2)** | 2025-01-06 | <details><summary>Accep...</summary><p>Accepted by AAAI'2025</p></details> |
+| **[SecBench: A Comprehensive Multi-Dimensional Benchmarking Dataset for LLMs in Cybersecurity](http://arxiv.org/abs/2412.20787v3)** | 2025-01-06 |  |
 
