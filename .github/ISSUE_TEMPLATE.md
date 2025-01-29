@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2025
+title: Latest 15 Papers - January 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v3)** | 2025-01-28 | AISTATS 2025 |
+| **[Benchmarking Quantum Convolutional Neural Networks for Signal Classification in Simulated Gamma-Ray Burst Detection](http://arxiv.org/abs/2501.17041v1)** | 2025-01-28 | <details><summary>9 pag...</summary><p>9 pages, Accepted for publication in 33rd Euromicro/IEEE International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
+| **[Stack Overflow Meets Replication: Security Research Amid Evolving Code Snippets (Extended Version)](http://arxiv.org/abs/2501.16948v1)** | 2025-01-28 |  |
+| **[CENTS: Generating synthetic electricity consumption time series for rare and unseen scenarios](http://arxiv.org/abs/2501.14426v3)** | 2025-01-28 |  |
+| **[Data-Driven vs Traditional Approaches to Power Transformer's Top-Oil Temperature Estimation](http://arxiv.org/abs/2501.16831v1)** | 2025-01-28 |  |
+| **[Toward Relative Positional Encoding in Spiking Transformers](http://arxiv.org/abs/2501.16745v1)** | 2025-01-28 |  |
+| **[LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](http://arxiv.org/abs/2501.16744v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted at the AAAI-2025 Deployable AI Workshop</p></details> |
+| **[Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care](http://arxiv.org/abs/2501.16693v1)** | 2025-01-28 |  |
+| **[Variational Schrödinger Momentum Diffusion](http://arxiv.org/abs/2501.16675v1)** | 2025-01-28 | AISTATS 25 |
+| **[Bubble Modeling and Tagging: A Stochastic Nonlinear Autoregression Approach](http://arxiv.org/abs/2401.07038v2)** | 2025-01-28 | 41 pages, 6 figures |
+| **[Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting](http://arxiv.org/abs/2501.16591v1)** | 2025-01-28 |  |
 | **[Tailored Forecasting from Short Time Series via Meta-learning](http://arxiv.org/abs/2501.16325v1)** | 2025-01-27 | 25 pages, 14 figures |
-| **[CENTS: Generating synthetic electricity consumption time series for rare and unseen scenarios](http://arxiv.org/abs/2501.14426v2)** | 2025-01-27 |  |
 | **[Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models](http://arxiv.org/abs/2501.16215v1)** | 2025-01-27 |  |
 | **[SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting](http://arxiv.org/abs/2501.16178v1)** | 2025-01-27 |  |
 | **[Contrastive Representation Learning Helps Cross-institutional Knowledge Transfer: A Study in Pediatric Ventilation Management](http://arxiv.org/abs/2501.13587v2)** | 2025-01-27 |  |
-| **[Modeling Latent Non-Linear Dynamical System over Time Series](http://arxiv.org/abs/2412.08114v4)** | 2025-01-27 | Accepted by AAAI'25 |
-| **[TimeHF: Billion-Scale Time Series Models Guided by Human Feedback](http://arxiv.org/abs/2501.15942v1)** | 2025-01-27 |  |
-| **[T-Graphormer: Using Transformers for Spatiotemporal Forecasting](http://arxiv.org/abs/2501.13274v2)** | 2025-01-27 |  |
-| **[Deterministic Reservoir Computing for Chaotic Time Series Prediction](http://arxiv.org/abs/2501.15615v1)** | 2025-01-26 |  |
-| **[Enhancing Glucose Level Prediction of ICU Patients through Hierarchical Modeling of Irregular Time-Series](http://arxiv.org/abs/2411.01418v2)** | 2025-01-26 | <details><summary>18 pa...</summary><p>18 pages, 7 figures V2: Updated the title and abstract. Added the Related work section. Added a few notes</p></details> |
-| **[Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory](http://arxiv.org/abs/2501.15388v1)** | 2025-01-26 |  |
-| **[A Transfer Learning Framework for Anomaly Detection in Multivariate IoT Traffic Data](http://arxiv.org/abs/2501.15365v1)** | 2025-01-26 | 6 pages, 3 figures |
-| **[Stochastic Volatility under Informative Missingness](http://arxiv.org/abs/2501.15297v1)** | 2025-01-25 | <details><summary>41 to...</summary><p>41 total pages, 1 cover page, 27 pages main text, 4 pages references, 9 pages appendices, 7 figures, 8 tables</p></details> |
-| **[Grid Monitoring with Synchro-Waveform and AI Foundation Model Technologies](http://arxiv.org/abs/2403.06942v2)** | 2025-01-25 |  |
-| **[Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting](http://arxiv.org/abs/2412.18798v2)** | 2025-01-25 |  |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,10 +45,19 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DBRouting: Routing End User Queries to Databases for Answerability](http://arxiv.org/abs/2501.16220v1)** | 2025-01-27 |  |
+| **[Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers](http://arxiv.org/abs/2501.16961v1)** | 2025-01-28 |  |
+| **[Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis](http://arxiv.org/abs/2501.16842v1)** | 2025-01-28 | 10 pages,10 figures |
+| **[DBRouting: Routing End User Queries to Databases for Answerability](http://arxiv.org/abs/2501.16220v2)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on GenAI and RAG Systems for Enterprise at CIKM 2024 Conference. 10 pages, 1 figure</p></details> |
+| **[Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification](http://arxiv.org/abs/2410.04492v5)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2024 as Spotlight</p></details> |
 | **[Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning](http://arxiv.org/abs/2402.03667v2)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by COLING 2025 conference</p></details> |
 | **[SedarEval: Automated Evaluation using Self-Adaptive Rubrics](http://arxiv.org/abs/2501.15595v1)** | 2025-01-26 |  |
 | **[A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models](http://arxiv.org/abs/2501.15147v1)** | 2025-01-25 | Accepted by TPAMI |
 | **[Imperative Learning: A Self-supervised Neuro-Symbolic Learning Framework for Robot Autonomy](http://arxiv.org/abs/2406.16087v5)** | 2025-01-25 |  |
 | **[JustLogic: A Comprehensive Benchmark for Evaluating Deductive Reasoning in Large Language Models](http://arxiv.org/abs/2501.14851v1)** | 2025-01-24 |  |
+| **[VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic Reasoning](http://arxiv.org/abs/2501.14540v1)** | 2025-01-24 |  |
+| **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v2)** | 2025-01-23 | <details><summary>36 pa...</summary><p>36 pages, 18 figures, technique report</p></details> |
+| **[Assessing the Alignment of FOL Closeness Metrics with Human Judgement](http://arxiv.org/abs/2501.08613v2)** | 2025-01-21 | <details><summary>Code:...</summary><p>Code: https://github.com/RamyaKeerthy/AlignmentFOL</p></details> |
+| **[Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning](http://arxiv.org/abs/2501.07021v2)** | 2025-01-20 |  |
+| **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v5)** | 2025-01-17 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium, and the full version was accepted by ICONIP 2024</p></details> |
+| **[Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization](http://arxiv.org/abs/2501.05079v2)** | 2025-01-15 |  |
 
