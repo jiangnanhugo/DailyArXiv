@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2025
+title: Latest 15 Papers - January 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-term prediction of El Niño-Southern Oscillation using reservoir computing with data-driven realtime filter](http://arxiv.org/abs/2501.17781v1)** | 2025-01-29 | 21 pages, 7 figures |
+| **[What is different between these datasets?](http://arxiv.org/abs/2403.05652v2)** | 2025-01-29 |  |
+| **[Fundamentals of non-parametric statistical inference for integrated quantiles](http://arxiv.org/abs/2501.17722v1)** | 2025-01-29 | <details><summary>66 pa...</summary><p>66 pages, 6 figures, 1 table</p></details> |
+| **[Gradient-free training of recurrent neural networks](http://arxiv.org/abs/2410.23467v2)** | 2025-01-29 |  |
+| **[Closing the Gap Between Synthetic and Ground Truth Time Series Distributions via Neural Mapping](http://arxiv.org/abs/2501.17553v1)** | 2025-01-29 |  |
+| **[Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction](http://arxiv.org/abs/2501.17459v1)** | 2025-01-29 | 9 pages, 7 figures |
+| **[NF-MKV Net: A Constraint-Preserving Neural Network Approach to Solving Mean-Field Games Equilibrium](http://arxiv.org/abs/2501.17450v1)** | 2025-01-29 | 7 pages |
+| **[Applying non-negative matrix factorization with covariates to multivariate time series data as a vector autoregression model](http://arxiv.org/abs/2501.17446v1)** | 2025-01-29 | 7 figures |
+| **[A large synthetic dataset for machine learning applications in power transmission grids](http://arxiv.org/abs/2410.03365v2)** | 2025-01-29 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 3 tables. Dataset available at https://zenodo.org/records/13378476</p></details> |
+| **[Gaze Prediction as a Function of Eye Movement Type and Individual Differences](http://arxiv.org/abs/2501.00597v2)** | 2025-01-28 | 12 pages |
+| **[A 1-D CNN inference engine for constrained platforms](http://arxiv.org/abs/2501.17269v1)** | 2025-01-28 |  |
+| **[Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](http://arxiv.org/abs/2501.17216v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v3)** | 2025-01-28 | AISTATS 2025 |
 | **[Benchmarking Quantum Convolutional Neural Networks for Signal Classification in Simulated Gamma-Ray Burst Detection](http://arxiv.org/abs/2501.17041v1)** | 2025-01-28 | <details><summary>9 pag...</summary><p>9 pages, Accepted for publication in 33rd Euromicro/IEEE International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
 | **[Stack Overflow Meets Replication: Security Research Amid Evolving Code Snippets (Extended Version)](http://arxiv.org/abs/2501.16948v1)** | 2025-01-28 |  |
-| **[CENTS: Generating synthetic electricity consumption time series for rare and unseen scenarios](http://arxiv.org/abs/2501.14426v3)** | 2025-01-28 |  |
-| **[Data-Driven vs Traditional Approaches to Power Transformer's Top-Oil Temperature Estimation](http://arxiv.org/abs/2501.16831v1)** | 2025-01-28 |  |
-| **[Toward Relative Positional Encoding in Spiking Transformers](http://arxiv.org/abs/2501.16745v1)** | 2025-01-28 |  |
-| **[LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](http://arxiv.org/abs/2501.16744v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted at the AAAI-2025 Deployable AI Workshop</p></details> |
-| **[Explainability and AI Confidence in Clinical Decision Support Systems: Effects on Trust, Diagnostic Performance, and Cognitive Load in Breast Cancer Care](http://arxiv.org/abs/2501.16693v1)** | 2025-01-28 |  |
-| **[Variational Schrödinger Momentum Diffusion](http://arxiv.org/abs/2501.16675v1)** | 2025-01-28 | AISTATS 25 |
-| **[Bubble Modeling and Tagging: A Stochastic Nonlinear Autoregression Approach](http://arxiv.org/abs/2401.07038v2)** | 2025-01-28 | 41 pages, 6 figures |
-| **[Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting](http://arxiv.org/abs/2501.16591v1)** | 2025-01-28 |  |
-| **[Tailored Forecasting from Short Time Series via Meta-learning](http://arxiv.org/abs/2501.16325v1)** | 2025-01-27 | 25 pages, 14 figures |
-| **[Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models](http://arxiv.org/abs/2501.16215v1)** | 2025-01-27 |  |
-| **[SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting](http://arxiv.org/abs/2501.16178v1)** | 2025-01-27 |  |
-| **[Contrastive Representation Learning Helps Cross-institutional Knowledge Transfer: A Study in Pediatric Ventilation Management](http://arxiv.org/abs/2501.13587v2)** | 2025-01-27 |  |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
