@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 30, 2025
+title: Latest 15 Papers - January 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Long-term prediction of El Niño-Southern Oscillation using reservoir computing with data-driven realtime filter](http://arxiv.org/abs/2501.17781v1)** | 2025-01-29 | 21 pages, 7 figures |
-| **[What is different between these datasets?](http://arxiv.org/abs/2403.05652v2)** | 2025-01-29 |  |
-| **[Fundamentals of non-parametric statistical inference for integrated quantiles](http://arxiv.org/abs/2501.17722v1)** | 2025-01-29 | <details><summary>66 pa...</summary><p>66 pages, 6 figures, 1 table</p></details> |
-| **[Gradient-free training of recurrent neural networks](http://arxiv.org/abs/2410.23467v2)** | 2025-01-29 |  |
-| **[Closing the Gap Between Synthetic and Ground Truth Time Series Distributions via Neural Mapping](http://arxiv.org/abs/2501.17553v1)** | 2025-01-29 |  |
-| **[Large Language Models for Single-Step and Multi-Step Flight Trajectory Prediction](http://arxiv.org/abs/2501.17459v1)** | 2025-01-29 | 9 pages, 7 figures |
-| **[NF-MKV Net: A Constraint-Preserving Neural Network Approach to Solving Mean-Field Games Equilibrium](http://arxiv.org/abs/2501.17450v1)** | 2025-01-29 | 7 pages |
-| **[Applying non-negative matrix factorization with covariates to multivariate time series data as a vector autoregression model](http://arxiv.org/abs/2501.17446v1)** | 2025-01-29 | 7 figures |
-| **[A large synthetic dataset for machine learning applications in power transmission grids](http://arxiv.org/abs/2410.03365v2)** | 2025-01-29 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 3 tables. Dataset available at https://zenodo.org/records/13378476</p></details> |
-| **[Gaze Prediction as a Function of Eye Movement Type and Individual Differences](http://arxiv.org/abs/2501.00597v2)** | 2025-01-28 | 12 pages |
-| **[A 1-D CNN inference engine for constrained platforms](http://arxiv.org/abs/2501.17269v1)** | 2025-01-28 |  |
-| **[Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](http://arxiv.org/abs/2501.17216v1)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v3)** | 2025-01-28 | AISTATS 2025 |
-| **[Benchmarking Quantum Convolutional Neural Networks for Signal Classification in Simulated Gamma-Ray Burst Detection](http://arxiv.org/abs/2501.17041v1)** | 2025-01-28 | <details><summary>9 pag...</summary><p>9 pages, Accepted for publication in 33rd Euromicro/IEEE International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
-| **[Stack Overflow Meets Replication: Security Research Amid Evolving Code Snippets (Extended Version)](http://arxiv.org/abs/2501.16948v1)** | 2025-01-28 |  |
+| **[CryptoDNA: A Machine Learning Paradigm for DDoS Detection in Healthcare IoT, Inspired by crypto jacking prevention Models](http://arxiv.org/abs/2501.18549v1)** | 2025-01-30 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, under review</p></details> |
+| **[Density Matrix Emulation of Quantum Recurrent Neural Networks for Multivariate Time Series Prediction](http://arxiv.org/abs/2310.20671v2)** | 2025-01-30 | 19 pages, 8 figures |
+| **[Fold Bifurcation Identification through Scientific Machine Learning](http://arxiv.org/abs/2312.14210v2)** | 2025-01-30 |  |
+| **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v2)** | 2025-01-30 |  |
+| **[A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series](http://arxiv.org/abs/2501.18367v1)** | 2025-01-30 | 15 pages,6 figures |
+| **[LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3)** | 2025-01-30 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
+| **[Reducing Aleatoric and Epistemic Uncertainty through Multi-modal Data Acquisition](http://arxiv.org/abs/2501.18268v1)** | 2025-01-30 |  |
+| **[Unsupervised Learning in Echo State Networks for Input Reconstruction](http://arxiv.org/abs/2501.11409v2)** | 2025-01-30 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, regular paper</p></details> |
+| **[Stack Overflow Meets Replication: Security Research Amid Evolving Code Snippets (Extended Version)](http://arxiv.org/abs/2501.16948v2)** | 2025-01-30 |  |
+| **[Network Weighted Functional Regression: a method for modeling dependencies between functional data in a network](http://arxiv.org/abs/2501.18221v1)** | 2025-01-30 |  |
+| **[Beyond Predictions in Neural ODEs: Identification and Interventions](http://arxiv.org/abs/2106.12430v2)** | 2025-01-30 |  |
+| **[GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2501.18196v1)** | 2025-01-30 |  |
+| **[A spectral clustering-type algorithm for the consistent estimation of the Hurst distribution in moderately high dimensions](http://arxiv.org/abs/2501.18115v1)** | 2025-01-30 |  |
+| **[Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test](http://arxiv.org/abs/2501.18059v1)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted to International Conference on Learning Representations (ICLR) 2025</p></details> |
+| **[KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units](http://arxiv.org/abs/2501.17976v1)** | 2025-01-29 |  |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual Thinking and Logical Processing -- Are Multi-modal Large Language Models Closing the Gap with Human Vision ?](http://arxiv.org/abs/2406.06967v2)** | 2025-01-30 |  |
+| **[Induction and Recursion Principles in a Higher-Order Quantitative Logic](http://arxiv.org/abs/2501.18275v1)** | 2025-01-30 |  |
 | **[Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers](http://arxiv.org/abs/2501.16961v1)** | 2025-01-28 |  |
 | **[Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis](http://arxiv.org/abs/2501.16842v1)** | 2025-01-28 | 10 pages,10 figures |
 | **[DBRouting: Routing End User Queries to Databases for Answerability](http://arxiv.org/abs/2501.16220v2)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on GenAI and RAG Systems for Enterprise at CIKM 2024 Conference. 10 pages, 1 figure</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v2)** | 2025-01-23 | <details><summary>36 pa...</summary><p>36 pages, 18 figures, technique report</p></details> |
 | **[Assessing the Alignment of FOL Closeness Metrics with Human Judgement](http://arxiv.org/abs/2501.08613v2)** | 2025-01-21 | <details><summary>Code:...</summary><p>Code: https://github.com/RamyaKeerthy/AlignmentFOL</p></details> |
 | **[Neural Probabilistic Circuits: Enabling Compositional and Interpretable Predictions through Logical Reasoning](http://arxiv.org/abs/2501.07021v2)** | 2025-01-20 |  |
-| **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v5)** | 2025-01-17 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium, and the full version was accepted by ICONIP 2024</p></details> |
-| **[Multimodal-to-Text Prompt Engineering in Large Language Models Using Feature Embeddings for GNSS Interference Characterization](http://arxiv.org/abs/2501.05079v2)** | 2025-01-15 |  |
 
