@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2025
+title: Latest 15 Papers - February 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation](http://arxiv.org/abs/2501.19364v1)** | 2025-01-31 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables</p></details> |
-| **[CORAL: Concept Drift Representation Learning for Co-evolving Time-series](http://arxiv.org/abs/2501.01480v3)** | 2025-01-31 |  |
-| **[The Global Carbon Budget as a cointegrated system](http://arxiv.org/abs/2412.09226v2)** | 2025-01-31 |  |
-| **[Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation](http://arxiv.org/abs/2501.19328v1)** | 2025-01-31 | <details><summary>9 pag...</summary><p>9 pages main paper, 5 pages references and appendix, 8 figures, 5 tables</p></details> |
-| **[FAN: Fourier Analysis Networks](http://arxiv.org/abs/2410.02675v3)** | 2025-01-31 |  |
-| **[Towards Generalisable Time Series Understanding Across Domains](http://arxiv.org/abs/2410.07299v2)** | 2025-01-31 |  |
-| **[BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](http://arxiv.org/abs/2501.19065v1)** | 2025-01-31 | 12 pages, 3 figures |
-| **[Self-Supervised Cross-Modal Text-Image Time Series Retrieval in Remote Sensing](http://arxiv.org/abs/2501.19043v1)** | 2025-01-31 |  |
-| **[Extreme Value Modelling of Feature Residuals for Anomaly Detection in Dynamic Graphs](http://arxiv.org/abs/2410.05687v2)** | 2025-01-31 | <details><summary>exten...</summary><p>extended and revised version of arXiv:2210.07407</p></details> |
-| **[Neural SDEs as a Unified Approach to Continuous-Domain Sequence Modeling](http://arxiv.org/abs/2501.18871v1)** | 2025-01-31 |  |
-| **[Comparing Clustering Approaches for Smart Meter Time Series: Investigating the Influence of Dataset Properties on Performance](http://arxiv.org/abs/2412.02026v2)** | 2025-01-31 |  |
-| **[TiVaT: A Transformer with a Single Unified Mechanism for Capturing Asynchronous Dependencies in Multivariate Time Series Forecasting](http://arxiv.org/abs/2410.01531v2)** | 2025-01-31 | 15pages |
-| **[Learning Hamiltonian Dynamics with Bayesian Data Assimilation](http://arxiv.org/abs/2501.18808v1)** | 2025-01-31 | 8 pages, 12 figures |
-| **[EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models](http://arxiv.org/abs/2407.13538v2)** | 2025-01-30 | 14 pages |
-| **[Motion Diffusion Autoencoders: Enabling Attribute Manipulation in Human Motion Demonstrated on Karate Techniques](http://arxiv.org/abs/2501.18729v1)** | 2025-01-30 | 9 pages, 5 figures |
+| **[Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications](http://arxiv.org/abs/2412.02732v2)** | 2025-02-03 |  |
+| **[Stream-level flow matching with Gaussian processes](http://arxiv.org/abs/2409.20423v5)** | 2025-02-03 |  |
+| **[Interpreting Outliers in Time Series Data through Decoding Autoencoder](http://arxiv.org/abs/2409.01713v2)** | 2025-02-03 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, accepted at TempXAI @ ECML-PKDD, published in CEUR Workshop Proceedings, Vol. 3761. https://ceur-ws.org/Vol-3761/paper3.pdf</p></details> |
+| **[Impacts of Climate Change on Mortality: An extrapolation of temperature effects based on time series data in France](http://arxiv.org/abs/2406.02054v3)** | 2025-02-03 |  |
+| **[Regressions under Adverse Conditions](http://arxiv.org/abs/2311.13327v3)** | 2025-02-03 |  |
+| **[Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT](http://arxiv.org/abs/2501.06224v2)** | 2025-02-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](http://arxiv.org/abs/2501.14183v2)** | 2025-02-03 |  |
+| **[Deep Koopman-layered Model with Universal Property Based on Toeplitz Matrices](http://arxiv.org/abs/2410.02199v2)** | 2025-02-03 |  |
+| **[Statistical inference for high-dimensional spectral density matrix](http://arxiv.org/abs/2212.13686v3)** | 2025-02-03 |  |
+| **[tidychangepoint: a unified framework for analyzing changepoint detection in univariate time series](http://arxiv.org/abs/2407.14369v2)** | 2025-02-03 |  |
+| **[FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders](http://arxiv.org/abs/2412.01979v2)** | 2025-02-01 | Accepted to ISMSI'25 |
+| **[Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement](http://arxiv.org/abs/2410.02147v2)** | 2025-02-01 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
+| **[HyperbolicLR: Epoch insensitive learning rate scheduler](http://arxiv.org/abs/2407.15200v3)** | 2025-02-01 | 21 pages, 9 figures |
+| **[Developing Cryptocurrency Trading Strategy Based on Autoencoder-CNN-GANs Algorithms](http://arxiv.org/abs/2412.18202v4)** | 2025-02-01 | <details><summary>The p...</summary><p>The paper was accepted by 2024 4th International Conference on Artificial Intelligence, Robotics, and Communication(ICAIRC 2024)</p></details> |
+| **[Constants of Motion for Conserved and Non-conserved Dynamics](http://arxiv.org/abs/2403.19418v2)** | 2025-01-31 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. (corrected typos, removed Fig4, renamed phi-bar to phi)</p></details> |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
