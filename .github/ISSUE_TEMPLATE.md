@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2025
+title: Latest 15 Papers - February 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CUQDS: Conformal Uncertainty Quantification under Distribution Shift for Trajectory Prediction](http://arxiv.org/abs/2406.12100v4)** | 2025-02-04 | 9 pages, 2 figures |
-| **[Trajectory Flow Matching with Applications to Clinical Time Series Modeling](http://arxiv.org/abs/2410.21154v2)** | 2025-02-04 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Spotlight</p></details> |
-| **[SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations](http://arxiv.org/abs/2502.02472v1)** | 2025-02-04 |  |
-| **[Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting](http://arxiv.org/abs/2502.02410v1)** | 2025-02-04 |  |
-| **[Synthetic Random Environmental Time Series Generation with Similarity Control, Preserving Original Signal's Statistical Characteristics](http://arxiv.org/abs/2502.02392v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted for publication 27 November 2024. Code available at https://github.com/Al-Ofek/stsg.git</p></details> |
+| **[Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](http://arxiv.org/abs/2502.03395v1)** | 2025-02-05 |  |
+| **[CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting](http://arxiv.org/abs/2502.03393v1)** | 2025-02-05 |  |
+| **[Transformers and Their Roles as Time Series Foundation Models](http://arxiv.org/abs/2502.03383v1)** | 2025-02-05 | 34 Pages, 2 Figures |
+| **[PaPaGei: Open Foundation Models for Optical Physiological Signals](http://arxiv.org/abs/2410.20542v2)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Improved version with new experiments and results. Code and models: https://github.com/nokia-bell-labs/papagei-foundation-model</p></details> |
+| **[Kolmogorov-Arnold Networks for Time Series Granger Causality Inference](http://arxiv.org/abs/2501.08958v2)** | 2025-02-05 |  |
+| **[General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data](http://arxiv.org/abs/2502.03264v1)** | 2025-02-05 |  |
+| **[Calibrated Unsupervised Anomaly Detection in Multivariate Time-series using Reinforcement Learning](http://arxiv.org/abs/2502.03245v1)** | 2025-02-05 | <details><summary>This ...</summary><p>This paper has been accepted for publication and presentation at the 2025 IEEE International systems Conference (SysCon)</p></details> |
+| **[Ordinal Patterns Based Change Points Detection](http://arxiv.org/abs/2502.03099v1)** | 2025-02-05 |  |
+| **[Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](http://arxiv.org/abs/2409.16040v3)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
+| **[Time Series Anomaly Detection in the Frequency Domain with Statistical Reliability](http://arxiv.org/abs/2502.03062v1)** | 2025-02-05 |  |
+| **[TopoCL: Topological Contrastive Learning for Time Series](http://arxiv.org/abs/2502.02924v1)** | 2025-02-05 | <details><summary>Submi...</summary><p>Submitted to TNNLS (under review)</p></details> |
+| **[MobiCLR: Mobility Time Series Contrastive Learning for Urban Region Representations](http://arxiv.org/abs/2502.02912v1)** | 2025-02-05 | <details><summary>Submi...</summary><p>Submitted to Information Sciences (under review)</p></details> |
+| **[Latent Space Energy-based Neural ODEs](http://arxiv.org/abs/2409.03845v2)** | 2025-02-05 |  |
+| **[SensorChat: Answering Qualitative and Quantitative Questions during Long-Term Multimodal Sensor Interactions](http://arxiv.org/abs/2502.02883v1)** | 2025-02-05 | Under review |
+| **[A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges](http://arxiv.org/abs/2502.02835v1)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted in IEEE GRSM</p></details> |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -35,6 +45,7 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2502.03283v1)** | 2025-02-05 |  |
 | **[Standard Neural Computation Alone Is Insufficient for Logical Intelligence](http://arxiv.org/abs/2502.02135v1)** | 2025-02-04 |  |
 | **[SIMPLOT: Enhancing Chart Question Answering by Distilling Essentials](http://arxiv.org/abs/2405.00021v3)** | 2025-02-03 | <details><summary>Findi...</summary><p>Findings of NAACL 2025</p></details> |
 | **[ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](http://arxiv.org/abs/2502.01100v1)** | 2025-02-03 | <details><summary>Websi...</summary><p>Website: https://huggingface.co/spaces/WildEval/ZebraLogic</p></details> |
@@ -49,5 +60,4 @@ labels: documentation
 | **[Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification](http://arxiv.org/abs/2410.04492v5)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2024 as Spotlight</p></details> |
 | **[Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning](http://arxiv.org/abs/2402.03667v2)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by COLING 2025 conference</p></details> |
 | **[SedarEval: Automated Evaluation using Self-Adaptive Rubrics](http://arxiv.org/abs/2501.15595v1)** | 2025-01-26 |  |
-| **[A Causality-aware Paradigm for Evaluating Creativity of Multimodal Large Language Models](http://arxiv.org/abs/2501.15147v1)** | 2025-01-25 | Accepted by TPAMI |
 
