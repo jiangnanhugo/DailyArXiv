@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2025
+title: Latest 15 Papers - February 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense](http://arxiv.org/abs/2502.04167v1)** | 2025-02-06 |  |
+| **[A Pseudo Markov-Chain Model and Time-Elapsed Measures of Mobility from Collective Data](http://arxiv.org/abs/2502.04162v1)** | 2025-02-06 | 27 pages, 11 figures |
+| **[Bayesian Hierarchical Copula Models with a Dirichlet-Laplace Prior](http://arxiv.org/abs/2202.13689v2)** | 2025-02-06 |  |
+| **[On the importance of structural identifiability for machine learning with partially observed dynamical systems](http://arxiv.org/abs/2502.04131v1)** | 2025-02-06 | 15 pages, 18 figures |
+| **[Quasi maximum likelihood estimation of high-dimensional approximate dynamic matrix factor models via the EM algorithm](http://arxiv.org/abs/2502.04112v1)** | 2025-02-06 |  |
+| **[Decision Trees That Remember: Gradient-Based Learning of Recurrent Decision Trees with Memory](http://arxiv.org/abs/2502.04052v1)** | 2025-02-06 |  |
+| **[PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data](http://arxiv.org/abs/2502.04018v1)** | 2025-02-06 |  |
+| **[The ARR2 prior: flexible predictive prior definition for Bayesian auto-regressions](http://arxiv.org/abs/2405.19920v3)** | 2025-02-06 |  |
+| **[Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT](http://arxiv.org/abs/2501.06224v3)** | 2025-02-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Random forests for binary geospatial data](http://arxiv.org/abs/2302.13828v2)** | 2025-02-06 |  |
+| **[Rule-based Evolving Fuzzy System for Time Series Forecasting: New Perspectives Based on Type-2 Fuzzy Sets Measures Approach](http://arxiv.org/abs/2502.03650v1)** | 2025-02-05 |  |
+| **[Swarm Characteristic Classification using Robust Neural Networks with Optimized Controllable Inputs](http://arxiv.org/abs/2502.03619v1)** | 2025-02-05 |  |
+| **[Federated Learning of Dynamic Bayesian Network via Continuous Optimization from Time Series Data](http://arxiv.org/abs/2412.09814v2)** | 2025-02-05 | 34 pages |
+| **[A Multi-Task Learning Approach to Linear Multivariate Forecasting](http://arxiv.org/abs/2502.03571v1)** | 2025-02-05 |  |
 | **[Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](http://arxiv.org/abs/2502.03395v1)** | 2025-02-05 |  |
-| **[CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting](http://arxiv.org/abs/2502.03393v1)** | 2025-02-05 |  |
-| **[Transformers and Their Roles as Time Series Foundation Models](http://arxiv.org/abs/2502.03383v1)** | 2025-02-05 | 34 Pages, 2 Figures |
-| **[PaPaGei: Open Foundation Models for Optical Physiological Signals](http://arxiv.org/abs/2410.20542v2)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025. Improved version with new experiments and results. Code and models: https://github.com/nokia-bell-labs/papagei-foundation-model</p></details> |
-| **[Kolmogorov-Arnold Networks for Time Series Granger Causality Inference](http://arxiv.org/abs/2501.08958v2)** | 2025-02-05 |  |
-| **[General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data](http://arxiv.org/abs/2502.03264v1)** | 2025-02-05 |  |
-| **[Calibrated Unsupervised Anomaly Detection in Multivariate Time-series using Reinforcement Learning](http://arxiv.org/abs/2502.03245v1)** | 2025-02-05 | <details><summary>This ...</summary><p>This paper has been accepted for publication and presentation at the 2025 IEEE International systems Conference (SysCon)</p></details> |
-| **[Ordinal Patterns Based Change Points Detection](http://arxiv.org/abs/2502.03099v1)** | 2025-02-05 |  |
-| **[Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](http://arxiv.org/abs/2409.16040v3)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
-| **[Time Series Anomaly Detection in the Frequency Domain with Statistical Reliability](http://arxiv.org/abs/2502.03062v1)** | 2025-02-05 |  |
-| **[TopoCL: Topological Contrastive Learning for Time Series](http://arxiv.org/abs/2502.02924v1)** | 2025-02-05 | <details><summary>Submi...</summary><p>Submitted to TNNLS (under review)</p></details> |
-| **[MobiCLR: Mobility Time Series Contrastive Learning for Urban Region Representations](http://arxiv.org/abs/2502.02912v1)** | 2025-02-05 | <details><summary>Submi...</summary><p>Submitted to Information Sciences (under review)</p></details> |
-| **[Latent Space Energy-based Neural ODEs](http://arxiv.org/abs/2409.03845v2)** | 2025-02-05 |  |
-| **[SensorChat: Answering Qualitative and Quantitative Questions during Long-Term Multimodal Sensor Interactions](http://arxiv.org/abs/2502.02883v1)** | 2025-02-05 | Under review |
-| **[A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges](http://arxiv.org/abs/2502.02835v1)** | 2025-02-05 | <details><summary>Accep...</summary><p>Accepted in IEEE GRSM</p></details> |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,11 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v3)** | 2025-02-06 | <details><summary>38 pa...</summary><p>38 pages, 18 figures, technique report</p></details> |
+| **[Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension](http://arxiv.org/abs/2409.14495v3)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows](http://arxiv.org/abs/2502.03788v1)** | 2025-02-06 |  |
 | **[SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2502.03283v1)** | 2025-02-05 |  |
+| **[Artificial Intelligence and Legal Analysis: Implications for Legal Education and the Profession](http://arxiv.org/abs/2502.03487v1)** | 2025-02-04 |  |
 | **[Standard Neural Computation Alone Is Insufficient for Logical Intelligence](http://arxiv.org/abs/2502.02135v1)** | 2025-02-04 |  |
 | **[SIMPLOT: Enhancing Chart Question Answering by Distilling Essentials](http://arxiv.org/abs/2405.00021v3)** | 2025-02-03 | <details><summary>Findi...</summary><p>Findings of NAACL 2025</p></details> |
 | **[ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](http://arxiv.org/abs/2502.01100v1)** | 2025-02-03 | <details><summary>Websi...</summary><p>Website: https://huggingface.co/spaces/WildEval/ZebraLogic</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Enhancing Large Language Model Efficiencyvia Symbolic Compression: A Formal Approach Towards Interpretability](http://arxiv.org/abs/2501.18657v1)** | 2025-01-30 |  |
 | **[Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers](http://arxiv.org/abs/2501.16961v1)** | 2025-01-28 |  |
 | **[Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis](http://arxiv.org/abs/2501.16842v1)** | 2025-01-28 | 10 pages,10 figures |
-| **[DBRouting: Routing End User Queries to Databases for Answerability](http://arxiv.org/abs/2501.16220v2)** | 2025-01-28 | <details><summary>Accep...</summary><p>Accepted at 1st Workshop on GenAI and RAG Systems for Enterprise at CIKM 2024 Conference. 10 pages, 1 figure</p></details> |
-| **[Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification](http://arxiv.org/abs/2410.04492v5)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS2024 as Spotlight</p></details> |
-| **[Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning](http://arxiv.org/abs/2402.03667v2)** | 2025-01-27 | <details><summary>Accep...</summary><p>Accepted by COLING 2025 conference</p></details> |
-| **[SedarEval: Automated Evaluation using Self-Adaptive Rubrics](http://arxiv.org/abs/2501.15595v1)** | 2025-01-26 |  |
 
