@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2025
+title: Latest 15 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time Series Analysis of Rankings: A GARCH-Type Approach](http://arxiv.org/abs/2502.05102v1)** | 2025-02-07 | <details><summary>Paper...</summary><p>Paper submitted for publication</p></details> |
+| **[Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing the Vulnerability to Adversarial Attacks](http://arxiv.org/abs/2502.05041v1)** | 2025-02-07 | <details><summary>12th ...</summary><p>12th IEEE Conference on Technologies for Sustainability</p></details> |
+| **[Analog and Multi-modal Manufacturing Datasets Acquired on the Future Factories Platform V2](http://arxiv.org/abs/2502.05020v1)** | 2025-02-07 |  |
+| **[Conformal Prediction for Electricity Price Forecasting in the Day-Ahead and Real-Time Balancing Market](http://arxiv.org/abs/2502.04935v1)** | 2025-02-07 |  |
+| **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](http://arxiv.org/abs/2412.08435v3)** | 2025-02-07 | Accepted by KDD 2025 |
+| **[Forecasting density-valued functional panel data](http://arxiv.org/abs/2403.13340v2)** | 2025-02-07 |  |
+| **[WAVE: Weighted Autoregressive Varing Gate for Time Series Forecasting](http://arxiv.org/abs/2410.03159v2)** | 2025-02-07 |  |
+| **[The $α$-Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance](http://arxiv.org/abs/2502.04593v1)** | 2025-02-07 | <details><summary>The c...</summary><p>The codebase will be made available upon publication. This paper is dedicated to Patrice Lumumba</p></details> |
+| **[CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements](http://arxiv.org/abs/2502.04592v1)** | 2025-02-07 |  |
+| **[Partial Information Rate Decomposition](http://arxiv.org/abs/2502.04550v1)** | 2025-02-06 |  |
+| **[MedGNN: Towards Multi-resolution Spatiotemporal Graph Learning for Medical Time Series Classification](http://arxiv.org/abs/2502.04515v1)** | 2025-02-06 | Accepted by WWW 2025 |
+| **[IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting](http://arxiv.org/abs/2401.16777v2)** | 2025-02-06 | Accepted by KDD 2025 |
+| **[On the reconstruction limits of complex networks](http://arxiv.org/abs/2501.01437v2)** | 2025-02-06 |  |
+| **[Context is Key: A Benchmark for Forecasting with Essential Textual Information](http://arxiv.org/abs/2410.18959v3)** | 2025-02-06 | <details><summary>Prepr...</summary><p>Preprint; under review. First two authors contributed equally</p></details> |
 | **[Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense](http://arxiv.org/abs/2502.04167v1)** | 2025-02-06 |  |
-| **[A Pseudo Markov-Chain Model and Time-Elapsed Measures of Mobility from Collective Data](http://arxiv.org/abs/2502.04162v1)** | 2025-02-06 | 27 pages, 11 figures |
-| **[Bayesian Hierarchical Copula Models with a Dirichlet-Laplace Prior](http://arxiv.org/abs/2202.13689v2)** | 2025-02-06 |  |
-| **[On the importance of structural identifiability for machine learning with partially observed dynamical systems](http://arxiv.org/abs/2502.04131v1)** | 2025-02-06 | 15 pages, 18 figures |
-| **[Quasi maximum likelihood estimation of high-dimensional approximate dynamic matrix factor models via the EM algorithm](http://arxiv.org/abs/2502.04112v1)** | 2025-02-06 |  |
-| **[Decision Trees That Remember: Gradient-Based Learning of Recurrent Decision Trees with Memory](http://arxiv.org/abs/2502.04052v1)** | 2025-02-06 |  |
-| **[PINT: Physics-Informed Neural Time Series Models with Applications to Long-term Inference on WeatherBench 2m-Temperature Data](http://arxiv.org/abs/2502.04018v1)** | 2025-02-06 |  |
-| **[The ARR2 prior: flexible predictive prior definition for Bayesian auto-regressions](http://arxiv.org/abs/2405.19920v3)** | 2025-02-06 |  |
-| **[Detection, Retrieval, and Explanation Unified: A Violence Detection System Based on Knowledge Graphs and GAT](http://arxiv.org/abs/2501.06224v3)** | 2025-02-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Random forests for binary geospatial data](http://arxiv.org/abs/2302.13828v2)** | 2025-02-06 |  |
-| **[Rule-based Evolving Fuzzy System for Time Series Forecasting: New Perspectives Based on Type-2 Fuzzy Sets Measures Approach](http://arxiv.org/abs/2502.03650v1)** | 2025-02-05 |  |
-| **[Swarm Characteristic Classification using Robust Neural Networks with Optimized Controllable Inputs](http://arxiv.org/abs/2502.03619v1)** | 2025-02-05 |  |
-| **[Federated Learning of Dynamic Bayesian Network via Continuous Optimization from Time Series Data](http://arxiv.org/abs/2412.09814v2)** | 2025-02-05 | 34 pages |
-| **[A Multi-Task Learning Approach to Linear Multivariate Forecasting](http://arxiv.org/abs/2502.03571v1)** | 2025-02-05 |  |
-| **[Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](http://arxiv.org/abs/2502.03395v1)** | 2025-02-05 |  |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency](http://arxiv.org/abs/2502.04790v1)** | 2025-02-07 | 16 pages, 5 figures |
+| **[Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models](http://arxiv.org/abs/2409.17539v2)** | 2025-02-07 | <details><summary>18 pa...</summary><p>18 pages, Accepted to NAACL2025</p></details> |
 | **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v3)** | 2025-02-06 | <details><summary>38 pa...</summary><p>38 pages, 18 figures, technique report</p></details> |
 | **[Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension](http://arxiv.org/abs/2409.14495v3)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
 | **[Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows](http://arxiv.org/abs/2502.03788v1)** | 2025-02-06 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Dual Thinking and Logical Processing -- Are Multi-modal Large Language Models Closing the Gap with Human Vision ?](http://arxiv.org/abs/2406.06967v2)** | 2025-01-30 |  |
 | **[Induction and Recursion Principles in a Higher-Order Quantitative Logic](http://arxiv.org/abs/2501.18275v1)** | 2025-01-30 |  |
 | **[Enhancing Large Language Model Efficiencyvia Symbolic Compression: A Formal Approach Towards Interpretability](http://arxiv.org/abs/2501.18657v1)** | 2025-01-30 |  |
-| **[Instantiation-based Formalization of Logical Reasoning Tasks using Language Models and Logical Solvers](http://arxiv.org/abs/2501.16961v1)** | 2025-01-28 |  |
-| **[Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis](http://arxiv.org/abs/2501.16842v1)** | 2025-01-28 | 10 pages,10 figures |
 
