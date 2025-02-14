@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 13, 2025
+title: Latest 15 Papers - February 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Two-stage hybrid models for enhancing forecasting accuracy on heterogeneous time series](http://arxiv.org/abs/2502.08600v1)** | 2025-02-12 | 14 pages, 2 figures |
-| **[Oscillatory State-Space Models](http://arxiv.org/abs/2410.03943v2)** | 2025-02-12 | ICLR (Oral) |
-| **[Causal Discovery from Conditionally Stationary Time Series](http://arxiv.org/abs/2110.06257v3)** | 2025-02-12 |  |
-| **[A Machine Learning-Ready Data Processing Tool for Near Real-Time Forecasting](http://arxiv.org/abs/2502.08555v1)** | 2025-02-12 |  |
-| **[Uniform confidence bands for joint angles across different fatigue phases](http://arxiv.org/abs/2502.08430v1)** | 2025-02-12 |  |
-| **[Beam Prediction based on Large Language Models](http://arxiv.org/abs/2408.08707v2)** | 2025-02-12 |  |
-| **[Deep Learning for Multivariate Time Series Imputation: A Survey](http://arxiv.org/abs/2402.04059v2)** | 2025-02-12 | Under review |
-| **[HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting](http://arxiv.org/abs/2502.08302v1)** | 2025-02-12 |  |
-| **[Trend estimation for time series with polynomial-tailed noise](http://arxiv.org/abs/2502.08280v1)** | 2025-02-12 |  |
-| **[GenIAS: Generator for Instantiating Anomalies in time Series](http://arxiv.org/abs/2502.08262v1)** | 2025-02-12 |  |
-| **[Wisdom of the Crowds in Forecasting: Forecast Summarization for Supporting Future Event Prediction](http://arxiv.org/abs/2502.08205v1)** | 2025-02-12 |  |
-| **[Explainable and Class-Revealing Signal Feature Extraction via Scattering Transform and Constrained Zeroth-Order Optimization](http://arxiv.org/abs/2502.05722v2)** | 2025-02-12 | <details><summary>5 pag...</summary><p>5 pages; 6 figures; submitted to 2025 IEEE Statistical Signal Processing Workshop</p></details> |
-| **[Global Deep Forecasting with Patient-Specific Pharmacokinetics](http://arxiv.org/abs/2309.13135v8)** | 2025-02-12 |  |
-| **[Graph Neural Networks in EEG-based Emotion Recognition: A Survey](http://arxiv.org/abs/2402.01138v5)** | 2025-02-12 |  |
-| **[Resampling Methods that Generate Time Series Data to Enable Sensitivity and Model Analysis in Energy Modeling](http://arxiv.org/abs/2502.08102v1)** | 2025-02-12 | <details><summary>36 pa...</summary><p>36 pages, multiple figures</p></details> |
+| **[Relational Conformal Prediction for Correlated Time Series](http://arxiv.org/abs/2502.09443v1)** | 2025-02-13 |  |
+| **[A Deep Inverse-Mapping Model for a Flapping Robotic Wing](http://arxiv.org/abs/2502.09378v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. 10 Pages 5 figures + 2 figures in appendix</p></details> |
+| **[SigGate: Enhancing Recurrent Neural Networks with Signature-Based Gating Mechanisms](http://arxiv.org/abs/2502.09318v1)** | 2025-02-13 |  |
+| **[Sequential Covariance Fitting for InSAR Phase Linking](http://arxiv.org/abs/2502.09248v1)** | 2025-02-13 | 15 pages |
+| **[Likelihood asymptotics of stationary Gaussian arrays](http://arxiv.org/abs/2502.09229v1)** | 2025-02-13 |  |
+| **[Data-driven Modeling of Combined Sewer Systems for Urban Sustainability: An Empirical Evaluation](http://arxiv.org/abs/2408.11619v3)** | 2025-02-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted at 2nd Workshop on 'Public Interest AI' co-located with 47th German Conference on Artificial Intelligence, Wuerzburg 23rd September 2024</p></details> |
+| **[Two-Stage Representation Learning for Analyzing Movement Behavior Dynamics in People Living with Dementia](http://arxiv.org/abs/2502.09173v1)** | 2025-02-13 | <details><summary>AAAI ...</summary><p>AAAI 2025 Workshop on Large Language Models and Generative AI for Health</p></details> |
+| **[On the Regularization of Learnable Embeddings for Time Series Forecasting](http://arxiv.org/abs/2410.14630v2)** | 2025-02-13 | Accepted at TMLR |
+| **[Exact Bayesian inference for Markov switching diffusions](http://arxiv.org/abs/2502.09126v1)** | 2025-02-13 |  |
+| **[Quantifying Cryptocurrency Unpredictability: A Comprehensive Study of Complexity and Forecasting](http://arxiv.org/abs/2502.09079v1)** | 2025-02-13 | <details><summary>This ...</summary><p>This is the author's accepted manuscript, modified per ACM self-archiving policy. The definitive Version of Record is available at https://doi.org/10.1145/3703412.3703420</p></details> |
+| **[Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative](http://arxiv.org/abs/2502.08942v1)** | 2025-02-13 | Preprint, 37 pages |
+| **[Harnessing Vision Models for Time Series Analysis: A Survey](http://arxiv.org/abs/2502.08869v1)** | 2025-02-13 |  |
+| **[Statistical inference for Levy-driven graph supOU processes: From short- to long-memory in high-dimensional time series](http://arxiv.org/abs/2502.08838v1)** | 2025-02-12 |  |
+| **[From PowerPoint UI Sketches to Web-Based Applications: Pattern-Driven Code Generation for GIS Dashboard Development Using Knowledge-Augmented LLMs, Context-Aware Visual Prompting, and the React Framework](http://arxiv.org/abs/2502.08756v1)** | 2025-02-12 |  |
+| **[Recurrent Memory for Online Interdomain Gaussian Processes](http://arxiv.org/abs/2502.08736v1)** | 2025-02-12 | 13 pages, 4 figures |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,13 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v1)** | 2025-02-13 | Preprint |
+| **[The Multilingual Mind : A Survey of Multilingual Reasoning in Language Models](http://arxiv.org/abs/2502.09457v1)** | 2025-02-13 |  |
+| **[The LLM Language Network: A Neuroscientific Approach for Identifying Causally Task-Relevant Units](http://arxiv.org/abs/2411.02280v2)** | 2025-02-13 | NAACL 2025 |
+| **[Ontology Embedding: A Survey of Methods, Applications and Resources](http://arxiv.org/abs/2406.10964v2)** | 2025-02-13 | <details><summary>A com...</summary><p>A comprehensive survey on ontology embedding</p></details> |
+| **[LLM+Reasoning+Planning for Supporting Incomplete User Queries in Presence of APIs](http://arxiv.org/abs/2405.12433v3)** | 2025-02-13 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2024, arXiv:2502.08453</p></details> |
+| **[Logical Lease Litigation: Prolog and LLMs for Rental Law Compliance in New York](http://arxiv.org/abs/2502.09204v1)** | 2025-02-13 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2024, arXiv:2502.08453</p></details> |
+| **[Logical Reasoning in Large Language Models: A Survey](http://arxiv.org/abs/2502.09100v1)** | 2025-02-13 |  |
 | **[Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference](http://arxiv.org/abs/2407.00075v3)** | 2025-02-11 |  |
 | **[DMWM: Dual-Mind World Model with Long-Term Imagination](http://arxiv.org/abs/2502.07591v1)** | 2025-02-11 |  |
 | **[Object-centric proto-symbolic behavioural reasoning from pixels](http://arxiv.org/abs/2411.17438v2)** | 2025-02-11 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](http://arxiv.org/abs/2502.01681v2)** | 2025-02-10 |  |
 | **[Structural temporal logic for mechanized program verification](http://arxiv.org/abs/2410.14906v4)** | 2025-02-08 |  |
 | **[XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion](http://arxiv.org/abs/2502.05615v1)** | 2025-02-08 |  |
-| **[Can Transformers Reason Logically? A Study in SAT Solving](http://arxiv.org/abs/2410.07432v2)** | 2025-02-08 | 41 pages, 4 Figures |
-| **[S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency](http://arxiv.org/abs/2502.04790v1)** | 2025-02-07 | 16 pages, 5 figures |
-| **[Logic-of-Thought: Injecting Logic into Contexts for Full Reasoning in Large Language Models](http://arxiv.org/abs/2409.17539v2)** | 2025-02-07 | <details><summary>18 pa...</summary><p>18 pages, Accepted to NAACL2025</p></details> |
-| **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v3)** | 2025-02-06 | <details><summary>38 pa...</summary><p>38 pages, 18 figures, technique report</p></details> |
-| **[Thought-Path Contrastive Learning via Premise-Oriented Data Augmentation for Logical Reading Comprehension](http://arxiv.org/abs/2409.14495v3)** | 2025-02-06 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
-| **[Frontend Diffusion: Empowering Self-Representation of Junior Researchers and Designers Through Agentic Workflows](http://arxiv.org/abs/2502.03788v1)** | 2025-02-06 |  |
-| **[SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2502.03283v1)** | 2025-02-05 |  |
 
