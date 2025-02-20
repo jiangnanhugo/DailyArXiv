@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2025
+title: Latest 15 Papers - February 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causal Temporal Regime Structure Learning](http://arxiv.org/abs/2311.01412v3)** | 2025-02-19 |  |
+| **[Generalization bounds for mixing processes via delayed online-to-PAC conversions](http://arxiv.org/abs/2406.12600v3)** | 2025-02-19 |  |
+| **[From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education](http://arxiv.org/abs/2502.13789v1)** | 2025-02-19 |  |
+| **[Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method](http://arxiv.org/abs/2502.13725v1)** | 2025-02-19 |  |
+| **[Learning Novel Transformer Architecture for Time-series Forecasting](http://arxiv.org/abs/2502.13721v1)** | 2025-02-19 |  |
+| **[MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series](http://arxiv.org/abs/2502.07858v2)** | 2025-02-19 |  |
+| **[Adaptive higher order reversible integrators for memory efficient deep learning](http://arxiv.org/abs/2410.09537v2)** | 2025-02-19 |  |
+| **[Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion](http://arxiv.org/abs/2502.13509v1)** | 2025-02-19 | 13 pages, 5 figures |
+| **[Tensor dynamic conditional correlation model: A new way to pursuit "Holy Grail of investing"](http://arxiv.org/abs/2502.13461v1)** | 2025-02-19 |  |
+| **[Signature-based IaaS Performance Change Detection](http://arxiv.org/abs/2410.17623v2)** | 2025-02-19 | <details><summary>Publi...</summary><p>Published at ACM Transaction on Internet Technology. The paper was extended from the paper: arXiv:2007.11705</p></details> |
+| **[Community Notes Moderate Engagement With and Diffusion of False Information Online](http://arxiv.org/abs/2502.13322v1)** | 2025-02-18 |  |
+| **[Swarm Characteristics Classification Using Neural Networks](http://arxiv.org/abs/2403.19572v3)** | 2025-02-18 | <details><summary>Artic...</summary><p>Article published in IEEE TAES. Added IEEE copyright and DOI to accepted version of paper</p></details> |
+| **[VUS: Effective and Efficient Accuracy Measures for Time-Series Anomaly Detection](http://arxiv.org/abs/2502.13318v1)** | 2025-02-18 |  |
+| **[Cointegration with Occasionally Binding Constraints](http://arxiv.org/abs/2211.09604v3)** | 2025-02-18 | <details><summary>ii + ...</summary><p>ii + 58 pp., 4 figures</p></details> |
 | **[$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering](http://arxiv.org/abs/2502.13049v1)** | 2025-02-18 |  |
-| **[Exploring Kolmogorov-Arnold Networks for Interpretable Time Series Classification](http://arxiv.org/abs/2411.14904v2)** | 2025-02-18 |  |
-| **[Performance of Zero-Shot Time Series Foundation Models on Cloud Data](http://arxiv.org/abs/2502.12944v1)** | 2025-02-18 | 5 pages, Preprint |
-| **[Lightweight Online Adaption for Time Series Foundation Model Forecasts](http://arxiv.org/abs/2502.12920v1)** | 2025-02-18 | 8 pages, Preprint |
-| **[Stabilized Neural Prediction of Potential Outcomes in Continuous Time](http://arxiv.org/abs/2410.03514v3)** | 2025-02-18 |  |
-| **[An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation](http://arxiv.org/abs/2502.12836v1)** | 2025-02-18 |  |
-| **[PPGF: Probability Pattern-Guided Time Series Forecasting](http://arxiv.org/abs/2502.12802v1)** | 2025-02-18 |  |
-| **[Dependence and Uncertainty: Information Measures using Tsallis Entropy](http://arxiv.org/abs/2502.12779v1)** | 2025-02-18 |  |
-| **[Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting](http://arxiv.org/abs/2502.12603v1)** | 2025-02-18 |  |
-| **[Time Series Treatment Effects Analysis with Always-Missing Controls](http://arxiv.org/abs/2502.12393v1)** | 2025-02-18 |  |
-| **[Positional Encoding in Transformer-Based Time Series Models: A Survey](http://arxiv.org/abs/2502.12370v1)** | 2025-02-17 | 15 pages, 6 figures |
-| **[Structure-preserving contrastive learning for spatial time series](http://arxiv.org/abs/2502.06380v2)** | 2025-02-17 | <details><summary>TL;DR...</summary><p>TL;DR: Preserving certain structures of similarity relations in spatio-temporal data can improve downstream task performance via contrastive learning</p></details> |
-| **[Bayesian inference from time series of allele frequency data using exact simulation techniques](http://arxiv.org/abs/2502.12279v1)** | 2025-02-17 |  |
-| **[Time-series attribution maps with regularized contrastive learning](http://arxiv.org/abs/2502.12977v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025). Code is available at https://github.com/AdaptiveMotorControlLab/CEBRA</p></details> |
-| **[Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems](http://arxiv.org/abs/2502.12086v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by the AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review](http://arxiv.org/abs/2410.03663v3)** | 2025-02-19 | 16 pages, 5 figures |
+| **[SPPD: Self-training with Process Preference Learning Using Dynamic Value Margin](http://arxiv.org/abs/2502.13516v1)** | 2025-02-19 |  |
+| **[Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning](http://arxiv.org/abs/2502.13416v1)** | 2025-02-19 | <details><summary>16 pa...</summary><p>16 pages, under review. arXiv admin note: substantial text overlap with arXiv:2405.00648</p></details> |
+| **[Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](http://arxiv.org/abs/2410.03136v3)** | 2025-02-18 |  |
 | **[A Smooth Transition Between Induction and Deduction: Fast Abductive Learning Based on Probabilistic Symbol Perception](http://arxiv.org/abs/2502.12919v1)** | 2025-02-18 |  |
 | **[Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions](http://arxiv.org/abs/2502.12616v1)** | 2025-02-18 |  |
 | **[SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2502.03283v2)** | 2025-02-18 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v2)** | 2025-02-17 | Preprint |
 | **[PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054v1)** | 2025-02-17 |  |
 | **[A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models](http://arxiv.org/abs/2408.08590v2)** | 2025-02-17 |  |
-| **[LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning](http://arxiv.org/abs/2409.12929v2)** | 2025-02-17 |  |
-| **[Dialogue-based Explanations for Logical Reasoning using Structured Argumentation](http://arxiv.org/abs/2502.11291v1)** | 2025-02-16 | <details><summary>45 pa...</summary><p>45 pages, 8 gigures, journal</p></details> |
-| **[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up](http://arxiv.org/abs/2410.12323v2)** | 2025-02-16 |  |
-| **[Exposing Numeracy Gaps: A Benchmark to Evaluate Fundamental Numerical Abilities in Large Language Models](http://arxiv.org/abs/2502.11075v1)** | 2025-02-16 |  |
 
