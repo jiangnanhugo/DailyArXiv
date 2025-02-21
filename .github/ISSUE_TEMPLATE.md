@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2025
+title: Latest 15 Papers - February 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Temporal Regime Structure Learning](http://arxiv.org/abs/2311.01412v3)** | 2025-02-19 |  |
-| **[Generalization bounds for mixing processes via delayed online-to-PAC conversions](http://arxiv.org/abs/2406.12600v3)** | 2025-02-19 |  |
-| **[From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education](http://arxiv.org/abs/2502.13789v1)** | 2025-02-19 |  |
-| **[Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method](http://arxiv.org/abs/2502.13725v1)** | 2025-02-19 |  |
-| **[Learning Novel Transformer Architecture for Time-series Forecasting](http://arxiv.org/abs/2502.13721v1)** | 2025-02-19 |  |
-| **[MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series](http://arxiv.org/abs/2502.07858v2)** | 2025-02-19 |  |
-| **[Adaptive higher order reversible integrators for memory efficient deep learning](http://arxiv.org/abs/2410.09537v2)** | 2025-02-19 |  |
-| **[Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion](http://arxiv.org/abs/2502.13509v1)** | 2025-02-19 | 13 pages, 5 figures |
-| **[Tensor dynamic conditional correlation model: A new way to pursuit "Holy Grail of investing"](http://arxiv.org/abs/2502.13461v1)** | 2025-02-19 |  |
-| **[Signature-based IaaS Performance Change Detection](http://arxiv.org/abs/2410.17623v2)** | 2025-02-19 | <details><summary>Publi...</summary><p>Published at ACM Transaction on Internet Technology. The paper was extended from the paper: arXiv:2007.11705</p></details> |
-| **[Community Notes Moderate Engagement With and Diffusion of False Information Online](http://arxiv.org/abs/2502.13322v1)** | 2025-02-18 |  |
-| **[Swarm Characteristics Classification Using Neural Networks](http://arxiv.org/abs/2403.19572v3)** | 2025-02-18 | <details><summary>Artic...</summary><p>Article published in IEEE TAES. Added IEEE copyright and DOI to accepted version of paper</p></details> |
-| **[VUS: Effective and Efficient Accuracy Measures for Time-Series Anomaly Detection](http://arxiv.org/abs/2502.13318v1)** | 2025-02-18 |  |
-| **[Cointegration with Occasionally Binding Constraints](http://arxiv.org/abs/2211.09604v3)** | 2025-02-18 | <details><summary>ii + ...</summary><p>ii + 58 pp., 4 figures</p></details> |
-| **[$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering](http://arxiv.org/abs/2502.13049v1)** | 2025-02-18 |  |
+| **[LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters](http://arxiv.org/abs/2308.08469v6)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Intelligent Systems and Technology (TIST) 2025. The final published version will be available at https://doi.org/10.1145/3719207</p></details> |
+| **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](http://arxiv.org/abs/2502.14704v1)** | 2025-02-20 |  |
+| **[Partial Information Rate Decomposition](http://arxiv.org/abs/2502.04550v2)** | 2025-02-20 |  |
+| **[Global Neural Networks and The Data Scaling Effect in Financial Time Series Forecasting](http://arxiv.org/abs/2309.02072v6)** | 2025-02-20 | 25 pages, 5 figures |
+| **[An Open-Source Tool for Mapping War Destruction at Scale in Ukraine using Sentinel-1 Time Series](http://arxiv.org/abs/2406.02506v3)** | 2025-02-20 |  |
+| **[Joint Time-Vertex Fractional Fourier Transform](http://arxiv.org/abs/2203.07655v3)** | 2025-02-20 |  |
+| **[LEIT-motifs: Scalable Motif Mining in Multidimensional Time Series](http://arxiv.org/abs/2502.14446v1)** | 2025-02-20 |  |
+| **[Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments](http://arxiv.org/abs/2502.14383v1)** | 2025-02-20 | work in progress |
+| **[dtaianomaly: A Python library for time series anomaly detection](http://arxiv.org/abs/2502.14381v1)** | 2025-02-20 |  |
+| **[Bridging Smart Meter Gaps: A Benchmark of Statistical, Machine Learning and Time Series Foundation Models for Data Imputation](http://arxiv.org/abs/2501.07276v2)** | 2025-02-20 |  |
+| **[Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](http://arxiv.org/abs/2501.17216v2)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[A projected nonlinear state-space model for forecasting time series signals](http://arxiv.org/abs/2311.13247v2)** | 2025-02-20 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. International Journal of Forecasting, 2025</p></details> |
+| **[Efficient Inverse Multiagent Learning](http://arxiv.org/abs/2502.14160v1)** | 2025-02-20 | <details><summary>Paper...</summary><p>Paper was submitted to the International Conference on Learning Representations (2024) under the title of "Generative Adversarial Inverse Multiagent Learning", and renamed for the camera-ready submission as "Efficient Inverse Multiagent Learning"</p></details> |
+| **[Vector-ICL: In-context Learning with Continuous Vector Representations](http://arxiv.org/abs/2410.05629v2)** | 2025-02-19 |  |
+| **[Recurrent Neural Goodness-of-Fit Test for Time Series](http://arxiv.org/abs/2410.13986v4)** | 2025-02-19 | 27 pages, 4 figures |
 
 ## Neuro symbolic AI
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CrossVTON: Mimicking the Logic Reasoning on Cross-category Virtual Try-on guided by Tri-zone Priors](http://arxiv.org/abs/2502.14373v1)** | 2025-02-20 |  |
+| **[Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests](http://arxiv.org/abs/2502.14359v1)** | 2025-02-20 |  |
+| **[On the logical skills of large language models: evaluations using arbitrarily complex first-order logic problems](http://arxiv.org/abs/2502.14180v1)** | 2025-02-20 | 67 pages, 24 figures |
 | **[Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review](http://arxiv.org/abs/2410.03663v3)** | 2025-02-19 | 16 pages, 5 figures |
 | **[SPPD: Self-training with Process Preference Learning Using Dynamic Value Margin](http://arxiv.org/abs/2502.13516v1)** | 2025-02-19 |  |
 | **[Detecting LLM Fact-conflicting Hallucinations Enhanced by Temporal-logic-based Reasoning](http://arxiv.org/abs/2502.13416v1)** | 2025-02-19 | <details><summary>16 pa...</summary><p>16 pages, under review. arXiv admin note: substantial text overlap with arXiv:2405.00648</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions](http://arxiv.org/abs/2408.08780v4)** | 2025-02-18 |  |
 | **[Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation](http://arxiv.org/abs/2502.12304v1)** | 2025-02-17 |  |
 | **[Integrating Expert Knowledge into Logical Programs via LLMs](http://arxiv.org/abs/2502.12275v1)** | 2025-02-17 |  |
-| **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v2)** | 2025-02-17 | Preprint |
-| **[PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](http://arxiv.org/abs/2502.12054v1)** | 2025-02-17 |  |
-| **[A Mechanistic Interpretation of Syllogistic Reasoning in Auto-Regressive Language Models](http://arxiv.org/abs/2408.08590v2)** | 2025-02-17 |  |
 
