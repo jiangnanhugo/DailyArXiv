@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 22, 2025
+title: Latest 15 Papers - February 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -23,24 +23,24 @@ labels: documentation
 | **[Vector-ICL: In-context Learning with Continuous Vector Representations](http://arxiv.org/abs/2410.05629v2)** | 2025-02-19 |  |
 | **[Recurrent Neural Goodness-of-Fit Test for Time Series](http://arxiv.org/abs/2410.13986v4)** | 2025-02-19 | 27 pages, 4 figures |
 
-## Neuro symbolic AI
+## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neuro-Conceptual Artificial Intelligence: Integrating OPM with Deep Learning to Enhance Question Answering Quality](http://arxiv.org/abs/2502.09658v1)** | 2025-02-12 | 15 pages, 3 figures, |
-| **[Neuro-Symbolic AI for Analytical Solutions of Differential Equations](http://arxiv.org/abs/2502.01476v1)** | 2025-02-03 |  |
-| **[Neuro-Symbolic AI in 2024: A Systematic Review](http://arxiv.org/abs/2501.05435v1)** | 2025-01-09 | 19 pages |
-| **[Neuro-Photonix: Enabling Near-Sensor Neuro-Symbolic AI Computing on Silicon Photonics Substrate](http://arxiv.org/abs/2412.10187v1)** | 2024-12-13 | 12 pages, 15 figures |
-| **[A Semantic Framework for Neuro-Symbolic Computing](http://arxiv.org/abs/2212.12050v5)** | 2024-11-27 |  |
-| **[Aligning Generalisation Between Humans and Machines](http://arxiv.org/abs/2411.15626v1)** | 2024-11-23 |  |
-| **[V-LoL: A Diagnostic Dataset for Visual Logical Learning](http://arxiv.org/abs/2306.07743v3)** | 2024-11-13 |  |
-| **[Bridging the Gap: Representation Spaces in Neuro-Symbolic AI](http://arxiv.org/abs/2411.04393v1)** | 2024-11-07 |  |
-| **[Neuro-Symbolic AI: Explainability, Challenges, and Future Trends](http://arxiv.org/abs/2411.04383v1)** | 2024-11-07 |  |
-| **[LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation](http://arxiv.org/abs/2411.00773v1)** | 2024-11-01 | 25 pages, 8 figures |
-| **[A Walsh Hadamard Derived Linear Vector Symbolic Architecture](http://arxiv.org/abs/2410.22669v1)** | 2024-10-30 | <details><summary>To ap...</summary><p>To appear in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)</p></details> |
-| **[Mapping the Neuro-Symbolic AI Landscape by Architectures: A Handbook on Augmenting Deep Learning Through Symbolic Reasoning](http://arxiv.org/abs/2410.22077v1)** | 2024-10-29 | 57 pages |
-| **[Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future](http://arxiv.org/abs/2410.20984v1)** | 2024-10-28 |  |
-| **[A Remedy to Compute-in-Memory with Dynamic Random Access Memory: 1FeFET-1C Technology for Neuro-Symbolic AI](http://arxiv.org/abs/2410.15296v1)** | 2024-10-20 |  |
-| **[Formal Explanations for Neuro-Symbolic AI](http://arxiv.org/abs/2410.14219v1)** | 2024-10-18 |  |
+| **[Evolving Symbolic 3D Visual Grounder with Weakly Supervised Reflection](http://arxiv.org/abs/2502.01401v3)** | 2025-02-20 |  |
+| **[Towards Vector Optimization on Low-Dimensional Vector Symbolic Architecture](http://arxiv.org/abs/2502.14075v1)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted in CPAL 2025</p></details> |
+| **[Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning](http://arxiv.org/abs/2502.13834v1)** | 2025-02-19 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025. Code is available at https://github.com/Lizn-zn/NeqLIPS/</p></details> |
+| **[Learning Symbolic Task Decompositions for Multi-Agent Teams](http://arxiv.org/abs/2502.13376v1)** | 2025-02-19 | <details><summary>8 pag...</summary><p>8 pages, main track full paper at AAMAS 2025</p></details> |
+| **[Text2World: Benchmarking Large Language Models for Symbolic World Model Generation](http://arxiv.org/abs/2502.13092v1)** | 2025-02-18 | <details><summary>Proje...</summary><p>Project page: https://text-to-world.github.io/</p></details> |
+| **[Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](http://arxiv.org/abs/2409.13203v4)** | 2025-02-18 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
+| **[A short Survey: Exploring knowledge graph-based neural-symbolic system from application perspective](http://arxiv.org/abs/2405.03524v5)** | 2025-02-18 |  |
+| **[A Smooth Transition Between Induction and Deduction: Fast Abductive Learning Based on Probabilistic Symbol Perception](http://arxiv.org/abs/2502.12919v1)** | 2025-02-18 |  |
+| **[Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions](http://arxiv.org/abs/2502.12616v1)** | 2025-02-18 |  |
+| **[SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs](http://arxiv.org/abs/2502.03283v2)** | 2025-02-18 |  |
+| **[Weakly acyclic diagrams: A data structure for infinite-state symbolic verification](http://arxiv.org/abs/2411.17250v2)** | 2025-02-17 | <details><summary>Final...</summary><p>Final version of TACAS'25 with appendix and link to artifact</p></details> |
+| **[LLMs as a synthesis between symbolic and continuous approaches to language](http://arxiv.org/abs/2502.11856v1)** | 2025-02-17 | Under review |
+| **[Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations](http://arxiv.org/abs/2502.11269v1)** | 2025-02-16 | 54 pages, 7 figures |
+| **[F-StrIPE: Fast Structure-Informed Positional Encoding for Symbolic Music Generation](http://arxiv.org/abs/2502.10491v1)** | 2025-02-14 |  |
+| **[Dionysos.jl: a Modular Platform for Smart Symbolic Control](http://arxiv.org/abs/2404.14114v2)** | 2025-02-13 | <details><summary>Publi...</summary><p>Published in the JuliaCon Proceedings</p></details> |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
