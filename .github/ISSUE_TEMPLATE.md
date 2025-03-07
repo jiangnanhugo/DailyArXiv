@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2025
+title: Latest 15 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coarse graining and reduced order models for plume ejection dynamics](http://arxiv.org/abs/2503.04690v1)** | 2025-03-06 |  |
+| **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v2)** | 2025-03-06 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
+| **[Bayesian estimation of a multivariate TAR model when the noise process distribution belongs to the class of Gaussian variance mixtures](http://arxiv.org/abs/2503.04593v1)** | 2025-03-06 |  |
+| **[Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting](http://arxiv.org/abs/2503.04528v1)** | 2025-03-06 |  |
+| **[Interpretable Transformation and Analysis of Timelines through Learning via Surprisability](http://arxiv.org/abs/2503.04502v1)** | 2025-03-06 |  |
+| **[CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching](http://arxiv.org/abs/2410.12261v3)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
+| **[Temporal Analysis of NetFlow Datasets for Network Intrusion Detection Systems](http://arxiv.org/abs/2503.04404v1)** | 2025-03-06 |  |
+| **[Time-varying Factor Augmented Vector Autoregression with Grouped Sparse Autoencoder](http://arxiv.org/abs/2503.04386v1)** | 2025-03-06 |  |
+| **[Nonparametric data segmentation in multivariate time series via joint characteristic functions](http://arxiv.org/abs/2305.07581v4)** | 2025-03-06 |  |
+| **[A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective](http://arxiv.org/abs/2502.10721v2)** | 2025-03-06 |  |
+| **[Spectral Extremal Connectivity of Two-State Seizure Brain Waves](http://arxiv.org/abs/2503.04169v1)** | 2025-03-06 |  |
+| **[TimeFound: A Foundation Model for Time Series Forecasting](http://arxiv.org/abs/2503.04118v1)** | 2025-03-06 |  |
+| **[Data-driven identification of nonlinear dynamical systems with LSTM autoencoders and Normalizing Flows](http://arxiv.org/abs/2503.03977v1)** | 2025-03-05 |  |
+| **[Sparse estimation of parameter support sets for generalized vector autoregressions by resampling and model aggregation](http://arxiv.org/abs/2307.09684v2)** | 2025-03-05 |  |
 | **[Graph-Augmented LSTM for Forecasting Sparse Anomalies in Graph-Structured Time Series](http://arxiv.org/abs/2503.03729v1)** | 2025-03-05 | 12 pages |
-| **[Single Proxy Synthetic Control](http://arxiv.org/abs/2307.16353v4)** | 2025-03-05 |  |
-| **[Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs](http://arxiv.org/abs/2503.03594v1)** | 2025-03-05 | Work in progress |
-| **[Differential Machine Learning for Time Series Prediction](http://arxiv.org/abs/2503.03302v1)** | 2025-03-05 |  |
-| **[Prediction of Halo Coronal Mass Ejections Using SDO/HMI Vector Magnetic Data Products and a Transformer Model](http://arxiv.org/abs/2503.03237v1)** | 2025-03-05 | 13 pages, 8 figures |
-| **[BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling](http://arxiv.org/abs/2503.02445v2)** | 2025-03-05 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
-| **[MUSE-Net: Missingness-aware mUlti-branching Self-attention Encoder for Irregular Longitudinal Electronic Health Records](http://arxiv.org/abs/2407.00840v2)** | 2025-03-05 |  |
-| **[Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria](http://arxiv.org/abs/2503.03100v1)** | 2025-03-05 |  |
-| **[Robust time series generation via Schrödinger Bridge: a comprehensive evaluation](http://arxiv.org/abs/2503.02943v1)** | 2025-03-04 | 11 pages |
-| **[SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting](http://arxiv.org/abs/2503.02836v1)** | 2025-03-04 |  |
-| **[RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration](http://arxiv.org/abs/2503.02800v1)** | 2025-03-04 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.00914</p></details> |
-| **[Generating Quantum Reservoir State Representations with Random Matrices](http://arxiv.org/abs/2404.07278v3)** | 2025-03-04 | 12 pages, 5 figures |
-| **[Performance of Zero-Shot Time Series Foundation Models on Cloud Data](http://arxiv.org/abs/2502.12944v2)** | 2025-03-04 | 5 pages, Preprint |
-| **[Encountering Friction, Understanding Crises: How Do Digital Natives Make Sense of Crisis Maps?](http://arxiv.org/abs/2503.02637v1)** | 2025-03-04 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, 1 table</p></details> |
-| **[Training a multilayer dynamical spintronic network with standard machine learning tools to perform time series classification](http://arxiv.org/abs/2408.02835v3)** | 2025-03-04 | 7 pages, 4 figures |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dedicated Feedback and Edit Models Empower Inference-Time Scaling for Open-Ended General-Domain Tasks](http://arxiv.org/abs/2503.04378v1)** | 2025-03-06 | 22 pages, 2 figures |
+| **[LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning](http://arxiv.org/abs/2406.05881v3)** | 2025-03-05 |  |
 | **[Psy-Insight: Explainable Multi-turn Bilingual Dataset for Mental Health Counseling](http://arxiv.org/abs/2503.03607v1)** | 2025-03-05 |  |
 | **[HoT: Highlighted Chain of Thought for Referencing Supporting Facts from Inputs](http://arxiv.org/abs/2503.02003v2)** | 2025-03-05 |  |
 | **[DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability](http://arxiv.org/abs/2503.02343v1)** | 2025-03-04 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/githubhyz/DeLTa</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference](http://arxiv.org/abs/2407.00075v5)** | 2025-02-28 |  |
 | **[Logical Consistency of Large Language Models in Fact-checking](http://arxiv.org/abs/2412.16100v2)** | 2025-02-28 | <details><summary>Publi...</summary><p>Published at ICLR 2025</p></details> |
 | **[Order Doesn't Matter, But Reasoning Does: Training LLMs with Order-Centric Augmentation](http://arxiv.org/abs/2502.19907v1)** | 2025-02-27 |  |
-| **[Autoregressive Image Generation Guided by Chains of Thought](http://arxiv.org/abs/2502.16965v2)** | 2025-02-26 |  |
-| **[Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment](http://arxiv.org/abs/2502.13170v2)** | 2025-02-26 | <details><summary>ICLR ...</summary><p>ICLR 2025 Poster;23 pages, 7 figures</p></details> |
 
