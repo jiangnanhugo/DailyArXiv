@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 15, 2025
+title: Latest 15 Papers - March 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -28,6 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Generalized network autoregressive modelling of longitudinal networks with application to presidential elections in the USA](http://arxiv.org/abs/2503.10433v1)** | 2025-03-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2401.09381</p></details> |
 | **[FlashRNN: I/O-Aware Optimization of Traditional RNNs on modern hardware](http://arxiv.org/abs/2412.07752v3)** | 2025-03-13 |  |
+| **[Benign Overfitting in Time Series Linear Models with Over-Parameterization](http://arxiv.org/abs/2204.08369v3)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at Bernoulli</p></details> |
 | **[Deep Learning for Time Series Forecasting: A Survey](http://arxiv.org/abs/2503.10198v1)** | 2025-03-13 |  |
 | **[SHIP: A Shapelet-based Approach for Interpretable Patient-Ventilator Asynchrony Detection](http://arxiv.org/abs/2503.06571v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at PAKDD 2025</p></details> |
 | **[Developing and Evaluating an AI-Assisted Prediction Model for Unplanned Intensive Care Admissions following Elective Neurosurgery using Natural Language Processing within an Electronic Healthcare Record System](http://arxiv.org/abs/2503.09927v1)** | 2025-03-13 |  |
@@ -35,12 +36,11 @@ labels: documentation
 | **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v3)** | 2025-03-12 |  |
 | **[Minimal Time Series Transformer](http://arxiv.org/abs/2503.09791v1)** | 2025-03-12 | 8 pages, 8 figures |
 | **[Good intentions, unintended consequences: exploring forecasting harms](http://arxiv.org/abs/2411.16531v3)** | 2025-03-12 | 42 pages |
+| **[Sparse and Low-bias Estimation of High Dimensional Vector Autoregressive Models](http://arxiv.org/abs/1908.11464v3)** | 2025-03-12 |  |
 | **[Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](http://arxiv.org/abs/2503.09712v1)** | 2025-03-12 | WWW 2025 (Oral) |
 | **[Non-Asymptotic Analysis of Classical Spectrum Estimators with $L$-mixing Time-series Data](http://arxiv.org/abs/2410.02951v2)** | 2025-03-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, accepted by American Control Conference</p></details> |
 | **[LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics](http://arxiv.org/abs/2503.09656v1)** | 2025-03-12 |  |
 | **[A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks](http://arxiv.org/abs/2503.09655v1)** | 2025-03-12 |  |
-| **[What is the relation between Slow Feature Analysis and the Successor Representation?](http://arxiv.org/abs/2409.16991v2)** | 2025-03-12 | 52 pages, 5 figures |
-| **[Towards Efficient Parametric State Estimation in Circulating Fuel Reactors with Shallow Recurrent Decoder Networks](http://arxiv.org/abs/2503.08904v1)** | 2025-03-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2409.12550</p></details> |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
