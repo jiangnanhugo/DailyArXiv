@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2025
+title: Latest 15 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,40 @@ labels: documentation
 ## Combinatorial Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Preference Elicitation for Multi-objective Combinatorial Optimization with Active Learning and Maximum Likelihood Estimation](http://arxiv.org/abs/2503.11435v1)** | 2025-03-14 | 9 pages, 2 figures |
+| **[Combinatorial Optimization with Quantum Computers](http://arxiv.org/abs/2412.15778v2)** | 2025-03-14 | <details><summary>Prepr...</summary><p>Preprint of paper submitted and accepted in Engineering Optimization</p></details> |
+| **[Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](http://arxiv.org/abs/2503.10968v1)** | 2025-03-14 |  |
+| **[Combinatorial Optimization via LLM-driven Iterated Fine-tuning](http://arxiv.org/abs/2503.06917v2)** | 2025-03-14 |  |
 | **[Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution](http://arxiv.org/abs/2503.10421v1)** | 2025-03-13 |  |
 | **[Pushing the Boundary of Quantum Advantage in Hard Combinatorial Optimization with Probabilistic Computers](http://arxiv.org/abs/2503.10302v1)** | 2025-03-13 |  |
 | **[Hardware-Compatible Single-Shot Feasible-Space Heuristics for Solving the Quadratic Assignment Problem](http://arxiv.org/abs/2503.09676v1)** | 2025-03-12 | 28 pages |
 | **[Multilinear Extensions in Submodular Optimization for Optimal Sensor Scheduling in Nonlinear Networks](http://arxiv.org/abs/2408.03833v2)** | 2025-03-11 | <details><summary>To Ap...</summary><p>To Appear in the 2025 American Control Conference (ACC'2025), Denver, Colorado, July 2025</p></details> |
 | **[Multi-Objective Routing Optimization Using Coherent Ising Machine in Wireless Multihop Networks](http://arxiv.org/abs/2503.07924v1)** | 2025-03-10 | <details><summary>5 fig...</summary><p>5 figures, 3 tables, comments are welcome</p></details> |
 | **[Neural Combinatorial Optimization via Preference Optimization](http://arxiv.org/abs/2503.07580v1)** | 2025-03-10 |  |
-| **[Combinatorial Optimization via LLM-driven Iterated Fine-tuning](http://arxiv.org/abs/2503.06917v1)** | 2025-03-10 |  |
 | **[Self-Supervised Penalty-Based Learning for Robust Constrained Optimization](http://arxiv.org/abs/2503.05175v1)** | 2025-03-07 | <details><summary>To ap...</summary><p>To appear in the proceedings of CPAIOR 2025</p></details> |
 | **[Object Packing and Scheduling for Sequential 3D Printing: a Linear Arithmetic Model and a CEGAR-inspired Optimal Solver](http://arxiv.org/abs/2503.05071v1)** | 2025-03-07 |  |
 | **[Faster Global Minimum Cut with Predictions](http://arxiv.org/abs/2503.05004v1)** | 2025-03-06 |  |
 | **[Quantum Approximate Optimization Algorithms for Molecular Docking](http://arxiv.org/abs/2503.04239v1)** | 2025-03-06 | 15 pages |
 | **[Reheated Gradient-based Discrete Sampling for Combinatorial Optimization](http://arxiv.org/abs/2503.04047v1)** | 2025-03-06 |  |
-| **[Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems](http://arxiv.org/abs/2503.03350v1)** | 2025-03-05 | <details><summary>Under...</summary><p>Under review LION19: The 19th Learning and Intelligent OptimizatioN Conference</p></details> |
-| **[L2R: Learning to Reduce Search Space for Generalizable Neural Routing Solver](http://arxiv.org/abs/2503.03137v1)** | 2025-03-05 | 23 pages, 10 figures |
-| **[A2Perf: Real-World Autonomous Agents Benchmark](http://arxiv.org/abs/2503.03056v1)** | 2025-03-04 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, preprint</p></details> |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generalized network autoregressive modelling of longitudinal networks with application to presidential elections in the USA](http://arxiv.org/abs/2503.10433v1)** | 2025-03-13 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2401.09381</p></details> |
-| **[FlashRNN: I/O-Aware Optimization of Traditional RNNs on modern hardware](http://arxiv.org/abs/2412.07752v3)** | 2025-03-13 |  |
-| **[Benign Overfitting in Time Series Linear Models with Over-Parameterization](http://arxiv.org/abs/2204.08369v3)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at Bernoulli</p></details> |
-| **[Deep Learning for Time Series Forecasting: A Survey](http://arxiv.org/abs/2503.10198v1)** | 2025-03-13 |  |
-| **[SHIP: A Shapelet-based Approach for Interpretable Patient-Ventilator Asynchrony Detection](http://arxiv.org/abs/2503.06571v2)** | 2025-03-13 | <details><summary>Accep...</summary><p>Accepted at PAKDD 2025</p></details> |
-| **[Developing and Evaluating an AI-Assisted Prediction Model for Unplanned Intensive Care Admissions following Elective Neurosurgery using Natural Language Processing within an Electronic Healthcare Record System](http://arxiv.org/abs/2503.09927v1)** | 2025-03-13 |  |
-| **[Adversarial Vulnerabilities in Large Language Models for Time Series Forecasting](http://arxiv.org/abs/2412.08099v4)** | 2025-03-12 | AISTATS 2025 |
-| **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v3)** | 2025-03-12 |  |
-| **[Minimal Time Series Transformer](http://arxiv.org/abs/2503.09791v1)** | 2025-03-12 | 8 pages, 8 figures |
-| **[Good intentions, unintended consequences: exploring forecasting harms](http://arxiv.org/abs/2411.16531v3)** | 2025-03-12 | 42 pages |
-| **[Sparse and Low-bias Estimation of High Dimensional Vector Autoregressive Models](http://arxiv.org/abs/1908.11464v3)** | 2025-03-12 |  |
-| **[Revisiting Backdoor Attacks on Time Series Classification in the Frequency Domain](http://arxiv.org/abs/2503.09712v1)** | 2025-03-12 | WWW 2025 (Oral) |
-| **[Non-Asymptotic Analysis of Classical Spectrum Estimators with $L$-mixing Time-series Data](http://arxiv.org/abs/2410.02951v2)** | 2025-03-12 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, accepted by American Control Conference</p></details> |
-| **[LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics](http://arxiv.org/abs/2503.09656v1)** | 2025-03-12 |  |
-| **[A Deep Reinforcement Learning Approach to Automated Stock Trading, using xLSTM Networks](http://arxiv.org/abs/2503.09655v1)** | 2025-03-12 |  |
+| **[Master Stability Functions in Complex Networks](http://arxiv.org/abs/2412.19163v2)** | 2025-03-14 | 49 pages, 5 figures |
+| **[Zero-shot Imputation with Foundation Inference Models for Dynamical Systems](http://arxiv.org/abs/2402.07594v4)** | 2025-03-14 |  |
+| **[Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models](http://arxiv.org/abs/2503.11411v1)** | 2025-03-14 |  |
+| **[Hierarchical Information-Guided Spatio-Temporal Mamba for Stock Time Series Forecasting](http://arxiv.org/abs/2503.11387v1)** | 2025-03-14 |  |
+| **[Integrating Dynamical Systems Modeling with Spatiotemporal scRNA-seq Data Analysis](http://arxiv.org/abs/2503.11347v1)** | 2025-03-14 |  |
+| **[Latent Space Representation of Electricity Market Curves for Improved Prediction Efficiency](http://arxiv.org/abs/2503.11294v1)** | 2025-03-14 | <details><summary>Submi...</summary><p>Submitted to Applied Soft Computing</p></details> |
+| **[Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection](http://arxiv.org/abs/2503.11255v1)** | 2025-03-14 | Accepted at SDM 2025 |
+| **[TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](http://arxiv.org/abs/2410.16032v4)** | 2025-03-14 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
+| **[Optimal Transport and Adaptive Thresholding for Universal Domain Adaptation on Time Series](http://arxiv.org/abs/2503.11217v1)** | 2025-03-14 |  |
+| **[MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar](http://arxiv.org/abs/2503.11064v1)** | 2025-03-14 |  |
+| **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v4)** | 2025-03-14 |  |
+| **[Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights](http://arxiv.org/abs/2503.01895v2)** | 2025-03-14 |  |
+| **[Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data](http://arxiv.org/abs/2503.10883v1)** | 2025-03-13 |  |
+| **[Mamba time series forecasting with uncertainty propagation](http://arxiv.org/abs/2503.10873v1)** | 2025-03-13 |  |
+| **[Towards Efficient Large Scale Spatial-Temporal Time Series Forecasting via Improved Inverted Transformers](http://arxiv.org/abs/2503.10858v1)** | 2025-03-13 | 10 pages |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 | **[Three tiers of computation in transformers and in brain architectures](http://arxiv.org/abs/2503.04848v2)** | 2025-03-12 |  |
 | **[Autoregressive Image Generation with Vision Full-view Prompt](http://arxiv.org/abs/2502.16965v3)** | 2025-03-12 |  |
 | **[PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation](http://arxiv.org/abs/2501.11551v4)** | 2025-03-12 | <details><summary>38 pa...</summary><p>38 pages, 18 figures, technique report</p></details> |
+| **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v1)** | 2025-03-12 |  |
 | **[LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning](http://arxiv.org/abs/2503.08508v1)** | 2025-03-11 |  |
 | **[LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](http://arxiv.org/abs/2503.07536v2)** | 2025-03-11 |  |
 | **[Towards Superior Quantization Accuracy: A Layer-sensitive Approach](http://arxiv.org/abs/2503.06518v1)** | 2025-03-09 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models](http://arxiv.org/abs/2412.15584v2)** | 2025-03-09 |  |
 | **[KnowLogic: A Benchmark for Commonsense Reasoning via Knowledge-Driven Data Synthesis](http://arxiv.org/abs/2503.06218v1)** | 2025-03-08 |  |
 | **[Flow of Reasoning:Training LLMs for Divergent Problem Solving with Minimal Examples](http://arxiv.org/abs/2406.05673v5)** | 2025-03-08 |  |
-| **[NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning](http://arxiv.org/abs/2502.00372v2)** | 2025-03-08 |  |
 
