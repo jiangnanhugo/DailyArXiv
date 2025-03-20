@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,28 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v1)** | 2025-03-18 |  |
-| **[Inferring Event Descriptions from Time Series with Language Models](http://arxiv.org/abs/2503.14190v1)** | 2025-03-18 | 17 pages, 9 Figures |
-| **[Theoretical Foundation of Flow-Based Time Series Generation: Provable Approximation, Generalization, and Efficiency](http://arxiv.org/abs/2503.14076v1)** | 2025-03-18 | 33 pages |
-| **[QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning](http://arxiv.org/abs/2412.13769v2)** | 2025-03-18 | <details><summary>Publi...</summary><p>Published in ICAART 2025</p></details> |
-| **[Towards Neural Scaling Laws for Time Series Foundation Models](http://arxiv.org/abs/2410.12360v3)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted by the 13th International Conference on Learning Representations (ICLR 2025)</p></details> |
-| **[Out-of-Distribution Generalization in Time Series: A Survey](http://arxiv.org/abs/2503.13868v1)** | 2025-03-18 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables. Work in Progress</p></details> |
-| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](http://arxiv.org/abs/2503.12813v2)** | 2025-03-18 |  |
-| **[Continuous Time Locally Stationary Wavelet Processes](http://arxiv.org/abs/2310.12788v6)** | 2025-03-17 | 47 pages, 17 figures |
-| **[Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product](http://arxiv.org/abs/2501.09129v2)** | 2025-03-17 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 5 tables. Preprint. Submitted to JSTARS. Revised figures, clarifications, added references</p></details> |
-| **[Multi-modal Time Series Analysis: A Tutorial and Survey](http://arxiv.org/abs/2503.13709v1)** | 2025-03-17 |  |
-| **[Population Transformer: Learning Population-level Representations of Neural Activity](http://arxiv.org/abs/2406.03044v3)** | 2025-03-17 | <details><summary>22 pa...</summary><p>22 pages, 17 figures, ICLR 2025</p></details> |
-| **[TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification](http://arxiv.org/abs/2406.04419v2)** | 2025-03-17 |  |
-| **[Highly Efficient Direct Analytics on Semantic-aware Time Series Data Compression](http://arxiv.org/abs/2503.13246v1)** | 2025-03-17 |  |
-| **[SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition](http://arxiv.org/abs/2410.10624v2)** | 2025-03-17 |  |
-| **[Augmented Invertible Koopman Autoencoder for long-term time series forecasting](http://arxiv.org/abs/2503.12930v1)** | 2025-03-17 |  |
+| **[Temporal Encoding Strategies for Energy Time Series Prediction](http://arxiv.org/abs/2503.15456v1)** | 2025-03-19 |  |
+| **[HQNN-FSP: A Hybrid Classical-Quantum Neural Network for Regression-Based Financial Stock Market Prediction](http://arxiv.org/abs/2503.15403v1)** | 2025-03-19 | <details><summary>11 pa...</summary><p>11 pages and 11 figures</p></details> |
+| **[ImputeGAP: A Comprehensive Library for Time Series Imputation](http://arxiv.org/abs/2503.15250v1)** | 2025-03-19 |  |
+| **[A Foundation Model for Patient Behavior Monitoring and Suicide Detection](http://arxiv.org/abs/2503.15221v1)** | 2025-03-19 | <details><summary>10 pa...</summary><p>10 pages (31 with appendices), 6 figures (13 with appendices); submitted to UAI 2025</p></details> |
+| **[Banana Trees for the Persistence in Time Series Experimentally](http://arxiv.org/abs/2405.17920v2)** | 2025-03-19 | <details><summary>To ap...</summary><p>To appear at SoCG 2025</p></details> |
+| **[LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Time Series Data](http://arxiv.org/abs/2410.19464v3)** | 2025-03-19 | 16 pages, 7 figures |
+| **[Diffusion-Based Forecasting for Uncertainty-Aware Model Predictive Control](http://arxiv.org/abs/2503.15095v1)** | 2025-03-19 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables. This version is submitted to the 33rd European Signal Processing Conference (EUSIPCO 2025), to be held in Isola delle Femmine - Palermo - Italy, on September 8-12, 2025</p></details> |
+| **[Persistent Homology-induced Graph Ensembles for Time Series Regressions](http://arxiv.org/abs/2503.14240v2)** | 2025-03-19 |  |
+| **[Iterative Trace Minimization for the Reconciliation of Very Short Hierarchical Time Series](http://arxiv.org/abs/2409.18550v2)** | 2025-03-19 |  |
+| **[Bernstein-type Inequalities and Nonparametric Estimation under Near-Epoch Dependence](http://arxiv.org/abs/2208.11433v4)** | 2025-03-19 |  |
+| **[A Note on Local Linear Regression for Time Series in Banach Spaces](http://arxiv.org/abs/2503.15039v1)** | 2025-03-19 | <details><summary>Keywo...</summary><p>Keywords: Local linear regression, Functional time series, Non-stationary time series, Kernel smoothing 18 pages, 5 figures, 4 tables</p></details> |
+| **[Information-theoretic limits and approximate message-passing for high-dimensional time series](http://arxiv.org/abs/2501.13625v2)** | 2025-03-19 |  |
+| **[Evaluating Time Series Models with Knowledge Discovery](http://arxiv.org/abs/2503.14869v1)** | 2025-03-19 | <details><summary>accep...</summary><p>accepted in SIAM SDM 2025 - Blue Sky Track (to appear)</p></details> |
+| **[How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook](http://arxiv.org/abs/2503.11835v2)** | 2025-03-19 | <details><summary>Githu...</summary><p>Github Repo: https://github.com/AdityaLab/MM4TSA</p></details> |
+| **[Uniform Convergence Rate of the Nonparametric Estimator for Integrated Diffusion Processes](http://arxiv.org/abs/2410.05822v2)** | 2025-03-19 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Performance Analysis of Lexicase-Based and Traditional Selection Methods in GP for Symbolic Regression](http://arxiv.org/abs/2407.21632v2)** | 2025-03-19 |  |
+| **[Ergodic Estimations for Toeplitz Sequences Generated by a Symbol](http://arxiv.org/abs/2308.07281v4)** | 2025-03-19 |  |
+| **[Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering](http://arxiv.org/abs/2503.14957v1)** | 2025-03-19 |  |
 | **[Trustworthy Verification of RISC-V Binaries Using Symbolic Execution in HolBA](http://arxiv.org/abs/2503.14135v1)** | 2025-03-18 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 1 table</p></details> |
 | **[Bridging Neural and Symbolic Representations with Transitional Dictionary Learning](http://arxiv.org/abs/2308.02000v2)** | 2025-03-17 | ICLR 2024 |
 | **[Evidence of social learning across symbolic cultural barriers in sperm whales](http://arxiv.org/abs/2307.05304v4)** | 2025-03-17 |  |
@@ -57,13 +60,11 @@ labels: documentation
 | **[CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings](http://arxiv.org/abs/2412.07377v3)** | 2025-03-13 | <details><summary>18pag...</summary><p>18pages, 14 figures, Project web-page: https://dgeneai.github.io/cadspotting-pages/</p></details> |
 | **[NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution](http://arxiv.org/abs/2503.10041v1)** | 2025-03-13 |  |
 | **[From Equations to Insights: Unraveling Symbolic Structures in PDEs with LLMs](http://arxiv.org/abs/2503.09986v1)** | 2025-03-13 |  |
-| **[Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors](http://arxiv.org/abs/2503.09592v1)** | 2025-03-12 |  |
-| **[Hierarchical Neuro-Symbolic Decision Transformer](http://arxiv.org/abs/2503.07148v2)** | 2025-03-12 |  |
-| **[In Context Learning and Reasoning for Symbolic Regression with Large Language Models](http://arxiv.org/abs/2410.17448v2)** | 2025-03-12 |  |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning](http://arxiv.org/abs/2503.14838v1)** | 2025-03-19 |  |
 | **[Measuring AI Ability to Complete Long Tasks](http://arxiv.org/abs/2503.14499v1)** | 2025-03-18 |  |
 | **[AutoEval: Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks](http://arxiv.org/abs/2410.08437v2)** | 2025-03-17 |  |
 | **[3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o](http://arxiv.org/abs/2503.13185v1)** | 2025-03-17 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v1)** | 2025-03-12 |  |
 | **[LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning](http://arxiv.org/abs/2503.08508v1)** | 2025-03-11 |  |
 | **[LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](http://arxiv.org/abs/2503.07536v2)** | 2025-03-11 |  |
-| **[Towards Superior Quantization Accuracy: A Layer-sensitive Approach](http://arxiv.org/abs/2503.06518v1)** | 2025-03-09 |  |
 
