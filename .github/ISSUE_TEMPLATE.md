@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2025
+title: Latest 15 Papers - March 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Combinatorial Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Worst-Case Subset Sum: An Adaptive, Structure-Aware Solver with Sub-$2^{n/2}$ Enumeration](http://arxiv.org/abs/2503.20162v1)** | 2025-03-26 | <details><summary>48 pa...</summary><p>48 pages, preliminary, extended version</p></details> |
+| **[Unsupervised Learning for Quadratic Assignment](http://arxiv.org/abs/2503.20001v1)** | 2025-03-25 | preprint |
 | **[Efficient Training of Multi-task Neural Solver for Combinatorial Optimization](http://arxiv.org/abs/2305.06361v3)** | 2025-03-24 |  |
 | **[Linear, nested, and quadratic ordered measures: Computation and incorporation into optimization problems](http://arxiv.org/abs/2503.18097v1)** | 2025-03-23 |  |
 | **[BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization](http://arxiv.org/abs/2503.07580v2)** | 2025-03-22 |  |
@@ -20,31 +22,31 @@ labels: documentation
 | **[Synthesizing Interpretable Control Policies through Large Language Model Guided Search](http://arxiv.org/abs/2410.05406v2)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, conference paper</p></details> |
 | **[Exact statistical tests using integer programming: Leveraging an overlooked approach for maximizing power for differences between binomial proportions](http://arxiv.org/abs/2503.13689v1)** | 2025-03-17 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables</p></details> |
 | **[Assessing the Robustness of LLM-based NLP Software via Automated Testing](http://arxiv.org/abs/2412.21016v2)** | 2025-03-17 |  |
-| **[Accelerating large-scale linear algebra using variational quantum imaginary time evolution](http://arxiv.org/abs/2503.13128v1)** | 2025-03-17 | <details><summary>14 pa...</summary><p>14 pages, 15 figures, 1 table</p></details> |
-| **[HETRI: Heterogeneous Ising Multiprocessing](http://arxiv.org/abs/2410.23517v2)** | 2025-03-15 |  |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agent-Based Analysis of the Impact of Near Real-Time Data and Smart Balancing on the Frequency Stability of Power Systems](http://arxiv.org/abs/2503.20665v1)** | 2025-03-26 |  |
+| **[Depth Patterns and their Applications in Animal Tracking](http://arxiv.org/abs/2401.13532v2)** | 2025-03-26 |  |
+| **[CNN+Transformer Based Anomaly Traffic Detection in UAV Networks for Emergency Rescue](http://arxiv.org/abs/2503.20355v1)** | 2025-03-26 |  |
+| **[Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification](http://arxiv.org/abs/2503.20264v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted to PAKDD2025</p></details> |
+| **[Dynamics of Algorithmic Content Amplification on TikTok](http://arxiv.org/abs/2503.20231v1)** | 2025-03-26 | 34 pages |
+| **[Addressing Challenges in Time Series Forecasting: A Comprehensive Comparison of Machine Learning Techniques](http://arxiv.org/abs/2503.20148v1)** | 2025-03-26 |  |
+| **[Physics-Informed Neural Networks with Unknown Partial Differential Equations: an Application in Multivariate Time Series](http://arxiv.org/abs/2503.20144v1)** | 2025-03-26 |  |
+| **[Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework](http://arxiv.org/abs/2503.20136v1)** | 2025-03-26 |  |
+| **[Mitigating Data Redundancy to Revitalize Transformer-based Long-Term Time Series Forecasting System](http://arxiv.org/abs/2207.07827v5)** | 2025-03-25 | ACM TIST |
+| **[A scalable gene network model of regulatory dynamics in single cells](http://arxiv.org/abs/2503.20027v1)** | 2025-03-25 | 42 pages, 10 figures |
 | **[Communities in the Kuramoto Model: Dynamics and Detection via Path Signatures](http://arxiv.org/abs/2503.17546v2)** | 2025-03-25 | 46 pages, 13 figures |
 | **[Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms](http://arxiv.org/abs/2503.19656v1)** | 2025-03-25 |  |
 | **[Early Classification of Time Series: Taxonomy and Benchmark](http://arxiv.org/abs/2406.18332v3)** | 2025-03-25 |  |
 | **[Towards Imperceptible Adversarial Attacks for Time Series Classification with Local Perturbations and Frequency Analysis](http://arxiv.org/abs/2503.19519v1)** | 2025-03-25 |  |
 | **[Bootstrapping Estimators based on the Block Maxima Method](http://arxiv.org/abs/2409.05529v2)** | 2025-03-25 | <details><summary>Main ...</summary><p>Main article: 27 pages, supplement: 30 pages, 24 figures</p></details> |
-| **[XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test adaptation](http://arxiv.org/abs/2406.12693v2)** | 2025-03-25 |  |
-| **[TrackRAD2025 challenge dataset: Real-time tumor tracking for MRI-guided radiotherapy](http://arxiv.org/abs/2503.19119v1)** | 2025-03-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables; submitted to Medical Physics</p></details> |
-| **[Entropic Analysis of Time Series through Kernel Density Estimation](http://arxiv.org/abs/2503.18916v1)** | 2025-03-24 |  |
-| **[DiTEC-WDN: A Large-Scale Dataset of Hydraulic Scenarios across Multiple Water Distribution Networks](http://arxiv.org/abs/2503.17167v2)** | 2025-03-24 | <details><summary>Submi...</summary><p>Submitted to Nature Scientific Data. Huy Truong and Andr\'es Tello contributed equally to this work. For the dataset, see https://huggingface.co/datasets/rugds/ditec-wdn</p></details> |
-| **[Adaptive Machine Learning for Resource-Constrained Environments](http://arxiv.org/abs/2503.18634v1)** | 2025-03-24 | <details><summary>17 pa...</summary><p>17 pages, 11 figures, accepted at DELTA 2024 (Workshop on Discovering Drift Phenomena in Evolving Landscapes), co-located with ACM SIGKDD 2024. This preprint has not undergone peer review. The Version of Record is available at https://doi.org/10.1007/978-3-031-82346-6_1</p></details> |
-| **[Survival Analysis with Machine Learning for Predicting Li-ion Battery Remaining Useful Life](http://arxiv.org/abs/2503.13558v3)** | 2025-03-24 |  |
-| **[Sparse Tensor PCA via Tensor Decomposition for Unsupervised Feature Selection](http://arxiv.org/abs/2407.16985v2)** | 2025-03-24 |  |
-| **[RoCA: Robust Contrastive One-class Time Series Anomaly Detection with Contaminated Data](http://arxiv.org/abs/2503.18385v1)** | 2025-03-24 |  |
-| **[PS-EIP: Robust Photometric Stereo Based on Event Interval Profile](http://arxiv.org/abs/2503.18341v1)** | 2025-03-24 | CVPR2025 |
-| **[Embedding Network Autoregression for time series analysis and causal peer effect inference](http://arxiv.org/abs/2406.05944v2)** | 2025-03-24 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation](http://arxiv.org/abs/2503.20425v1)** | 2025-03-26 |  |
+| **[New constructions of MDS symbol-pair codes via simple-root cyclic codes](http://arxiv.org/abs/2503.20137v1)** | 2025-03-26 |  |
 | **[A Probabilistic Neuro-symbolic Layer for Algebraic Constraint Satisfaction](http://arxiv.org/abs/2503.19466v1)** | 2025-03-25 |  |
 | **[Enhancing Symbolic Regression with Quality-Diversity and Physics-Inspired Constraints](http://arxiv.org/abs/2503.19043v1)** | 2025-03-24 | <details><summary>23 pa...</summary><p>23 pages, 1 figure, submitted to Journal of Machine Learning research</p></details> |
 | **[AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning](http://arxiv.org/abs/2503.18769v1)** | 2025-03-24 |  |
@@ -58,13 +60,11 @@ labels: documentation
 | **[Symbolic Audio Classification via Modal Decision Tree Learning](http://arxiv.org/abs/2503.17018v1)** | 2025-03-21 |  |
 | **[A Learnability Analysis on Neuro-Symbolic Learning](http://arxiv.org/abs/2503.16797v1)** | 2025-03-21 |  |
 | **[ContextGPT: Infusing LLMs Knowledge into Neuro-Symbolic Activity Recognition Models](http://arxiv.org/abs/2403.06586v2)** | 2025-03-20 |  |
-| **[Transformer-based Wireless Symbol Detection Over Fading Channels](http://arxiv.org/abs/2503.16594v1)** | 2025-03-20 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.07600</p></details> |
-| **[Efficient Symbolic Execution of Software under Fault Attacks](http://arxiv.org/abs/2503.15825v1)** | 2025-03-20 |  |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning](http://arxiv.org/abs/2503.17125v2)** | 2025-03-24 | 14 pages, 17 figures |
+| **[LaMOuR: Leveraging Language Models for Out-of-Distribution Recovery in Reinforcement Learning](http://arxiv.org/abs/2503.17125v3)** | 2025-03-26 | 14 pages, 17 figures |
 | **[A Study on Neuro-Symbolic Artificial Intelligence: Healthcare Perspectives](http://arxiv.org/abs/2503.18213v1)** | 2025-03-23 | 18 pages |
 | **[(G)I-DLE: Generative Inference via Distribution-preserving Logit Exclusion with KL Divergence Minimization for Constrained Decoding](http://arxiv.org/abs/2503.18050v1)** | 2025-03-23 | preprint |
 | **[Enhancing Retrieval Systems with Inference-Time Logical Reasoning](http://arxiv.org/abs/2503.17860v1)** | 2025-03-22 |  |
