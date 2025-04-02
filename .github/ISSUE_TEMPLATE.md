@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2025
+title: Latest 15 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NIRVAR: Network Informed Restricted Vector Autoregression](http://arxiv.org/abs/2407.13314v3)** | 2025-04-01 | 27 pages |
+| **[ARMAr-LASSO: Mitigating the Impact of Predictor Serial Correlation on the LASSO](http://arxiv.org/abs/2408.09288v2)** | 2025-04-01 | <details><summary>34 pa...</summary><p>34 pages, 3 Figures, 4 Tables. arXiv admin note: substantial text overlap with arXiv:2208.00727</p></details> |
+| **[Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework](http://arxiv.org/abs/2503.20136v3)** | 2025-04-01 |  |
+| **[Class-Dependent Perturbation Effects in Evaluating Time Series Attributions](http://arxiv.org/abs/2502.17022v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted at The World Conference on eXplainable Artificial Intelligence (XAI-2025)</p></details> |
+| **[SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion](http://arxiv.org/abs/2312.08194v2)** | 2025-04-01 | <details><summary>This ...</summary><p>This is the preprint of the accepted manuscript to appear in IEEE Transactions on Geoscience and Remote Sensing</p></details> |
+| **[Estimating invertible processes in Hilbert spaces, with applications to functional ARMA processes](http://arxiv.org/abs/2407.12221v2)** | 2025-04-01 |  |
+| **[ResNLS: An Improved Model for Stock Price Forecasting](http://arxiv.org/abs/2312.01020v2)** | 2025-04-01 | <details><summary>Accep...</summary><p>Accepted by Computational Intelligence 2023</p></details> |
+| **[Did ChatGPT or Copilot use alter the style of internet news headlines? A time series regression analysis](http://arxiv.org/abs/2503.23811v2)** | 2025-04-01 |  |
+| **[Time-Series Forecasting via Topological Information Supervised Framework with Efficient Topological Feature Learning](http://arxiv.org/abs/2503.23757v2)** | 2025-04-01 | <details><summary>The e...</summary><p>The experiments are incomplete</p></details> |
+| **[Self and mutually exciting point process embedding flexible residuals and intensity with discretely Markovian dynamics](http://arxiv.org/abs/2401.13890v2)** | 2025-04-01 |  |
+| **[On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series](http://arxiv.org/abs/2502.12226v2)** | 2025-03-31 |  |
+| **[Assessing Driving Risk Through Unsupervised Detection of Anomalies in Telematics Time Series Data](http://arxiv.org/abs/2412.08106v2)** | 2025-03-31 |  |
 | **[A Comparison of Parametric Dynamic Mode Decomposition Algorithms for Thermal-Hydraulics Applications](http://arxiv.org/abs/2503.24205v1)** | 2025-03-31 |  |
-| **[Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework](http://arxiv.org/abs/2503.20136v2)** | 2025-03-31 |  |
 | **[Frequency-Aware Attention-LSTM for PM$_{2.5}$ Time Series Forecasting](http://arxiv.org/abs/2503.24043v1)** | 2025-03-31 |  |
 | **[CITRAS: Covariate-Informed Transformer for Time Series Forecasting](http://arxiv.org/abs/2503.24007v1)** | 2025-03-31 |  |
-| **[LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v5)** | 2025-03-31 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
-| **[Testing for integer integration in functional time series](http://arxiv.org/abs/2503.23960v1)** | 2025-03-31 |  |
-| **[Incremental capacity-based multi-feature fusion model for predicting state-of-health of lithium-ion batteries](http://arxiv.org/abs/2503.23858v1)** | 2025-03-31 |  |
-| **[Did ChatGPT or Copilot use alter the style of internet news headlines? A time series regression analysis](http://arxiv.org/abs/2503.23811v1)** | 2025-03-31 |  |
-| **[Time-Series Forecasting via Topological Information Supervised Framework with Efficient Topological Feature Learning](http://arxiv.org/abs/2503.23757v1)** | 2025-03-31 |  |
-| **[Q-fid: Quantum Circuit Fidelity Improvement with LSTM Networks](http://arxiv.org/abs/2303.17523v3)** | 2025-03-31 |  |
-| **[Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting](http://arxiv.org/abs/2503.23621v1)** | 2025-03-30 |  |
-| **[Bayesian Inference for High-dimensional Time Series with a Directed Acyclic Graphical Structure](http://arxiv.org/abs/2503.23563v1)** | 2025-03-30 |  |
-| **[A Kolmogorov-Zurbenko Fourier Transform Band-pass Filter Extension for Time Series Analysis](http://arxiv.org/abs/2503.23493v1)** | 2025-03-30 | 17 pages, 4 figures |
-| **[Quantum-Assisted Machine Learning Models for Enhanced Weather Prediction](http://arxiv.org/abs/2503.23408v1)** | 2025-03-30 |  |
-| **[Relational Graph in Vector Autoregression: A Case Study on the Effect of the Great Recession on Connectivity of Economic Indicators](http://arxiv.org/abs/2410.22617v2)** | 2025-03-30 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
