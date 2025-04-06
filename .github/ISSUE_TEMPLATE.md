@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 05, 2025
+title: Latest 15 Papers - April 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -13,15 +13,6 @@ labels: documentation
 | **[Machine Learning-assisted High-speed Combinatorial Optimization with Ising Machines for Dynamically Changing Problems](http://arxiv.org/abs/2503.23966v2)** | 2025-04-02 |  |
 | **[Local Computation Algorithms for Knapsack: impossibility results, and how to avoid them](http://arxiv.org/abs/2504.01543v1)** | 2025-04-02 |  |
 | **[Enhancing Oscillator-Based Ising Machine Models with Amplitude Dynamics and Polynomial Interactions](http://arxiv.org/abs/2504.00329v1)** | 2025-04-01 |  |
-| **[Deriving Representative Structure from Music Corpora](http://arxiv.org/abs/2502.15849v2)** | 2025-03-30 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 7 tables</p></details> |
-| **[Coupled Input-Output Dimension Reduction: Application to Goal-oriented Bayesian Experimental Design and Global Sensitivity Analysis](http://arxiv.org/abs/2406.13425v2)** | 2025-03-30 |  |
-| **[Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models](http://arxiv.org/abs/2403.12923v2)** | 2025-03-29 |  |
-| **[Starjob: Dataset for LLM-Driven Job Shop Scheduling](http://arxiv.org/abs/2503.01877v2)** | 2025-03-27 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2408.06993</p></details> |
-| **[Beyond Worst-Case Subset Sum: An Adaptive, Structure-Aware Solver with Sub-$2^{n/2}$ Enumeration](http://arxiv.org/abs/2503.20162v1)** | 2025-03-26 | <details><summary>48 pa...</summary><p>48 pages, preliminary, extended version</p></details> |
-| **[Unsupervised Learning for Quadratic Assignment](http://arxiv.org/abs/2503.20001v1)** | 2025-03-25 | preprint |
-| **[Linear, nested, and quadratic ordered measures: Computation and incorporation into optimization problems](http://arxiv.org/abs/2503.18097v1)** | 2025-03-23 |  |
-| **[BOPO: Neural Combinatorial Optimization via Best-anchored and Objective-guided Preference Optimization](http://arxiv.org/abs/2503.07580v2)** | 2025-03-22 |  |
-| **[Distributed Quantum Approximate Optimization Algorithm on a Quantum-Centric Supercomputing Architecture](http://arxiv.org/abs/2407.20212v2)** | 2025-03-21 |  |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
