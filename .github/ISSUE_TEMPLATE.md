@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2025
+title: Latest 15 Papers - April 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,27 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition](http://arxiv.org/abs/2504.07916v1)** | 2025-04-10 | Percom 2025 |
+| **[ms-Mamba: Multi-scale Mamba for Time-Series Forecasting](http://arxiv.org/abs/2504.07654v1)** | 2025-04-10 |  |
+| **[Diffusion Transformers for Tabular Data Time Series Generation](http://arxiv.org/abs/2504.07566v1)** | 2025-04-10 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 13 tables</p></details> |
+| **[Event Signal Filtering via Probability Flux Estimation](http://arxiv.org/abs/2504.07503v1)** | 2025-04-10 |  |
+| **[Estimation of High-Dimensional Markov-Switching VAR Models with an Approximate EM Algorithm](http://arxiv.org/abs/2210.07456v2)** | 2025-04-10 |  |
+| **[AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.06643v2)** | 2025-04-10 | fix img issues |
+| **[ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method](http://arxiv.org/abs/2504.07394v1)** | 2025-04-10 | Preprint, 29 pages |
+| **[Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs](http://arxiv.org/abs/2504.07360v1)** | 2025-04-10 |  |
+| **[A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data](http://arxiv.org/abs/2504.07351v1)** | 2025-04-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.18645</p></details> |
 | **[Polyspectral Mean based Time Series Clustering of Indian Stock Market](http://arxiv.org/abs/2504.07021v1)** | 2025-04-09 | <details><summary>Publi...</summary><p>Published in Discover Data</p></details> |
 | **[An Analysis of Temporal Dropout in Earth Observation Time Series for Regression Tasks](http://arxiv.org/abs/2504.06915v1)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted at Symposium on Intelligent Data Analysis (IDA 2025)</p></details> |
 | **[Quantized symbolic time series approximation](http://arxiv.org/abs/2411.15209v2)** | 2025-04-09 |  |
 | **[ODEStream: A Buffer-Free Online Learning Framework with ODE-based Adaptor for Streaming Time Series Forecasting](http://arxiv.org/abs/2411.07413v2)** | 2025-04-09 |  |
 | **[Network inference via approximate Bayesian computation. Illustration on a stochastic multi-population neural mass model](http://arxiv.org/abs/2306.15787v3)** | 2025-04-09 | 37 pages, 22 figures |
 | **[Robust Capacity Expansion Modelling for Renewable Energy Systems under Weather and Demand Uncertainty](http://arxiv.org/abs/2504.06750v1)** | 2025-04-09 |  |
-| **[CLaSP: Learning Concepts for Time-Series Signals from Natural Language Supervision](http://arxiv.org/abs/2411.08397v2)** | 2025-04-09 |  |
-| **[AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.06643v1)** | 2025-04-09 | <details><summary>13 pa...</summary><p>13 pages,7 figures, first upload</p></details> |
-| **[WaveHiTS: Wavelet-Enhanced Hierarchical Time Series Modeling for Wind Direction Nowcasting in Eastern Inner Mongolia](http://arxiv.org/abs/2504.06532v1)** | 2025-04-09 |  |
-| **[TSP-OCS: A Time-Series Prediction for Optimal Camera Selection in Multi-Viewpoint Surgical Video Analysis](http://arxiv.org/abs/2504.06527v1)** | 2025-04-09 |  |
-| **[Bounds in Wasserstein Distance for Locally Stationary Functional Time Series](http://arxiv.org/abs/2504.06453v1)** | 2025-04-08 |  |
-| **[Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery](http://arxiv.org/abs/2409.16507v2)** | 2025-04-08 | <details><summary>Submi...</summary><p>Submitted to AMS journal Weather and Forecasting. Main body is 64 pages and 17 figures; supplement is another 33 pages and 31 figures</p></details> |
-| **[Early Classification of Time Series: Taxonomy and Benchmark](http://arxiv.org/abs/2406.18332v5)** | 2025-04-08 |  |
-| **[PATH: A Discrete-sequence Dataset for Evaluating Online Unsupervised Anomaly Detection Approaches for Multivariate Time Series](http://arxiv.org/abs/2411.13951v4)** | 2025-04-08 | <details><summary>Submi...</summary><p>Submitted to the Big Data Research journal</p></details> |
-| **[Drought forecasting using a hybrid neural architecture for integrating time series and static data](http://arxiv.org/abs/2504.05957v1)** | 2025-04-08 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, published as a workshop paper at Tackling Climate Change with Machine Learning at ICLR 2025, Tackling Climate Change with Machine Learning is a non-archival workshop</p></details> |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning](http://arxiv.org/abs/2504.07640v1)** | 2025-04-10 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, includes prototype implementation and experimental evaluation. Submitted for consideration in the arXiv Artificial Intelligence category (cs.AI)</p></details> |
+| **[Certified Symbolic Transducer with Applications in String Solving](http://arxiv.org/abs/2504.07203v1)** | 2025-04-09 | Conference |
 | **[$Π$-NeSy: A Possibilistic Neuro-Symbolic Approach](http://arxiv.org/abs/2504.07055v1)** | 2025-04-09 |  |
 | **[Quantized symbolic time series approximation](http://arxiv.org/abs/2411.15209v2)** | 2025-04-09 |  |
 | **[Classifying the Unknown: In-Context Learning for Open-Vocabulary Text and Symbol Recognition](http://arxiv.org/abs/2504.06841v1)** | 2025-04-09 | <details><summary>Submi...</summary><p>Submitted to ICDAR 2025</p></details> |
@@ -58,12 +60,12 @@ labels: documentation
 | **[BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](http://arxiv.org/abs/2504.05577v1)** | 2025-04-08 |  |
 | **[Lemmanaid: Neuro-Symbolic Lemma Conjecturing](http://arxiv.org/abs/2504.04942v1)** | 2025-04-07 |  |
 | **[A Review on Symbolic Regression in Power Systems: Methods, Applications, and Future Directions](http://arxiv.org/abs/2504.04621v1)** | 2025-04-06 |  |
-| **[Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](http://arxiv.org/abs/2504.04578v1)** | 2025-04-06 |  |
-| **[Extending Cox Proportional Hazards Model with Symbolic Non-Linear Log-Risk Functions for Survival Analysis](http://arxiv.org/abs/2504.04353v1)** | 2025-04-06 |  |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S$^2$-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency](http://arxiv.org/abs/2502.04790v2)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 Main</p></details> |
+| **[Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization](http://arxiv.org/abs/2504.07316v1)** | 2025-04-09 |  |
 | **[MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking](http://arxiv.org/abs/2504.06863v1)** | 2025-04-09 |  |
 | **[Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](http://arxiv.org/abs/2503.09567v3)** | 2025-04-09 | <details><summary>Paper...</summary><p>Paper are available at https://long-cot.github.io/, and Github are available at https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning</p></details> |
 | **[Don't Let It Hallucinate: Premise Verification via Retrieval-Augmented Logical Reasoning](http://arxiv.org/abs/2504.06438v1)** | 2025-04-08 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation](http://arxiv.org/abs/2411.00773v2)** | 2025-04-03 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, In Advances in Neural Information Processing Systems (NeurIPS) 37 D&B Track (2024): 69840-69864</p></details> |
 | **[VGRP-Bench: Visual Grid Reasoning Puzzle Benchmark for Large Vision-Language Models](http://arxiv.org/abs/2503.23064v2)** | 2025-04-02 | <details><summary>8 pag...</summary><p>8 pages; Project page: https://yufan-ren.com/subpage/VGRP-Bench/</p></details> |
 | **[Adaptive Rectification Sampling for Test-Time Compute Scaling](http://arxiv.org/abs/2504.01317v1)** | 2025-04-02 |  |
-| **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)** | 2025-03-31 | <details><summary>Techn...</summary><p>Technical Report (In Progress); Code released at: https://github.com/TencentARC/SEED-Bench-R1</p></details> |
-| **[Measuring AI Ability to Complete Long Tasks](http://arxiv.org/abs/2503.14499v2)** | 2025-03-30 |  |
 
