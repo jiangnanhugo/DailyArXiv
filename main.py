@@ -11,7 +11,7 @@ ny_timezone = pytz.timezone('America/New_York')
 
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
 
-# get current beijing time date in the format of "2021-08-01"
+# get current Beijing time date in the format of "2021-08-01"
 current_date = datetime.now(ny_timezone).strftime("%Y-%m-%d")
 # get last update date from README.md
 with open("README.md", "r") as f:
@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Combinatorial Optimization", "Time Series", "Symbolic", "Logical Reasoning"] # TODO add more keywords
+keywords = ["Combinatorial Optimization", "Monte Carlo", "Constrained Sampling", "Time Series",  "Symbolic", "Logical Reasoning"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
