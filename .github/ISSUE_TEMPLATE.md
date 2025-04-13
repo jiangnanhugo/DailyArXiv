@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2025
+title: Latest 15 Papers - April 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,7 @@ labels: documentation
 | **[Model Uncertainty in Latent Gaussian Models with Univariate Link Function](http://arxiv.org/abs/2406.17318v2)** | 2025-04-10 |  |
 | **[Search-contempt: a hybrid MCTS algorithm for training AlphaZero-like engines with better computational efficiency](http://arxiv.org/abs/2504.07757v1)** | 2025-04-10 |  |
 | **[A Novel Deep Learning Approach for Emulating Computationally Expensive Postfire Debris Flows](http://arxiv.org/abs/2504.07736v1)** | 2025-04-10 | <details><summary>Manus...</summary><p>Manuscript submitted to Computers & Geosciences, 22 pages, 10 figures</p></details> |
+| **[A Recursive Partitioning Approach for Dynamic Discrete Choice Modeling in High Dimensional Settings](http://arxiv.org/abs/2208.01476v2)** | 2025-04-10 |  |
 | **[Sequential Filtering Techniques for Simultaneous Tracking and Parameter Estimation](http://arxiv.org/abs/2504.07515v1)** | 2025-04-10 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Submitted to the Journal of Astronautical Sciences on 26 March, 2025</p></details> |
 | **[Efficient Multivariate Initial Sequence Estimators for MCMC](http://arxiv.org/abs/2406.15874v2)** | 2025-04-10 |  |
 | **[Refining Answer Distributions for Improved Large Language Model Reasoning](http://arxiv.org/abs/2412.13292v2)** | 2025-04-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[A GARMA Framework for Unit-Bounded Time Series Based on the Unit-Lindley Distribution with Application to Renewable Energy Data](http://arxiv.org/abs/2504.07351v1)** | 2025-04-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.18645</p></details> |
 | **[Random Embeddings of Graphs: The Expected Number of Faces in Most Graphs is Logarithmic](http://arxiv.org/abs/2211.01032v3)** | 2025-04-09 | <details><summary>Accep...</summary><p>Accepted at the 35th ACM-SIAM Symposium on Discrete Algorithms (SODA 2024). The submission also contains sources and data of the computation described in the paper. 55 pages, 11 figures</p></details> |
 | **[Self-Steering Language Models](http://arxiv.org/abs/2504.07081v1)** | 2025-04-09 |  |
-| **[Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods](http://arxiv.org/abs/2502.18389v2)** | 2025-04-09 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
