@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2025
+title: Latest 15 Papers - April 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,12 +35,12 @@ labels: documentation
 | **[Spatial Functional Deep Neural Network Model: A New Prediction Algorithm](http://arxiv.org/abs/2504.12750v1)** | 2025-04-17 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, 3 tables</p></details> |
 | **[Mortality simulations for insured and general populations](http://arxiv.org/abs/2502.08814v2)** | 2025-04-17 |  |
 | **[A Shapley Value Estimation Speedup for Efficient Explainable Quantum AI](http://arxiv.org/abs/2412.14639v2)** | 2025-04-17 | <details><summary>34 pa...</summary><p>34 pages, 4 figures, 4 tables, 45 citations</p></details> |
+| **[Bernstein's inequalities for general Markov chains](http://arxiv.org/abs/1805.10721v4)** | 2025-04-17 | <details><summary>32 pa...</summary><p>32 pages including references</p></details> |
 | **[Deep Reinforcement Learning Algorithms for Option Hedging](http://arxiv.org/abs/2504.05521v2)** | 2025-04-17 |  |
 | **[Resonances in reflective Hamiltonian Monte Carlo](http://arxiv.org/abs/2504.12374v1)** | 2025-04-16 |  |
 | **[Data Assimilation for Robust UQ Within Agent-Based Simulation on HPC Systems](http://arxiv.org/abs/2504.12228v1)** | 2025-04-16 |  |
 | **[Bayesian random-effects meta-analysis of aggregate data on clinical events](http://arxiv.org/abs/2504.12214v1)** | 2025-04-16 | 20 pages, 8 figures |
 | **[Creating non-reversible rejection-free samplers by rebalancing skew-balanced Markov jump processes](http://arxiv.org/abs/2504.12190v1)** | 2025-04-16 | 28 pages, 7 figures |
-| **[Towards a Foundation Model for Physics-Informed Neural Networks: Multi-PDE Learning with Active Sampling](http://arxiv.org/abs/2502.07425v2)** | 2025-04-16 | <details><summary>This ...</summary><p>This paper should be rewritten</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
