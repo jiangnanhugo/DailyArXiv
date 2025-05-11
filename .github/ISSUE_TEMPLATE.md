@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 10, 2025
+title: Latest 15 Papers - May 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -46,20 +46,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Guiding Evolutionary AutoEncoder Training with Activation-Based Pruning Operators](http://arxiv.org/abs/2505.05138v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted to The Genetic and Evolutionary Computation Conference (GECCO 2025)</p></details> |
-| **[Non-Reversible Langevin Algorithms for Constrained Sampling](http://arxiv.org/abs/2501.11743v2)** | 2025-04-15 | <details><summary>35 pa...</summary><p>35 pages, 9 figures, typos corrected</p></details> |
-| **[Fast constrained sampling in pre-trained diffusion models](http://arxiv.org/abs/2410.18804v2)** | 2025-04-07 |  |
-| **[CDsampling: An R Package for Constrained D-Optimal Sampling in Paid Research Studies](http://arxiv.org/abs/2410.20606v3)** | 2025-04-05 |  |
-| **[Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds](http://arxiv.org/abs/2503.17677v1)** | 2025-03-22 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Multi-label feature selection based on binary hashing learning and dynamic graph constraints](http://arxiv.org/abs/2503.13874v1)** | 2025-03-18 | 21 pages,19 figures |
-| **[A Novel Constrained Sampling Method for Efficient Exploration in Materials and Chemical Mixture Design](http://arxiv.org/abs/2407.16567v3)** | 2025-02-19 | <details><summary>40 pa...</summary><p>40 pages, 12 figures, 2 tables</p></details> |
-| **[Iterative quantum optimisation with a warm-started quantum state](http://arxiv.org/abs/2502.09704v1)** | 2025-02-13 | <details><summary>feedb...</summary><p>feedback welcome, 13 pages, 12 figures</p></details> |
-| **[CCS: Controllable and Constrained Sampling with Diffusion Models via Initial Noise Perturbation](http://arxiv.org/abs/2502.04670v1)** | 2025-02-07 |  |
-| **[Chance-Constrained Sampling-Based MPC for Collision Avoidance in Uncertain Dynamic Environments](http://arxiv.org/abs/2501.08520v1)** | 2025-01-15 | <details><summary>This ...</summary><p>This paper has 8 pages, 2 figures, 5 tables</p></details> |
-| **[Constrained Sampling with Primal-Dual Langevin Monte Carlo](http://arxiv.org/abs/2411.00568v2)** | 2025-01-07 | <details><summary>39 pa...</summary><p>39 pages, 14 figures. Published at NeurIPS 2024</p></details> |
-| **[Fast Bayesian Functional Principal Components Analysis](http://arxiv.org/abs/2412.11340v2)** | 2024-12-23 | 21 pages, 8 figures |
-| **[Energy Based Equality of Distributions Testing for Compositional Data](http://arxiv.org/abs/2412.05199v2)** | 2024-12-11 |  |
-| **[Functional Gradient Flows for Constrained Sampling](http://arxiv.org/abs/2410.23170v1)** | 2024-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2024 camera-ready (30 pages, 26 figures)</p></details> |
-| **[Adaptive complexity of log-concave sampling](http://arxiv.org/abs/2408.13045v1)** | 2024-08-23 |  |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
