@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2025
+title: Latest 15 Papers - June 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Combinatorial Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Approximation Schemes for Stochastic Probing and Selection-Stopping Problems](http://arxiv.org/abs/2007.13121v3)** | 2025-05-29 | <details><summary>38 pa...</summary><p>38 pages; the preliminary version appeared in EC 2021</p></details> |
 | **[GPU-Accelerated Simulated Oscillator Ising/Potts Machine Solving Combinatorial Optimization Problems](http://arxiv.org/abs/2505.22631v1)** | 2025-05-28 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, published in GLSVLSI 25</p></details> |
 | **[LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning](http://arxiv.org/abs/2505.22695v1)** | 2025-05-28 |  |
 | **[Out of the Past: An AI-Enabled Pipeline for Traffic Simulation from Noisy, Multimodal Detector Data and Stakeholder Feedback](http://arxiv.org/abs/2505.21349v1)** | 2025-05-27 | <details><summary>12 pa...</summary><p>12 pages; 5 figures; preprint version</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning for Dynamic Combinatorial Optimization without Training Data](http://arxiv.org/abs/2505.19497v1)** | 2025-05-26 |  |
 | **[Demand Selection for VRP with Emission Quota](http://arxiv.org/abs/2505.19315v1)** | 2025-05-25 |  |
 | **[MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search](http://arxiv.org/abs/2505.19209v1)** | 2025-05-25 |  |
-| **[Efficient Training of Multi-task Neural Solver for Combinatorial Optimization](http://arxiv.org/abs/2305.06361v5)** | 2025-05-25 | Accepted by TMLR |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
