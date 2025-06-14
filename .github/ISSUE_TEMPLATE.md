@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 13, 2025
+title: Latest 15 Papers - June 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -12,6 +12,16 @@ labels: documentation
 | **[GPU-Accelerated Distributed QAOA on Large-scale HPC Ecosystems](http://arxiv.org/abs/2506.10531v1)** | 2025-06-12 |  |
 | **[Synthesizing Min-Max Control Barrier Functions For Switched Affine Systems](http://arxiv.org/abs/2506.10296v1)** | 2025-06-12 |  |
 | **[Multi-task Representation Learning for Mixed Integer Linear Programming](http://arxiv.org/abs/2412.14409v2)** | 2025-06-11 |  |
+| **[Balans: Multi-Armed Bandits-based Adaptive Large Neighborhood Search for Mixed-Integer Programming Problem](http://arxiv.org/abs/2412.14382v2)** | 2025-06-11 |  |
+| **[Lower bounds on the number of rounds of the quantum approximate optimization algorithm required for guaranteed approximation ratios](http://arxiv.org/abs/2308.15442v4)** | 2025-06-11 | <details><summary>20 pa...</summary><p>20 pages, comments welcome, close to the published version</p></details> |
+| **[Large Language Models for Design Structure Matrix Optimization](http://arxiv.org/abs/2506.09749v1)** | 2025-06-11 |  |
+| **[Decomposition Strategies and Multi-shot ASP Solving for Job-shop Scheduling](http://arxiv.org/abs/2205.07537v5)** | 2025-06-11 | <details><summary>This ...</summary><p>This paper is an extended version of our papers presented at the 38th International Conference on Logic Programming (ICLP 2022) and the 24th International Symposium on Practical Aspects of Declarative Languages (PADL 2022), accepted for publication in Logical Methods in Computer Science journal</p></details> |
+| **[Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](http://arxiv.org/abs/2505.12627v2)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
+| **[Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization](http://arxiv.org/abs/2506.09404v1)** | 2025-06-11 |  |
+| **[Low-Distortion Clustering in Bounded Growth Graphs](http://arxiv.org/abs/2405.05132v3)** | 2025-06-11 |  |
+| **[Advanced Kernel Search approach for the MST Problem with conflicts involving affinity detection and initial solution construction](http://arxiv.org/abs/2401.02222v2)** | 2025-06-10 |  |
+| **[Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation](http://arxiv.org/abs/2506.08898v1)** | 2025-06-10 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, under review</p></details> |
+| **[EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](http://arxiv.org/abs/2502.14760v2)** | 2025-06-10 |  |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
