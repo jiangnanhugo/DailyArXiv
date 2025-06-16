@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Combinatorial Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the O(mn)-Time Barrier for Vertex-Weighted Global Minimum Cut](http://arxiv.org/abs/2506.11926v1)** | 2025-06-13 |  |
+| **[Knapsack and Shortest Path Problems Generalizations From A Quantum-Inspired Tensor Network Perspective](http://arxiv.org/abs/2506.11711v1)** | 2025-06-13 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, extended version of the presented and published at the 1st International Conference on Quantum Software (IQSOFT)</p></details> |
+| **[QPanda3: A High-Performance Software-Hardware Collaborative Framework for Large-Scale Quantum-Classical Computing Integration](http://arxiv.org/abs/2504.02455v2)** | 2025-06-13 |  |
 | **[Solving Power System Problems using Adiabatic Quantum Computing](http://arxiv.org/abs/2504.06458v2)** | 2025-06-12 | 4 pages, 3 figures |
 | **[GraphThought: Graph Combinatorial Optimization with Thought Generation](http://arxiv.org/abs/2502.11607v2)** | 2025-06-12 | <details><summary>41 pa...</summary><p>41 pages, 5 figures, 13 tables</p></details> |
 | **[GPU-Accelerated Distributed QAOA on Large-scale HPC Ecosystems](http://arxiv.org/abs/2506.10531v1)** | 2025-06-12 |  |
@@ -19,28 +22,25 @@ labels: documentation
 | **[Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](http://arxiv.org/abs/2505.12627v2)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025</p></details> |
 | **[Synergizing Reinforcement Learning and Genetic Algorithms for Neural Combinatorial Optimization](http://arxiv.org/abs/2506.09404v1)** | 2025-06-11 |  |
 | **[Low-Distortion Clustering in Bounded Growth Graphs](http://arxiv.org/abs/2405.05132v3)** | 2025-06-11 |  |
-| **[Advanced Kernel Search approach for the MST Problem with conflicts involving affinity detection and initial solution construction](http://arxiv.org/abs/2401.02222v2)** | 2025-06-10 |  |
-| **[Preference-Driven Multi-Objective Combinatorial Optimization with Conditional Computation](http://arxiv.org/abs/2506.08898v1)** | 2025-06-10 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, under review</p></details> |
-| **[EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](http://arxiv.org/abs/2502.14760v2)** | 2025-06-10 |  |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combining Deep Reinforcement Learning and Search with Generative Models for Game-Theoretic Opponent Modeling](http://arxiv.org/abs/2302.00797v2)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted by IJCAI'25 main track</p></details> |
+| **[Bayesian estimation of causal effects from observational categorical data](http://arxiv.org/abs/2504.05198v2)** | 2025-06-13 | 39 pages, 14 figures |
+| **[Regression-adjusted Monte Carlo Estimators for Shapley Values and Probabilistic Values](http://arxiv.org/abs/2506.11849v1)** | 2025-06-13 |  |
+| **[Quantum Learning and Estimation for Distribution Networks and Energy Communities Coordination](http://arxiv.org/abs/2506.11730v1)** | 2025-06-13 | <details><summary>This ...</summary><p>This is a manuscript submitted to PROTECTION AND CONTROL OF MODERN POWER SYSTEMS</p></details> |
+| **[Fast Approximate Solution of Stein Equations for Post-Processing of MCMC](http://arxiv.org/abs/2501.06634v2)** | 2025-06-13 | <details><summary>Bugs ...</summary><p>Bugs fixed, additional experiments included</p></details> |
+| **[Quasi-Monte Carlo hyperinterpolation](http://arxiv.org/abs/2506.11622v1)** | 2025-06-13 |  |
+| **[Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications](http://arxiv.org/abs/2506.11530v1)** | 2025-06-13 | PhD Thesis |
+| **[Transformed Diffusion-Wave fPINNs: Enhancing Computing Efficiency for PINNs Solving Time-Fractional Diffusion-Wave Equations](http://arxiv.org/abs/2506.11518v1)** | 2025-06-13 |  |
+| **[Fast Bayesian Optimization of Function Networks with Partial Evaluations](http://arxiv.org/abs/2506.11456v1)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 1 table</p></details> |
+| **[A gradient-based and determinant-free framework for fully Bayesian Gaussian process regression](http://arxiv.org/abs/2412.20884v2)** | 2025-06-12 |  |
+| **[Course Project Report: Comparing MCMC and Variational Inference for Bayesian Probabilistic Matrix Factorization on the MovieLens Dataset](http://arxiv.org/abs/2506.09928v2)** | 2025-06-12 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. This document is a course project report. Some derivations are presented in a simplified form. For more detailed discussions and comprehensive proofs, please refer to the references cited in this report. v2 replacement: we have modified the title to better match our content. We have also updated the references to be more complete, including the link to our code</p></details> |
 | **[Algorithmic methods of finite discrete structures. Topological graph drawing (part III)](http://arxiv.org/abs/2506.10936v1)** | 2025-06-12 | <details><summary>120 p...</summary><p>120 pages, in Ukrainian language, 112 figures, a preprint of monography</p></details> |
 | **[Structure and asymptotic preserving deep neural surrogates for uncertainty quantification in multiscale kinetic equations](http://arxiv.org/abs/2506.10636v1)** | 2025-06-12 |  |
 | **[IDEA: Augmenting Design Intelligence through Design Space Exploration](http://arxiv.org/abs/2506.10587v1)** | 2025-06-12 |  |
 | **[Size-adaptive Hypothesis Testing for Fairness](http://arxiv.org/abs/2506.10586v1)** | 2025-06-12 |  |
-| **[On the role of non-linear latent features in bipartite generative neural networks](http://arxiv.org/abs/2506.10552v1)** | 2025-06-12 | 23 pages, 5 figures |
-| **[AniMaker: Automated Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](http://arxiv.org/abs/2506.10540v1)** | 2025-06-12 |  |
-| **[Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](http://arxiv.org/abs/2503.04412v2)** | 2025-06-12 | <details><summary>Prese...</summary><p>Presented at ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
-| **[CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](http://arxiv.org/abs/2506.07551v2)** | 2025-06-12 | 15 pages, 6 figures |
-| **[Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](http://arxiv.org/abs/2506.10387v1)** | 2025-06-12 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 5 tables</p></details> |
-| **[Uncertainty-Aware Deep Learning for Automated Skin Cancer Classification: A Comprehensive Evaluation](http://arxiv.org/abs/2506.10302v1)** | 2025-06-12 |  |
-| **[Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing](http://arxiv.org/abs/2502.00882v2)** | 2025-06-11 | 32 pages, 10 figures |
-| **[Inference of Hierarchical Core-Periphery Structure in Temporal Network](http://arxiv.org/abs/2506.10135v1)** | 2025-06-11 |  |
-| **[Textual Bayes: Quantifying Uncertainty in LLM-Based Systems](http://arxiv.org/abs/2506.10060v1)** | 2025-06-11 |  |
-| **[Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling](http://arxiv.org/abs/2506.09998v1)** | 2025-06-11 | <details><summary>Techn...</summary><p>Technical Report v1 (21 pages, 14 figures)</p></details> |
-| **[Bayesian Probabilistic Matrix Factorization](http://arxiv.org/abs/2506.09928v1)** | 2025-06-11 | 11 pages, 4 figures |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Chaotic Dynamics with Neuromorphic Network Dynamics](http://arxiv.org/abs/2506.10773v1)** | 2025-06-12 | 37 pages, 22 figures |
-| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](http://arxiv.org/abs/2506.09544v2)** | 2025-06-12 |  |
-| **[TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2410.11802v6)** | 2025-06-12 |  |
-| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](http://arxiv.org/abs/2506.10630v1)** | 2025-06-12 |  |
-| **[Deep Learning-Based Digitization of Overlapping ECG Images with Open-Source Python Code](http://arxiv.org/abs/2506.10617v1)** | 2025-06-12 |  |
-| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v1)** | 2025-06-12 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[TimeBridge: Better Diffusion Prior Design with Bridge Models for Time Series Generation](http://arxiv.org/abs/2408.06672v2)** | 2025-06-12 |  |
-| **[Center-fixing of tropical cyclones using uncertainty-aware deep learning applied to high-temporal-resolution geostationary satellite imagery](http://arxiv.org/abs/2409.16507v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submitted to AMS journal Weather and Forecasting. Main body is 66 pages and 18 figures; supplement is another 40 pages and 35 figures</p></details> |
-| **[VISTA: Vision-Language Inference for Training-Free Stock Time-Series Analysis](http://arxiv.org/abs/2505.18570v3)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2025 Workshop on Transformers for Vision (T4V): https://sites.google.com/view/t4v-cvpr25/accepted-papers</p></details> |
-| **[Mamba time series forecasting with uncertainty quantification](http://arxiv.org/abs/2503.10873v2)** | 2025-06-11 |  |
-| **[FinTSBridge: A New Evaluation Suite for Real-world Financial Prediction with Advanced Time Series Models](http://arxiv.org/abs/2503.06928v2)** | 2025-06-11 | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop Advances in Financial AI</p></details> |
-| **[Towards Foundational Models for Dynamical System Reconstruction: Hierarchical Meta-Learning via Mixture of Experts](http://arxiv.org/abs/2502.05335v2)** | 2025-06-11 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 7 tables. Accepted as a SCOPE workshop paper at ICLR 2025</p></details> |
-| **[Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning](http://arxiv.org/abs/2405.20761v2)** | 2025-06-11 | <details><summary>Accep...</summary><p>Accepted at the 20th International Conference on Availability, Reliability and Security (ARES 2025)</p></details> |
-| **[Neural Functions for Learning Periodic Signal](http://arxiv.org/abs/2506.09526v1)** | 2025-06-11 |  |
-| **[LLM-Powered CPI Prediction Inference with Online Text Time Series](http://arxiv.org/abs/2506.09516v1)** | 2025-06-11 | 73 pages, 13 figures |
+| **[Variational Neural Stochastic Differential Equations with Change Points](http://arxiv.org/abs/2411.00635v2)** | 2025-06-13 |  |
+| **[Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation](http://arxiv.org/abs/2506.11790v1)** | 2025-06-13 |  |
+| **[Right on Time: Revising Time Series Models by Constraining their Explanations](http://arxiv.org/abs/2402.12921v5)** | 2025-06-13 | <details><summary>to be...</summary><p>to be published in ECML PKDD 2025</p></details> |
+| **[A Survey on Deep Learning based Time Series Analysis with Frequency Transformation](http://arxiv.org/abs/2302.02173v6)** | 2025-06-13 | Accepted By KDD 2025 |
+| **[Perspectives on Explanation Formats From Two Stakeholder Groups in Germany: Software Providers and Dairy Farmers](http://arxiv.org/abs/2506.11665v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2024, Explainable AI Workshop</p></details> |
+| **[Functional-Coefficient Models for Multivariate Time Series in Designed Experiments: with Applications to Brain Signals](http://arxiv.org/abs/2208.00292v3)** | 2025-06-13 |  |
+| **[Leveraging Satellite Image Time Series for Accurate Extreme Event Detection](http://arxiv.org/abs/2506.11544v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to the WACV 2025 Workshop on GeoCV. Code, datasets, and model checkpoints available at: https://github.com/hfangcat/SITS-ExtremeEvents</p></details> |
+| **[Delayformer: spatiotemporal transformation for predicting high-dimensional dynamics](http://arxiv.org/abs/2506.11528v1)** | 2025-06-13 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Prioritizing Alignment Paradigms over Task-Specific Model Customization in Time-Series LLMs](http://arxiv.org/abs/2506.11512v1)** | 2025-06-13 |  |
+| **[A Two-step Estimating Approach for Heavy-tailed AR Models with General Non-zero Median Noises](http://arxiv.org/abs/2506.11509v1)** | 2025-06-13 |  |
+| **[Voxel-Level Brain States Prediction Using Swin Transformer](http://arxiv.org/abs/2506.11455v1)** | 2025-06-13 |  |
+| **[Capturing Temporal Dynamics in Large-Scale Canopy Tree Height Estimation](http://arxiv.org/abs/2501.19328v2)** | 2025-06-12 | <details><summary>ICML ...</summary><p>ICML Camera-Ready, 9 pages main paper, 8 pages references and appendix, 9 figures, 8 tables</p></details> |
+| **[Sensor Model Identification via Simultaneous Model Selection and State Variable Determination](http://arxiv.org/abs/2506.11263v1)** | 2025-06-12 |  |
+| **[Can Time-Series Foundation Models Perform Building Energy Management Tasks?](http://arxiv.org/abs/2506.11250v1)** | 2025-06-12 | <details><summary>30 pa...</summary><p>30 pages, 5 tables, 8 figures. Under review for Data-Centric Engineering journal</p></details> |
+| **[Regularized Estimation of the Loading Matrix in Factor Models for High-Dimensional Time Series](http://arxiv.org/abs/2506.11232v1)** | 2025-06-12 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
@@ -102,12 +102,13 @@ labels: documentation
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation](http://arxiv.org/abs/2506.10353v2)** | 2025-06-13 |  |
 | **[TeleMath: A Benchmark for Large Language Models in Telecom Mathematical Problem Solving](http://arxiv.org/abs/2506.10674v1)** | 2025-06-12 | 6 pages |
-| **[Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation](http://arxiv.org/abs/2506.10353v1)** | 2025-06-12 |  |
 | **[TTT-Bench: A Benchmark for Evaluating Reasoning Ability with Simple and Novel Tic-Tac-Toe-style Games](http://arxiv.org/abs/2506.10209v1)** | 2025-06-11 |  |
 | **[EVINET: Towards Open-World Graph Learning via Evidential Reasoning Network](http://arxiv.org/abs/2506.07288v2)** | 2025-06-11 | KDD 2025 |
 | **[Meaningless is better: hashing bias-inducing words in LLM prompts improves performance in logical reasoning and statistical learning](http://arxiv.org/abs/2411.17304v2)** | 2025-06-11 |  |
 | **[Mitigating Spurious Correlations in LLMs via Causality-Aware Post-Training](http://arxiv.org/abs/2506.09433v1)** | 2025-06-11 |  |
+| **[Stronger Language Models Produce More Human-Like Errors](http://arxiv.org/abs/2506.11128v1)** | 2025-06-10 |  |
 | **[Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search](http://arxiv.org/abs/2506.08669v1)** | 2025-06-10 | <details><summary>TTODL...</summary><p>TTODLer-FM Workshop@ICML'25 (Tiny Titans: The next wave of On-Device Learning for Foundational Models)</p></details> |
 | **[RE-oriented Model Development with LLM Support and Deduction-based Verification](http://arxiv.org/abs/2506.08606v1)** | 2025-06-10 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 1st International Workshop on Artificial Intelligence for Integrated Development Environments (AI-IDE) of the 33rd ACM Symposium on the Foundations of Software Engineering (FSE '25), June 23--27, 2025, Trondheim, Norway</p></details> |
 | **[Learning to Reason via Mixture-of-Thought for Logical Reasoning](http://arxiv.org/abs/2505.15817v2)** | 2025-06-09 | 38 pages |
@@ -116,5 +117,4 @@ labels: documentation
 | **[Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](http://arxiv.org/abs/2505.19914v2)** | 2025-06-09 |  |
 | **[Imperative Learning: A Self-supervised Neuro-Symbolic Learning Framework for Robot Autonomy](http://arxiv.org/abs/2406.16087v6)** | 2025-06-08 |  |
 | **[VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning](http://arxiv.org/abs/2409.01667v2)** | 2025-06-08 |  |
-| **[KnowCoder-V2: Deep Knowledge Analysis](http://arxiv.org/abs/2506.06881v1)** | 2025-06-07 |  |
 
