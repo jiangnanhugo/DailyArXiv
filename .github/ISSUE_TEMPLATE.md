@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian estimation of causal effects from observational categorical data](http://arxiv.org/abs/2504.05198v3)** | 2025-07-01 | 39 pages, 14 figures |
+| **[Uncertainty in AI-driven Monte Carlo simulations](http://arxiv.org/abs/2506.14594v2)** | 2025-07-01 |  |
+| **[Leveraging Nested MLMC for Sequential Neural Posterior Estimation with Intractable Likelihoods](http://arxiv.org/abs/2401.16776v2)** | 2025-07-01 | 30 pages, 6 figures |
+| **[SwarmThinkers: Learning Physically Consistent Atomic KMC Transitions at Scale](http://arxiv.org/abs/2505.20094v3)** | 2025-07-01 |  |
 | **[Bayesian Strategies for Repulsive Spatial Point Processes](http://arxiv.org/abs/2404.15133v2)** | 2025-06-30 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 4 tables</p></details> |
 | **[Statistical Inference for Privatized Data with Unknown Sample Size](http://arxiv.org/abs/2406.06231v2)** | 2025-06-30 | <details><summary>20 pa...</summary><p>20 pages before references, 42 pages in total, 4 figures, 4 tables</p></details> |
 | **[Reliability Assessment of Power System Based on the Dichotomy Method](http://arxiv.org/abs/2506.23649v1)** | 2025-06-30 | 10pages, 8figures |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning](http://arxiv.org/abs/2506.23056v1)** | 2025-06-29 | ACL 2025 Main |
 | **[Decoding Federated Learning: The FedNAM+ Conformal Revolution](http://arxiv.org/abs/2506.17872v2)** | 2025-06-28 |  |
 | **[Fair Box ordinate transform for forecasts following a multivariate Gaussian law](http://arxiv.org/abs/2506.22601v1)** | 2025-06-27 | 37 pages, 24 figures |
-| **[Risk Estimate under a Time-Varying Autoregressive Model for Data-Driven Reproduction Number Estimation](http://arxiv.org/abs/2409.14937v3)** | 2025-06-27 |  |
-| **[Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](http://arxiv.org/abs/2503.04412v3)** | 2025-06-27 | <details><summary>Prese...</summary><p>Presented at ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
-| **[Generative adversarial neural networks for simulating neutrino interactions](http://arxiv.org/abs/2502.20244v2)** | 2025-06-27 | 16 pages, 16 figures |
-| **[AlphaBeta is not as good as you think: a new probabilistic model to better analyze deterministic game-solving algorithms](http://arxiv.org/abs/2506.21996v1)** | 2025-06-27 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,12 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives](http://arxiv.org/abs/2506.24124v1)** | 2025-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/Ironieser/TimesCLIP</p></details> |
+| **[Meta-Posterior Consistency for the Bayesian Inference of Metastable System](http://arxiv.org/abs/2408.01868v2)** | 2025-07-01 | 32 pages, 3 figures |
+| **[LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](http://arxiv.org/abs/2503.08271v2)** | 2025-07-01 |  |
+| **[Over the Stability Space of a Multivariate Time Series](http://arxiv.org/abs/2506.22407v2)** | 2025-07-01 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 6 tables</p></details> |
+| **[Towards Efficient Parametric State Estimation in Circulating Fuel Reactors with Shallow Recurrent Decoder Networks](http://arxiv.org/abs/2503.08904v2)** | 2025-07-01 |  |
+| **[Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives](http://arxiv.org/abs/2506.24124v2)** | 2025-07-01 | <details><summary>Code:...</summary><p>Code: https://github.com/Ironieser/TimesCLIP</p></details> |
+| **[Identifying Systems with Symmetries using Equivariant Autoregressive Reservoir Computers](http://arxiv.org/abs/2311.09511v3)** | 2025-06-30 | <details><summary>The v...</summary><p>The views expressed in the article do not necessarily represent the views of the National Commission of Banks and Insurance Companies of Honduras</p></details> |
 | **[Constructing Non-Markovian Decision Process via History Aggregator](http://arxiv.org/abs/2506.24026v1)** | 2025-06-30 |  |
 | **[Online model learning with data-assimilated reservoir computers](http://arxiv.org/abs/2504.16767v2)** | 2025-06-30 | 8 pages, 5 figures |
 | **[When Will It Fail?: Anomaly to Prompt for Forecasting Future Anomalies in Time Series](http://arxiv.org/abs/2506.23596v1)** | 2025-06-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 12 tables, ICML 2025</p></details> |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Automating Versatile Time-Series Analysis with Tiny Transformers on Embedded FPGAs](http://arxiv.org/abs/2505.17662v4)** | 2025-06-29 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table, accepted by IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2025)</p></details> |
 | **[maneuverRecognition -- A Python package for Timeseries Classification in the domain of Vehicle Telematics](http://arxiv.org/abs/2506.23147v1)** | 2025-06-29 | 6 pages, 2 figures |
 | **[TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting](http://arxiv.org/abs/2506.17609v2)** | 2025-06-29 | Short research paper |
-| **[Simultaneous Sieve Estimation and Inference for Time-Varying Nonlinear Time Series Regression](http://arxiv.org/abs/2506.23069v1)** | 2025-06-29 | <details><summary>67 pa...</summary><p>67 pages, 10 figures. This manuscript presents a significant generalization of our previous submission, arXiv:2112.08545, which can be viewed as a special case of the current framework</p></details> |
-| **[Fetuses Made Simple: Modeling and Tracking of Fetal Shape and Pose](http://arxiv.org/abs/2506.17858v2)** | 2025-06-29 |  |
-| **[Adaptive Anomaly Detection in the Presence of Concept Drift: Extended Report](http://arxiv.org/abs/2506.15831v2)** | 2025-06-29 | <details><summary>Exten...</summary><p>Extended version (to be updated)</p></details> |
-| **[Deep Learning in Mild Cognitive Impairment Diagnosis using Eye Movements and Image Content in Visual Memory Tasks](http://arxiv.org/abs/2506.23016v1)** | 2025-06-28 | 13 pages, 5 figures |
-| **[Foundation Models for Wearable Movement Data in Mental Health Research](http://arxiv.org/abs/2411.15240v4)** | 2025-06-28 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quasi-symbolic Semantic Geometry over Transformer-based Variational AutoEncoder](http://arxiv.org/abs/2210.06230v3)** | 2025-07-01 | <details><summary>CoNLL...</summary><p>CoNLL2025 (Best Paper nomination)</p></details> |
 | **[Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system](http://arxiv.org/abs/2506.23926v1)** | 2025-06-30 |  |
 | **[Scaling Self-Supervised Representation Learning for Symbolic Piano Performance](http://arxiv.org/abs/2506.23869v1)** | 2025-06-30 | ISMIR (2025) |
 | **[Evaluating K-Fold Cross Validation for Transformer Based Symbolic Regression Models](http://arxiv.org/abs/2410.21896v2)** | 2025-06-30 |  |
@@ -97,7 +98,6 @@ labels: documentation
 | **[Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection](http://arxiv.org/abs/2506.21093v1)** | 2025-06-26 |  |
 | **[H-FEX: A Symbolic Learning Method for Hamiltonian Systems](http://arxiv.org/abs/2506.20607v1)** | 2025-06-25 | 16 pages, 7 figures |
 | **[PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models](http://arxiv.org/abs/2506.20097v1)** | 2025-06-25 |  |
-| **[The Shape of Consumer Behavior: A Symbolic and Topological Analysis of Time Series](http://arxiv.org/abs/2506.19759v1)** | 2025-06-24 | 33 pages, 30 figures |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
