@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 05, 2025
+title: Latest 15 Papers - July 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -34,13 +34,13 @@ labels: documentation
 | **[Improving Constrained Generation in Language Models via Self-Distilled Twisted Sequential Monte Carlo](http://arxiv.org/abs/2507.02315v1)** | 2025-07-03 |  |
 | **[Data Diversification Methods In Alignment Enhance Math Performance In LLMs](http://arxiv.org/abs/2507.02173v1)** | 2025-07-02 |  |
 | **[APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search](http://arxiv.org/abs/2507.01827v1)** | 2025-07-02 |  |
+| **[Solving the Poisson equation using coupled Markov chains](http://arxiv.org/abs/2206.05691v4)** | 2025-07-02 |  |
 | **[A novel number-theoretic sampling method for neural network solutions of partial differential equations](http://arxiv.org/abs/2411.17039v7)** | 2025-07-02 |  |
 | **[A modified Cayley transform for SU(3) molecular dynamics simulations](http://arxiv.org/abs/2406.11337v2)** | 2025-07-02 | 15 pages, 4 figures |
 | **[Improving Consistency Models with Generator-Augmented Flows](http://arxiv.org/abs/2406.09570v4)** | 2025-07-02 |  |
 | **[A Real-Time Digital Twin for Type 1 Diabetes using Simulation-Based Inference](http://arxiv.org/abs/2507.01740v1)** | 2025-07-02 |  |
 | **[Machine Learning Based Stress Testing Framework for Indian Financial Market Portfolios](http://arxiv.org/abs/2507.02011v1)** | 2025-07-02 |  |
 | **[Active Measurement: Efficient Estimation at Scale](http://arxiv.org/abs/2507.01372v1)** | 2025-07-02 |  |
-| **[Counterfactual Explanation of Shapley Value in Data Coalitions](http://arxiv.org/abs/2507.01267v1)** | 2025-07-02 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
