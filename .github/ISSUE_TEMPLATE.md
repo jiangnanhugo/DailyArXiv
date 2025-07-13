@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2025
+title: Latest 15 Papers - July 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -12,16 +12,6 @@ labels: documentation
 | **[Finding One Local Optimum Is Easy -- But What about Two?](http://arxiv.org/abs/2507.07524v1)** | 2025-07-10 | 15 pages |
 | **[Cons-training Tensor Networks: Embedding and Optimization Over Discrete Linear Constraints](http://arxiv.org/abs/2405.09005v5)** | 2025-07-09 |  |
 | **[Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics](http://arxiv.org/abs/2502.08696v3)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
-| **[Dataless Neural Networks for Resource-Constrained Project Scheduling](http://arxiv.org/abs/2507.05322v1)** | 2025-07-07 | <details><summary>9 pag...</summary><p>9 pages, 1 figure. Introduces dataless neural networks for resource-constrained project scheduling</p></details> |
-| **[Structure As Search: Unsupervised Permutation Learning for Combinatorial Optimization](http://arxiv.org/abs/2507.04164v1)** | 2025-07-05 |  |
-| **[Combination generators with optimal cache utilization and communication free parallel execution](http://arxiv.org/abs/2507.03980v1)** | 2025-07-05 |  |
-| **[Large Language Models for Combinatorial Optimization: A Systematic Review](http://arxiv.org/abs/2507.03637v1)** | 2025-07-04 |  |
-| **[Improved Approximation Algorithms for Capacitated Vehicle Routing with Fixed Capacity](http://arxiv.org/abs/2210.16534v3)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in MFCS 2025</p></details> |
-| **[LRM-1B: Towards Large Routing Model](http://arxiv.org/abs/2507.03300v1)** | 2025-07-04 |  |
-| **[Discovering Algorithms with Computational Language Processing](http://arxiv.org/abs/2507.03190v1)** | 2025-07-03 | 21 pages |
-| **[Offline Reinforcement Learning for Learning to Dispatch for Job Shop Scheduling](http://arxiv.org/abs/2409.10589v4)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted in Machine Learning</p></details> |
-| **[Robust feedback-based quantum optimization: analysis of coherent control errors](http://arxiv.org/abs/2507.02532v1)** | 2025-07-03 |  |
-| **[Running-time Analysis of ($μ+λ$) Evolutionary Combinatorial Optimization Based on Multiple-gain Estimation](http://arxiv.org/abs/2507.02381v1)** | 2025-07-03 |  |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
