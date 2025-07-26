@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2025
+title: Latest 15 Papers - July 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -32,15 +32,6 @@ labels: documentation
 | **[Bayesian Active Learning of (small) Quantile Sets through Expected Estimator Modification](http://arxiv.org/abs/2506.13211v2)** | 2025-07-24 |  |
 | **[Distributional Uncertainty for Out-of-Distribution Detection](http://arxiv.org/abs/2507.18106v1)** | 2025-07-24 | <details><summary>6 pag...</summary><p>6 pages , 3 figures , IEEE International Conference on Advanced Visual and Signal-Based Systems</p></details> |
 | **[Tuning Sequential Monte Carlo Samplers via Greedy Incremental Divergence Minimization](http://arxiv.org/abs/2503.15704v4)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICML'25; v4: fixed typos</p></details> |
-| **[Chemical reasoning in LLMs unlocks strategy-aware synthesis planning and reaction mechanism elucidation](http://arxiv.org/abs/2503.08537v2)** | 2025-07-23 |  |
-| **[Neuromorphic Computing: A Theoretical Framework for Time, Space, and Energy Scaling](http://arxiv.org/abs/2507.17886v1)** | 2025-07-23 | <details><summary>True ...</summary><p>True pre-print; to be submitted at future date</p></details> |
-| **[Time Deep Gradient Flow Method for pricing American options](http://arxiv.org/abs/2507.17606v1)** | 2025-07-23 | 13 pages, 6 figures |
-| **[Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems](http://arxiv.org/abs/2507.17509v1)** | 2025-07-23 | 18 pages, 4 figures |
-| **[Joint Multi-Target Detection-Tracking in Cognitive Massive MIMO Radar via POMCP](http://arxiv.org/abs/2507.17506v1)** | 2025-07-23 |  |
-| **[Analysing Models for Volatility Clustering with Subordinated Processes: VGSA and Beyond](http://arxiv.org/abs/2507.17431v1)** | 2025-07-23 |  |
-| **[Machine Learning-Based Modeling of the Anode Heel Effect in X-ray Beam Monte Carlo Simulations](http://arxiv.org/abs/2504.19155v2)** | 2025-07-23 | 15 pages, 8 figures |
-| **[An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning](http://arxiv.org/abs/2503.02382v2)** | 2025-07-23 |  |
-| **[MCMC Importance Sampling via Moreau-Yosida Envelopes](http://arxiv.org/abs/2501.02228v2)** | 2025-07-23 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
