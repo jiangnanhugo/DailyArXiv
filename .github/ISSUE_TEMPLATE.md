@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 26, 2025
+title: Latest 15 Papers - July 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -32,6 +32,15 @@ labels: documentation
 | **[Bayesian Active Learning of (small) Quantile Sets through Expected Estimator Modification](http://arxiv.org/abs/2506.13211v2)** | 2025-07-24 |  |
 | **[Distributional Uncertainty for Out-of-Distribution Detection](http://arxiv.org/abs/2507.18106v1)** | 2025-07-24 | <details><summary>6 pag...</summary><p>6 pages , 3 figures , IEEE International Conference on Advanced Visual and Signal-Based Systems</p></details> |
 | **[Tuning Sequential Monte Carlo Samplers via Greedy Incremental Divergence Minimization](http://arxiv.org/abs/2503.15704v4)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICML'25; v4: fixed typos</p></details> |
+| **[Chemical reasoning in LLMs unlocks strategy-aware synthesis planning and reaction mechanism elucidation](http://arxiv.org/abs/2503.08537v2)** | 2025-07-23 |  |
+| **[Neuromorphic Computing: A Theoretical Framework for Time, Space, and Energy Scaling](http://arxiv.org/abs/2507.17886v1)** | 2025-07-23 | <details><summary>True ...</summary><p>True pre-print; to be submitted at future date</p></details> |
+| **[Time Deep Gradient Flow Method for pricing American options](http://arxiv.org/abs/2507.17606v1)** | 2025-07-23 | 13 pages, 6 figures |
+| **[Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems](http://arxiv.org/abs/2507.17509v1)** | 2025-07-23 | 18 pages, 4 figures |
+| **[Joint Multi-Target Detection-Tracking in Cognitive Massive MIMO Radar via POMCP](http://arxiv.org/abs/2507.17506v1)** | 2025-07-23 |  |
+| **[Analysing Models for Volatility Clustering with Subordinated Processes: VGSA and Beyond](http://arxiv.org/abs/2507.17431v1)** | 2025-07-23 |  |
+| **[Machine Learning-Based Modeling of the Anode Heel Effect in X-ray Beam Monte Carlo Simulations](http://arxiv.org/abs/2504.19155v2)** | 2025-07-23 | 15 pages, 8 figures |
+| **[An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning](http://arxiv.org/abs/2503.02382v2)** | 2025-07-23 |  |
+| **[MCMC Importance Sampling via Moreau-Yosida Envelopes](http://arxiv.org/abs/2501.02228v2)** | 2025-07-23 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -56,6 +65,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[State of Health Estimation of Batteries Using a Time-Informed Dynamic Sequence-Inverted Transformer](http://arxiv.org/abs/2507.18320v1)** | 2025-07-24 | 11 pages, 3 figures |
+| **[Local Polynomial Estimation of Time-Varying Parameters in Nonlinear Models](http://arxiv.org/abs/1904.05209v3)** | 2025-07-24 |  |
 | **[DisMS-TS: Eliminating Redundant Multi-Scale Features for Time Series Classification](http://arxiv.org/abs/2507.04600v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the ACM International Conference on Multimedia (ACM MM 2025)</p></details> |
 | **[Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation](http://arxiv.org/abs/2506.11790v2)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted at TempXAI Workshop @ ECML-PKDD 2025 (Explainable AI for Time Series and Data Streams)</p></details> |
 | **[Cloud gap-filling with deep learning for improved grassland monitoring](http://arxiv.org/abs/2403.09554v2)** | 2025-07-24 | <details><summary>Publi...</summary><p>Published in Computers and Electronics in Agriculture</p></details> |
@@ -69,7 +79,6 @@ labels: documentation
 | **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v3)** | 2025-07-23 |  |
 | **[Mapping of Weed Management Methods in Orchards using Sentinel-2 and PlanetScope Data](http://arxiv.org/abs/2504.19991v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)</p></details> |
 | **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](http://arxiv.org/abs/2507.17454v1)** | 2025-07-23 |  |
-| **[Monitoring digestate application on agricultural crops using Sentinel-2 Satellite imagery](http://arxiv.org/abs/2504.19996v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)</p></details> |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
