@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2025
+title: Latest 15 Papers - August 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -35,12 +35,6 @@ labels: documentation
 | **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
 | **[Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining](http://arxiv.org/abs/2505.11122v2)** | 2025-07-31 |  |
 | **[Exploiting Scale-Variant Attention for Segmenting Small Medical Objects](http://arxiv.org/abs/2407.07720v5)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, under review</p></details> |
-| **[A CPFSK Transceiver with Hybrid CSS-DSSS Spreading for LPWAN PHY Communication](http://arxiv.org/abs/2507.23029v1)** | 2025-07-30 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, and 4 tables. To appear in IEEE Internet of Things Journal</p></details> |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Group Sequential Design with Posterior and Posterior Predictive Probabilities](http://arxiv.org/abs/2504.00856v2)** | 2025-07-30 |  |
-| **[Jackknife Empirical Likelihood Ratio Test for Cauchy Distribution](http://arxiv.org/abs/2409.05764v2)** | 2025-07-30 | 15 pages |
-| **[MLMC-based Resource Adequacy Assessment with Active Learning Trained Surrogate Models](http://arxiv.org/abs/2505.20930v2)** | 2025-07-30 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table</p></details> |
-| **[Hamiltonian Expressibility for Ansatz Selection in Variational Quantum Algorithms](http://arxiv.org/abs/2507.22550v1)** | 2025-07-30 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
