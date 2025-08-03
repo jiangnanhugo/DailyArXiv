@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2025
+title: Latest 15 Papers - August 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -27,14 +27,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Control Charts for Percentiles of Truncated Beta Distributed Environmental Data Using Studentized Bootstrap Method](http://arxiv.org/abs/2507.23732v1)** | 2025-07-31 |  |
-| **[OptiGradTrust: Byzantine-Robust Federated Learning with Multi-Feature Gradient Analysis and Reinforcement Learning-Based Trust Weighting](http://arxiv.org/abs/2507.23638v1)** | 2025-07-31 |  |
-| **[MemoCue: Empowering LLM-Based Agents for Human Memory Recall via Strategy-Guided Querying](http://arxiv.org/abs/2507.23633v1)** | 2025-07-31 |  |
-| **[DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search](http://arxiv.org/abs/2507.07426v3)** | 2025-07-31 |  |
-| **[Approximating optimal SMC proposal distributions in individual-based epidemic models](http://arxiv.org/abs/2206.05161v3)** | 2025-07-31 |  |
-| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
-| **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
-| **[Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining](http://arxiv.org/abs/2505.11122v2)** | 2025-07-31 |  |
-| **[Exploiting Scale-Variant Attention for Segmenting Small Medical Objects](http://arxiv.org/abs/2407.07720v5)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, under review</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
