@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2025
+title: Latest 15 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -107,14 +107,4 @@ labels: documentation
 | **[Probabilistic Inference for Datalog with Correlated Inputs](http://arxiv.org/abs/2508.15166v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted for publication at OOPSLA 2025 (R2)</p></details> |
 | **[Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model](http://arxiv.org/abs/2410.03136v4)** | 2025-08-20 | ACL25 (main) |
 | **[LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning](http://arxiv.org/abs/2406.05881v5)** | 2025-08-19 |  |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
-| **[PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models](http://arxiv.org/abs/2508.13021v2)** | 2025-08-19 | 17 pages,13 figures |
-| **[EvolMathEval: Towards Evolvable Benchmarks for Mathematical Reasoning via Evolutionary Testing](http://arxiv.org/abs/2508.13003v1)** | 2025-08-18 |  |
-| **[From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation](http://arxiv.org/abs/2508.10118v2)** | 2025-08-18 |  |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](http://arxiv.org/abs/2508.12726v1)** | 2025-08-18 |  |
-| **[Vision-G1: Towards General Vision Language Reasoning with Multi-Domain Data Curation](http://arxiv.org/abs/2508.12680v1)** | 2025-08-18 |  |
-| **[Non-Iterative Symbolic-Aided Chain-of-Thought for Logical Reasoning](http://arxiv.org/abs/2508.12425v1)** | 2025-08-17 |  |
-| **[Thyme: Think Beyond Images](http://arxiv.org/abs/2508.11630v1)** | 2025-08-15 | <details><summary>Proje...</summary><p>Project page: https://thyme-vl.github.io/</p></details> |
-| **[ASP-Completeness Proofs of Puzzles Using the T-Metacell Framework](http://arxiv.org/abs/2508.11570v1)** | 2025-08-15 | 15 pages, 19 figures |
-| **[NAVER: A Neuro-Symbolic Compositional Automaton for Visual Grounding with Explicit Logic Reasoning](http://arxiv.org/abs/2502.00372v3)** | 2025-08-14 | ICCV 2025 |
 
