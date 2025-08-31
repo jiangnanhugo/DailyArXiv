@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 30, 2025
+title: Latest 15 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -34,13 +34,13 @@ labels: documentation
 | **[A Hybrid Artificial Intelligence Method for Estimating Flicker in Power Systems (Changes are marked)](http://arxiv.org/abs/2506.13611v2)** | 2025-08-28 | <details><summary>31 pa...</summary><p>31 pages, 12 figures, and 6 tables</p></details> |
 | **[Automated Algorithmic Discovery for Gravitational-Wave Detection Guided by LLM-Informed Evolutionary Monte Carlo Tree Search](http://arxiv.org/abs/2508.03661v2)** | 2025-08-28 | <details><summary>79 pa...</summary><p>79 pages (29 main), with 6+6 figures and 2 tables, presenting a more concise and updated manuscript</p></details> |
 | **[Precoded Polar Product Decoder Based on Soft-Output SCL Decoding and Maximization of Generalized Mutual Information](http://arxiv.org/abs/2508.20580v1)** | 2025-08-28 | <details><summary>5 pag...</summary><p>5 pages, presented at ISTC 2025</p></details> |
+| **[Scale-invariant Monte Carlo and multilevel Monte Carlo estimation of mean and variance: An application to simulation of linear elastic bone tissue](http://arxiv.org/abs/2106.13723v3)** | 2025-08-28 |  |
 | **[Numerical Method for Space-Time Fractional Diffusion: A Stochastic Approach](http://arxiv.org/abs/2508.20361v1)** | 2025-08-28 |  |
 | **[Joint Enhancement of Relational Reasoning for Long-Context LLMs](http://arxiv.org/abs/2508.20351v1)** | 2025-08-28 | <details><summary>9 pag...</summary><p>9 pages, 5 pages Accepted by EMNLP 2025 Findings</p></details> |
 | **[Multi-Order Monte Carlo IMEX hierarchies for uncertainty quantification in multiscale hyperbolic systems](http://arxiv.org/abs/2508.20187v1)** | 2025-08-27 |  |
 | **[Neural Conditional Simulation for Complex Spatial Processes](http://arxiv.org/abs/2508.20067v1)** | 2025-08-27 | 59 pages, 11 figures |
 | **[Scalable Bayesian Structure Learning for Gaussian Graphical Models Using Marginal Pseudo-likelihood](http://arxiv.org/abs/2307.00127v4)** | 2025-08-27 | 39 pages |
 | **[Regularity and tailored regularization of Deep Neural Networks, with application to parametric PDEs in uncertainty quantification](http://arxiv.org/abs/2502.12496v2)** | 2025-08-27 |  |
-| **[Conditional Normalizing Flow Surrogate for Monte Carlo Prediction of Radiative Properties in Nanoparticle-Embedded Layers](http://arxiv.org/abs/2508.19841v1)** | 2025-08-27 | <details><summary>Versi...</summary><p>Version of record (publishers PDF) from META 2025 (CC BY). Please cite the proceedings</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
