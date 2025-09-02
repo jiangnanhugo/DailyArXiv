@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -14,6 +14,14 @@ labels: documentation
 | **[Harnessing the edge of chaos for combinatorial optimization](http://arxiv.org/abs/2508.17655v2)** | 2025-08-26 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 3 tables</p></details> |
 | **[Partitioned Combinatorial Optimization Games](http://arxiv.org/abs/2508.18449v1)** | 2025-08-25 | <details><summary>Exten...</summary><p>Extended abstract accepted at ECAI 2025</p></details> |
 | **[Exact Optimization for Minimum Dominating Sets](http://arxiv.org/abs/2508.18256v1)** | 2025-08-25 |  |
+| **[Simulation Based Bayesian Optimization](http://arxiv.org/abs/2401.10811v3)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted in Statistics and Computing</p></details> |
+| **[Decomposed Quadratization: Efficient QUBO Formulation for Learning Bayesian Network](http://arxiv.org/abs/2006.06926v8)** | 2025-08-24 | <details><summary>15 pa...</summary><p>15 pages, 5 tables, 2 figures, AAAI2025</p></details> |
+| **[e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](http://arxiv.org/abs/2508.13020v2)** | 2025-08-23 | <details><summary>Accep...</summary><p>Accepted by ICCAD 2025</p></details> |
+| **[A Diffusion Model Framework for Unsupervised Neural Combinatorial Optimization](http://arxiv.org/abs/2406.01661v3)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted at ICML 2024</p></details> |
+| **[CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization](http://arxiv.org/abs/2504.04310v3)** | 2025-08-22 |  |
+| **[SPL-LNS: Sampling-Enhanced Large Neighborhood Search for Solving Integer Linear Programs](http://arxiv.org/abs/2508.16171v1)** | 2025-08-22 |  |
+| **[Fast globally optimal Truncated Least Squares point cloud registration with fixed rotation axis](http://arxiv.org/abs/2508.15613v1)** | 2025-08-21 |  |
+| **[On Connections Between Association Schemes and Analyses of Polyhedral and Positive Semidefinite Lift-and-Project Relaxations](http://arxiv.org/abs/2008.08628v4)** | 2025-08-20 |  |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
