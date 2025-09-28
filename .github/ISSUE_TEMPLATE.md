@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2025
+title: Latest 15 Papers - September 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -48,25 +48,23 @@ labels: documentation
 | **[EconProver: Towards More Economical Test-Time Scaling for Automated Theorem Proving](http://arxiv.org/abs/2509.12603v1)** | 2025-09-16 |  |
 | **[CDsampling: An R Package for Constrained D-Optimal Sampling in Paid Research Studies](http://arxiv.org/abs/2410.20606v4)** | 2025-08-31 |  |
 | **[Piecewise Deterministic Sampling for Constrained Distributions](http://arxiv.org/abs/2508.05462v1)** | 2025-08-07 | 32 pages, 6 figures |
+| **[Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI](http://arxiv.org/abs/2507.11401v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE International Conference on Quantum Computing and Engineering (QCE) 2025</p></details> |
+| **[Accelerating Constrained Sampling: A Large Deviations Approach](http://arxiv.org/abs/2506.07816v2)** | 2025-07-13 | 48 pages, 7 figures |
+| **[CSC-MPPI: A Novel Constrained MPPI Framework with DBSCAN for Reliable Obstacle Avoidance](http://arxiv.org/abs/2506.16386v2)** | 2025-07-13 |  |
+| **[Constrained Sampling for Language Models Should Be Easy: An MCMC Perspective](http://arxiv.org/abs/2506.05754v1)** | 2025-06-06 |  |
+| **[Chance-Constrained Sampling-Based MPC for Collision Avoidance in Uncertain Dynamic Environments](http://arxiv.org/abs/2501.08520v2)** | 2025-05-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), May 2025. It comprises 9 pages, 3 figures, and 7 tables</p></details> |
+| **[Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification](http://arxiv.org/abs/2405.04095v3)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted to appear at ACM CCS 2025</p></details> |
+| **[CONCORD: Concept-Informed Diffusion for Dataset Distillation](http://arxiv.org/abs/2505.18358v1)** | 2025-05-23 |  |
+| **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](http://arxiv.org/abs/2505.13667v2)** | 2025-05-21 |  |
+| **[The adaptive complexity of parallelized log-concave sampling](http://arxiv.org/abs/2408.13045v2)** | 2025-05-19 |  |
+| **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](http://arxiv.org/abs/2505.11265v1)** | 2025-05-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, submitted to an IEEE journal</p></details> |
+| **[Guiding Evolutionary AutoEncoder Training with Activation-Based Pruning Operators](http://arxiv.org/abs/2505.05138v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted to The Genetic and Evolutionary Computation Conference (GECCO 2025)</p></details> |
+| **[Non-Reversible Langevin Algorithms for Constrained Sampling](http://arxiv.org/abs/2501.11743v2)** | 2025-04-15 | <details><summary>35 pa...</summary><p>35 pages, 9 figures, typos corrected</p></details> |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Clustering methods for Categorical Time Series and Sequences : A scoping review](http://arxiv.org/abs/2509.07885v3)** | 2025-09-25 |  |
-| **[ML-PWS: Estimating the Mutual Information Between Experimental Time Series Using Neural Networks](http://arxiv.org/abs/2508.16509v2)** | 2025-09-25 | 9 pages, 2 figures |
-| **[Towards Foundation Models for Zero-Shot Time Series Anomaly Detection: Leveraging Synthetic Data and Relative Context Discrepancy](http://arxiv.org/abs/2509.21190v1)** | 2025-09-25 |  |
-| **[Benchmarking for Practice: Few-Shot Time-Series Crop-Type Classification on the EuroCropsML Dataset](http://arxiv.org/abs/2504.11022v2)** | 2025-09-25 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, 20 tables</p></details> |
-| **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v2)** | 2025-09-25 |  |
-| **[Lossless Compression: A New Benchmark for Time Series Model Evaluation](http://arxiv.org/abs/2509.21002v1)** | 2025-09-25 | 24 pages |
-| **[R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](http://arxiv.org/abs/2505.15155v2)** | 2025-09-25 | <details><summary>42 pa...</summary><p>42 pages,11figures, NeurIPS 2025</p></details> |
-| **[Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting](http://arxiv.org/abs/2509.20942v1)** | 2025-09-25 |  |
-| **[GenFacts-Generative Counterfactual Explanations for Multi-Variate Time Series](http://arxiv.org/abs/2509.20936v1)** | 2025-09-25 | 5 pages |
-| **[A Deep Learning Framework for Evaluating Dynamic Network Generative Models and Anomaly Detection](http://arxiv.org/abs/2406.11901v2)** | 2025-09-25 |  |
-| **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.20928v1)** | 2025-09-25 |  |
-| **[OLMA: One Loss for More Accurate Time Series Forecasting](http://arxiv.org/abs/2505.11567v2)** | 2025-09-25 |  |
-| **[Time series saliency maps: explaining models across multiple domains](http://arxiv.org/abs/2505.13100v2)** | 2025-09-25 |  |
-| **[Federated Markov Imputation: Privacy-Preserving Temporal Imputation in Multi-Centric ICU Environments](http://arxiv.org/abs/2509.20867v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the 1st International ECML-PKDD Workshop-Tutorial on Learning on Real and Synthetic Medical Time Series Data (MED-TIME)</p></details> |
-| **[Causal Time Series Generation via Diffusion Models](http://arxiv.org/abs/2509.20846v1)** | 2025-09-25 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
