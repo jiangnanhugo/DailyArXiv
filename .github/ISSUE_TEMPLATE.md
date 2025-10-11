@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 10, 2025
+title: Latest 15 Papers - October 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,11 @@ labels: documentation
 | **[Accelerating Constrained Sampling: A Large Deviations Approach](http://arxiv.org/abs/2506.07816v2)** | 2025-07-13 | 48 pages, 7 figures |
 | **[CSC-MPPI: A Novel Constrained MPPI Framework with DBSCAN for Reliable Obstacle Avoidance](http://arxiv.org/abs/2506.16386v2)** | 2025-07-13 |  |
 | **[Constrained Sampling for Language Models Should Be Easy: An MCMC Perspective](http://arxiv.org/abs/2506.05754v1)** | 2025-06-06 |  |
+| **[Chance-Constrained Sampling-Based MPC for Collision Avoidance in Uncertain Dynamic Environments](http://arxiv.org/abs/2501.08520v2)** | 2025-05-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Robotics and Automation Letters (RA-L), May 2025. It comprises 9 pages, 3 figures, and 7 tables</p></details> |
+| **[Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification](http://arxiv.org/abs/2405.04095v3)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted to appear at ACM CCS 2025</p></details> |
+| **[CONCORD: Concept-Informed Diffusion for Dataset Distillation](http://arxiv.org/abs/2505.18358v1)** | 2025-05-23 |  |
+| **[The adaptive complexity of parallelized log-concave sampling](http://arxiv.org/abs/2408.13045v2)** | 2025-05-19 |  |
+| **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](http://arxiv.org/abs/2505.11265v1)** | 2025-05-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, submitted to an IEEE journal</p></details> |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
