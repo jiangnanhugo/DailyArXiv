@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Combinatorial Optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Review on Quantum Circuit Optimization using ZX-Calculus](http://arxiv.org/abs/2509.20663v4)** | 2025-10-13 | <details><summary>Fixed...</summary><p>Fixed typos found by: Yiming Zhang, Chenbo Xi, and Timothy Chan</p></details> |
+| **[Hot-Starting Quantum Portfolio Optimization](http://arxiv.org/abs/2510.11153v1)** | 2025-10-13 |  |
+| **[Generalization Bounds of Surrogate Policies for Combinatorial Optimization Problems](http://arxiv.org/abs/2407.17200v2)** | 2025-10-11 | <details><summary>24 pa...</summary><p>24 pages main document, 3 pages supplement. Minor changes, more comments on UW</p></details> |
 | **[Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks](http://arxiv.org/abs/2310.07979v3)** | 2025-10-09 |  |
 | **[A Denoising Diffusion-Based Evolutionary Algorithm Framework: Application to the Maximum Independent Set Problem](http://arxiv.org/abs/2510.08627v1)** | 2025-10-08 | <details><summary>11 pa...</summary><p>11 pages, code available in https://github.com/jsalvasoler/difusco_ddea</p></details> |
 | **[Lagrange Oscillatory Neural Networks for Constraint Satisfaction and Optimization](http://arxiv.org/abs/2505.07179v2)** | 2025-10-07 |  |
@@ -15,36 +18,34 @@ labels: documentation
 | **[PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization](http://arxiv.org/abs/2402.14048v2)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
 | **[Streaming Max-Cut in General Metrics](http://arxiv.org/abs/2510.04435v1)** | 2025-10-06 |  |
 | **[Approximation schemes for capacity vehicle routing problems: A survey](http://arxiv.org/abs/2306.01826v4)** | 2025-10-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[A Review on Quantum Circuit Optimization using ZX-Calculus](http://arxiv.org/abs/2509.20663v3)** | 2025-10-05 |  |
 | **[MG2FlowNet: Accelerating High-Reward Sample Generation via Enhanced MCTS and Greediness Control](http://arxiv.org/abs/2510.00805v2)** | 2025-10-04 |  |
 | **[Evaluating LLMs for Combinatorial Optimization: One-Phase and Two-Phase Heuristics for 2D Bin-Packing](http://arxiv.org/abs/2509.22255v3)** | 2025-10-02 | <details><summary>1 tab...</summary><p>1 table, 6 figures. 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Accepted for the Workshop: Evaluating the Evolving LLM Lifecycle Benchmarks, Emergent Abilities, and Scaling</p></details> |
 | **[Short circuit walks in fixed dimension](http://arxiv.org/abs/2510.01916v1)** | 2025-10-02 | 27 pages |
 | **[Black-Box Combinatorial Optimization with Order-Invariant Reinforcement Learning](http://arxiv.org/abs/2510.01824v1)** | 2025-10-02 |  |
-| **[Adaptive Reinforcement Learning for Dynamic Configuration Allocation in Pre-Production Testing](http://arxiv.org/abs/2510.05147v1)** | 2025-10-02 |  |
-| **[Quantum advantages in ground state preparation, combinatorial optimization, and quantum state preparation](http://arxiv.org/abs/2510.01563v1)** | 2025-10-02 |  |
 
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Level Hybrid Monte Carlo / Deterministic Methods for Particle Transport Problems](http://arxiv.org/abs/2510.09545v1)** | 2025-10-10 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 15 tables</p></details> |
-| **[Critical States Identiffcation in Power System via Lattice Partition and Its Application in Reliability Assessment](http://arxiv.org/abs/2510.09420v1)** | 2025-10-10 |  |
-| **[Reliability Sensitivity with Response Gradient](http://arxiv.org/abs/2510.09315v1)** | 2025-10-10 | <details><summary>45 pa...</summary><p>45 pages, 8 figures. Submitted to Structural Safety (Elsevier) on 5 Oct 2025</p></details> |
-| **[Hierarchical autoregressive neural networks in three-dimensional statistical system](http://arxiv.org/abs/2503.08610v2)** | 2025-10-10 | 19 pages, 8 figures |
-| **[Solving Linear-Gaussian Bayesian Inverse Problems with Decoupled Diffusion Sequential Monte Carlo](http://arxiv.org/abs/2502.06379v3)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2025, official PMLR proceedings can be found at https://proceedings.mlr.press/v267/ekstrom-kelvinius25b.html. Code available at https://github.com/filipekstrm/ddsmc</p></details> |
-| **[Sequential Monte Carlo for Policy Optimization in Continuous POMDPs](http://arxiv.org/abs/2505.16732v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[MCMC: Bridging Rendering, Optimization and Generative AI](http://arxiv.org/abs/2510.09078v1)** | 2025-10-10 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2024 Courses. arXiv admin note: text overlap with arXiv:2208.11970 by other authors</p></details> |
-| **[Constraints-of-Thought: A Framework for Constrained Reasoning in Language-Model-Guided Search](http://arxiv.org/abs/2510.08992v1)** | 2025-10-10 |  |
-| **[Generalized Probabilistic Approximate Optimization Algorithm](http://arxiv.org/abs/2507.07420v2)** | 2025-10-10 |  |
-| **[ConjNorm: Tractable Density Estimation for Out-of-Distribution Detection](http://arxiv.org/abs/2402.17888v2)** | 2025-10-10 | ICLR24 poster |
-| **[IG-MCTS: Human-in-the-Loop Cooperative Navigation under Incomplete Information](http://arxiv.org/abs/2502.01857v2)** | 2025-10-09 |  |
-| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](http://arxiv.org/abs/2510.08554v1)** | 2025-10-09 |  |
-| **[BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving](http://arxiv.org/abs/2502.03438v3)** | 2025-10-09 |  |
-| **[Efficient Prompt Optimisation for Legal Text Classification with Proxy Prompt Evaluator](http://arxiv.org/abs/2510.08524v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NLLP@EMNLP 2025</p></details> |
-| **[AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents](http://arxiv.org/abs/2510.08511v1)** | 2025-10-09 |  |
+| **[Reinforced sequential Monte Carlo for amortised sampling](http://arxiv.org/abs/2510.11711v1)** | 2025-10-13 | <details><summary>code:...</summary><p>code: https://github.com/hyeok9855/gfn-smc-jax</p></details> |
+| **[Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](http://arxiv.org/abs/2510.11683v1)** | 2025-10-13 |  |
+| **[StatTestCalculator: A New General Tool for Statistical Analysis in High Energy Physics](http://arxiv.org/abs/2510.11637v1)** | 2025-10-13 |  |
+| **[Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation](http://arxiv.org/abs/2510.11620v1)** | 2025-10-13 |  |
+| **[People use fast, flat goal-directed simulation to reason about novel problems](http://arxiv.org/abs/2510.11503v1)** | 2025-10-13 | Pre-print |
+| **[Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets](http://arxiv.org/abs/2504.19981v3)** | 2025-10-13 |  |
+| **[Machine Learning-Integrated Hybrid Fluid-Kinetic Framework for Quantum Electrodynamic Laser Plasma Simulations](http://arxiv.org/abs/2510.11174v1)** | 2025-10-13 |  |
+| **[Structured Generative Modeling with the Thermodynamic Kolmogorov-Arnold Model](http://arxiv.org/abs/2506.14167v4)** | 2025-10-13 |  |
+| **[Learning Neural Pushforward Samplers for Distributions from Fokker-Planck Equations by Weak Adversarial Training](http://arxiv.org/abs/2509.14575v4)** | 2025-10-13 | 10 pages, 2 figures |
+| **[Efficient Approximate Posterior Sampling with Annealed Langevin Monte Carlo](http://arxiv.org/abs/2508.07631v2)** | 2025-10-13 |  |
+| **[On function-on-function linear quantile regression](http://arxiv.org/abs/2510.10792v1)** | 2025-10-12 | <details><summary>38 pa...</summary><p>38 pages, 12 figures, 2 tables</p></details> |
+| **[Modelling Territorial Dynamics through Statistical Mechanics: An Application to Resident Foreign Population](http://arxiv.org/abs/2510.10784v1)** | 2025-10-12 | <details><summary>First...</summary><p>First version. Preprint; comments welcome</p></details> |
+| **[LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](http://arxiv.org/abs/2505.19223v2)** | 2025-10-12 |  |
+| **[Density-valued time series: Nonparametric density-on-density regression](http://arxiv.org/abs/2503.22904v2)** | 2025-10-12 | <details><summary>47 pa...</summary><p>47 pages, 10 figures, 2 tables</p></details> |
+| **[Risk-Budgeted Control Framework for Balanced Performance and Safety in Autonomous Vehicles](http://arxiv.org/abs/2510.10442v1)** | 2025-10-12 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAFER: Risk-Constrained Sample-then-Filter in Large Language Models](http://arxiv.org/abs/2510.10193v1)** | 2025-10-11 |  |
 | **[Constrained Dikin-Langevin diffusion for polyhedra](http://arxiv.org/abs/2510.04582v2)** | 2025-10-07 |  |
 | **[Fast constrained sampling in pre-trained diffusion models](http://arxiv.org/abs/2410.18804v3)** | 2025-10-06 |  |
 | **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](http://arxiv.org/abs/2505.13667v4)** | 2025-10-01 |  |
@@ -59,30 +60,37 @@ labels: documentation
 | **[Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification](http://arxiv.org/abs/2405.04095v3)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted to appear at ACM CCS 2025</p></details> |
 | **[CONCORD: Concept-Informed Diffusion for Dataset Distillation](http://arxiv.org/abs/2505.18358v1)** | 2025-05-23 |  |
 | **[The adaptive complexity of parallelized log-concave sampling](http://arxiv.org/abs/2408.13045v2)** | 2025-05-19 |  |
-| **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](http://arxiv.org/abs/2505.11265v1)** | 2025-05-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, submitted to an IEEE journal</p></details> |
 
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STaTS: Structure-Aware Temporal Sequence Summarization via Statistical Window Merging](http://arxiv.org/abs/2510.09593v1)** | 2025-10-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables. Under Review</p></details> |
-| **[CarbonX: An Open-Source Tool for Computational Decarbonization Using Time Series Foundation Models](http://arxiv.org/abs/2510.01521v2)** | 2025-10-10 | <details><summary>Updat...</summary><p>Update: Corrected PDF rendering error on page 10 (caption of Figure 5 was previously overlapping with paper text)</p></details> |
-| **[Automated Evolutionary Optimization for Resource-Efficient Neural Network Training](http://arxiv.org/abs/2510.09566v1)** | 2025-10-10 |  |
-| **[Generalized Taylor's Law for Dependent and Heterogeneous Heavy-Tailed Data](http://arxiv.org/abs/2510.09562v1)** | 2025-10-10 |  |
-| **[Titans Revisited: A Lightweight Reimplementation and Critical Analysis of a Test-Time Memory Model](http://arxiv.org/abs/2510.09551v1)** | 2025-10-10 |  |
-| **[CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models](http://arxiv.org/abs/2505.16620v2)** | 2025-10-10 | NeurIPS 2025 |
-| **[DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches](http://arxiv.org/abs/2509.05663v2)** | 2025-10-10 | <details><summary>Submi...</summary><p>Submitted to the Information Sciences journal</p></details> |
-| **[Sequencing on Silicon: AI SoC Design for Mobile Genomics at the Edge](http://arxiv.org/abs/2510.09339v1)** | 2025-10-10 |  |
-| **[Application of Deep Reinforcement Learning to At-the-Money S&P 500 Options Hedging](http://arxiv.org/abs/2510.09247v1)** | 2025-10-10 | 35 pages |
-| **[Multi-Scale Finetuning for Encoder-based Time Series Foundation Models](http://arxiv.org/abs/2506.14087v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[TriP-LLM: A Tri-Branch Patch-wise Large Language Model Framework for Time-Series Anomaly Detection](http://arxiv.org/abs/2508.00047v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted version of the paper published in IEEE Access (2025). Licensed under a Creative Commons Attribution 4.0 License (CC BY 4.0). Published version available at IEEE Xplore</p></details> |
-| **[Cross-Representation Benchmarking in Time-Series Electronic Health Records for Clinical Outcome Prediction](http://arxiv.org/abs/2510.09159v1)** | 2025-10-10 |  |
-| **[Exploring Neural Granger Causality with xLSTMs: Unveiling Temporal Dependencies in Complex Data](http://arxiv.org/abs/2502.09981v5)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Neural Codecs as Biosignal Tokenizers](http://arxiv.org/abs/2510.09095v1)** | 2025-10-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 10 tables, currently under peer review</p></details> |
-| **[Detecting Multilevel Manipulation from Limit Order Book via Cascaded Contrastive Representation Learning](http://arxiv.org/abs/2508.17086v2)** | 2025-10-10 |  |
+| **[Attention Factors for Statistical Arbitrage](http://arxiv.org/abs/2510.11616v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted to the 6th ACM International Conference on AI in Finance</p></details> |
+| **[DiffStyleTS: Diffusion Model for Style Transfer in Time Series](http://arxiv.org/abs/2510.11335v1)** | 2025-10-13 |  |
+| **[Dynamic Network-Based Two-Stage Time Series Forecasting for Affiliate Marketing](http://arxiv.org/abs/2510.11323v1)** | 2025-10-13 |  |
+| **[Vision-LLMs for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2510.11282v1)** | 2025-10-13 |  |
+| **[SeFEF: A Seizure Forecasting Evaluation Framework](http://arxiv.org/abs/2510.11275v1)** | 2025-10-13 | <details><summary>main ...</summary><p>main document: 14 pages, 9 figures, 2 tables; appendix: 7 pages, 2 figures, 3 tables, 2 algorithms</p></details> |
+| **[A Comprehensive Forecasting-Based Framework for Time Series Anomaly Detection: Benchmarking on the Numenta Anomaly Benchmark (NAB)](http://arxiv.org/abs/2510.11141v1)** | 2025-10-13 |  |
+| **[Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2510.11084v1)** | 2025-10-13 | 20 pages, 4 Figures, |
+| **[Conformal Inference for Time Series over Graphs](http://arxiv.org/abs/2510.11049v1)** | 2025-10-13 |  |
+| **[How Effective Are Time-Series Models for Rainfall Nowcasting? A Comprehensive Benchmark for Rainfall Nowcasting Incorporating PWV Data](http://arxiv.org/abs/2509.25263v2)** | 2025-10-13 | 11 pages,8 figures |
+| **[LPCVAE: A Conditional VAE with Long-Term Dependency and Probabilistic Time-Frequency Fusion for Time Series Anomaly Detection](http://arxiv.org/abs/2510.10915v1)** | 2025-10-13 |  |
+| **[FRIREN: Beyond Trajectories -- A Spectral Lens on Time](http://arxiv.org/abs/2505.17370v4)** | 2025-10-13 | <details><summary>37 pa...</summary><p>37 pages, 4 figures. Submitted to NeurIPS 2025. Public code at https://anonymous.4open.science/r/LTSF_model-03BB/</p></details> |
+| **[Identifying and Quantifying Financial Bubbles with the Hyped Log-Periodic Power Law Model](http://arxiv.org/abs/2510.10878v1)** | 2025-10-13 |  |
+| **[How Patterns Dictate Learnability in Sequential Data](http://arxiv.org/abs/2510.10744v1)** | 2025-10-12 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 36 pages, 4 figures</p></details> |
+| **[SDG-L: A Semiparametric Deep Gaussian Process based Framework for Battery Capacity Prediction](http://arxiv.org/abs/2510.10621v1)** | 2025-10-12 |  |
+| **[Multi-scale Frequency-Aware Adversarial Network for Parkinson's Disease Assessment Using Wearable Sensors](http://arxiv.org/abs/2510.10558v1)** | 2025-10-12 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structured Kolmogorov-Arnold Neural ODEs for Interpretable Learning and Symbolic Discovery of Nonlinear Dynamics](http://arxiv.org/abs/2506.18339v2)** | 2025-10-13 |  |
+| **[Text-Enhanced Panoptic Symbol Spotting in CAD Drawings](http://arxiv.org/abs/2510.11091v1)** | 2025-10-13 | <details><summary>7 pag...</summary><p>7 pages, 3figures. This version is the original submitted manuscript of the paper accepted by The 12th International Conference on Behavioural and Social Computing</p></details> |
+| **[Adaptive Selection of Symbolic Languages for Improving LLM Logical Reasoning](http://arxiv.org/abs/2510.10703v1)** | 2025-10-12 |  |
+| **[Logistic-Gated Operators Enable Auditable Unit-Aware Thresholds in Symbolic Regression](http://arxiv.org/abs/2510.05178v2)** | 2025-10-12 |  |
+| **[NIM: Neuro-symbolic Ideographic Metalanguage for Inclusive Communication](http://arxiv.org/abs/2510.10459v1)** | 2025-10-12 | <details><summary>9 pag...</summary><p>9 pages, EMNLP Findings 2025</p></details> |
+| **[Discovering interpretable piecewise nonlinear model predictive control laws via symbolic decision trees](http://arxiv.org/abs/2510.10411v1)** | 2025-10-12 |  |
+| **[Proof Strategy Extraction from LLMs for Enhancing Symbolic Provers](http://arxiv.org/abs/2510.10131v1)** | 2025-10-11 |  |
+| **[CLMN: Concept based Language Models via Neural Symbolic Reasoning](http://arxiv.org/abs/2510.10063v1)** | 2025-10-11 | 7 pages, 2 figures |
 | **[NL2GenSym: Natural Language to Generative Symbolic Rules for SOAR Cognitive Architecture via Large Language Models](http://arxiv.org/abs/2510.09355v1)** | 2025-10-10 |  |
 | **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v2)** | 2025-10-10 | <details><summary>57 pa...</summary><p>57 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
 | **[Neuro-Symbolic Agents with Modal Logic for Autonomous Diagnostics](http://arxiv.org/abs/2509.11943v2)** | 2025-10-09 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, Scaling Environments for Agents (SEA) Workshop at NeuralIPS</p></details> |
@@ -90,31 +98,23 @@ labels: documentation
 | **[Iterated Agent for Symbolic Regression](http://arxiv.org/abs/2510.08317v1)** | 2025-10-09 | <details><summary>45 pa...</summary><p>45 pages, 22 figures, 8 tables</p></details> |
 | **[FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification](http://arxiv.org/abs/2509.10510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Conference (Workshop Track), San Diego, USA</p></details> |
 | **[RustAssure: Differential Symbolic Testing for LLM-Transpiled C-to-Rust Code](http://arxiv.org/abs/2510.07604v1)** | 2025-10-08 | <details><summary>13 pa...</summary><p>13 pages to appear in Proceedings of ASE 2025</p></details> |
-| **[Symbolic-Diffusion: Deep Learning Based Symbolic Regression with D3PM Discrete Token Diffusion](http://arxiv.org/abs/2510.07570v1)** | 2025-10-08 | 9 Pages, 3 Figurees |
-| **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v3)** | 2025-10-08 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
-| **[Adaptive LLM-Symbolic Reasoning via Dynamic Logical Solver Composition](http://arxiv.org/abs/2510.06774v1)** | 2025-10-08 |  |
-| **[StruSR: Structure-Aware Symbolic Regression with Physics-Informed Taylor Guidance](http://arxiv.org/abs/2510.06635v1)** | 2025-10-08 |  |
-| **[BACHI: Boundary-Aware Symbolic Chord Recognition Through Masked Iterative Decoding on Pop and Classical Music](http://arxiv.org/abs/2510.06528v1)** | 2025-10-08 | Under review |
-| **[Agent+P: Guiding UI Agents via Symbolic Planning](http://arxiv.org/abs/2510.06042v1)** | 2025-10-07 |  |
-| **[Segment-Factorized Full-Song Generation on Symbolic Piano Music](http://arxiv.org/abs/2510.05881v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted to the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI for Music</p></details> |
-| **[Analog and Symbolic Computation through the Koopman Framework](http://arxiv.org/abs/2510.05863v1)** | 2025-10-07 | <details><summary>13 pa...</summary><p>13 pages double column; two figures</p></details> |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation](http://arxiv.org/abs/2510.11620v1)** | 2025-10-13 |  |
+| **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
+| **[LogiNumSynth: Synthesizing Joint Logical-Numerical Reasoning Problems for Language Models](http://arxiv.org/abs/2510.11031v1)** | 2025-10-13 | 30 pages, 3 figures |
+| **[Adaptive Selection of Symbolic Languages for Improving LLM Logical Reasoning](http://arxiv.org/abs/2510.10703v1)** | 2025-10-12 |  |
+| **[Extended Triangular Method: A Generalized Algorithm for Contradiction Separation Based Automated Deduction](http://arxiv.org/abs/2510.10701v1)** | 2025-10-12 | 38 pages, 8 figures |
+| **[DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training](http://arxiv.org/abs/2504.09710v3)** | 2025-10-11 |  |
+| **[CLMN: Concept based Language Models via Neural Symbolic Reasoning](http://arxiv.org/abs/2510.10063v1)** | 2025-10-11 | 7 pages, 2 figures |
 | **[StatEval: A Comprehensive Benchmark for Large Language Models in Statistics](http://arxiv.org/abs/2510.09517v1)** | 2025-10-10 |  |
 | **[Hybrid Models for Natural Language Reasoning: The Case of Syllogistic Logic](http://arxiv.org/abs/2510.09472v1)** | 2025-10-10 |  |
 | **[Toward Mechanistic Explanation of Deductive Reasoning in Language Models](http://arxiv.org/abs/2510.09340v1)** | 2025-10-10 |  |
 | **[LaV-CoT: Language-Aware Visual CoT with Multi-Aspect Reward Optimization for Real-World Multilingual VQA](http://arxiv.org/abs/2509.10026v3)** | 2025-10-10 | <details><summary>12 Pa...</summary><p>12 Pages, 12 Figures, 3 Tables</p></details> |
+| **[The Idola Tribus of AI: Large Language Models tend to perceive order where none exists](http://arxiv.org/abs/2510.09709v1)** | 2025-10-10 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, accepted to Findings of EMNLP 2025</p></details> |
 | **[SOP-Maze: Evaluating Large Language Models on Complicated Business Standard Operating Procedures](http://arxiv.org/abs/2510.08942v1)** | 2025-10-10 |  |
 | **[Benchmarking Chinese Commonsense Reasoning with a Multi-hop Reasoning Perspective](http://arxiv.org/abs/2510.08800v1)** | 2025-10-09 |  |
 | **[SciVideoBench: Benchmarking Scientific Video Reasoning in Large Multimodal Models](http://arxiv.org/abs/2510.08559v1)** | 2025-10-09 |  |
-| **[Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](http://arxiv.org/abs/2506.04810v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by the Findings of EMNLP 2025</p></details> |
-| **[From Ethical Declarations to Provable Independence: An Ontology-Driven Optimal-Transport Framework for Certifiably Fair AI Systems](http://arxiv.org/abs/2510.08086v1)** | 2025-10-09 | 19 pages, 2 figures |
-| **[Med-R$^3$: Enhancing Medical Retrieval-Augmented Reasoning of LLMs via Progressive Reinforcement Learning](http://arxiv.org/abs/2507.23541v3)** | 2025-10-09 |  |
-| **[UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](http://arxiv.org/abs/2510.03663v2)** | 2025-10-09 |  |
-| **[p-less Sampling: A Robust Hyperparameter-Free Approach for LLM Decoding](http://arxiv.org/abs/2509.23234v3)** | 2025-10-08 |  |
-| **[Hierarchical Reasoning Models: Perspectives and Misconceptions](http://arxiv.org/abs/2510.00355v2)** | 2025-10-07 | <details><summary>Found...</summary><p>Found errors in some results of v1. Removed them and changed conclusions</p></details> |
-| **[Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment](http://arxiv.org/abs/2406.11334v2)** | 2025-10-06 | ACL'25 paper |
-| **[Multi-Hop Question Answering: When Can Humans Help, and Where do They Struggle?](http://arxiv.org/abs/2510.04493v1)** | 2025-10-06 |  |
 
