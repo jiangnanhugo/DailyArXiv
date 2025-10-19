@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 18, 2025
+title: Latest 15 Papers - October 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -38,9 +38,6 @@ labels: documentation
 | **[Briding Diffusion Posterior Sampling and Monte Carlo methods: a survey](http://arxiv.org/abs/2510.14114v1)** | 2025-10-15 |  |
 | **[Quantitative Analysis of UAV Intrusion Mitigation for Border Security in 5G with LEO Backhaul Impairments](http://arxiv.org/abs/2510.14066v1)** | 2025-10-15 |  |
 | **[GammaZero: Learning To Guide POMDP Belief Space Search With Graph Representations](http://arxiv.org/abs/2510.14035v1)** | 2025-10-15 | <details><summary>10 pa...</summary><p>10 pages content. 2 pages references</p></details> |
-| **[Leveraging Nested MLMC for Sequential Neural Posterior Estimation with Intractable Likelihoods](http://arxiv.org/abs/2401.16776v3)** | 2025-10-15 | 30 pages, 6 figures |
-| **[Control variates for variance-reduced ratio of means estimators](http://arxiv.org/abs/2510.13504v1)** | 2025-10-15 |  |
-| **[Data-intrinsic approximation in metric spaces](http://arxiv.org/abs/2510.13496v1)** | 2025-10-15 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
