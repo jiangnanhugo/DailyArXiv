@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2025
+title: Latest 15 Papers - October 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -38,9 +38,6 @@ labels: documentation
 | **[DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration](http://arxiv.org/abs/2503.15984v2)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 2 tables</p></details> |
 | **[Structured Generative Modeling with the Thermodynamic Kolmogorov-Arnold Model](http://arxiv.org/abs/2506.14167v5)** | 2025-10-22 |  |
 | **[Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization](http://arxiv.org/abs/2505.12149v2)** | 2025-10-22 |  |
-| **[Quantum speedup of non-linear Monte Carlo problems](http://arxiv.org/abs/2502.05094v2)** | 2025-10-22 | <details><summary>18 pa...</summary><p>18 pages; v2: improved writing, changed title, and added lower bound</p></details> |
-| **[Semi-Implicit Approaches for Large-Scale Bayesian Spatial Interpolation](http://arxiv.org/abs/2510.19722v1)** | 2025-10-22 | <details><summary>36 pa...</summary><p>36 pages, 5 figures, 2 tables, 1 algorithm</p></details> |
-| **[Fast sampling and model selection for Bayesian mixture models](http://arxiv.org/abs/2501.07668v2)** | 2025-10-22 | <details><summary>Addit...</summary><p>Additional material on algorithms and example applications in this version. Code and data available at https://www.umich.edu/~mejn/mixture</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
