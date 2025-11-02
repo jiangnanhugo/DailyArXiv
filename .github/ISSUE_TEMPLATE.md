@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2025
+title: Latest 15 Papers - November 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -71,14 +71,6 @@ labels: documentation
 | **[Extreme Value Analysis based on Blockwise Top-Two Order Statistics](http://arxiv.org/abs/2502.15036v2)** | 2025-10-30 | 92 pages |
 | **[Towards Explainable and Reliable AI in Finance](http://arxiv.org/abs/2510.26353v1)** | 2025-10-30 |  |
 | **[AIMeter: Measuring, Analyzing, and Visualizing Energy and Carbon Footprint of AI Workloads](http://arxiv.org/abs/2506.20535v2)** | 2025-10-30 | <details><summary>11 pa...</summary><p>11 pages, 7 figures and 5 tables</p></details> |
-| **[Segmentation over Complexity: Evaluating Ensemble and Hybrid Approaches for Anomaly Detection in Industrial Time Series](http://arxiv.org/abs/2510.26159v1)** | 2025-10-30 | <details><summary>This ...</summary><p>This paper is currently under review for presentation at the IEEE SAMI 2026 Conference</p></details> |
-| **[New Money: A Systematic Review of Synthetic Data Generation for Finance](http://arxiv.org/abs/2510.26076v1)** | 2025-10-30 | <details><summary>37 pa...</summary><p>37 pages, 5 figures, 21 tables</p></details> |
-| **[Time Weaver: A Conditional Time Series Generation Model](http://arxiv.org/abs/2403.02682v2)** | 2025-10-29 |  |
-| **[Constrained Posterior Sampling: Time Series Generation with Hard Constraints](http://arxiv.org/abs/2410.12652v2)** | 2025-10-29 |  |
-| **[Infinite-dimensional Mahalanobis Distance with Applications to Kernelized Novelty Detection](http://arxiv.org/abs/2407.11873v3)** | 2025-10-29 |  |
-| **[Neural Stochastic Flows: Solver-Free Modelling and Inference for SDE Solutions](http://arxiv.org/abs/2510.25769v1)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (poster). Project page: https://nkiyohara.github.io/nsf-neurips2025/</p></details> |
-| **[Detecting sub-populations in online health communities: A mixed-methods exploration of breastfeeding messages in BabyCenter Birth Clubs](http://arxiv.org/abs/2510.23692v2)** | 2025-10-29 |  |
-| **[Convolutional Spiking-based GRU Cell for Spatio-temporal Data](http://arxiv.org/abs/2510.25696v1)** | 2025-10-29 | <details><summary>6 pag...</summary><p>6 pages, 1 figure. Published in 2025 IEEE International Workshop On Machine Learning for Signal Processing, Aug. 31-Sep. 3, 2025, Istanbul, Turkey</p></details> |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
