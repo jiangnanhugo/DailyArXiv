@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Monte Carlo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Centered MA Dirichlet ARMA for Financial Compositions: Theory & Empirical Evidence](http://arxiv.org/abs/2510.18903v2)** | 2025-10-31 |  |
-| **[pDANSE: Particle-based Data-driven Nonlinear State Estimation from Nonlinear Measurements](http://arxiv.org/abs/2510.27503v1)** | 2025-10-31 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, under review at IEEE Transactions on Signal Processing</p></details> |
-| **[Downlink Performance of Cell-Free Massive MIMO for LEO Satellite Mega-Constellation](http://arxiv.org/abs/2501.05655v2)** | 2025-10-31 |  |
-| **[RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices](http://arxiv.org/abs/2507.08424v2)** | 2025-10-31 |  |
-| **[A Tactile Feedback Approach to Path Recovery after High-Speed Impacts for Collision-Resilient Drones](http://arxiv.org/abs/2410.14249v3)** | 2025-10-31 |  |
-| **[Gibbs sampling for Bayesian P-splines](http://arxiv.org/abs/2406.03336v2)** | 2025-10-31 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 0 tables</p></details> |
-| **[Practical hybrid decoding scheme for parity-encoded spin systems](http://arxiv.org/abs/2510.26189v2)** | 2025-10-31 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 1 Supplemental material. arXiv admin note: substantial text overlap with arXiv:2502.07170</p></details> |
-| **[Change-in-velocity detection for multidimensional data](http://arxiv.org/abs/2510.27150v1)** | 2025-10-31 |  |
-| **[Calibrating Bayesian Inference](http://arxiv.org/abs/2510.27144v1)** | 2025-10-31 |  |
-| **[Stochastic Geometry of Cylinders: Characterizing Inter-Nodal Distances for 3D UAV Networks](http://arxiv.org/abs/2510.27111v1)** | 2025-10-31 | 8 pages, 6 figures |
-| **[SLIM: Stochastic Learning and Inference in Overidentified Models](http://arxiv.org/abs/2510.20996v2)** | 2025-10-31 |  |
-| **[Bayesian inference calibration of the modulus of elasticity](http://arxiv.org/abs/2510.27060v1)** | 2025-10-31 | 10 pages, 1 figure |
-| **[Wasserstein Rate Driven CLTs for Markov Chains with Weighted Lipschitz, Sobolev, and Stein Test Functions](http://arxiv.org/abs/2002.09427v5)** | 2025-10-30 | <details><summary>added...</summary><p>added section 3.5 in this version</p></details> |
-| **[Fully discrete analysis of the Galerkin POD neural network approximation with application to 3D acoustic wave scattering](http://arxiv.org/abs/2502.01859v3)** | 2025-10-30 |  |
-| **[Estimating MCMC convergence rates using common random number simulation](http://arxiv.org/abs/2309.15735v4)** | 2025-10-30 |  |
+| **[SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents](http://arxiv.org/abs/2508.02085v6)** | 2025-11-03 |  |
+| **[Change-in-velocity detection for multidimensional data](http://arxiv.org/abs/2510.27150v2)** | 2025-11-03 |  |
+| **[3-Dimensional Adaptive Unstructured Tessellated Look-up Tables for the Approximation of Compton Form Factors](http://arxiv.org/abs/2510.25699v2)** | 2025-11-03 | <details><summary>18 pa...</summary><p>18 pages, 16 figures, 3 tables</p></details> |
+| **[Sampling by averaging: A multiscale approach to score estimation](http://arxiv.org/abs/2508.15069v2)** | 2025-11-03 |  |
+| **[$L_2$-approximation using median lattice algorithms](http://arxiv.org/abs/2501.15331v3)** | 2025-11-03 |  |
+| **[Quasi-Monte Carlo methods for uncertainty quantification of wave propagation and scattering problems modelled by the Helmholtz equation](http://arxiv.org/abs/2502.12451v2)** | 2025-11-03 |  |
+| **[bayesCureRateModel: Bayesian Cure Rate Modeling for Time to Event Data in R](http://arxiv.org/abs/2409.10221v2)** | 2025-11-03 | revised version |
+| **[Understanding and Using the Relative Importance Measures Based on Orthogonalization and Reallocation](http://arxiv.org/abs/2510.13389v2)** | 2025-11-03 | 20 pages, 10 figures |
+| **[Spherical Point Process with Random Heights: New Approach for Modeling and Analysis of Downlink Satellite Networks](http://arxiv.org/abs/2307.03343v3)** | 2025-11-03 | <details><summary>submi...</summary><p>submitted to IEEE journal</p></details> |
+| **[Characterizing the Effects of Environmental Exposures on Social Mobility: Bayesian Semi-parametrics for Principal Stratification](http://arxiv.org/abs/2412.00311v3)** | 2025-11-03 |  |
+| **[Bayesian Nonparametrics for Principal Stratification with Continuous Post-Treatment Variables](http://arxiv.org/abs/2405.17669v3)** | 2025-11-03 |  |
+| **[Convergence of Random Batch Method with replacement for interacting particle systems](http://arxiv.org/abs/2407.19315v2)** | 2025-11-02 |  |
+| **[Gradient Flow Sampler-based Distributionally Robust Optimization](http://arxiv.org/abs/2510.25956v2)** | 2025-11-02 |  |
+| **[Differential privacy guarantees of Markov chain Monte Carlo algorithms](http://arxiv.org/abs/2502.17150v2)** | 2025-11-02 |  |
+| **[Piecewise deterministic sampling with splitting schemes](http://arxiv.org/abs/2301.02537v3)** | 2025-11-02 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,18 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v2)** | 2025-10-31 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
-| **[Centered MA Dirichlet ARMA for Financial Compositions: Theory & Empirical Evidence](http://arxiv.org/abs/2510.18903v2)** | 2025-10-31 |  |
-| **[MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series](http://arxiv.org/abs/2510.27547v1)** | 2025-10-31 |  |
-| **[Leveraging Generic Time Series Foundation Models for EEG Classification](http://arxiv.org/abs/2510.27522v1)** | 2025-10-31 |  |
-| **[Robust Spectral Fuzzy Clustering of Multivariate Time Series with Applications to Electroencephalogram](http://arxiv.org/abs/2506.22861v2)** | 2025-10-31 |  |
-| **[MedM2T: A MultiModal Framework for Time-Aware Modeling with Electronic Health Record and Electrocardiogram Data](http://arxiv.org/abs/2510.27321v1)** | 2025-10-31 | <details><summary>This ...</summary><p>This preprint version of the manuscript has been submitted to the IEEE Journal of Biomedical and Health Informatics (JBHI) for review. The implementation of MedM2T is available at https://github.com/DHLab-TSENG/MedM2T</p></details> |
-| **[Modeling US Climate Policy Uncertainty: From Causal Identification to Probabilistic Forecasting](http://arxiv.org/abs/2507.12276v2)** | 2025-10-31 |  |
-| **[Deciphering Invariant Feature Decoupling in Source-free Time Series Forecasting with Proxy Denoising](http://arxiv.org/abs/2510.05589v2)** | 2025-10-31 |  |
-| **[SERVIMON: AI-Driven Predictive Maintenance and Real-Time Monitoring for Astronomical Observatories](http://arxiv.org/abs/2510.27146v1)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted for publication in IAU Symposium 397: Exploring the Universe with Artificial Intelligence (UniversAI 2025), Cambridge University Press. Editors: C. Sterken, J. Hearnshaw & D. Valls-Gabaud</p></details> |
-| **[SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters](http://arxiv.org/abs/2510.09780v2)** | 2025-10-31 |  |
-| **[Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting](http://arxiv.org/abs/2505.24003v2)** | 2025-10-31 |  |
-| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v3)** | 2025-10-30 | <details><summary>Compl...</summary><p>Complementary GitHub repository at https://github.com/FlaGer99/SLR-Spatio-Temporal-GNN.git</p></details> |
-| **[Robust fuzzy clustering for high-dimensional multivariate time series with outlier detection](http://arxiv.org/abs/2510.26982v1)** | 2025-10-30 |  |
-| **[Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification](http://arxiv.org/abs/2510.26777v1)** | 2025-10-30 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
-| **[The Impact of Data Compression in Real-Time and Historical Data Acquisition Systems on the Accuracy of Analytical Solutions](http://arxiv.org/abs/2510.26868v1)** | 2025-10-30 | 9 pages |
+| **[Forging Time Series with Language: A Large Language Model Approach to Synthetic Data Generation](http://arxiv.org/abs/2505.17103v2)** | 2025-11-03 |  |
+| **[50 Years of Water Body Monitoring: The Case of Qaraaoun Reservoir, Lebanon](http://arxiv.org/abs/2510.24413v2)** | 2025-11-03 |  |
+| **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v2)** | 2025-11-03 |  |
+| **[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](http://arxiv.org/abs/2509.11575v2)** | 2025-11-02 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[A Bayesian Dirichlet Auto-Regressive Conditional Heteroskedasticity Model for Forecasting Currency Shares](http://arxiv.org/abs/2507.14132v2)** | 2025-11-02 |  |
+| **[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](http://arxiv.org/abs/2505.23719v2)** | 2025-11-02 | <details><summary>prese...</summary><p>presented at NeurIPS 2025</p></details> |
+| **[Enhancing Sequential Model Performance with Squared Sigmoid TanH (SST) Activation Under Data Constraints](http://arxiv.org/abs/2402.09034v2)** | 2025-11-02 | 10 pages,9 figures |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuro-Symbolic Imitation Learning: Discovering Symbolic Abstractions for Skill Learning](http://arxiv.org/abs/2503.21406v2)** | 2025-11-03 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA) 2025</p></details> |
 | **[A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics](http://arxiv.org/abs/2510.27033v1)** | 2025-10-30 |  |
 | **[Symbolic Constraints in Polyhedral Enclosure and Tetrahedral Decomposition in Genus-0 Polyhedra](http://arxiv.org/abs/2508.18222v5)** | 2025-10-30 |  |
 | **[SABER: Symbolic Regression-based Angle of Arrival and Beam Pattern Estimator](http://arxiv.org/abs/2510.26340v1)** | 2025-10-30 | 12 pages, 11 figures |
@@ -97,11 +90,12 @@ labels: documentation
 | **[LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision](http://arxiv.org/abs/2304.07647v7)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2025</p></details> |
 | **[Beyond Prompt Engineering: Neuro-Symbolic-Causal Architecture for Robust Multi-Objective AI Agents](http://arxiv.org/abs/2510.23682v1)** | 2025-10-27 | <details><summary>35 pa...</summary><p>35 pages, 15 figures, 2 tables. Keywords: Large Language Models, Autonomous Agents, Neuro-Symbolic AI, Causal Inference, Formal Verification, Multi-Objective Optimization. Open-source code and interactive demo available</p></details> |
 | **[Symbolic Neural Generation with Applications to Lead Discovery in Drug Design](http://arxiv.org/abs/2510.23379v1)** | 2025-10-27 | <details><summary>37 pa...</summary><p>37 pages, 15 figures; partial overlap of experimental results with https://doi.org/10.1101/2025.02.14.634875</p></details> |
-| **[Predicting symbolic ODEs from multiple trajectories](http://arxiv.org/abs/2510.23295v1)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published at: 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Machine Learning and the Physical Sciences</p></details> |
 
 ## Logical Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training Large Language Models to Reason in a Continuous Latent Space](http://arxiv.org/abs/2412.06769v3)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[CausalARC: Abstract Reasoning with Causal World Models](http://arxiv.org/abs/2509.03636v2)** | 2025-11-01 | <details><summary>Peer-...</summary><p>Peer-reviewed workshop paper</p></details> |
 | **[From Memorization to Reasoning in the Spectrum of Loss Curvature](http://arxiv.org/abs/2510.24256v2)** | 2025-10-31 |  |
 | **[Curriculum Abductive Learning](http://arxiv.org/abs/2505.12275v2)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, 22 pages, 6 figures</p></details> |
 | **[TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation](http://arxiv.org/abs/2510.25536v2)** | 2025-10-30 | <details><summary>Main ...</summary><p>Main paper: 11 pages, 3 figures, 6 tables. Appendix: 28 pages. Bangde Du and Minghao Guo contributed equally. Corresponding authors: Ziyi Ye (ziyiye@fudan.edu.cn), Qingyao Ai (aiqy@tsinghua.edu.cn)</p></details> |
@@ -115,6 +109,4 @@ labels: documentation
 | **[QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?](http://arxiv.org/abs/2503.22674v2)** | 2025-10-24 | <details><summary>Code ...</summary><p>Code and dataset are available at \url{https://github.com/google-deepmind/questbench}</p></details> |
 | **[RETuning: Upgrading Inference-Time Scaling for Stock Movement Prediction with Large Language Models](http://arxiv.org/abs/2510.21604v1)** | 2025-10-24 |  |
 | **[Theory-Grounded Evaluation of Human-Like Fallacy Patterns in LLM Reasoning](http://arxiv.org/abs/2506.11128v2)** | 2025-10-24 |  |
-| **[LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning](http://arxiv.org/abs/2503.08508v2)** | 2025-10-24 | <details><summary>The 2...</summary><p>The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</p></details> |
-| **[Neural Reasoning for Robust Instance Retrieval in $\mathcal{SHOIQ}$](http://arxiv.org/abs/2510.20457v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted as a full research paper at K-CAP 2025</p></details> |
 
