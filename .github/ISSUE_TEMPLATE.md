@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,14 @@ labels: documentation
 | **[Scalable hybrid quantum Monte Carlo simulation of U(1) gauge field coupled to fermions on GPU](http://arxiv.org/abs/2508.16298v3)** | 2025-11-06 | <details><summary>14+4 ...</summary><p>14+4 pages, 6+5 figures</p></details> |
 | **[A mirror descent approach to maximum likelihood estimation in latent variable models](http://arxiv.org/abs/2501.15896v2)** | 2025-11-06 |  |
 | **[Relative entropy estimate and geometric ergodicity for implicit Langevin Monte Carlo](http://arxiv.org/abs/2511.04041v1)** | 2025-11-06 |  |
+| **[ArchPilot: A Proxy-Guided Multi-Agent Approach for Machine Learning Engineering](http://arxiv.org/abs/2511.03985v1)** | 2025-11-06 |  |
+| **[Nonparametric Modeling of Continuous-Time Markov Chains](http://arxiv.org/abs/2511.03954v1)** | 2025-11-06 |  |
+| **[Stochastic Modeling for Energy-Efficient Edge Infrastructure](http://arxiv.org/abs/2511.03941v1)** | 2025-11-06 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
+| **[Bayesian Topological Analysis of Functional Brain Networks](http://arxiv.org/abs/2511.03605v1)** | 2025-11-05 |  |
+| **[An efficient asymptotic preserving Monte Carlo method for frequency-dependent radiative transfer equations](http://arxiv.org/abs/2507.02392v2)** | 2025-11-05 |  |
+| **[Adaptable Hindsight Experience Replay for Search-Based Learning](http://arxiv.org/abs/2511.03405v1)** | 2025-11-05 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, Presented at the 9th International Workshop on Interactive Adaptive Learning</p></details> |
+| **[Bayesian Causal Effect Estimation for Categorical Data using Staged Tree Models](http://arxiv.org/abs/2511.03399v1)** | 2025-11-05 |  |
+| **[Gaussian Copula-Based Outage Performance Analysis of Fluid Antenna Systems: Channel Coefficient- or Envelope-Level Correlation Matrix?](http://arxiv.org/abs/2509.09411v3)** | 2025-11-05 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -60,6 +68,17 @@ labels: documentation
 | **[Towards Causal Market Simulators](http://arxiv.org/abs/2511.04469v1)** | 2025-11-06 | <details><summary>ICAIF...</summary><p>ICAIF 2025 Workshop on Rethinking Financial Time-Series</p></details> |
 | **[ForecastGAN: A Decomposition-Based Adversarial Framework for Multi-Horizon Time Series Forecasting](http://arxiv.org/abs/2511.04445v1)** | 2025-11-06 | <details><summary>Porti...</summary><p>Portions of this work were previously published in the author's Master's thesis at University of Windsor (2024)</p></details> |
 | **[SolarCrossFormer: Improving day-ahead Solar Irradiance Forecasting by Integrating Satellite Imagery and Ground Sensors](http://arxiv.org/abs/2509.15827v2)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages, 18 figures, accepted for publication in IEEE Transactions on Sustainable Energy</p></details> |
+| **[Causal Regime Detection in Energy Markets With Augmented Time Series Structural Causal Models](http://arxiv.org/abs/2511.04361v1)** | 2025-11-06 | <details><summary>EurIP...</summary><p>EurIPS 2025 Workshop Causality for Impact: Practical challenges for real-world applications of causal methods</p></details> |
+| **[Large language models surpass domain-specific architectures for antepartum electronic fetal monitoring analysis](http://arxiv.org/abs/2509.18112v2)** | 2025-11-06 | <details><summary>Prepa...</summary><p>Preparing for journal</p></details> |
+| **[Estimation of Independent Component Analysis Systems](http://arxiv.org/abs/2511.04273v1)** | 2025-11-06 |  |
+| **[Guided by Stars: Interpretable Concept Learning Over Time Series via Temporal Logic Semantics](http://arxiv.org/abs/2511.04244v1)** | 2025-11-06 | <details><summary>submi...</summary><p>submitted to Journal of Artificial Intelligence Research (JAIR), 2025</p></details> |
+| **[Enhancing Efficiency in Multidevice Federated Learning through Data Selection](http://arxiv.org/abs/2211.04175v6)** | 2025-11-06 | <details><summary>To be...</summary><p>To be presented in the 10th ACM/IEEE Symposium on Edge Computing (SEC2025) [an early version (v3) has been presented at ICLR 2023 Workshop on Machine Learning for IoT: Datasets, Perception, and Understanding]</p></details> |
+| **[GPU-Based Floating-point Adaptive Lossless Compression](http://arxiv.org/abs/2511.04140v1)** | 2025-11-06 |  |
+| **[Low-rank Tensor Autoregressive Predictor for Third-Order Time-Series Forecasting](http://arxiv.org/abs/2403.02835v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for publication in Expert Systems with Applications</p></details> |
+| **[Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting](http://arxiv.org/abs/2406.02827v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. SIGKDD 2025</p></details> |
+| **[Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction](http://arxiv.org/abs/2410.18148v5)** | 2025-11-05 | 34 pages |
+| **[Benchmark Datasets for Lead-Lag Forecasting on Social Platforms](http://arxiv.org/abs/2511.03877v1)** | 2025-11-05 |  |
+| **[ROSBag MCP Server: Analyzing Robot Data with LLMs for Agentic Embodied AI Applications](http://arxiv.org/abs/2511.03497v1)** | 2025-11-05 |  |
 
 ## Symbolic
 | **Title** | **Date** | **Comment** |
