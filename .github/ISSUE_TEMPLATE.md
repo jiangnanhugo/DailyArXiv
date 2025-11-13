@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -74,8 +74,8 @@ labels: documentation
 | **[Forecasting with time series imaging](https://arxiv.org/pdf/1904.08064v3)** | 2020-07-21 |  |
 | **[Time series conditional extremes](https://arxiv.org/pdf/2303.04447v1)** | 2023-03-09 |  |
 | **[Respecting Time Series Properties Makes Deep Time Series Forecasting Perfect](https://arxiv.org/pdf/2207.10941v1)** | 2022-07-25 |  |
-| **[catch22: CAnonical Time-series CHaracteristics](https://arxiv.org/pdf/1901.10200v2)** | 2019-02-05 |  |
 | **[Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting](https://arxiv.org/pdf/2012.09324v1)** | 2020-12-18 |  |
+| **[catch22: CAnonical Time-series CHaracteristics](https://arxiv.org/pdf/1901.10200v2)** | 2019-02-05 |  |
 | **[Autoregressive with Slack Time Series Model for Forecasting a Partially-Observed Dynamical Time Series](https://arxiv.org/pdf/2306.16593v2)** | 2024-02-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, accepted to IEEE Access</p></details> |
 | **[Random Matrix Time Series](https://arxiv.org/pdf/2203.12789v1)** | 2023-08-07 | 15 pages |
 | **[Error-bounded Approximate Time Series Joins Using Compact Dictionary Representations of Time Series](https://arxiv.org/pdf/2112.12965v2)** | 2023-11-07 |  |
