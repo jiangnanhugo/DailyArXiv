@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,9 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
+| **[Mixture of Contexts for Long Video Generation](https://arxiv.org/abs/2508.21058v3)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: https://primecai.github.io/moc/</p></details> |
+| **[MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514v2)** | 2025-12-09 |  |
 | **[A Mathematical Theory of Top-$k$ Sparse Attention via Total Variation Distance](https://arxiv.org/abs/2512.07647v1)** | 2025-12-08 |  |
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2508.16653v2)** | 2025-12-08 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
-| **[MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514v1)** | 2025-12-08 |  |
 | **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v1)** | 2025-12-08 | 16 pages |
 | **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v1)** | 2025-12-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
 | **[Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852v2)** | 2025-12-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Code: https://github.com/mit-han-lab/radial-attention</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond](https://arxiv.org/abs/2512.02993v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project Page: https://www.neural4d.com/research-page/textrix</p></details> |
 | **[DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556v1)** | 2025-12-02 |  |
 | **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v1)** | 2025-12-02 |  |
-| **[Efficient Turing Machine Simulation with Transformers](https://arxiv.org/abs/2512.00003v2)** | 2025-12-02 | 19 pages |
-| **[Efficient Low Rank Attention for Long-Context Inference in Large Language Models](https://arxiv.org/abs/2510.23649v2)** | 2025-12-01 |  |
 
