@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
+| **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
+| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v1)** | 2025-12-09 |  |
 | **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v1)** | 2025-12-07 | 13 pages, 4 figures |
 | **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875v2)** | 2025-12-04 |  |
 | **[WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning](https://arxiv.org/abs/2511.19473v2)** | 2025-12-03 | 19 pages. 3 figures |
@@ -19,13 +22,12 @@ labels: documentation
 | **[From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models](https://arxiv.org/abs/2511.21103v1)** | 2025-11-26 | 24 pages, 6 figures |
 | **[CDLM: Consistency Diffusion Language Models For Faster Sampling](https://arxiv.org/abs/2511.19269v1)** | 2025-11-24 | 18 pages, 6 figures |
 | **[Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models](https://arxiv.org/abs/2511.21759v1)** | 2025-11-24 |  |
-| **[Scaffold Diffusion: Sparse Multi-Category Voxel Structure Generation with Discrete Diffusion](https://arxiv.org/abs/2509.00062v3)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Structured Probabilistic Inference & Generative Modeling Workshop</p></details> |
-| **[DiffuGR: Generative Document Retrieval with Diffusion Language Models](https://arxiv.org/abs/2511.08150v4)** | 2025-11-23 | <details><summary>This ...</summary><p>This paper is under review</p></details> |
-| **[Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v2)** | 2025-11-23 | 9 pages, 4 figures |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
+| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v1)** | 2025-12-09 |  |
 | **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459v4)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 18 figures (incl. appendix)</p></details> |
 | **[MDiff4STR: Mask Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2512.01422v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2510.09885v2)** | 2025-11-29 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Bringing Stability to Diffusion: Decomposing and Reducing Variance of Training Masked Diffusion Models](https://arxiv.org/abs/2511.18159v1)** | 2025-11-22 |  |
 | **[MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation](https://arxiv.org/abs/2511.12597v2)** | 2025-11-18 |  |
 | **[On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond](https://arxiv.org/abs/2510.06190v2)** | 2025-11-17 |  |
-| **[Optimal Inference Schedules for Masked Diffusion Models](https://arxiv.org/abs/2511.04647v2)** | 2025-11-09 | <details><summary>33 pa...</summary><p>33 pages, 1 figure. [added discussion of additional related work]</p></details> |
-| **[Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion](https://arxiv.org/abs/2501.09935v3)** | 2025-11-08 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The emergence of sparse attention: impact of data distribution and benefits of repetition](https://arxiv.org/abs/2505.17863v2)** | 2025-12-10 | NeurIPS 2025 |
+| **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v1)** | 2025-12-10 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v1)** | 2025-12-09 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, conference or other essential info</p></details> |
 | **[Mixture of Contexts for Long Video Generation](https://arxiv.org/abs/2508.21058v3)** | 2025-12-09 | <details><summary>Proje...</summary><p>Project page: https://primecai.github.io/moc/</p></details> |
 | **[MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514v2)** | 2025-12-09 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation](https://arxiv.org/abs/2512.04025v1)** | 2025-12-03 | Tech report |
 | **[A Preliminary Study on the Promises and Challenges of Native Top-$k$ Sparse Attention](https://arxiv.org/abs/2512.03494v1)** | 2025-12-03 |  |
 | **[TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond](https://arxiv.org/abs/2512.02993v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project Page: https://www.neural4d.com/research-page/textrix</p></details> |
-| **[DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556v1)** | 2025-12-02 |  |
-| **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v1)** | 2025-12-02 |  |
 
