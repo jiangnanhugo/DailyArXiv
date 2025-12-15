@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 14, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v1)** | 2025-12-09 |  |
 | **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v1)** | 2025-12-07 | 13 pages, 4 figures |
 | **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875v2)** | 2025-12-04 |  |
 | **[WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning](https://arxiv.org/abs/2511.19473v2)** | 2025-12-03 | 19 pages. 3 figures |
@@ -26,9 +26,9 @@ labels: documentation
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v1)** | 2025-12-09 |  |
 | **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459v4)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 18 figures (incl. appendix)</p></details> |
 | **[MDiff4STR: Mask Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2512.01422v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2510.09885v2)** | 2025-11-29 |  |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Task-Specific Sparse Feature Masks for Molecular Toxicity Prediction with Chemical Language Models](https://arxiv.org/abs/2512.11412v1)** | 2025-12-12 | 6 pages, 4 figures |
 | **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
 | **[The emergence of sparse attention: impact of data distribution and benefits of repetition](https://arxiv.org/abs/2505.17863v2)** | 2025-12-10 | NeurIPS 2025 |
 | **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v1)** | 2025-12-10 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865v1)** | 2025-12-05 |  |
 | **[USV: Unified Sparsification for Accelerating Video Diffusion Models](https://arxiv.org/abs/2512.05754v1)** | 2025-12-05 |  |
 | **[PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation](https://arxiv.org/abs/2512.04025v1)** | 2025-12-03 | Tech report |
-| **[A Preliminary Study on the Promises and Challenges of Native Top-$k$ Sparse Attention](https://arxiv.org/abs/2512.03494v1)** | 2025-12-03 |  |
 
