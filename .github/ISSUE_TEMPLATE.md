@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reproducing and Dissecting Denoising Language Models for Speech Recognition](https://arxiv.org/abs/2512.13576v1)** | 2025-12-15 | <details><summary>Equal...</summary><p>Equal contribution of first two authors</p></details> |
+| **[Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://arxiv.org/abs/2510.04146v2)** | 2025-12-15 | 11 pages, 5 figures |
+| **[Diffusion Language Model Inference with Monte Carlo Tree Search](https://arxiv.org/abs/2512.12168v1)** | 2025-12-13 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
@@ -19,16 +22,15 @@ labels: documentation
 | **[C$^2$DLM: Causal Concept-Guided Diffusion Large Language Models](https://arxiv.org/abs/2511.22146v1)** | 2025-11-27 |  |
 | **[Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium](https://arxiv.org/abs/2511.21882v1)** | 2025-11-26 | <details><summary>22 pa...</summary><p>22 pages, 1 figure, 1 table</p></details> |
 | **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v1)** | 2025-11-26 |  |
-| **[Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models](https://arxiv.org/abs/2512.02044v1)** | 2025-11-26 |  |
-| **[From Bits to Rounds: Parallel Decoding with Exploration for Diffusion Language Models](https://arxiv.org/abs/2511.21103v1)** | 2025-11-26 | 24 pages, 6 figures |
-| **[CDLM: Consistency Diffusion Language Models For Faster Sampling](https://arxiv.org/abs/2511.19269v1)** | 2025-11-24 | 18 pages, 6 figures |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
+| **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
 | **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459v4)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 18 figures (incl. appendix)</p></details> |
 | **[MDiff4STR: Mask Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2512.01422v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2510.09885v2)** | 2025-11-29 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds](https://arxiv.org/abs/2511.19664v1)** | 2025-11-24 |  |
 | **[Masked Diffusion Models are Secretly Learned-Order Autoregressive Models](https://arxiv.org/abs/2511.19152v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at EurIPS 2025 Workshop on Principles of Generative Modeling (PriGM)</p></details> |
 | **[Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v2)** | 2025-11-23 | 9 pages, 4 figures |
-| **[Bringing Stability to Diffusion: Decomposing and Reducing Variance of Training Masked Diffusion Models](https://arxiv.org/abs/2511.18159v1)** | 2025-11-22 |  |
-| **[MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation](https://arxiv.org/abs/2511.12597v2)** | 2025-11-18 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://arxiv.org/abs/2512.13368v1)** | 2025-12-15 |  |
+| **[TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301v1)** | 2025-12-13 | 14 pages, 4 figures |
+| **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v1)** | 2025-12-12 |  |
+| **[Multipole Attention for Efficient Long Context Reasoning](https://arxiv.org/abs/2506.13059v2)** | 2025-12-12 | 15 pages |
 | **[Task-Specific Sparse Feature Masks for Molecular Toxicity Prediction with Chemical Language Models](https://arxiv.org/abs/2512.11412v1)** | 2025-12-12 | 6 pages, 4 figures |
 | **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
 | **[The emergence of sparse attention: impact of data distribution and benefits of repetition](https://arxiv.org/abs/2505.17863v2)** | 2025-12-10 | NeurIPS 2025 |
@@ -75,8 +79,4 @@ labels: documentation
 | **[H2EAL: Hybrid-Bonding Architecture with Hybrid Sparse Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2508.16653v2)** | 2025-12-08 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2025</p></details> |
 | **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v1)** | 2025-12-08 | 16 pages |
 | **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v1)** | 2025-12-07 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
-| **[Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](https://arxiv.org/abs/2506.19852v2)** | 2025-12-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Code: https://github.com/mit-han-lab/radial-attention</p></details> |
-| **[Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865v1)** | 2025-12-05 |  |
-| **[USV: Unified Sparsification for Accelerating Video Diffusion Models](https://arxiv.org/abs/2512.05754v1)** | 2025-12-05 |  |
-| **[PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation](https://arxiv.org/abs/2512.04025v1)** | 2025-12-03 | Tech report |
 
