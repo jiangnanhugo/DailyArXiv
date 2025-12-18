@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
 | **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v1)** | 2025-12-16 |  |
 | **[Text-guided multi-property molecular optimization with a diffusion language model](https://arxiv.org/abs/2410.13597v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted to Information Fusion, Vol. 127, 103907, 2026</p></details> |
 | **[Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](https://arxiv.org/abs/2512.14008v1)** | 2025-12-16 | <details><summary>18 pa...</summary><p>18 pages (12 pages for the main paper and 6 pages for the appendix), 9 figures</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v1)** | 2025-12-07 | 13 pages, 4 figures |
 | **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875v2)** | 2025-12-04 |  |
 | **[WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning](https://arxiv.org/abs/2511.19473v2)** | 2025-12-03 | 19 pages. 3 figures |
-| **[Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules](https://arxiv.org/abs/2512.02892v1)** | 2025-12-02 |  |
-| **[Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models](https://arxiv.org/abs/2511.02077v2)** | 2025-11-28 | <details><summary>7 pag...</summary><p>7 pages, NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
+| **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544v2)** | 2025-12-17 |  |
 | **[Dual Language Models: Balancing Training Efficiency and Overfitting Resilience](https://arxiv.org/abs/2512.14549v1)** | 2025-12-16 |  |
 | **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v1)** | 2025-11-28 | 25 pages |
 | **[Masked Diffusion Models as Energy Minimization](https://arxiv.org/abs/2509.13866v2)** | 2025-11-27 |  |
 | **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v1)** | 2025-11-26 |  |
-| **[Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds](https://arxiv.org/abs/2511.19664v1)** | 2025-11-24 |  |
-| **[Masked Diffusion Models are Secretly Learned-Order Autoregressive Models](https://arxiv.org/abs/2511.19152v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted at EurIPS 2025 Workshop on Principles of Generative Modeling (PriGM)</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
