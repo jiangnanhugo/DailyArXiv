@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-Aware Initialization for Reducing Generative Path Length in Diffusion Language Models](https://arxiv.org/abs/2512.19004v1)** | 2025-12-22 |  |
 | **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
 | **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
 | **[LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://arxiv.org/abs/2512.15745v1)** | 2025-12-10 | 19 pages |
-| **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v1)** | 2025-12-07 | 13 pages, 4 figures |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding](https://arxiv.org/abs/2512.18689v1)** | 2025-12-21 |  |
 | **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v1)** | 2025-12-18 |  |
 | **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
 | **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Task-Specific Sparse Feature Masks for Molecular Toxicity Prediction with Chemical Language Models](https://arxiv.org/abs/2512.11412v1)** | 2025-12-12 | 6 pages, 4 figures |
 | **[ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp](https://arxiv.org/abs/2512.10576v1)** | 2025-12-11 |  |
 | **[The emergence of sparse attention: impact of data distribution and benefits of repetition](https://arxiv.org/abs/2505.17863v2)** | 2025-12-10 | NeurIPS 2025 |
-| **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v1)** | 2025-12-10 |  |
 
