@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
+| **[dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.21446v1)** | 2025-12-24 |  |
 | **[LLaDA2.0: Scaling Up Diffusion Language Models to 100B](https://arxiv.org/abs/2512.15745v2)** | 2025-12-24 | 19 pages |
 | **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v2)** | 2025-12-24 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
 | **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://arxiv.org/abs/2510.04146v2)** | 2025-12-15 | 11 pages, 5 figures |
 | **[Diffusion Language Model Inference with Monte Carlo Tree Search](https://arxiv.org/abs/2512.12168v1)** | 2025-12-13 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
-| **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v1)** | 2025-12-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 3tables</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
+| **[dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.21446v1)** | 2025-12-24 |  |
 | **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1)** | 2025-12-24 |  |
 | **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
 | **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
@@ -36,11 +38,9 @@ labels: documentation
 | **[Dual Language Models: Balancing Training Efficiency and Overfitting Resilience](https://arxiv.org/abs/2512.14549v1)** | 2025-12-16 |  |
 | **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v1)** | 2025-12-11 |  |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
 | **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
 | **[ReSpace: Text-Driven 3D Indoor Scene Synthesis and Editing with Preference Alignment](https://arxiv.org/abs/2506.02459v4)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 18 figures (incl. appendix)</p></details> |
-| **[MDiff4STR: Mask Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2512.01422v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
