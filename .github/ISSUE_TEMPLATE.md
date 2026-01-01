@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Language Models are Provably Optimal Parallel Samplers](https://arxiv.org/abs/2512.25014v1)** | 2025-12-31 |  |
+| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
 | **[WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](https://arxiv.org/abs/2512.22737v1)** | 2025-12-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, project page: https://wedlm.github.io/</p></details> |
 | **[On the Role of Discreteness in Diffusion LLMs](https://arxiv.org/abs/2512.22630v1)** | 2025-12-27 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Context-Aware Initialization for Reducing Generative Path Length in Diffusion Language Models](https://arxiv.org/abs/2512.19004v1)** | 2025-12-22 |  |
 | **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
-| **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v1)** | 2025-12-16 |  |
-| **[Text-guided multi-property molecular optimization with a diffusion language model](https://arxiv.org/abs/2410.13597v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted to Information Fusion, Vol. 127, 103907, 2026</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
 | **[Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model](https://arxiv.org/abs/2512.22288v1)** | 2025-12-25 | 17 pages, 6 figures |
 | **[dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.21446v1)** | 2025-12-24 |  |
@@ -40,12 +41,11 @@ labels: documentation
 | **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 | **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
-| **[WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2512.11872v1)** | 2025-12-06 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration](https://arxiv.org/abs/2512.17298v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted for poster presentation at AAAI 2026</p></details> |
+| **[ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration](https://arxiv.org/abs/2512.17298v2)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted for poster presentation at AAAI 2026</p></details> |
 | **[Sampling with Shielded Langevin Monte Carlo Using Navigation Potentials](https://arxiv.org/abs/2512.22153v1)** | 2025-12-15 |  |
 | **[Energy Based Equality of Distributions Testing for Compositional Data](https://arxiv.org/abs/2412.05199v3)** | 2025-12-10 |  |
 | **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v2)** | 2025-11-26 |  |
@@ -64,6 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Skim-Aware Contrastive Learning for Efficient Document Representation](https://arxiv.org/abs/2512.24373v1)** | 2025-12-30 |  |
+| **[Bidirectional Sparse Attention for Faster Video Diffusion Training](https://arxiv.org/abs/2509.01085v4)** | 2025-12-30 |  |
+| **[RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention](https://arxiv.org/abs/2512.24086v1)** | 2025-12-30 |  |
+| **[Tracing the Heart's Pathways: ECG Representation Learning from a Cardiac Conduction Perspective](https://arxiv.org/abs/2512.24002v1)** | 2025-12-30 | Accepted to AAAI2026 |
+| **[Efficient Context Scaling with LongCat ZigZag Attention](https://arxiv.org/abs/2512.23966v1)** | 2025-12-30 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
 | **[Bright 4B: Scaling Hyperspherical Learning for Segmentation in 3D Brightfield Microscopy](https://arxiv.org/abs/2512.22423v1)** | 2025-12-27 | 20 pages, 15 figures |
 | **[Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling](https://arxiv.org/abs/2512.20198v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Computers. In this version, we have corrected the missing author information in the references</p></details> |
 | **[SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention](https://arxiv.org/abs/2512.20724v1)** | 2025-12-23 | Under submission |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
 | **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
 | **[Sparse Multi-Modal Transformer with Masking for Alzheimer's Disease Classification](https://arxiv.org/abs/2512.14491v1)** | 2025-12-16 | 8 pages, 7 figures |
-| **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026</p></details> |
-| **[A Unified Sparse Attention via Multi-Granularity Compression](https://arxiv.org/abs/2512.14082v1)** | 2025-12-16 |  |
-| **[Shared DIFF Transformer](https://arxiv.org/abs/2501.17900v2)** | 2025-12-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2501.17486</p></details> |
-| **[BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://arxiv.org/abs/2512.13368v1)** | 2025-12-15 |  |
-| **[TwinFormer: A Dual-Level Transformer for Long-Sequence Time-Series Forecasting](https://arxiv.org/abs/2512.12301v1)** | 2025-12-13 | 14 pages, 4 figures |
 
