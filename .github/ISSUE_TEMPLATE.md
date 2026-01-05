@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Esoteric Language Models](https://arxiv.org/abs/2506.01928v2)** | 2025-12-31 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
 | **[Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model](https://arxiv.org/abs/2512.22288v1)** | 2025-12-25 | 17 pages, 6 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Dual Language Models: Balancing Training Efficiency and Overfitting Resilience](https://arxiv.org/abs/2512.14549v1)** | 2025-12-16 |  |
 | **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
-| **[Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v2)** | 2025-12-10 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v2)** | 2026-01-02 |  |
+| **[Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding](https://arxiv.org/abs/2512.18689v3)** | 2026-01-02 |  |
+| **[A Sparse-Attention Deep Learning Model Integrating Heterogeneous Multimodal Features for Parkinson's Disease Severity Profiling](https://arxiv.org/abs/2601.00519v1)** | 2026-01-02 |  |
+| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v1)** | 2026-01-01 |  |
 | **[Skim-Aware Contrastive Learning for Efficient Document Representation](https://arxiv.org/abs/2512.24373v1)** | 2025-12-30 |  |
 | **[Bidirectional Sparse Attention for Faster Video Diffusion Training](https://arxiv.org/abs/2509.01085v4)** | 2025-12-30 |  |
 | **[RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention](https://arxiv.org/abs/2512.24086v1)** | 2025-12-30 |  |
@@ -73,10 +77,6 @@ labels: documentation
 | **[Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling](https://arxiv.org/abs/2512.20198v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Computers. In this version, we have corrected the missing author information in the references</p></details> |
 | **[SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention](https://arxiv.org/abs/2512.20724v1)** | 2025-12-23 | Under submission |
 | **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v1)** | 2025-12-23 | Under submission |
-| **[Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding](https://arxiv.org/abs/2512.18689v2)** | 2025-12-23 |  |
 | **[Efficient Low Rank Attention for Long-Context Inference in Large Language Models](https://arxiv.org/abs/2510.23649v3)** | 2025-12-23 | <details><summary>https...</summary><p>https://neurips.cc/virtual/2025/loc/san-diego/poster/118451</p></details> |
 | **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v1)** | 2025-12-18 |  |
-| **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
-| **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v1)** | 2025-12-18 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
-| **[Sparse Multi-Modal Transformer with Masking for Alzheimer's Disease Classification](https://arxiv.org/abs/2512.14491v1)** | 2025-12-16 | 8 pages, 7 figures |
 
