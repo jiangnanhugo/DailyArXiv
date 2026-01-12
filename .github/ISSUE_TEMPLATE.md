@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 11, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v2)** | 2026-01-09 |  |
 | **[Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models](https://arxiv.org/abs/2505.21400v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This is the full version of a paper published at NeurIPS 2025</p></details> |
 | **[GIFT: Guided Importance-Aware Fine-Tuning for Diffusion Language Models](https://arxiv.org/abs/2509.20863v2)** | 2026-01-07 | preprint |
 | **[DIP: Dynamic In-Context Planner For Diffusion Language Models](https://arxiv.org/abs/2601.03199v1)** | 2026-01-06 | 4 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
 | **[WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](https://arxiv.org/abs/2512.22737v1)** | 2025-12-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, project page: https://wedlm.github.io/</p></details> |
 | **[On the Role of Discreteness in Diffusion LLMs](https://arxiv.org/abs/2512.22630v1)** | 2025-12-27 |  |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
