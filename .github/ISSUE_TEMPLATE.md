@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
+| **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
+| **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
+| **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
 | **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v2)** | 2026-01-09 |  |
 | **[Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models](https://arxiv.org/abs/2505.21400v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This is the full version of a paper published at NeurIPS 2025</p></details> |
 | **[GIFT: Guided Importance-Aware Fine-Tuning for Diffusion Language Models](https://arxiv.org/abs/2509.20863v2)** | 2026-01-07 | preprint |
@@ -18,14 +22,13 @@ labels: documentation
 | **[Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows](https://arxiv.org/abs/2601.02076v1)** | 2026-01-05 |  |
 | **[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615v2)** | 2026-01-04 | <details><summary>Add r...</summary><p>Add real-world experiments</p></details> |
 | **[Diffusion Language Models are Provably Optimal Parallel Samplers](https://arxiv.org/abs/2512.25014v1)** | 2025-12-31 |  |
-| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
-| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
-| **[WeDLM: Reconciling Diffusion Language Models with Standard Causal Attention for Fast Inference](https://arxiv.org/abs/2512.22737v1)** | 2025-12-28 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, project page: https://wedlm.github.io/</p></details> |
-| **[On the Role of Discreteness in Diffusion LLMs](https://arxiv.org/abs/2512.22630v1)** | 2025-12-27 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v3)** | 2026-01-11 | 22 pages,17 figures |
+| **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
+| **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
 | **[Esoteric Language Models](https://arxiv.org/abs/2506.01928v2)** | 2025-12-31 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v2)** | 2025-12-18 | 25 pages |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v1)** | 2025-12-17 | 18 pages |
 | **[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544v2)** | 2025-12-17 |  |
-| **[Dual Language Models: Balancing Training Efficiency and Overfitting Resilience](https://arxiv.org/abs/2512.14549v1)** | 2025-12-16 |  |
-| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v1)** | 2025-12-15 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v2)** | 2025-12-12 | <details><summary>V2: F...</summary><p>V2: Fixed typo in author list. No changes in the paper compared to V1</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v2)** | 2026-01-08 |  |
+| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
+| **[Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers](https://arxiv.org/abs/2601.07396v1)** | 2026-01-12 |  |
+| **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
 | **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v4)** | 2026-01-07 |  |
 | **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v2)** | 2026-01-06 | Under submission |
 | **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v1)** | 2026-01-06 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Skim-Aware Contrastive Learning for Efficient Document Representation](https://arxiv.org/abs/2512.24373v1)** | 2025-12-30 |  |
 | **[Bidirectional Sparse Attention for Faster Video Diffusion Training](https://arxiv.org/abs/2509.01085v4)** | 2025-12-30 |  |
 | **[RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention](https://arxiv.org/abs/2512.24086v1)** | 2025-12-30 |  |
-| **[Tracing the Heart's Pathways: ECG Representation Learning from a Cardiac Conduction Perspective](https://arxiv.org/abs/2512.24002v1)** | 2025-12-30 | Accepted to AAAI2026 |
-| **[Bright 4B: Scaling Hyperspherical Learning for Segmentation in 3D Brightfield Microscopy](https://arxiv.org/abs/2512.22423v1)** | 2025-12-27 | 20 pages, 15 figures |
 
