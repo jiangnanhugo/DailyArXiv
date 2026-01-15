@@ -7,7 +7,7 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2026-01-14
+Last update: 2026-01-15
 
 ## Diffusion Language Model
 | **Title** | **Date** | **Abstract** | **Comment** |
