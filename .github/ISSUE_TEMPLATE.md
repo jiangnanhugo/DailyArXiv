@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** | 2026-01-13 |  |
 | **[Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894v1)** | 2026-01-12 |  |
 | **[Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v3)** | 2026-01-11 | 22 pages,17 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
 | **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
 | **[Fine-Tuning Masked Diffusion for Provable Self-Correction](https://arxiv.org/abs/2510.01384v3)** | 2025-12-19 | <details><summary>Autho...</summary><p>Authorship statement: Jaeyeon Kim and Seunggeun Kim contributed equally, and Taekyun Lee is also a co first author</p></details> |
-| **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v2)** | 2025-12-18 | 25 pages |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v2)** | 2026-01-15 |  |
+| **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v2)** | 2026-01-15 | <details><summary>16 pa...</summary><p>16 pages. Correct typos</p></details> |
+| **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v2)** | 2026-01-14 |  |
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v3)** | 2026-01-13 | <details><summary>Updat...</summary><p>Updated by adding analysis on why it does not scale</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v1)** | 2026-01-13 | Project page: |
 | **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
@@ -71,12 +74,9 @@ labels: documentation
 | **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
 | **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v4)** | 2026-01-07 |  |
 | **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v2)** | 2026-01-06 | Under submission |
-| **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v1)** | 2026-01-06 |  |
 | **[Efficient Context Scaling with LongCat ZigZag Attention](https://arxiv.org/abs/2512.23966v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
 | **[Punctuation-aware Hybrid Trainable Sparse Attention for Large Language Models](https://arxiv.org/abs/2601.02819v1)** | 2026-01-06 |  |
 | **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
 | **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v2)** | 2026-01-02 |  |
 | **[Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding](https://arxiv.org/abs/2512.18689v3)** | 2026-01-02 |  |
-| **[A Sparse-Attention Deep Learning Model Integrating Heterogeneous Multimodal Features for Parkinson's Disease Severity Profiling](https://arxiv.org/abs/2601.00519v1)** | 2026-01-02 |  |
-| **[Skim-Aware Contrastive Learning for Efficient Document Representation](https://arxiv.org/abs/2512.24373v1)** | 2025-12-30 |  |
 
