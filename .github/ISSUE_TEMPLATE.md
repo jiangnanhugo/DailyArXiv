@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
+| **[Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/abs/2601.11342v1)** | 2026-01-16 | Preprints |
+| **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
+| **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
 | **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
 | **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
 | **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](https://arxiv.org/abs/2507.12318v3)** | 2026-01-05 | <details><summary>Publi...</summary><p>Published at NeurIPS, 22 pages, 7 tables, 12 figures, code and models available</p></details> |
 | **[CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02236v1)** | 2026-01-05 | 33 pages, 7 figures |
 | **[Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows](https://arxiv.org/abs/2601.02076v1)** | 2026-01-05 |  |
-| **[Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/abs/2512.22615v2)** | 2026-01-04 | <details><summary>Add r...</summary><p>Add real-world experiments</p></details> |
-| **[Diffusion Language Models are Provably Optimal Parallel Samplers](https://arxiv.org/abs/2512.25014v1)** | 2025-12-31 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** | 2026-01-13 |  |
 | **[Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894v1)** | 2026-01-12 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1)** | 2025-12-24 |  |
 | **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
 | **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
-| **[Fine-Tuning Masked Diffusion for Provable Self-Correction](https://arxiv.org/abs/2510.01384v3)** | 2025-12-19 | <details><summary>Autho...</summary><p>Authorship statement: Jaeyeon Kim and Seunggeun Kim contributed equally, and Taekyun Lee is also a co first author</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
