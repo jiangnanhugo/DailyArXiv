@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants](https://arxiv.org/abs/2601.14041v1)** | 2026-01-20 |  |
+| **[Deferred Commitment Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02076v2)** | 2026-01-20 |  |
+| **[Diffusion In Diffusion: Breaking the Autoregressive Bottleneck in Block Diffusion Models](https://arxiv.org/abs/2601.13599v1)** | 2026-01-20 | Work In Progress |
+| **[Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation](https://arxiv.org/abs/2601.13228v1)** | 2026-01-19 |  |
+| **[Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650v3)** | 2026-01-19 |  |
+| **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v1)** | 2026-01-19 | Under Review |
+| **[LR-DWM: Efficient Watermarking for Diffusion Language Models](https://arxiv.org/abs/2601.12376v1)** | 2026-01-18 | <details><summary>Submi...</summary><p>Submitted to ACL Rolling Review (ARR). 7 pages, 4 figures</p></details> |
+| **[Plan, Verify and Fill: A Structured Parallel Decoding Approach for Diffusion Language Models](https://arxiv.org/abs/2601.12247v1)** | 2026-01-18 |  |
 | **[Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/abs/2601.11342v1)** | 2026-01-16 | Preprints |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
@@ -14,14 +22,6 @@ labels: documentation
 | **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
 | **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
 | **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v2)** | 2026-01-09 |  |
-| **[Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models](https://arxiv.org/abs/2505.21400v2)** | 2026-01-08 | <details><summary>This ...</summary><p>This is the full version of a paper published at NeurIPS 2025</p></details> |
-| **[GIFT: Guided Importance-Aware Fine-Tuning for Diffusion Language Models](https://arxiv.org/abs/2509.20863v2)** | 2026-01-07 | preprint |
-| **[DIP: Dynamic In-Context Planner For Diffusion Language Models](https://arxiv.org/abs/2601.03199v1)** | 2026-01-06 | 4 pages |
-| **[d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models](https://arxiv.org/abs/2512.09675v2)** | 2026-01-06 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, 4 tables</p></details> |
-| **[DiRL: An Efficient Post-Training Framework for Diffusion Language Models](https://arxiv.org/abs/2512.22234v2)** | 2026-01-06 |  |
-| **[Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models](https://arxiv.org/abs/2507.12318v3)** | 2026-01-05 | <details><summary>Publi...</summary><p>Published at NeurIPS, 22 pages, 7 tables, 12 figures, code and models available</p></details> |
-| **[CD4LM: Consistency Distillation and aDaptive Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02236v1)** | 2026-01-05 | 33 pages, 7 figures |
-| **[Deferred Commitment Decoding for Diffusion Language Models with Confidence-Aware Sliding Windows](https://arxiv.org/abs/2601.02076v1)** | 2026-01-05 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -67,16 +67,16 @@ labels: documentation
 | **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v2)** | 2026-01-15 |  |
 | **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v2)** | 2026-01-15 | <details><summary>16 pa...</summary><p>16 pages. Correct typos</p></details> |
 | **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v2)** | 2026-01-14 |  |
+| **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v1)** | 2026-01-14 |  |
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v3)** | 2026-01-13 | <details><summary>Updat...</summary><p>Updated by adding analysis on why it does not scale</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v1)** | 2026-01-13 | Project page: |
 | **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
 | **[Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers](https://arxiv.org/abs/2601.07396v1)** | 2026-01-12 |  |
 | **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
+| **[NoiseFormer -- Noise Diffused Symmetric Attention Transformer](https://arxiv.org/abs/2601.11619v1)** | 2026-01-10 |  |
 | **[SWAA: Sliding Window Attention Adaptation for Efficient Long-Context LLMs Without Pretraining](https://arxiv.org/abs/2512.10411v4)** | 2026-01-07 |  |
 | **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v2)** | 2026-01-06 | Under submission |
 | **[Efficient Context Scaling with LongCat ZigZag Attention](https://arxiv.org/abs/2512.23966v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
 | **[Punctuation-aware Hybrid Trainable Sparse Attention for Large Language Models](https://arxiv.org/abs/2601.02819v1)** | 2026-01-06 |  |
 | **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
-| **[Training-free Context-adaptive Attention for Efficient Long Context Modeling](https://arxiv.org/abs/2512.09238v2)** | 2026-01-02 |  |
-| **[Fusion of Multiscale Features Via Centralized Sparse-attention Network for EEG Decoding](https://arxiv.org/abs/2512.18689v3)** | 2026-01-02 |  |
 
