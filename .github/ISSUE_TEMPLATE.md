@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,12 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion](https://arxiv.org/abs/2601.13599v2)** | 2026-01-21 | Work In Progress |
+| **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
+| **[STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778v1)** | 2026-01-21 | NeurIPS 2025 poster |
+| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v1)** | 2026-01-21 |  |
 | **[Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants](https://arxiv.org/abs/2601.14041v1)** | 2026-01-20 |  |
 | **[Deferred Commitment Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02076v2)** | 2026-01-20 |  |
-| **[Diffusion In Diffusion: Breaking the Autoregressive Bottleneck in Block Diffusion Models](https://arxiv.org/abs/2601.13599v1)** | 2026-01-20 | Work In Progress |
 | **[Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation](https://arxiv.org/abs/2601.13228v1)** | 2026-01-19 |  |
 | **[Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650v3)** | 2026-01-19 |  |
 | **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v1)** | 2026-01-19 | Under Review |
@@ -19,13 +22,12 @@ labels: documentation
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
 | **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
-| **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
-| **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
-| **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v2)** | 2026-01-09 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v1)** | 2026-01-21 |  |
+| **[Diffusion Large Language Models for Black-Box Optimization](https://arxiv.org/abs/2601.14446v1)** | 2026-01-20 |  |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
 | **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** | 2026-01-13 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model](https://arxiv.org/abs/2512.22288v1)** | 2025-12-25 | 17 pages, 6 figures |
 | **[dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.21446v1)** | 2025-12-24 |  |
 | **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1)** | 2025-12-24 |  |
-| **[Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v2)** | 2025-12-23 |  |
-| **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
