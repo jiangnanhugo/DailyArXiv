@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593v1)** | 2026-01-22 |  |
+| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v2)** | 2026-01-22 |  |
 | **[Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion](https://arxiv.org/abs/2601.13599v2)** | 2026-01-21 | Work In Progress |
 | **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v1)** | 2026-01-21 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
 | **[STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778v1)** | 2026-01-21 | NeurIPS 2025 poster |
-| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v1)** | 2026-01-21 |  |
 | **[Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants](https://arxiv.org/abs/2601.14041v1)** | 2026-01-20 |  |
 | **[Deferred Commitment Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02076v2)** | 2026-01-20 |  |
 | **[Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation](https://arxiv.org/abs/2601.13228v1)** | 2026-01-19 |  |
@@ -21,12 +22,12 @@ labels: documentation
 | **[Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/abs/2601.11342v1)** | 2026-01-16 | Preprints |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351v2)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/EvoTokenDLM</p></details> |
-| **[Agents of Diffusion: Enhancing Diffusion Language Models with Multi-Agent Reinforcement Learning for Structured Data Generation (Extended Version)](https://arxiv.org/abs/2601.07152v1)** | 2026-01-12 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v1)** | 2026-01-21 |  |
+| **[Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593v1)** | 2026-01-22 |  |
+| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v2)** | 2026-01-22 |  |
 | **[Diffusion Large Language Models for Black-Box Optimization](https://arxiv.org/abs/2601.14446v1)** | 2026-01-20 |  |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v1)** | 2026-01-16 |  |
 | **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
 | **[Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model](https://arxiv.org/abs/2512.22288v1)** | 2025-12-25 | 17 pages, 6 figures |
 | **[dUltra: Ultra-Fast Diffusion Language Models via Reinforcement Learning](https://arxiv.org/abs/2512.21446v1)** | 2025-12-24 |  |
-| **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](https://arxiv.org/abs/2512.21336v1)** | 2025-12-24 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -70,6 +70,7 @@ labels: documentation
 | **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v1)** | 2026-01-14 |  |
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v3)** | 2026-01-13 | <details><summary>Updat...</summary><p>Updated by adding analysis on why it does not scale</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v1)** | 2026-01-13 | Project page: |
+| **[Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models](https://arxiv.org/abs/2601.15305v1)** | 2026-01-12 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, attention mechanism, sparse attention, gating, long-context</p></details> |
 | **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
 | **[Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers](https://arxiv.org/abs/2601.07396v1)** | 2026-01-12 |  |
 | **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v2)** | 2026-01-06 | Under submission |
 | **[Efficient Context Scaling with LongCat ZigZag Attention](https://arxiv.org/abs/2512.23966v2)** | 2026-01-06 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
 | **[Punctuation-aware Hybrid Trainable Sparse Attention for Large Language Models](https://arxiv.org/abs/2601.02819v1)** | 2026-01-06 |  |
-| **[Lightweight Transformer Architectures for Edge Devices in Real-Time Applications](https://arxiv.org/abs/2601.03290v1)** | 2026-01-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables. Comprehensive study of lightweight transformer architectures for edge computing with novel findings on memory-bandwidth tradeoffs, quantization strategies, and hardware-specific optimizations. Includes detailed benchmarks across NLP and vision tasks with practical deployment recommendations</p></details> |
 
