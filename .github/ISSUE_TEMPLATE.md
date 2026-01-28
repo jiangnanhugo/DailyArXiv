@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Token Is Enough: Improving Diffusion Language Models with a Sink Token](https://arxiv.org/abs/2601.19657v1)** | 2026-01-27 |  |
+| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v1)** | 2026-01-27 |  |
 | **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v2)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v2)** | 2026-01-26 |  |
 | **[VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](https://arxiv.org/abs/2601.17868v1)** | 2026-01-25 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Deferred Commitment Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02076v2)** | 2026-01-20 |  |
 | **[Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation](https://arxiv.org/abs/2601.13228v1)** | 2026-01-19 |  |
 | **[Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650v3)** | 2026-01-19 |  |
-| **[LR-DWM: Efficient Watermarking for Diffusion Language Models](https://arxiv.org/abs/2601.12376v1)** | 2026-01-18 | <details><summary>Submi...</summary><p>Submitted to ACL Rolling Review (ARR). 7 pages, 4 figures</p></details> |
-| **[Plan, Verify and Fill: A Structured Parallel Decoding Approach for Diffusion Language Models](https://arxiv.org/abs/2601.12247v1)** | 2026-01-18 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v1)** | 2026-01-27 |  |
+| **[Masked Diffusion Generative Recommendation](https://arxiv.org/abs/2601.19501v1)** | 2026-01-27 |  |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v2)** | 2026-01-26 |  |
 | **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
 | **[Efficient semantic uncertainty quantification in language models via diversity-steered sampling](https://arxiv.org/abs/2510.21310v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages (+7 appendix), 7 figures. Accepted at NeurIPS 2025</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
 | **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
 | **[Esoteric Language Models](https://arxiv.org/abs/2506.01928v2)** | 2025-12-31 |  |
-| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v1)** | 2025-12-30 |  |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v2)** | 2025-12-25 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768v2)** | 2026-01-27 |  |
+| **[Beyond Classical Attention: Quantum Attention for Scalable Computation](https://arxiv.org/abs/2307.08045v2)** | 2026-01-27 |  |
 | **[Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing](https://arxiv.org/abs/2601.18252v1)** | 2026-01-26 |  |
 | **[FuseFlow: A Fusion-Centric Compilation Framework for Sparse Deep Learning on Streaming Dataflow](https://arxiv.org/abs/2511.04768v2)** | 2026-01-25 |  |
 | **[Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction](https://arxiv.org/abs/2601.17836v1)** | 2026-01-25 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v1)** | 2026-01-13 | Project page: |
 | **[Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models](https://arxiv.org/abs/2601.15305v1)** | 2026-01-12 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, attention mechanism, sparse attention, gating, long-context</p></details> |
 | **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
-| **[Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers](https://arxiv.org/abs/2601.07396v1)** | 2026-01-12 |  |
-| **[PADE: A Predictor-Free Sparse Attention Accelerator via Unified Execution and Stage Fusion](https://arxiv.org/abs/2512.14322v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by HPCA 2026. A more formal version</p></details> |
 
