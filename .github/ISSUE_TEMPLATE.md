@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space](https://arxiv.org/abs/2601.20339v1)** | 2026-01-28 |  |
+| **[Window-Diffusion: Accelerating Diffusion Language Model Inference with Windowed Token Pruning and Caching](https://arxiv.org/abs/2601.20332v1)** | 2026-01-28 |  |
+| **[Membership Inference Attacks Against Fine-tuned Diffusion Language Models](https://arxiv.org/abs/2601.20125v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for presentation at ICLR 2026 (pending final camera-ready)</p></details> |
 | **[One Token Is Enough: Improving Diffusion Language Models with a Sink Token](https://arxiv.org/abs/2601.19657v1)** | 2026-01-27 |  |
 | **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v1)** | 2026-01-27 |  |
 | **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v2)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion](https://arxiv.org/abs/2601.13599v2)** | 2026-01-21 | Work In Progress |
 | **[STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778v1)** | 2026-01-21 | NeurIPS 2025 poster |
 | **[Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants](https://arxiv.org/abs/2601.14041v1)** | 2026-01-20 |  |
-| **[Deferred Commitment Decoding for Diffusion Language Models](https://arxiv.org/abs/2601.02076v2)** | 2026-01-20 |  |
-| **[Autoregressive Models Rival Diffusion Models at ANY-ORDER Generation](https://arxiv.org/abs/2601.13228v1)** | 2026-01-19 |  |
-| **[Undesirable Memorization in Large Language Models: A Survey](https://arxiv.org/abs/2410.02650v3)** | 2026-01-19 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual-objective Language Models: Training Efficiency Without Overfitting](https://arxiv.org/abs/2512.14549v2)** | 2026-01-28 |  |
+| **[Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2510.09885v3)** | 2026-01-28 |  |
 | **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v1)** | 2026-01-27 |  |
 | **[Masked Diffusion Generative Recommendation](https://arxiv.org/abs/2601.19501v1)** | 2026-01-27 |  |
 | **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v2)** | 2026-01-26 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Revealing the Attention Floating Mechanism in Masked Diffusion Models](https://arxiv.org/abs/2601.07894v1)** | 2026-01-12 |  |
 | **[Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v3)** | 2026-01-11 | 22 pages,17 figures |
 | **[DiFFPO: Training Diffusion LLMs to Reason Fast and Furious via Reinforcement Learning](https://arxiv.org/abs/2510.02212v2)** | 2026-01-10 |  |
-| **[Teach Diffusion Language Models to Learn from Their Own Mistakes](https://arxiv.org/abs/2601.06428v1)** | 2026-01-10 | 18 pages |
-| **[Esoteric Language Models](https://arxiv.org/abs/2506.01928v2)** | 2025-12-31 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TGSBM: Transformer-Guided Stochastic Block Model for Link Prediction](https://arxiv.org/abs/2601.20646v1)** | 2026-01-28 | 12 pages, 4 figures |
 | **[The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768v2)** | 2026-01-27 |  |
 | **[Beyond Classical Attention: Quantum Attention for Scalable Computation](https://arxiv.org/abs/2307.08045v2)** | 2026-01-27 |  |
 | **[Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing](https://arxiv.org/abs/2601.18252v1)** | 2026-01-26 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v3)** | 2026-01-13 | <details><summary>Updat...</summary><p>Updated by adding analysis on why it does not scale</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v1)** | 2026-01-13 | Project page: |
 | **[Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models](https://arxiv.org/abs/2601.15305v1)** | 2026-01-12 | <details><summary>15 pa...</summary><p>15 pages, 1 figure, attention mechanism, sparse attention, gating, long-context</p></details> |
-| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v3)** | 2026-01-12 |  |
 
