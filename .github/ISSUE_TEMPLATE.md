@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 01, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation](https://arxiv.org/abs/2601.23182v1)** | 2026-01-30 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, under review</p></details> |
+| **[From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs](https://arxiv.org/abs/2512.06776v2)** | 2026-01-30 | 14 pages, 5 figures |
+| **[dgMARK: Decoding-Guided Watermarking for Diffusion Language Models](https://arxiv.org/abs/2601.22985v1)** | 2026-01-30 | <details><summary>Proje...</summary><p>Project page: https://dgmark-watermarking.github.io</p></details> |
+| **[Residual Context Diffusion Language Models](https://arxiv.org/abs/2601.22954v1)** | 2026-01-30 |  |
+| **[Relaxing Positional Alignment in Masked Diffusion Language Models](https://arxiv.org/abs/2601.22947v1)** | 2026-01-30 |  |
+| **[Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models](https://arxiv.org/abs/2601.22629v1)** | 2026-01-30 |  |
+| **[Test-Time Anchoring for Discrete Diffusion Posterior Sampling](https://arxiv.org/abs/2510.02291v2)** | 2026-01-30 | Preprint |
+| **[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](https://arxiv.org/abs/2601.22450v1)** | 2026-01-30 |  |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v2)** | 2026-01-29 | 21 pages |
 | **[Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models](https://arxiv.org/abs/2601.22035v1)** | 2026-01-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 5 tables</p></details> |
 | **[Causal Autoregressive Diffusion Language Model](https://arxiv.org/abs/2601.22031v1)** | 2026-01-29 |  |
@@ -14,18 +22,14 @@ labels: documentation
 | **[Zonkey: A Hierarchical Diffusion Language Model with Differentiable Tokenization and Probabilistic Attention](https://arxiv.org/abs/2601.21768v1)** | 2026-01-29 |  |
 | **[ILRR: Inference-Time Steering Method for Masked Diffusion Language Models](https://arxiv.org/abs/2601.21647v1)** | 2026-01-29 |  |
 | **[VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](https://arxiv.org/abs/2601.17868v2)** | 2026-01-29 |  |
-| **[ETS: Energy-Guided Test-Time Scaling for Training-Free RL Alignment](https://arxiv.org/abs/2601.21484v1)** | 2026-01-29 |  |
-| **[Plan, Verify and Fill: A Structured Parallel Decoding Approach for Diffusion Language Models](https://arxiv.org/abs/2601.12247v2)** | 2026-01-29 |  |
-| **[Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space](https://arxiv.org/abs/2601.20339v1)** | 2026-01-28 |  |
-| **[Window-Diffusion: Accelerating Diffusion Language Model Inference with Windowed Token Pruning and Caching](https://arxiv.org/abs/2601.20332v1)** | 2026-01-28 |  |
-| **[Membership Inference Attacks Against Fine-tuned Diffusion Language Models](https://arxiv.org/abs/2601.20125v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted for presentation at ICLR 2026 (pending final camera-ready)</p></details> |
-| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v1)** | 2026-01-27 |  |
-| **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v2)** | 2026-01-26 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
-| **[T$^\star$: Progressive Block Scaling for MDM Through Trajectory Aware RL](https://arxiv.org/abs/2601.11214v2)** | 2026-01-26 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Relaxing Positional Alignment in Masked Diffusion Language Models](https://arxiv.org/abs/2601.22947v1)** | 2026-01-30 |  |
+| **[DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion](https://arxiv.org/abs/2601.22889v1)** | 2026-01-30 |  |
+| **[$ρ$-$\texttt{EOS}$: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/abs/2601.22527v1)** | 2026-01-30 | <details><summary>11 pa...</summary><p>11 pages,6 figures,6 tables</p></details> |
+| **[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](https://arxiv.org/abs/2601.22450v1)** | 2026-01-30 |  |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v2)** | 2026-01-29 | 21 pages |
 | **[Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models](https://arxiv.org/abs/2601.22035v1)** | 2026-01-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 5 tables</p></details> |
 | **[ILRR: Inference-Time Steering Method for Masked Diffusion Language Models](https://arxiv.org/abs/2601.21647v1)** | 2026-01-29 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Auto-Regressive Masked Diffusion Models](https://arxiv.org/abs/2601.16971v1)** | 2026-01-23 |  |
 | **[Efficient semantic uncertainty quantification in language models via diversity-steered sampling](https://arxiv.org/abs/2510.21310v2)** | 2026-01-23 | <details><summary>10 pa...</summary><p>10 pages (+7 appendix), 7 figures. Accepted at NeurIPS 2025</p></details> |
 | **[Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593v1)** | 2026-01-22 |  |
-| **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v2)** | 2026-01-22 |  |
-| **[Diffusion Large Language Models for Black-Box Optimization](https://arxiv.org/abs/2601.14446v1)** | 2026-01-20 |  |
-| **[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403v1)** | 2026-01-15 | <details><summary>Code:...</summary><p>Code: https://github.com/hasanmohsin/discrete_fkc</p></details> |
-| **[Decoding Order Matters in Autoregressive Speech Synthesis](https://arxiv.org/abs/2601.08450v1)** | 2026-01-13 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space](https://arxiv.org/abs/2511.20102v2)** | 2026-01-30 | 31 pages |
+| **[Sparse Attention as Compact Kernel Regression](https://arxiv.org/abs/2601.22766v1)** | 2026-01-30 | 16 pages, 5 figures |
+| **[VideoNSA: Native Sparse Attention Scales Video Understanding](https://arxiv.org/abs/2510.02295v2)** | 2026-01-30 | ICLR 2026 |
+| **[SPLA: Block Sparse Plus Linear Attention for Long Context Modeling](https://arxiv.org/abs/2601.22379v1)** | 2026-01-29 | v1 |
+| **[VMonarch: Efficient Video Diffusion Transformers with Structured Attention](https://arxiv.org/abs/2601.22275v1)** | 2026-01-29 |  |
 | **[Spava: Accelerating Long-Video Understanding via Sequence-Parallelism-aware Approximate Attention](https://arxiv.org/abs/2601.21444v1)** | 2026-01-29 | Preprint |
 | **[NOSA: Native and Offloadable Sparse Attention](https://arxiv.org/abs/2510.13602v2)** | 2026-01-29 | Preprint |
 | **[TGSBM: Transformer-Guided Stochastic Block Model for Link Prediction](https://arxiv.org/abs/2601.20646v1)** | 2026-01-28 | 12 pages, 4 figures |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction](https://arxiv.org/abs/2601.17836v1)** | 2026-01-25 |  |
 | **[On Fine-Grained I/O Complexity of Attention Backward Passes](https://arxiv.org/abs/2410.09397v2)** | 2026-01-23 |  |
 | **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v1)** | 2026-01-23 |  |
-| **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v2)** | 2026-01-15 |  |
-| **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v2)** | 2026-01-15 | <details><summary>16 pa...</summary><p>16 pages. Correct typos</p></details> |
-| **[Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving](https://arxiv.org/abs/2512.17077v2)** | 2026-01-14 |  |
-| **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v1)** | 2026-01-14 |  |
-| **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v3)** | 2026-01-13 | <details><summary>Updat...</summary><p>Updated by adding analysis on why it does not scale</p></details> |
 
