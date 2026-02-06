@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](https://arxiv.org/abs/2602.05859v1)** | 2026-02-05 | 23 pages |
+| **[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://arxiv.org/abs/2602.05305v1)** | 2026-02-05 |  |
+| **[Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space](https://arxiv.org/abs/2601.20339v2)** | 2026-02-05 |  |
+| **[EntRGi: Entropy Aware Reward Guidance for Diffusion Language Models](https://arxiv.org/abs/2602.05000v1)** | 2026-02-04 | Preprint |
 | **[Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](https://arxiv.org/abs/2602.04399v1)** | 2026-02-04 |  |
 | **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v1)** | 2026-02-04 |  |
 | **[BackPlay: Plug-in Look-Back Self-Correction for Diffusion Language Models](https://arxiv.org/abs/2601.06428v2)** | 2026-02-04 | 23 pages |
@@ -18,10 +22,6 @@ labels: documentation
 | **[FS-DFM: Fast and Accurate Long Text Generation with Few-Step Diffusion Language Models](https://arxiv.org/abs/2509.20624v3)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Enabling Approximate Joint Sampling in Diffusion LMs](https://arxiv.org/abs/2509.22738v2)** | 2026-02-02 |  |
 | **[Understanding the Reversal Curse Mitigation in Masked Diffusion Models through Attention and Training Dynamics](https://arxiv.org/abs/2602.02133v1)** | 2026-02-02 |  |
-| **[Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models](https://arxiv.org/abs/2602.01849v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project page: https://algolzw.github.io/sr-smc</p></details> |
-| **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v1)** | 2026-02-02 |  |
-| **[Membership Inference Attacks Against Fine-tuned Diffusion Language Models](https://arxiv.org/abs/2601.20125v2)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 (pending final camera-ready)</p></details> |
-| **[Balancing Understanding and Generation in Discrete Diffusion Models](https://arxiv.org/abs/2602.01362v1)** | 2026-02-01 | <details><summary>32 pa...</summary><p>32 pages, Code is available at https://github.com/MzeroMiko/XDLM</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving Prior Distribution Mismatch in Diffusion Models via Optimal Transport](https://arxiv.org/abs/2410.13431v2)** | 2026-02-05 |  |
 | **[Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](https://arxiv.org/abs/2601.21033v1)** | 2026-01-28 | Code coming soon |
 | **[ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration](https://arxiv.org/abs/2512.17298v2)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted for poster presentation at AAAI 2026</p></details> |
 | **[Sampling with Shielded Langevin Monte Carlo Using Navigation Potentials](https://arxiv.org/abs/2512.22153v1)** | 2025-12-15 |  |
@@ -59,13 +60,18 @@ labels: documentation
 | **[EconProver: Towards More Economical Test-Time Scaling for Automated Theorem Proving](https://arxiv.org/abs/2509.12603v1)** | 2025-09-16 |  |
 | **[CDsampling: An R Package for Constrained D-Optimal Sampling in Paid Research Studies](https://arxiv.org/abs/2410.20606v4)** | 2025-08-31 |  |
 | **[Piecewise Deterministic Sampling for Constrained Distributions](https://arxiv.org/abs/2508.05462v1)** | 2025-08-07 | 32 pages, 6 figures |
-| **[Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI](https://arxiv.org/abs/2507.11401v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE International Conference on Quantum Computing and Engineering (QCE) 2025</p></details> |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RRAttention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference](https://arxiv.org/abs/2602.05853v1)** | 2026-02-05 |  |
+| **[Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models](https://arxiv.org/abs/2510.17196v2)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v2)** | 2026-02-05 |  |
+| **[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://arxiv.org/abs/2602.05305v1)** | 2026-02-05 |  |
+| **[FASA: Frequency-aware Sparse Attention](https://arxiv.org/abs/2602.03152v2)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Double-P: Hierarchical Top-P Sparse Attention for Long-Context LLMs](https://arxiv.org/abs/2602.05191v1)** | 2026-02-05 |  |
+| **[Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865v2)** | 2026-02-04 |  |
 | **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v1)** | 2026-02-04 | 14 pages, 7 figures |
-| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v1)** | 2026-02-04 |  |
 | **[Sparse Attention as Compact Kernel Regression](https://arxiv.org/abs/2601.22766v2)** | 2026-02-04 | 16 pages, 5 figures |
 | **[Tabula RASA: Exposing and Breaking the Relational Bottleneck in Transformers](https://arxiv.org/abs/2602.02834v2)** | 2026-02-04 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 8 tables</p></details> |
 | **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v1)** | 2026-02-04 |  |
@@ -73,10 +79,4 @@ labels: documentation
 | **[PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.01077v2)** | 2026-02-03 | 17 pages |
 | **[BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://arxiv.org/abs/2512.13368v2)** | 2026-02-03 | Accepted by WWW'26 |
 | **[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](https://arxiv.org/abs/2602.03216v1)** | 2026-02-03 |  |
-| **[FASA: Frequency-aware Sparse Attention](https://arxiv.org/abs/2602.03152v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v2)** | 2026-02-03 |  |
-| **[HopFormer: Sparse Graph Transformers with Explicit Receptive Field Control](https://arxiv.org/abs/2602.02268v1)** | 2026-02-02 |  |
-| **[Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction](https://arxiv.org/abs/2602.02201v1)** | 2026-02-02 |  |
-| **[Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing](https://arxiv.org/abs/2602.02159v1)** | 2026-02-02 |  |
-| **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v1)** | 2026-02-02 |  |
 
