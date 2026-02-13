@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1)** | 2026-02-12 |  |
+| **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v2)** | 2026-02-12 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
 | **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1)** | 2026-02-11 | Under review |
-| **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 7 tables. Code and demo: https://github.com/hanxiao/embedding-inversion-demo</p></details> |
 | **[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://arxiv.org/abs/2602.10953v1)** | 2026-02-11 | 11 pages, 8 figures |
 | **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v3)** | 2026-02-11 |  |
 | **[Advancing Block Diffusion Language Models for Test-Time Scaling](https://arxiv.org/abs/2602.09555v2)** | 2026-02-11 |  |
@@ -21,12 +22,12 @@ labels: documentation
 | **[d2: Improved Techniques for Training Reasoning Diffusion Language Models](https://arxiv.org/abs/2509.21474v3)** | 2026-02-08 | preprint |
 | **[Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2602.02600v2)** | 2026-02-07 |  |
 | **[Improving Variable-Length Generation in Diffusion Language Models via Length Regularization](https://arxiv.org/abs/2602.07546v1)** | 2026-02-07 | <details><summary>diffu...</summary><p>diffusion language models</p></details> |
-| **[Membership Inference Attacks Against Fine-tuned Diffusion Language Models](https://arxiv.org/abs/2601.20125v3)** | 2026-02-06 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 7 tables. Code and demo: https://github.com/hanxiao/embedding-inversion-demo</p></details> |
+| **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v1)** | 2026-02-12 |  |
+| **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v2)** | 2026-02-12 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
 | **[Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model](https://arxiv.org/abs/2510.11462v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2026</p></details> |
 | **[TABES: Trajectory-Aware Backward-on-Entropy Steering for Masked Diffusion Models](https://arxiv.org/abs/2602.00250v2)** | 2026-02-11 |  |
 | **[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](https://arxiv.org/abs/2602.10314v1)** | 2026-02-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CORE: Context-Robust Remasking for Diffusion Language Models](https://arxiv.org/abs/2602.04096v2)** | 2026-02-05 |  |
 | **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v1)** | 2026-02-04 |  |
 | **[Simple Denoising Diffusion Language Models](https://arxiv.org/abs/2510.22926v2)** | 2026-02-03 |  |
-| **[SLIM-Diff: Shared Latent Image-Mask Diffusion with Lp loss for Data-Scarce Epilepsy FLAIR MRI](https://arxiv.org/abs/2602.03372v1)** | 2026-02-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table, conference paper</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/abs/2602.12271v1)** | 2026-02-12 |  |
+| **[Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction](https://arxiv.org/abs/2602.12204v1)** | 2026-02-12 |  |
+| **[MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761v1)** | 2026-02-12 | <details><summary>MiniC...</summary><p>MiniCPM-SALA Technical Report</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v2)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/snapgenplusplus/</p></details> |
 | **[EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling](https://arxiv.org/abs/2602.10811v1)** | 2026-02-11 |  |
 | **[TabNSA: Native Sparse Attention for Efficient Tabular Data Learning](https://arxiv.org/abs/2503.09850v3)** | 2026-02-10 | 26 pages, 11 tables |
@@ -76,7 +79,4 @@ labels: documentation
 | **[SpecAttn: Co-Designing Sparse Attention with Self-Speculative Decoding](https://arxiv.org/abs/2602.07223v1)** | 2026-02-06 |  |
 | **[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://arxiv.org/abs/2602.05305v2)** | 2026-02-06 |  |
 | **[CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models](https://arxiv.org/abs/2602.07077v1)** | 2026-02-06 | 11 pages, 6 figures |
-| **[SOCKET: SOft Collison Kernel EsTimator for Sparse Attention](https://arxiv.org/abs/2602.06283v1)** | 2026-02-06 | 11 figures, 5 tables |
-| **[Cardinality-Preserving Structured Sparse Graph Transformers for Molecular Property Prediction](https://arxiv.org/abs/2602.02201v2)** | 2026-02-05 |  |
-| **[RRAttention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference](https://arxiv.org/abs/2602.05853v1)** | 2026-02-05 |  |
 
