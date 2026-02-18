@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability](https://arxiv.org/abs/2510.00565v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Stratified Hazard Sampling: Minimal-Variance Event Scheduling for CTMC/DTMC Discrete Diffusion and Flow Models](https://arxiv.org/abs/2601.02799v2)** | 2026-02-17 | <details><summary>Work ...</summary><p>Work in progress. Feedback welcome</p></details> |
 | **[Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1)** | 2026-02-16 | <details><summary>code:...</summary><p>code: https://github.com/s-sahoo/scaling-dllms</p></details> |
 | **[Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models](https://arxiv.org/abs/2511.02077v3)** | 2026-02-15 | <details><summary>7 pag...</summary><p>7 pages, NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v3)** | 2026-02-15 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v2)** | 2026-02-12 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
 | **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1)** | 2026-02-11 | Under review |
 | **[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://arxiv.org/abs/2602.10953v1)** | 2026-02-11 | 11 pages, 8 figures |
-| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v3)** | 2026-02-11 |  |
-| **[Advancing Block Diffusion Language Models for Test-Time Scaling](https://arxiv.org/abs/2602.09555v2)** | 2026-02-11 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v3)** | 2026-02-17 |  |
+| **[Geometry-Aware Rotary Position Embedding for Consistent Video World Model](https://arxiv.org/abs/2602.07854v2)** | 2026-02-17 |  |
 | **[MAGE: All-[MASK] Block Already Knows Where to Look in Diffusion LLM](https://arxiv.org/abs/2602.14209v1)** | 2026-02-15 |  |
 | **[Cardinality-Preserving Attention Channels for Graph Transformers in Molecular Property Prediction](https://arxiv.org/abs/2602.02201v4)** | 2026-02-14 |  |
 | **[Attention in Constant Time: Vashista Sparse Attention for Long-Context Decoding with Exponential Guarantees](https://arxiv.org/abs/2602.13804v1)** | 2026-02-14 | 22 pages |
@@ -77,6 +79,4 @@ labels: documentation
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v2)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/snapgenplusplus/</p></details> |
 | **[EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling](https://arxiv.org/abs/2602.10811v1)** | 2026-02-11 |  |
 | **[TabNSA: Native Sparse Attention for Efficient Tabular Data Learning](https://arxiv.org/abs/2503.09850v3)** | 2026-02-10 | 26 pages, 11 tables |
-| **[QUOKA: Query-Oriented KV Selection For Efficient LLM Prefill](https://arxiv.org/abs/2602.08722v1)** | 2026-02-09 |  |
-| **[Prism: Spectral-Aware Block-Sparse Attention](https://arxiv.org/abs/2602.08426v1)** | 2026-02-09 |  |
 
