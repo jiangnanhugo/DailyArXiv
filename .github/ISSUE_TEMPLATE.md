@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sink-Aware Pruning for Diffusion Language Models](https://arxiv.org/abs/2602.17664v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/VILA-Lab/Sink-Aware-Pruning</p></details> |
+| **[Watermarking Diffusion Language Models](https://arxiv.org/abs/2509.24368v2)** | 2026-02-19 |  |
 | **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v3)** | 2026-02-18 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 4 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
 | **[Discrete Stochastic Localization for Non-autoregressive Generation](https://arxiv.org/abs/2602.16169v1)** | 2026-02-18 |  |
 | **[Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability](https://arxiv.org/abs/2510.00565v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models](https://arxiv.org/abs/2602.12586v1)** | 2026-02-13 | 8 pages, preprint |
 | **[DiffuRank: Effective Document Reranking with Diffusion Language Models](https://arxiv.org/abs/2602.12528v1)** | 2026-02-13 | <details><summary>The c...</summary><p>The code is available at https://github.com/liuqi6777/DiffusionRank</p></details> |
 | **[Continuous Diffusion Models Can Obey Formal Syntax](https://arxiv.org/abs/2602.12468v1)** | 2026-02-12 |  |
-| **[Watermarking Discrete Diffusion Language Models](https://arxiv.org/abs/2511.02083v2)** | 2026-02-12 |  |
-| **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v1)** | 2026-02-11 | Under review |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DODO: Discrete OCR Diffusion Models](https://arxiv.org/abs/2602.16872v1)** | 2026-02-18 |  |
 | **[Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047v3)** | 2026-02-18 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 4 tables. Code and demo: https://github.com/jina-ai/embedding-inversion-demo</p></details> |
 | **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202v3)** | 2026-02-18 | <details><summary>To ap...</summary><p>To appear at the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
 | **[Discrete Stochastic Localization for Non-autoregressive Generation](https://arxiv.org/abs/2602.16169v1)** | 2026-02-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TABES: Trajectory-Aware Backward-on-Entropy Steering for Masked Diffusion Models](https://arxiv.org/abs/2602.00250v2)** | 2026-02-11 |  |
 | **[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](https://arxiv.org/abs/2602.10314v1)** | 2026-02-10 |  |
 | **[Where-to-Unmask: Ground-Truth-Guided Unmasking Order Learning for Masked Diffusion Language Models](https://arxiv.org/abs/2602.09501v1)** | 2026-02-10 | 15 pages, 6 figures |
-| **[VocalNet-MDM: Accelerating Streaming Speech LLM via Self-Distilled Masked Diffusion Modeling](https://arxiv.org/abs/2602.08607v1)** | 2026-02-09 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://arxiv.org/abs/2602.16986v1)** | 2026-02-19 |  |
 | **[Cardinality-Preserving Attention Channels for Graph Transformers in Molecular Property Prediction](https://arxiv.org/abs/2602.02201v5)** | 2026-02-17 |  |
 | **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v3)** | 2026-02-17 |  |
 | **[Geometry-Aware Rotary Position Embedding for Consistent Video World Model](https://arxiv.org/abs/2602.07854v2)** | 2026-02-17 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761v1)** | 2026-02-12 | <details><summary>MiniC...</summary><p>MiniCPM-SALA Technical Report</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v2)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/snapgenplusplus/</p></details> |
 | **[EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling](https://arxiv.org/abs/2602.10811v1)** | 2026-02-11 |  |
-| **[TabNSA: Native Sparse Attention for Efficient Tabular Data Learning](https://arxiv.org/abs/2503.09850v3)** | 2026-02-10 | 26 pages, 11 tables |
 
