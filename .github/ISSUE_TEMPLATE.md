@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2026
+title: Latest 15 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Diffusion Duality, Chapter II: $Ψ$-Samplers and Efficient Curriculum](https://arxiv.org/abs/2602.21185v1)** | 2026-02-24 |  |
+| **[Monte Carlo Tree Diffusion with Multiple Experts for Protein Design](https://arxiv.org/abs/2509.15796v2)** | 2026-02-23 |  |
 | **[Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2506.01928v3)** | 2026-02-21 |  |
 | **[MaskDiME: Adaptive Masked Diffusion for Precise and Efficient Visual Counterfactual Explanations](https://arxiv.org/abs/2602.18792v1)** | 2026-02-21 | Accepted by CVPR2026 |
 | **[Insertion Based Sequence Generation with Learnable Order Dynamics](https://arxiv.org/abs/2602.18695v1)** | 2026-02-21 | <details><summary>Proje...</summary><p>Project Page and Code at: https://dhruveshp.com/projects/lflexmdm</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
 | **[Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models](https://arxiv.org/abs/2511.02077v3)** | 2026-02-15 | <details><summary>7 pag...</summary><p>7 pages, NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
 | **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v3)** | 2026-02-15 |  |
-| **[Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models](https://arxiv.org/abs/2602.12586v1)** | 2026-02-13 | 8 pages, preprint |
-| **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v1)** | 2026-02-12 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill](https://arxiv.org/abs/2602.20515v1)** | 2026-02-24 |  |
 | **[Efficient endometrial carcinoma screening via cross-modal synthesis and gradient distillation](https://arxiv.org/abs/2602.19822v1)** | 2026-02-23 |  |
 | **[Incremental Learning of Sparse Attention Patterns in Transformers](https://arxiv.org/abs/2602.19143v1)** | 2026-02-22 | 36 pages, 19 figures |
 | **[Geometry-Aware Rotary Position Embedding for Consistent Video World Model](https://arxiv.org/abs/2602.07854v3)** | 2026-02-21 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://arxiv.org/abs/2602.13515v1)** | 2026-02-13 |  |
 | **[Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads](https://arxiv.org/abs/2406.19391v4)** | 2026-02-12 | <details><summary>The c...</summary><p>The complete implementation, including source code and evaluation scripts, is publicly available at: https://github.com/Charlotte-CharMLab/Fibottention</p></details> |
 | **[MonarchRT: Efficient Attention for Real-Time Video Generation](https://arxiv.org/abs/2602.12271v1)** | 2026-02-12 |  |
-| **[Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction](https://arxiv.org/abs/2602.12204v1)** | 2026-02-12 |  |
 
