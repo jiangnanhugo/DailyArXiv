@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://arxiv.org/abs/2602.10953v2)** | 2026-02-25 | 11 pages, 8 figures |
+| **[Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982v4)** | 2026-02-25 |  |
 | **[Adaptation to Intrinsic Dependence in Diffusion Language Models](https://arxiv.org/abs/2602.20126v1)** | 2026-02-23 |  |
 | **[One Token Is Enough: Improving Diffusion Language Models with a Sink Token](https://arxiv.org/abs/2601.19657v4)** | 2026-02-23 |  |
 | **[Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models](https://arxiv.org/abs/2602.19619v1)** | 2026-02-23 | 28 pages, 9 figures |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Toward Safer Diffusion Language Models: Discovery and Mitigation of Priming Vulnerability](https://arxiv.org/abs/2510.00565v2)** | 2026-02-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Stratified Hazard Sampling: Minimal-Variance Event Scheduling for CTMC/DTMC Discrete Diffusion and Flow Models](https://arxiv.org/abs/2601.02799v2)** | 2026-02-17 | <details><summary>Work ...</summary><p>Work in progress. Feedback welcome</p></details> |
 | **[Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1)** | 2026-02-16 | <details><summary>code:...</summary><p>code: https://github.com/s-sahoo/scaling-dllms</p></details> |
-| **[Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models](https://arxiv.org/abs/2511.02077v3)** | 2026-02-15 | <details><summary>7 pag...</summary><p>7 pages, NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v3)** | 2026-02-15 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding](https://arxiv.org/abs/2508.01617v2)** | 2026-02-25 |  |
+| **[The Design Space of Tri-Modal Masked Diffusion Models](https://arxiv.org/abs/2602.21472v1)** | 2026-02-25 | <details><summary>41 pa...</summary><p>41 pages, 29 figures, 10 tables</p></details> |
 | **[The Diffusion Duality, Chapter II: $Ψ$-Samplers and Efficient Curriculum](https://arxiv.org/abs/2602.21185v1)** | 2026-02-24 |  |
 | **[Monte Carlo Tree Diffusion with Multiple Experts for Protein Design](https://arxiv.org/abs/2509.15796v2)** | 2026-02-23 |  |
 | **[Esoteric Language Models: Bridging Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2506.01928v3)** | 2026-02-21 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Why Any-Order Autoregressive Models Need Two-Stream Attention: A Structural-Semantic Tradeoff](https://arxiv.org/abs/2602.16092v1)** | 2026-02-17 |  |
 | **[Scaling Beyond Masked Diffusion Language Models](https://arxiv.org/abs/2602.15014v1)** | 2026-02-16 | <details><summary>code:...</summary><p>code: https://github.com/s-sahoo/scaling-dllms</p></details> |
 | **[DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving](https://arxiv.org/abs/2602.14577v1)** | 2026-02-16 |  |
-| **[Beyond Static Cutoffs: One-Shot Dynamic Thresholding for Diffusion Language Models](https://arxiv.org/abs/2511.02077v3)** | 2026-02-15 | <details><summary>7 pag...</summary><p>7 pages, NeurIPS 2025 Efficient Reasoning Workshop</p></details> |
-| **[Scaling Behavior of Discrete Diffusion Language Models](https://arxiv.org/abs/2512.10858v3)** | 2026-02-15 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
+| **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](https://arxiv.org/abs/2505.11265v2)** | 2026-02-25 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, submitted to an IEEE journal</p></details> |
 | **[SAFER: Risk-Constrained Sample-then-Filter in Large Language Models](https://arxiv.org/abs/2510.10193v3)** | 2026-02-16 |  |
 | **[Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities](https://arxiv.org/abs/2602.14616v1)** | 2026-02-16 |  |
 | **[Constrained and Composite Sampling via Proximal Sampler](https://arxiv.org/abs/2602.14478v1)** | 2026-02-16 | <details><summary>The m...</summary><p>The main paper is 13 pages; the rest are appendices</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v2)** | 2025-11-26 |  |
 | **[Measurement-Constrained Sampling for Text-Prompted Blind Face Restoration](https://arxiv.org/abs/2511.14213v1)** | 2025-11-18 |  |
 | **[MoveOD: Synthesizing Origin-Destination Commute Distribution from U.S. Census Data](https://arxiv.org/abs/2510.18858v1)** | 2025-10-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures (including 3 validation charts and 1 map visualization). The MOVEOD pipeline is an end-to-end automated system for generating granular, time-dependent origin-destination (OD) datasets for any U.S. county, leveraging ACS and LODES data. Code and lightweight browser interface are publicly available at https://github.com/rishavsen1/move_od</p></details> |
-| **[Constrained Dikin-Langevin diffusion for polyhedra](https://arxiv.org/abs/2510.04582v2)** | 2025-10-07 |  |
-| **[Fast constrained sampling in pre-trained diffusion models](https://arxiv.org/abs/2410.18804v3)** | 2025-10-06 |  |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
