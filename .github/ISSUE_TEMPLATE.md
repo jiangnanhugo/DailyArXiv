@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760v1)** | 2026-03-03 |  |
+| **[CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547v1)** | 2026-03-03 |  |
+| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
+| **[Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](https://arxiv.org/abs/2603.02333v1)** | 2026-03-02 | 21 pages, 9 figures |
 | **[Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the Fourteenth International Conference on Learning Representations (ICLR2026)</p></details> |
 | **[D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation](https://arxiv.org/abs/2603.01780v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at MLGenX 2026</p></details> |
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v2)** | 2026-03-02 |  |
@@ -18,14 +22,12 @@ labels: documentation
 | **[Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225v2)** | 2026-02-27 |  |
 | **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v1)** | 2026-02-26 |  |
 | **[dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661v1)** | 2026-02-26 | <details><summary>Code ...</summary><p>Code available at: https://github.com/ZHZisZZ/dllm</p></details> |
-| **[TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion](https://arxiv.org/abs/2602.22586v1)** | 2026-02-26 | Preprint |
-| **[Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models](https://arxiv.org/abs/2602.10953v2)** | 2026-02-25 | 11 pages, 8 figures |
-| **[Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982v4)** | 2026-02-25 |  |
-| **[Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.22246v1)** | 2026-02-24 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
+| **[Improving Classifier-Free Guidance in Masked Diffusion: Low-Dim Theoretical Insights with High-Dim Impact](https://arxiv.org/abs/2507.08965v2)** | 2026-03-02 |  |
 | **[Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the Fourteenth International Conference on Learning Representations (ICLR2026)</p></details> |
 | **[D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation](https://arxiv.org/abs/2603.01780v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at MLGenX 2026</p></details> |
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v2)** | 2026-03-02 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v3)** | 2026-02-27 | 8 pages, 3 figures |
 | **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v1)** | 2026-02-26 |  |
 | **[Improving Discrete Diffusion Unmasking Policies Beyond Explicit Reference Policies](https://arxiv.org/abs/2510.05725v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion](https://arxiv.org/abs/2602.22586v1)** | 2026-02-26 | Preprint |
-| **[Sharp Convergence Rates for Masked Diffusion Models](https://arxiv.org/abs/2602.22505v1)** | 2026-02-26 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion-MPC in Discrete Domains: Feasibility Constraints, Horizon Effects, and Critic Alignment: Case study with Tetris](https://arxiv.org/abs/2603.02348v1)** | 2026-03-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables. Includes regret diagnostics and compute-quality frontier analysis. Code and experiment configurations available in the Diffusion-Tetris repository</p></details> |
 | **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
 | **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](https://arxiv.org/abs/2505.11265v2)** | 2026-02-25 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, submitted to an IEEE journal</p></details> |
 | **[SAFER: Risk-Constrained Sample-then-Filter in Large Language Models](https://arxiv.org/abs/2510.10193v3)** | 2026-02-16 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Energy Based Equality of Distributions Testing for Compositional Data](https://arxiv.org/abs/2412.05199v3)** | 2025-12-10 |  |
 | **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v2)** | 2025-11-26 |  |
 | **[Measurement-Constrained Sampling for Text-Prompted Blind Face Restoration](https://arxiv.org/abs/2511.14213v1)** | 2025-11-18 |  |
-| **[MoveOD: Synthesizing Origin-Destination Commute Distribution from U.S. Census Data](https://arxiv.org/abs/2510.18858v1)** | 2025-10-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures (including 3 validation charts and 1 map visualization). The MOVEOD pipeline is an end-to-end automated system for generating granular, time-dependent origin-destination (OD) datasets for any U.S. county, leveraging ACS and LODES data. Code and lightweight browser interface are publicly available at https://github.com/rishavsen1/move_od</p></details> |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
