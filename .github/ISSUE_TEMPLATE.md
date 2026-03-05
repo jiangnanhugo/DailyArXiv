@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Planner Aware Path Learning in Diffusion Language Models Training](https://arxiv.org/abs/2509.23405v2)** | 2026-03-04 | <details><summary>Camer...</summary><p>Camera ready version for ICLR2026</p></details> |
+| **[Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding](https://arxiv.org/abs/2602.06412v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760v1)** | 2026-03-03 |  |
 | **[CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547v1)** | 2026-03-03 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Reasoning or Rationalization? The Role of Justifications in Masked Diffusion Models for Fact Verification](https://arxiv.org/abs/2603.01190v1)** | 2026-03-01 |  |
 | **[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v3)** | 2026-02-27 | 8 pages, 3 figures |
 | **[Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225v2)** | 2026-02-27 |  |
-| **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v1)** | 2026-02-26 |  |
-| **[dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661v1)** | 2026-02-26 | <details><summary>Code ...</summary><p>Code available at: https://github.com/ZHZisZZ/dllm</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding](https://arxiv.org/abs/2602.06412v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
 | **[Improving Classifier-Free Guidance in Masked Diffusion: Low-Dim Theoretical Insights with High-Dim Impact](https://arxiv.org/abs/2507.08965v2)** | 2026-03-02 |  |
 | **[Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the Fourteenth International Conference on Learning Representations (ICLR2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models](https://arxiv.org/abs/2508.11484v2)** | 2026-02-28 | <details><summary>ICLR2...</summary><p>ICLR2026 Accept; Project Page:https://uknowsth.github.io/CineTrans/</p></details> |
 | **[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v3)** | 2026-02-27 | 8 pages, 3 figures |
 | **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v1)** | 2026-02-26 |  |
-| **[Improving Discrete Diffusion Unmasking Policies Beyond Explicit Reference Policies](https://arxiv.org/abs/2510.05725v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
