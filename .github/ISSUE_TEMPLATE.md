@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Language Models Are Natively Length-Aware](https://arxiv.org/abs/2603.06123v1)** | 2026-03-06 |  |
+| **[Planner Aware Path Learning in Diffusion Language Models Training](https://arxiv.org/abs/2509.23405v3)** | 2026-03-05 | <details><summary>Camer...</summary><p>Camera ready version for ICLR2026</p></details> |
 | **[Beyond Scattered Acceptance: Fast and Coherent Inference for DLMs via Longest Stable Prefixes](https://arxiv.org/abs/2603.05454v1)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Free Lunch for Pass@$k$? Low Cost Diverse Sampling for Diffusion Language Models](https://arxiv.org/abs/2603.04893v1)** | 2026-03-05 |  |
 | **[Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding](https://arxiv.org/abs/2603.04514v1)** | 2026-03-04 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, Code available upon publication</p></details> |
-| **[Planner Aware Path Learning in Diffusion Language Models Training](https://arxiv.org/abs/2509.23405v2)** | 2026-03-04 | <details><summary>Camer...</summary><p>Camera ready version for ICLR2026</p></details> |
 | **[Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding](https://arxiv.org/abs/2602.06412v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760v1)** | 2026-03-03 |  |
 | **[CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547v1)** | 2026-03-03 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v2)** | 2026-03-02 |  |
 | **[WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning](https://arxiv.org/abs/2511.19473v3)** | 2026-03-02 | 19 pages. 3 figures |
 | **[T*: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v3)** | 2026-03-02 |  |
-| **[MetaState: Persistent Working Memory for Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331v1)** | 2026-03-02 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Speculative Masked Diffusions](https://arxiv.org/abs/2510.03929v2)** | 2026-03-06 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 4 tables</p></details> |
+| **[KLASS: KL-Guided Fast Inference in Masked Diffusion Models](https://arxiv.org/abs/2511.05664v2)** | 2026-03-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight. Code: https://github.com/shkim0116/KLASS</p></details> |
 | **[Path Planning for Masked Diffusion Model Sampling](https://arxiv.org/abs/2502.03540v5)** | 2026-03-05 |  |
 | **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v2)** | 2026-03-05 |  |
 | **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v2)** | 2026-03-05 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[T*: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v3)** | 2026-03-02 |  |
 | **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v1)** | 2026-03-02 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
 | **[Reasoning or Rationalization? The Role of Justifications in Masked Diffusion Models for Fact Verification](https://arxiv.org/abs/2603.01190v1)** | 2026-03-01 |  |
-| **[LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model](https://arxiv.org/abs/2603.01068v1)** | 2026-03-01 |  |
-| **[Effective and Efficient Masked Image Generation Models](https://arxiv.org/abs/2503.07197v3)** | 2026-03-01 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v1)** | 2026-03-06 | 12 pages, preprint |
+| **[FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling](https://arxiv.org/abs/2603.06199v1)** | 2026-03-06 |  |
 | **[Accelerating Text-to-Video Generation with Calibrated Sparse Attention](https://arxiv.org/abs/2603.05503v1)** | 2026-03-05 |  |
 | **[Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865v4)** | 2026-03-05 |  |
 | **[VSPrefill: Vertical-Slash Sparse Attention with Lightweight Indexing for Long-Context Prefilling](https://arxiv.org/abs/2603.04460v1)** | 2026-03-03 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233v2)** | 2026-02-26 |  |
 | **[S2O: Early Stopping for Sparse Attention via Online Permutation](https://arxiv.org/abs/2602.22575v1)** | 2026-02-26 |  |
 | **[FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill](https://arxiv.org/abs/2602.20515v1)** | 2026-02-24 |  |
-| **[Efficient endometrial carcinoma screening via cross-modal synthesis and gradient distillation](https://arxiv.org/abs/2602.19822v1)** | 2026-02-23 |  |
-| **[Incremental Learning of Sparse Attention Patterns in Transformers](https://arxiv.org/abs/2602.19143v1)** | 2026-02-22 | 36 pages, 19 figures |
 
