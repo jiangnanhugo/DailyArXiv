@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045v2)** | 2026-03-10 |  |
+| **[Latent-DARM: Bridging Discrete Diffusion And Autoregressive Models For Reasoning](https://arxiv.org/abs/2603.09184v1)** | 2026-03-10 | <details><summary>Publi...</summary><p>Published at LIT Workshop at ICLR 2026</p></details> |
 | **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
 | **[Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs](https://arxiv.org/abs/2603.07475v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepted at Sci4DL and Delta workshops at ICLR 2026</p></details> |
 | **[Diffusion Language Models Are Natively Length-Aware](https://arxiv.org/abs/2603.06123v1)** | 2026-03-06 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547v1)** | 2026-03-03 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
 | **[Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](https://arxiv.org/abs/2603.02333v1)** | 2026-03-02 | 21 pages, 9 figures |
-| **[Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted at the Fourteenth International Conference on Learning Representations (ICLR2026)</p></details> |
-| **[D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation](https://arxiv.org/abs/2603.01780v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at MLGenX 2026</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
 | **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
 | **[Self-Speculative Masked Diffusions](https://arxiv.org/abs/2510.03929v2)** | 2026-03-06 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 4 tables</p></details> |
 | **[KLASS: KL-Guided Fast Inference in Masked Diffusion Models](https://arxiv.org/abs/2511.05664v2)** | 2026-03-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight. Code: https://github.com/shkim0116/KLASS</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v2)** | 2026-03-02 |  |
 | **[LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models](https://arxiv.org/abs/2603.01563v1)** | 2026-03-02 |  |
 | **[T*: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v3)** | 2026-03-02 |  |
-| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v1)** | 2026-03-02 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
+| **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v2)** | 2026-03-10 |  |
+| **[SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing](https://arxiv.org/abs/2603.08982v1)** | 2026-03-09 |  |
 | **[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](https://arxiv.org/abs/2509.23681v4)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016v4)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v1)** | 2026-03-06 | 12 pages, preprint |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v4)** | 2026-03-01 |  |
 | **[FASA: Frequency-aware Sparse Attention](https://arxiv.org/abs/2602.03152v3)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761v2)** | 2026-02-28 | <details><summary>MiniC...</summary><p>MiniCPM-SALA Technical Report</p></details> |
-| **[Sparsity Forcing: Reinforcing Token Sparsity of MLLMs](https://arxiv.org/abs/2504.18579v4)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233v2)** | 2026-02-26 |  |
-| **[S2O: Early Stopping for Sparse Attention via Online Permutation](https://arxiv.org/abs/2602.22575v1)** | 2026-02-26 |  |
 
