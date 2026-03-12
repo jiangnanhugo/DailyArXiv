@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taking Shortcuts for Categorical VQA Using Super Neurons](https://arxiv.org/abs/2603.10781v1)** | 2026-03-11 | <details><summary>25 pa...</summary><p>25 pages, 15 tables, 8 figures</p></details> |
 | **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
 | **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v2)** | 2026-03-10 |  |
 | **[SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing](https://arxiv.org/abs/2603.08982v1)** | 2026-03-09 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations](https://arxiv.org/abs/2603.00980v1)** | 2026-03-01 | <details><summary>Accep...</summary><p>Accepted to the ACM Web Conference 2026 (WWW '26). 9 pages, 9 figures. Zerui Chen and Heng Chang contributed equally to this work</p></details> |
 | **[Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts](https://arxiv.org/abs/2602.02108v4)** | 2026-03-01 |  |
 | **[FASA: Frequency-aware Sparse Attention](https://arxiv.org/abs/2602.03152v3)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761v2)** | 2026-02-28 | <details><summary>MiniC...</summary><p>MiniCPM-SALA Technical Report</p></details> |
 
