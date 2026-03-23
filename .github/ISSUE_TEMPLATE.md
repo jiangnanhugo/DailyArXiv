@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images](https://arxiv.org/abs/2603.19766v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings](https://arxiv.org/abs/2509.22925v2)** | 2026-03-19 | ICLR 2026 |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v3)** | 2026-03-19 |  |
 | **[Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models](https://arxiv.org/abs/2603.17677v1)** | 2026-03-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Self-Speculative Masked Diffusions](https://arxiv.org/abs/2510.03929v2)** | 2026-03-06 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 4 tables</p></details> |
 | **[KLASS: KL-Guided Fast Inference in Masked Diffusion Models](https://arxiv.org/abs/2511.05664v2)** | 2026-03-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight. Code: https://github.com/shkim0116/KLASS</p></details> |
 | **[Path Planning for Masked Diffusion Model Sampling](https://arxiv.org/abs/2502.03540v5)** | 2026-03-05 |  |
-| **[ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586v2)** | 2026-03-05 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
