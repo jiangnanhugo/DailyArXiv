@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
+| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
+| **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
+| **[Diffutron: A Masked Diffusion Language Model for Turkish Language](https://arxiv.org/abs/2603.20466v1)** | 2026-03-20 |  |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v3)** | 2026-03-19 |  |
 | **[EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](https://arxiv.org/abs/2603.18489v1)** | 2026-03-19 |  |
 | **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v3)** | 2026-03-19 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
@@ -18,14 +22,14 @@ labels: documentation
 | **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v2)** | 2026-03-16 |  |
 | **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v3)** | 2026-03-15 | <details><summary>V3: A...</summary><p>V3: Added qualitative analyses, more detailed explanations and new additional experiments in the appendices</p></details> |
 | **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v2)** | 2026-03-13 |  |
-| **[LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models](https://arxiv.org/abs/2603.13450v1)** | 2026-03-13 |  |
-| **[CORE: Context-Robust Remasking for Diffusion Language Models](https://arxiv.org/abs/2602.04096v3)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project Page: https://ucf-crcv.github.io/core/</p></details> |
-| **[Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](https://arxiv.org/abs/2603.12554v1)** | 2026-03-13 |  |
-| **[Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045v2)** | 2026-03-10 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
+| **[Masked Diffusion Models as Energy Minimization](https://arxiv.org/abs/2509.13866v3)** | 2026-03-23 |  |
+| **[ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](https://arxiv.org/abs/2506.02459v5)** | 2026-03-22 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 11 tables (incl. appendix)</p></details> |
+| **[Diffutron: A Masked Diffusion Language Model for Turkish Language](https://arxiv.org/abs/2603.20466v1)** | 2026-03-20 |  |
 | **[Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images](https://arxiv.org/abs/2603.19766v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings](https://arxiv.org/abs/2509.22925v2)** | 2026-03-19 | ICLR 2026 |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v3)** | 2026-03-19 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v2)** | 2026-03-13 |  |
 | **[CORE: Context-Robust Remasking for Diffusion Language Models](https://arxiv.org/abs/2602.04096v3)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project Page: https://ucf-crcv.github.io/core/</p></details> |
 | **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
-| **[DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention](https://arxiv.org/abs/2603.08026v1)** | 2026-03-09 | 18 pages, 10 figures |
-| **[Self-Speculative Masked Diffusions](https://arxiv.org/abs/2510.03929v2)** | 2026-03-06 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 4 tables</p></details> |
-| **[KLASS: KL-Guided Fast Inference in Masked Diffusion Models](https://arxiv.org/abs/2511.05664v2)** | 2026-03-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight. Code: https://github.com/shkim0116/KLASS</p></details> |
-| **[Path Planning for Masked Diffusion Model Sampling](https://arxiv.org/abs/2502.03540v5)** | 2026-03-05 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233v3)** | 2026-03-23 |  |
+| **[CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models](https://arxiv.org/abs/2602.07077v2)** | 2026-03-22 | 11 pages, 6 figures |
 | **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 | **[Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/abs/2603.18636v1)** | 2026-03-19 |  |
 | **[UEPS: Robust and Efficient MRI Reconstruction](https://arxiv.org/abs/2603.18572v1)** | 2026-03-19 | <details><summary>The d...</summary><p>The document contains the main paper and additional experimental details in the supplementary material. Open-source code can be found at: https://github.com/HongShangGroup/UEPS</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v2)** | 2026-03-10 |  |
 | **[SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing](https://arxiv.org/abs/2603.08982v1)** | 2026-03-09 |  |
 | **[QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification](https://arxiv.org/abs/2509.23681v4)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[S$^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016v4)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v1)** | 2026-03-06 | 12 pages, preprint |
 
