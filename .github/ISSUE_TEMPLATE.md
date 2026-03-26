@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing](https://arxiv.org/abs/2603.24108v1)** | 2026-03-25 |  |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v1)** | 2026-03-24 |  |
 | **[Kinetic Langevin Splitting Schemes for Constrained Sampling](https://arxiv.org/abs/2603.23397v1)** | 2026-03-24 | 35 pages |
 | **[CT-Conditioned Diffusion Prior with Physics-Constrained Sampling for PET Super-Resolution](https://arxiv.org/abs/2603.13901v1)** | 2026-03-14 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling](https://arxiv.org/abs/2602.08058v1)** | 2026-02-08 | 15 pages |
 | **[Solving Prior Distribution Mismatch in Diffusion Models via Optimal Transport](https://arxiv.org/abs/2410.13431v2)** | 2026-02-05 |  |
 | **[Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](https://arxiv.org/abs/2601.21033v1)** | 2026-01-28 | Code coming soon |
-| **[Sampling with Shielded Langevin Monte Carlo Using Navigation Potentials](https://arxiv.org/abs/2512.22153v1)** | 2025-12-15 |  |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
