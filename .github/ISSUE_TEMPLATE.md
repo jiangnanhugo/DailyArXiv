@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation](https://arxiv.org/abs/2603.25702v1)** | 2026-03-26 | <details><summary>Code ...</summary><p>Code is available at https://github.com/phymhan/S2D2</p></details> |
+| **[Planned Diffusion](https://arxiv.org/abs/2510.18087v2)** | 2026-03-25 | 10 pages, 7 figures |
 | **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
 | **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
 | **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Mask Is What DLLM Needs: A Masked Data Training Paradigm for Diffusion LLMs](https://arxiv.org/abs/2603.15803v1)** | 2026-03-16 | Ongoing work |
 | **[DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2603.15340v1)** | 2026-03-16 | 16 pages, 5 figures |
 | **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v2)** | 2026-03-16 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v3)** | 2026-03-15 | <details><summary>V3: A...</summary><p>V3: Added qualitative analyses, more detailed explanations and new additional experiments in the appendices</p></details> |
-| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v2)** | 2026-03-13 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](https://arxiv.org/abs/2603.25209v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Code: https://github.com/Westlake-AGI-Lab/FreeLOC</p></details> |
+| **[SWAA: Sliding Window Attention Adaptation for Efficient and Quality Preserving Long Context Processing](https://arxiv.org/abs/2512.10411v5)** | 2026-03-26 |  |
 | **[The Coordinate System Problem in Persistent Structural Memory for Neural Architectures](https://arxiv.org/abs/2603.22858v1)** | 2026-03-24 |  |
 | **[AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233v3)** | 2026-03-23 |  |
 | **[CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models](https://arxiv.org/abs/2602.07077v2)** | 2026-03-22 | 11 pages, 6 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Dynamic Sparse Attention: Access Patterns and Architecture](https://arxiv.org/abs/2603.13430v1)** | 2026-03-13 |  |
 | **[IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](https://arxiv.org/abs/2603.12201v1)** | 2026-03-12 |  |
 | **[Taking Shortcuts for Categorical VQA Using Super Neurons](https://arxiv.org/abs/2603.10781v1)** | 2026-03-11 | <details><summary>25 pa...</summary><p>25 pages, 15 tables, 8 figures</p></details> |
-| **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
-| **[AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541v2)** | 2026-03-10 |  |
 
