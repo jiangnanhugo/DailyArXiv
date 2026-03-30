@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v4)** | 2026-03-27 |  |
 | **[S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation](https://arxiv.org/abs/2603.25702v1)** | 2026-03-26 | <details><summary>Code ...</summary><p>Code is available at https://github.com/phymhan/S2D2</p></details> |
 | **[Planned Diffusion](https://arxiv.org/abs/2510.18087v2)** | 2026-03-25 | 10 pages, 7 figures |
 | **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models](https://arxiv.org/abs/2601.22629v2)** | 2026-03-16 |  |
 | **[Mask Is What DLLM Needs: A Masked Data Training Paradigm for Diffusion LLMs](https://arxiv.org/abs/2603.15803v1)** | 2026-03-16 | Ongoing work |
 | **[DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2603.15340v1)** | 2026-03-16 | 16 pages, 5 figures |
-| **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v2)** | 2026-03-16 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling](https://arxiv.org/abs/2603.26364v1)** | 2026-03-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables</p></details> |
+| **[Dual-objective Language Models: Training Efficiency Without Overfitting](https://arxiv.org/abs/2512.14549v3)** | 2026-03-27 |  |
+| **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v4)** | 2026-03-27 |  |
 | **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v2)** | 2026-03-24 |  |
 | **[Guided Star-Shaped Masked Diffusion](https://arxiv.org/abs/2510.08369v2)** | 2026-03-24 |  |
 | **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models](https://arxiv.org/abs/2603.17677v1)** | 2026-03-18 |  |
 | **[Improving Sampling for Masked Diffusion Models via Information Gain](https://arxiv.org/abs/2602.18176v2)** | 2026-03-18 | <details><summary>https...</summary><p>https://github.com/yks23/Information-Gain-Sampler</p></details> |
 | **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project Page: https://chen-hao-chao.github.io/mdm-prime-v2</p></details> |
-| **[DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2603.15340v1)** | 2026-03-16 | 16 pages, 5 figures |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v3)** | 2026-03-15 | <details><summary>V3: A...</summary><p>V3: Added qualitative analyses, more detailed explanations and new additional experiments in the appendices</p></details> |
-| **[MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation](https://arxiv.org/abs/2601.19577v2)** | 2026-03-13 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIRA_2: Overcoming Bottlenecks in AI Research Agents](https://arxiv.org/abs/2603.26499v1)** | 2026-03-27 |  |
 | **[Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing](https://arxiv.org/abs/2603.24108v1)** | 2026-03-25 |  |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v1)** | 2026-03-24 |  |
 | **[Kinetic Langevin Splitting Schemes for Constrained Sampling](https://arxiv.org/abs/2603.23397v1)** | 2026-03-24 | 35 pages |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Constrained Sampling to Guide Universal Manipulation RL](https://arxiv.org/abs/2602.08557v1)** | 2026-02-09 |  |
 | **[Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling](https://arxiv.org/abs/2602.08058v1)** | 2026-02-08 | 15 pages |
 | **[Solving Prior Distribution Mismatch in Diffusion Models via Optimal Transport](https://arxiv.org/abs/2410.13431v2)** | 2026-02-05 |  |
-| **[Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](https://arxiv.org/abs/2601.21033v1)** | 2026-01-28 | Code coming soon |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
