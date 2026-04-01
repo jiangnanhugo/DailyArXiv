@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2026
+title: Latest 15 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
+| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v2)** | 2026-03-30 | <details><summary>The p...</summary><p>The paper has been withdrawn due to a crucial mistake in the arguments</p></details> |
 | **[MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331v2)** | 2026-03-30 |  |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v3)** | 2026-03-29 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
 | **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v4)** | 2026-03-27 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v3)** | 2026-03-19 |  |
 | **[EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](https://arxiv.org/abs/2603.18489v1)** | 2026-03-19 |  |
 | **[The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165v3)** | 2026-03-19 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
-| **[Training Diffusion Language Models for Black-Box Optimization](https://arxiv.org/abs/2603.17919v1)** | 2026-03-18 | Preprint |
-| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project Page: https://chen-hao-chao.github.io/mdm-prime-v2</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v2)** | 2026-03-30 | <details><summary>The p...</summary><p>The paper has been withdrawn due to a crucial mistake in the arguments</p></details> |
 | **[MaskDiME: Adaptive Masked Diffusion for Precise and Efficient Visual Counterfactual Explanations](https://arxiv.org/abs/2602.18792v2)** | 2026-03-30 | Accepted by CVPR2026 |
 | **[Activation Steering for Masked Diffusion Language Models](https://arxiv.org/abs/2512.24143v3)** | 2026-03-29 | <details><summary>Accep...</summary><p>Accepted at ReALM-GEN @ ICLR 2026</p></details> |
 | **[STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding](https://arxiv.org/abs/2603.27593v1)** | 2026-03-29 | <details><summary>Proje...</summary><p>Project page: https://interlive-team.github.io/STRIDE</p></details> |
@@ -40,15 +41,14 @@ labels: documentation
 | **[ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](https://arxiv.org/abs/2506.02459v5)** | 2026-03-22 | <details><summary>36 pa...</summary><p>36 pages, 19 figures, 11 tables (incl. appendix)</p></details> |
 | **[Diffutron: A Masked Diffusion Language Model for Turkish Language](https://arxiv.org/abs/2603.20466v1)** | 2026-03-20 |  |
 | **[Adapting a Pre-trained Single-Cell Foundation Model to Spatial Gene Expression Generation from Histology Images](https://arxiv.org/abs/2603.19766v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings](https://arxiv.org/abs/2509.22925v2)** | 2026-03-19 | ICLR 2026 |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kinetic Langevin Splitting Schemes for Constrained Sampling](https://arxiv.org/abs/2603.23397v2)** | 2026-03-31 | 35 pages |
 | **[AIRA_2: Overcoming Bottlenecks in AI Research Agents](https://arxiv.org/abs/2603.26499v1)** | 2026-03-27 |  |
 | **[Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing](https://arxiv.org/abs/2603.24108v1)** | 2026-03-25 |  |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v1)** | 2026-03-24 |  |
-| **[Kinetic Langevin Splitting Schemes for Constrained Sampling](https://arxiv.org/abs/2603.23397v1)** | 2026-03-24 | 35 pages |
 | **[CT-Conditioned Diffusion Prior with Physics-Constrained Sampling for PET Super-Resolution](https://arxiv.org/abs/2603.13901v1)** | 2026-03-14 |  |
 | **[Diffusion-MPC in Discrete Domains: Feasibility Constraints, Horizon Effects, and Critic Alignment: Case study with Tetris](https://arxiv.org/abs/2603.02348v1)** | 2026-03-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables. Includes regret diagnostics and compute-quality frontier analysis. Code and experiment configurations available in the Diffusion-Tetris repository</p></details> |
 | **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
@@ -64,6 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v2)** | 2026-03-31 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, conference or other essential info</p></details> |
+| **[ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/abs/2509.24745v2)** | 2026-03-31 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera ready</p></details> |
+| **[VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](https://arxiv.org/abs/2603.29494v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
 | **[HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention](https://arxiv.org/abs/2603.28458v1)** | 2026-03-30 |  |
 | **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v2)** | 2026-03-29 | CVPR 2026 |
 | **[$π$-Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling](https://arxiv.org/abs/2511.10696v2)** | 2026-03-28 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models](https://arxiv.org/abs/2602.07077v2)** | 2026-03-22 | 11 pages, 6 figures |
 | **[A Multi-Task Targeted Learning Framework for Lithium-Ion Battery State-of-Health and Remaining Useful Life](https://arxiv.org/abs/2603.22323v1)** | 2026-03-20 | <details><summary>https...</summary><p>https://github.com/wch1121/Joint-prediction-of-SOH-and-RUL</p></details> |
 | **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
-| **[Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/abs/2603.18636v1)** | 2026-03-19 |  |
-| **[UEPS: Robust and Efficient MRI Reconstruction](https://arxiv.org/abs/2603.18572v1)** | 2026-03-19 | <details><summary>The d...</summary><p>The document contains the main paper and additional experimental details in the supplementary material. Open-source code can be found at: https://github.com/HongShangGroup/UEPS</p></details> |
-| **[Self-Tuning Sparse Attention: Multi-Fidelity Hyperparameter Optimization for Transformer Acceleration](https://arxiv.org/abs/2603.18417v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to the International Conference on Machine Intelligence Theory and Applications (MiTA 2026)</p></details> |
-| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v1)** | 2026-03-15 |  |
 
