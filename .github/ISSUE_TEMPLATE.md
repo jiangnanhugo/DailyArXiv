@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)** | 2026-04-02 |  |
+| **[OSCAR: Orchestrated Self-verification and Cross-path Refinement](https://arxiv.org/abs/2604.01624v1)** | 2026-04-02 |  |
+| **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v1)** | 2026-04-02 | 26 pages |
 | **[Inverse Design of Optical Multilayer Thin Films using Robust Masked Diffusion Models](https://arxiv.org/abs/2604.01106v1)** | 2026-04-01 | 24 pages, 14 Figures |
-| **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v1)** | 2026-04-01 |  |
 | **[TRIMS: Trajectory-Ranked Instruction Masked Supervision for Diffusion Language Models](https://arxiv.org/abs/2604.00666v1)** | 2026-04-01 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 algorithm</p></details> |
 | **[Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models](https://arxiv.org/abs/2604.00375v1)** | 2026-04-01 |  |
 | **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Planned Diffusion](https://arxiv.org/abs/2510.18087v2)** | 2026-03-25 | 10 pages, 7 figures |
 | **[LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
 | **[Confidence-Based Decoding is Provably Efficient for Diffusion Language Models](https://arxiv.org/abs/2603.22248v1)** | 2026-03-23 |  |
-| **[MemDLM: Memory-Enhanced DLM Training](https://arxiv.org/abs/2603.22241v1)** | 2026-03-23 |  |
-| **[Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075v1)** | 2026-03-23 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code and checkpoints at https://github.com/caiovicentino/arche</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v2)** | 2026-04-02 |  |
 | **[HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention](https://arxiv.org/abs/2603.28458v2)** | 2026-04-01 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v2)** | 2026-03-31 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, conference or other essential info</p></details> |
 | **[ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/abs/2509.24745v2)** | 2026-03-31 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera ready</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression](https://arxiv.org/abs/2602.21233v3)** | 2026-03-23 |  |
 | **[CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models](https://arxiv.org/abs/2602.07077v2)** | 2026-03-22 | 11 pages, 6 figures |
 | **[A Multi-Task Targeted Learning Framework for Lithium-Ion Battery State-of-Health and Remaining Useful Life](https://arxiv.org/abs/2603.22323v1)** | 2026-03-20 | <details><summary>https...</summary><p>https://github.com/wch1121/Joint-prediction-of-SOH-and-RUL</p></details> |
-| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 
