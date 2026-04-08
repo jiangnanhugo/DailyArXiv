@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870v2)** | 2026-04-07 | ACL 2026 (Long) |
+| **[FastDiSS: Few-step Match Many-step Diffusion Language Model on Sequence-to-Sequence Generation--Full Version](https://arxiv.org/abs/2604.05551v1)** | 2026-04-07 | <details><summary>camer...</summary><p>camera-ready version, accepted by ACL Findings (ACL 2026)</p></details> |
+| **[DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250v1)** | 2026-04-06 |  |
+| **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v3)** | 2026-04-06 |  |
 | **[Flow Map Language Models: One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813v2)** | 2026-04-06 | 58 pages, 40 figures |
 | **[DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/abs/2604.04215v1)** | 2026-04-05 | <details><summary>14 pa...</summary><p>14 pages,3 figures,5 tables</p></details> |
 | **[Unlocking Prompt Infilling Capability for Diffusion Language Models](https://arxiv.org/abs/2604.03677v1)** | 2026-04-04 |  |
@@ -18,15 +22,12 @@ labels: documentation
 | **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v1)** | 2026-04-02 | 26 pages |
 | **[Inverse Design of Optical Multilayer Thin Films using Robust Masked Diffusion Models](https://arxiv.org/abs/2604.01106v1)** | 2026-04-01 | 24 pages, 14 Figures |
 | **[TRIMS: Trajectory-Ranked Instruction Masked Supervision for Diffusion Language Models](https://arxiv.org/abs/2604.00666v1)** | 2026-04-01 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 algorithm</p></details> |
-| **[Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models](https://arxiv.org/abs/2604.00375v1)** | 2026-04-01 |  |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v3)** | 2026-03-31 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference or other essential info</p></details> |
-| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v2)** | 2026-03-30 | <details><summary>The p...</summary><p>The paper has been withdrawn due to a crucial mistake in the arguments</p></details> |
-| **[MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331v2)** | 2026-03-30 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MolDA: Molecular Understanding and Generation via Large Language Diffusion Model](https://arxiv.org/abs/2604.04403v1)** | 2026-04-06 |  |
+| **[MolDA: Molecular Understanding and Generation via Large Language Diffusion Model](https://arxiv.org/abs/2604.04403v2)** | 2026-04-07 |  |
+| **[DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250v1)** | 2026-04-06 |  |
 | **[Unlocking Prompt Infilling Capability for Diffusion Language Models](https://arxiv.org/abs/2604.03677v1)** | 2026-04-04 |  |
 | **[NeuralLVC: Neural Lossless Video Compression via Masked Diffusion with Temporal Conditioning](https://arxiv.org/abs/2604.03353v1)** | 2026-04-03 |  |
 | **[Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models](https://arxiv.org/abs/2603.17677v2)** | 2026-04-03 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Dual-objective Language Models: Training Efficiency Without Overfitting](https://arxiv.org/abs/2512.14549v3)** | 2026-03-27 |  |
 | **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v4)** | 2026-03-27 |  |
 | **[LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v1)** | 2026-03-24 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
-| **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v2)** | 2026-03-24 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,12 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v3)** | 2026-04-07 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
+| **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
+| **[Not All Agents Matter: From Global Attention Dilution to Risk-Prioritized Game Planning](https://arxiv.org/abs/2604.05449v1)** | 2026-04-07 | 14 pages, 5 figures |
+| **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v1)** | 2026-04-06 |  |
 | **[HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention](https://arxiv.org/abs/2603.28458v3)** | 2026-04-06 |  |
 | **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v2)** | 2026-04-06 |  |
-| **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v2)** | 2026-04-05 | Technical Report |
 | **[More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/abs/2603.09573v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://github.com/InSAI-Lab/PanoVQA</p></details> |
 | **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v2)** | 2026-04-02 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v2)** | 2026-03-31 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, conference or other essential info</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v2)** | 2026-03-29 | CVPR 2026 |
 | **[$π$-Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling](https://arxiv.org/abs/2511.10696v2)** | 2026-03-28 |  |
 | **[ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference](https://arxiv.org/abs/2603.27138v1)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted at the 63rd Design Automation Conference (DAC 2026)</p></details> |
-| **[Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](https://arxiv.org/abs/2603.25209v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Code: https://github.com/Westlake-AGI-Lab/FreeLOC</p></details> |
-| **[SWAA: Sliding Window Attention Adaptation for Efficient and Quality Preserving Long Context Processing](https://arxiv.org/abs/2512.10411v5)** | 2026-03-26 |  |
-| **[The Coordinate System Problem in Persistent Structural Memory for Neural Architectures](https://arxiv.org/abs/2603.22858v1)** | 2026-03-24 |  |
 
