@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v4)** | 2026-04-08 |  |
+| **[DiffuMask: Diffusion Language Model for Token-level Prompt Pruning](https://arxiv.org/abs/2604.06627v1)** | 2026-04-08 |  |
 | **[Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870v2)** | 2026-04-07 | ACL 2026 (Long) |
 | **[FastDiSS: Few-step Match Many-step Diffusion Language Model on Sequence-to-Sequence Generation--Full Version](https://arxiv.org/abs/2604.05551v1)** | 2026-04-07 | <details><summary>camer...</summary><p>camera-ready version, accepted by ACL Findings (ACL 2026)</p></details> |
+| **[$S^3$: Stratified Scaling Search for Test-Time in Diffusion Language Models](https://arxiv.org/abs/2604.06260v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
 | **[DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250v1)** | 2026-04-06 |  |
-| **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v3)** | 2026-04-06 |  |
 | **[Flow Map Language Models: One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813v2)** | 2026-04-06 | 58 pages, 40 figures |
 | **[DARE: Diffusion Large Language Models Alignment and Reinforcement Executor](https://arxiv.org/abs/2604.04215v1)** | 2026-04-05 | <details><summary>14 pa...</summary><p>14 pages,3 figures,5 tables</p></details> |
 | **[Unlocking Prompt Infilling Capability for Diffusion Language Models](https://arxiv.org/abs/2604.03677v1)** | 2026-04-04 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models](https://arxiv.org/abs/2604.02560v1)** | 2026-04-02 |  |
 | **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)** | 2026-04-02 |  |
 | **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v1)** | 2026-04-02 | 26 pages |
-| **[Inverse Design of Optical Multilayer Thin Films using Robust Masked Diffusion Models](https://arxiv.org/abs/2604.01106v1)** | 2026-04-01 | 24 pages, 14 Figures |
-| **[TRIMS: Trajectory-Ranked Instruction Masked Supervision for Diffusion Language Models](https://arxiv.org/abs/2604.00666v1)** | 2026-04-01 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 algorithm</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v3)** | 2026-04-07 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
+| **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v4)** | 2026-04-08 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
 | **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
 | **[Not All Agents Matter: From Global Attention Dilution to Risk-Prioritized Game Planning](https://arxiv.org/abs/2604.05449v1)** | 2026-04-07 | 14 pages, 5 figures |
 | **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v1)** | 2026-04-06 |  |
