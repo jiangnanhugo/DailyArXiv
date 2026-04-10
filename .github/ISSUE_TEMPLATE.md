@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2026
+title: Latest 15 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DMax: Aggressive Parallel Decoding for dLLMs](https://arxiv.org/abs/2604.08302v1)** | 2026-04-09 | <details><summary>Worki...</summary><p>Working in progress. Code is available at: https://github.com/czg1225/DMax</p></details> |
+| **[Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982v5)** | 2026-04-09 |  |
 | **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v4)** | 2026-04-08 |  |
 | **[DiffuMask: Diffusion Language Model for Token-level Prompt Pruning](https://arxiv.org/abs/2604.06627v1)** | 2026-04-08 |  |
 | **[Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870v2)** | 2026-04-07 | ACL 2026 (Long) |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Generative Frontiers: Why Evaluation Matters for Diffusion Language Models](https://arxiv.org/abs/2604.02718v1)** | 2026-04-03 |  |
 | **[OSCAR: Orchestrated Self-verification and Cross-path Refinement](https://arxiv.org/abs/2604.01624v2)** | 2026-04-03 |  |
 | **[Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models](https://arxiv.org/abs/2604.02560v1)** | 2026-04-02 |  |
-| **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)** | 2026-04-02 |  |
-| **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v1)** | 2026-04-02 | 26 pages |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention](https://arxiv.org/abs/2604.07815v1)** | 2026-04-09 |  |
+| **[Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference](https://arxiv.org/abs/2604.07394v1)** | 2026-04-08 |  |
 | **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v4)** | 2026-04-08 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
 | **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
 | **[Not All Agents Matter: From Global Attention Dilution to Risk-Prioritized Game Planning](https://arxiv.org/abs/2604.05449v1)** | 2026-04-07 | 14 pages, 5 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](https://arxiv.org/abs/2603.29494v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
 | **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v2)** | 2026-03-29 | CVPR 2026 |
-| **[$π$-Attention: Periodic Sparse Transformers for Efficient Long-Context Modeling](https://arxiv.org/abs/2511.10696v2)** | 2026-03-28 |  |
-| **[ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference](https://arxiv.org/abs/2603.27138v1)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted at the 63rd Design Automation Conference (DAC 2026)</p></details> |
 
