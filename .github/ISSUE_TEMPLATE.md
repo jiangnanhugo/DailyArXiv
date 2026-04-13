@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models](https://arxiv.org/abs/2603.13450v2)** | 2026-04-10 | <details><summary>ACL20...</summary><p>ACL2026 Main Conference</p></details> |
 | **[DMax: Aggressive Parallel Decoding for dLLMs](https://arxiv.org/abs/2604.08302v1)** | 2026-04-09 | <details><summary>Worki...</summary><p>Working in progress. Code is available at: https://github.com/czg1225/DMax</p></details> |
 | **[Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982v5)** | 2026-04-09 |  |
 | **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v4)** | 2026-04-08 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Rethinking Token Prediction: Tree-Structured Diffusion Language Model](https://arxiv.org/abs/2604.03537v1)** | 2026-04-04 |  |
 | **[Generative Frontiers: Why Evaluation Matters for Diffusion Language Models](https://arxiv.org/abs/2604.02718v1)** | 2026-04-03 |  |
 | **[OSCAR: Orchestrated Self-verification and Cross-path Refinement](https://arxiv.org/abs/2604.01624v2)** | 2026-04-03 |  |
-| **[Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models](https://arxiv.org/abs/2604.02560v1)** | 2026-04-02 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visually-Guided Policy Optimization for Multimodal Reasoning](https://arxiv.org/abs/2604.09349v1)** | 2026-04-10 | ACL 2026 |
+| **[Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching](https://arxiv.org/abs/2604.09142v1)** | 2026-04-10 |  |
+| **[Modality-Aware Zero-Shot Pruning and Sparse Attention for Efficient Multimodal Edge Inference](https://arxiv.org/abs/2604.08971v1)** | 2026-04-10 |  |
 | **[AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention](https://arxiv.org/abs/2604.07815v1)** | 2026-04-09 |  |
 | **[Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference](https://arxiv.org/abs/2604.07394v1)** | 2026-04-08 |  |
 | **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v4)** | 2026-04-08 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer](https://arxiv.org/abs/2601.16515v2)** | 2026-04-02 |  |
 | **[InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/abs/2512.08829v2)** | 2026-03-31 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, conference or other essential info</p></details> |
 | **[ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/abs/2509.24745v2)** | 2026-03-31 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera ready</p></details> |
-| **[VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](https://arxiv.org/abs/2603.29494v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002v1)** | 2026-03-30 |  |
-| **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v2)** | 2026-03-29 | CVPR 2026 |
 
