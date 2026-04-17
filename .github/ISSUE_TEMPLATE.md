@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2026
+title: Latest 15 Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching](https://arxiv.org/abs/2604.15009v1)** | 2026-04-16 |  |
 | **[LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](https://arxiv.org/abs/2604.11748v3)** | 2026-04-15 |  |
 | **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v1)** | 2026-04-15 |  |
 | **[Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v2)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Early Decisions Matter: Proximity Bias and Initial Trajectory Shaping in Non-Autoregressive Diffusion Language Models](https://arxiv.org/abs/2604.10567v1)** | 2026-04-12 |  |
 | **[Advancing Reasoning in Diffusion Language Models with Denoising Process Rewards](https://arxiv.org/abs/2510.01544v2)** | 2026-04-11 |  |
 | **[Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593v2)** | 2026-04-11 |  |
-| **[Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models](https://arxiv.org/abs/2604.02340v2)** | 2026-04-11 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,12 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaSplash-2: Faster Differentiable Sparse Attention](https://arxiv.org/abs/2604.15180v1)** | 2026-04-16 |  |
+| **[Improving Sparse Autoencoder with Dynamic Attention](https://arxiv.org/abs/2604.14925v1)** | 2026-04-16 |  |
+| **[When Does Content-Based Routing Work? Representation Requirements for Selective Attention in Hybrid Sequence Models](https://arxiv.org/abs/2603.20997v2)** | 2026-04-16 |  |
+| **[Latent-Condensed Transformer for Efficient Long Context Modeling](https://arxiv.org/abs/2604.12452v2)** | 2026-04-16 | Accepted by ACL 2026 |
 | **[SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention](https://arxiv.org/abs/2604.13847v1)** | 2026-04-15 |  |
 | **[VFA: Relieving Vector Operations in Flash Attention with Global Maximum Pre-computation](https://arxiv.org/abs/2604.12798v1)** | 2026-04-14 |  |
-| **[Latent-Condensed Transformer for Efficient Long Context Modeling](https://arxiv.org/abs/2604.12452v1)** | 2026-04-14 | Accepted by ACL 2026 |
 | **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v2)** | 2026-04-14 | 43 pages, 12 figures |
 | **[Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation](https://arxiv.org/abs/2604.12219v1)** | 2026-04-14 |  |
 | **[LoSA: Locality Aware Sparse Attention for Block-Wise Diffusion Language Models](https://arxiv.org/abs/2604.12056v1)** | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 6 tables</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching](https://arxiv.org/abs/2604.09142v1)** | 2026-04-10 |  |
 | **[Modality-Aware Zero-Shot Pruning and Sparse Attention for Efficient Multimodal Edge Inference](https://arxiv.org/abs/2604.08971v1)** | 2026-04-10 |  |
 | **[AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention](https://arxiv.org/abs/2604.07815v1)** | 2026-04-09 |  |
-| **[Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference](https://arxiv.org/abs/2604.07394v1)** | 2026-04-08 |  |
-| **[ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference](https://arxiv.org/abs/2508.16703v4)** | 2026-04-08 | <details><summary>To Ap...</summary><p>To Appear at MobiSys'26</p></details> |
-| **[VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting](https://arxiv.org/abs/2501.14183v3)** | 2026-04-07 | <details><summary>Publi...</summary><p>Published in AAAI 2025</p></details> |
 
