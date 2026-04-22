@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v3)** | 2026-04-21 |  |
+| **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
 | **[NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization](https://arxiv.org/abs/2604.18471v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[DMax: Aggressive Parallel Decoding for dLLMs](https://arxiv.org/abs/2604.08302v2)** | 2026-04-20 | <details><summary>Worki...</summary><p>Working in progress. Code is available at: https://github.com/czg1225/DMax</p></details> |
 | **[Stability-Weighted Decoding for Diffusion Language Models](https://arxiv.org/abs/2604.17068v1)** | 2026-04-18 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v2)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main)</p></details> |
 | **[Dataset-Level Metrics Attenuate Non-Determinism: A Fine-Grained Non-Determinism Evaluation in Diffusion Language Models](https://arxiv.org/abs/2604.13413v1)** | 2026-04-15 |  |
 | **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541v3)** | 2026-04-14 | ICLR 2026 |
-| **[One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion](https://arxiv.org/abs/2508.04559v3)** | 2026-04-14 |  |
-| **[LoSA: Locality Aware Sparse Attention for Block-Wise Diffusion Language Models](https://arxiv.org/abs/2604.12056v1)** | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 6 tables</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discrete Tilt Matching](https://arxiv.org/abs/2604.18739v1)** | 2026-04-20 |  |
+| **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
 | **[Interpolating Discrete Diffusion Models with Controllable Resampling](https://arxiv.org/abs/2604.17310v1)** | 2026-04-19 |  |
 | **[LogicDiff: Logic-Guided Denoising Improves Zero-Shot Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v2)** | 2026-04-18 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
 | **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v3)** | 2026-04-17 |  |
@@ -39,13 +41,11 @@ labels: documentation
 | **[MolDA: Molecular Understanding and Generation via Large Language Diffusion Model](https://arxiv.org/abs/2604.04403v2)** | 2026-04-07 |  |
 | **[DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250v1)** | 2026-04-06 |  |
 | **[Unlocking Prompt Infilling Capability for Diffusion Language Models](https://arxiv.org/abs/2604.03677v1)** | 2026-04-04 |  |
-| **[NeuralLVC: Neural Lossless Video Compression via Masked Diffusion with Temporal Conditioning](https://arxiv.org/abs/2604.03353v1)** | 2026-04-03 |  |
-| **[Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models](https://arxiv.org/abs/2603.17677v2)** | 2026-04-03 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
+| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v2)** | 2026-04-21 |  |
 | **[Multi-stream Quickest Change Detection: Foundations and Recent Advances](https://arxiv.org/abs/2604.18008v1)** | 2026-04-20 | Submitted to Entropy |
 | **[AIRA_2: Overcoming Bottlenecks in AI Research Agents](https://arxiv.org/abs/2603.26499v2)** | 2026-04-13 |  |
 | **[Accelerating Constrained Sampling: A Large Deviations Approach](https://arxiv.org/abs/2506.07816v3)** | 2026-04-05 | 59 pages, 15 figures |
@@ -64,10 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/abs/2604.19747v1)** | 2026-04-21 | <details><summary>Webpa...</summary><p>Webpage: https://yutian10.github.io/AnyRecon/</p></details> |
+| **[Accelerating Prefilling via Decoding-time Contribution Sparsity](https://arxiv.org/abs/2507.21526v4)** | 2026-04-21 |  |
 | **[AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](https://arxiv.org/abs/2604.18348v1)** | 2026-04-20 | CVPR 2026 poster |
 | **[AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization](https://arxiv.org/abs/2604.18137v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention](https://arxiv.org/abs/2512.24086v2)** | 2026-04-20 |  |
-| **[TriangleMix: Accelerating Prefilling via Decoding-time Contribution Sparsity](https://arxiv.org/abs/2507.21526v3)** | 2026-04-20 |  |
 | **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v3)** | 2026-04-19 |  |
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v4)** | 2026-04-17 | <details><summary>Updat...</summary><p>Updated to camera-ready version</p></details> |
 | **[AdaSplash-2: Faster Differentiable Sparse Attention](https://arxiv.org/abs/2604.15180v1)** | 2026-04-16 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[VFA: Relieving Vector Operations in Flash Attention with Global Maximum Pre-computation](https://arxiv.org/abs/2604.12798v1)** | 2026-04-14 |  |
 | **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v2)** | 2026-04-14 | 43 pages, 12 figures |
 | **[Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation](https://arxiv.org/abs/2604.12219v1)** | 2026-04-14 |  |
-| **[LoSA: Locality Aware Sparse Attention for Block-Wise Diffusion Language Models](https://arxiv.org/abs/2604.12056v1)** | 2026-04-13 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 6 tables</p></details> |
 
