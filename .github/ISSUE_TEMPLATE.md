@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
+| **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v2)** | 2026-04-23 | 30 pages, 5 figures |
+| **[BackPlay: Head-Only Look-Back Self-Correction for Diffusion Language Models](https://arxiv.org/abs/2601.06428v3)** | 2026-04-22 | 16 pages |
 | **[On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks](https://arxiv.org/abs/2604.20079v1)** | 2026-04-22 |  |
 | **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v3)** | 2026-04-21 |  |
 | **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
@@ -15,17 +18,15 @@ labels: documentation
 | **[Stability-Weighted Decoding for Diffusion Language Models](https://arxiv.org/abs/2604.17068v1)** | 2026-04-18 |  |
 | **[LogicDiff: Logic-Guided Denoising Improves Zero-Shot Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v2)** | 2026-04-18 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
 | **[FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time](https://arxiv.org/abs/2604.16648v1)** | 2026-04-17 |  |
-| **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v1)** | 2026-04-17 | 30 pages, 5 figures |
 | **[DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference](https://arxiv.org/abs/2604.15750v1)** | 2026-04-17 |  |
 | **[Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching](https://arxiv.org/abs/2604.15009v1)** | 2026-04-16 |  |
 | **[LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](https://arxiv.org/abs/2604.11748v3)** | 2026-04-15 |  |
 | **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v1)** | 2026-04-15 |  |
-| **[Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v2)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main)</p></details> |
-| **[Dataset-Level Metrics Attenuate Non-Determinism: A Fine-Grained Non-Determinism Evaluation in Diffusion Language Models](https://arxiv.org/abs/2604.13413v1)** | 2026-04-15 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MaskDiME: Adaptive Masked Diffusion for Precise and Efficient Visual Counterfactual Explanations](https://arxiv.org/abs/2602.18792v3)** | 2026-04-23 | Accepted by CVPR2026 |
 | **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/abs/2604.20796v1)** | 2026-04-22 | <details><summary>LLaDA...</summary><p>LLaDA2.0-Uni Technical Report</p></details> |
 | **[Discrete Tilt Matching](https://arxiv.org/abs/2604.18739v1)** | 2026-04-20 |  |
 | **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593v2)** | 2026-04-11 |  |
 | **[Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models](https://arxiv.org/abs/2604.02340v2)** | 2026-04-11 |  |
 | **[MolDA: Molecular Understanding and Generation via Large Language Diffusion Model](https://arxiv.org/abs/2604.04403v2)** | 2026-04-07 |  |
-| **[DualDiffusion: A Speculative Decoding Strategy for Masked Diffusion Models](https://arxiv.org/abs/2604.05250v1)** | 2026-04-06 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](https://arxiv.org/abs/2604.21592v1)** | 2026-04-23 |  |
+| **[Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](https://arxiv.org/abs/2604.21221v1)** | 2026-04-23 |  |
 | **[DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion](https://arxiv.org/abs/2604.20470v1)** | 2026-04-22 |  |
+| **[Forget, Then Recall: Learnable Compression and Selective Unfolding via Gist Sparse Attention](https://arxiv.org/abs/2604.20920v1)** | 2026-04-22 |  |
 | **[i-WiViG: Interpretable Window Vision GNN](https://arxiv.org/abs/2503.08321v2)** | 2026-04-22 |  |
 | **[AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/abs/2604.19747v1)** | 2026-04-21 | <details><summary>Webpa...</summary><p>Webpage: https://yutian10.github.io/AnyRecon/</p></details> |
 | **[Accelerating Prefilling via Decoding-time Contribution Sparsity](https://arxiv.org/abs/2507.21526v4)** | 2026-04-21 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[AdaSplash-2: Faster Differentiable Sparse Attention](https://arxiv.org/abs/2604.15180v1)** | 2026-04-16 |  |
 | **[Improving Sparse Autoencoder with Dynamic Attention](https://arxiv.org/abs/2604.14925v1)** | 2026-04-16 |  |
 | **[When Does Content-Based Routing Work? Representation Requirements for Selective Attention in Hybrid Sequence Models](https://arxiv.org/abs/2603.20997v2)** | 2026-04-16 |  |
-| **[Latent-Condensed Transformer for Efficient Long Context Modeling](https://arxiv.org/abs/2604.12452v2)** | 2026-04-16 | Accepted by ACL 2026 |
-| **[SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention](https://arxiv.org/abs/2604.13847v1)** | 2026-04-15 |  |
-| **[VFA: Relieving Vector Operations in Flash Attention with Global Maximum Pre-computation](https://arxiv.org/abs/2604.12798v1)** | 2026-04-14 |  |
 
