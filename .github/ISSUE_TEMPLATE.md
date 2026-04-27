@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v3)** | 2026-04-24 | <details><summary>ACL 2...</summary><p>ACL 2026 - Main Conference</p></details> |
 | **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
 | **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v2)** | 2026-04-23 | 30 pages, 5 figures |
 | **[BackPlay: Head-Only Look-Back Self-Correction for Diffusion Language Models](https://arxiv.org/abs/2601.06428v3)** | 2026-04-22 | 16 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DepCap: Adaptive Block-Wise Parallel Decoding for Efficient Diffusion LM Inference](https://arxiv.org/abs/2604.15750v1)** | 2026-04-17 |  |
 | **[Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching](https://arxiv.org/abs/2604.15009v1)** | 2026-04-16 |  |
 | **[LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](https://arxiv.org/abs/2604.11748v3)** | 2026-04-15 |  |
-| **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v1)** | 2026-04-15 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference](https://arxiv.org/abs/2604.22575v1)** | 2026-04-24 |  |
+| **[Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation](https://arxiv.org/abs/2604.22312v1)** | 2026-04-24 | 31 Pages, 11 figures |
+| **[SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention](https://arxiv.org/abs/2604.13847v2)** | 2026-04-23 |  |
 | **[Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](https://arxiv.org/abs/2604.21592v1)** | 2026-04-23 |  |
 | **[Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](https://arxiv.org/abs/2604.21221v1)** | 2026-04-23 |  |
 | **[DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion](https://arxiv.org/abs/2604.20470v1)** | 2026-04-22 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention](https://arxiv.org/abs/2512.24086v2)** | 2026-04-20 |  |
 | **[Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage](https://arxiv.org/abs/2601.03043v3)** | 2026-04-19 |  |
 | **[Softpick: No Attention Sink, No Massive Activations with Rectified Softmax](https://arxiv.org/abs/2504.20966v4)** | 2026-04-17 | <details><summary>Updat...</summary><p>Updated to camera-ready version</p></details> |
-| **[AdaSplash-2: Faster Differentiable Sparse Attention](https://arxiv.org/abs/2604.15180v1)** | 2026-04-16 |  |
-| **[Improving Sparse Autoencoder with Dynamic Attention](https://arxiv.org/abs/2604.14925v1)** | 2026-04-16 |  |
-| **[When Does Content-Based Routing Work? Representation Requirements for Selective Attention in Hybrid Sequence Models](https://arxiv.org/abs/2603.20997v2)** | 2026-04-16 |  |
 
