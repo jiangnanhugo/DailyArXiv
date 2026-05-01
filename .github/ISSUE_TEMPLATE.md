@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v2)** | 2026-04-29 |  |
+| **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v2)** | 2026-04-29 |  |
+| **[Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v3)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main)</p></details> |
 | **[On the Trainability of Masked Diffusion Language Models via Blockwise Locality](https://arxiv.org/abs/2604.24832v1)** | 2026-04-27 |  |
 | **[DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models](https://arxiv.org/abs/2604.24357v1)** | 2026-04-27 |  |
 | **[A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs](https://arxiv.org/abs/2603.07475v2)** | 2026-04-27 | <details><summary>v2: C...</summary><p>v2: Clarified problem framing and key takeaways. Revised introduction for improved exposition. Added additional analysis and results to strengthen empirical support</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
 | **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v2)** | 2026-04-23 | 30 pages, 5 figures |
 | **[BackPlay: Head-Only Look-Back Self-Correction for Diffusion Language Models](https://arxiv.org/abs/2601.06428v3)** | 2026-04-22 | 16 pages |
-| **[On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks](https://arxiv.org/abs/2604.20079v1)** | 2026-04-22 |  |
-| **[OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v3)** | 2026-04-21 |  |
-| **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v2)** | 2026-04-29 |  |
+| **[Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985v1)** | 2026-04-28 |  |
 | **[On the Trainability of Masked Diffusion Language Models via Blockwise Locality](https://arxiv.org/abs/2604.24832v1)** | 2026-04-27 |  |
 | **[DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models](https://arxiv.org/abs/2604.24357v1)** | 2026-04-27 |  |
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v3)** | 2026-04-26 |  |
@@ -36,15 +38,15 @@ labels: documentation
 | **[Interpolating Discrete Diffusion Models with Controllable Resampling](https://arxiv.org/abs/2604.17310v1)** | 2026-04-19 |  |
 | **[LogicDiff: Logic-Guided Denoising Improves Zero-Shot Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v2)** | 2026-04-18 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
 | **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v3)** | 2026-04-17 |  |
-| **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v1)** | 2026-04-15 |  |
 | **[Discrete Guidance Matching: Exact Guidance for Discrete Flow Matching](https://arxiv.org/abs/2509.21912v2)** | 2026-04-15 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541v3)** | 2026-04-14 | ICLR 2026 |
 | **[Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling](https://arxiv.org/abs/2505.17384v2)** | 2026-04-14 | <details><summary>ICLR ...</summary><p>ICLR 2026 Poster; 24 pages, 13 figures</p></details> |
-| **[LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation](https://arxiv.org/abs/2604.11052v1)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to ACMMM 2026. Under review</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Universal statistical laws governing culinary design](https://arxiv.org/abs/2604.28021v1)** | 2026-04-30 | <details><summary>48 Pa...</summary><p>48 Pages (28 Pages of Main Manuscript + Supplementary Information), 4 Main Figures, 6 Extended Data Figures</p></details> |
+| **[Piecewise Deterministic Sampling for Constrained Distributions](https://arxiv.org/abs/2508.05462v2)** | 2026-04-30 | 44 pages, 9 figures |
 | **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v3)** | 2026-04-26 |  |
 | **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v2)** | 2026-04-21 |  |
 | **[Multi-stream Quickest Change Detection: Foundations and Recent Advances](https://arxiv.org/abs/2604.18008v1)** | 2026-04-20 | Submitted to Entropy |
@@ -58,12 +60,13 @@ labels: documentation
 | **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
 | **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](https://arxiv.org/abs/2505.11265v2)** | 2026-02-25 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, submitted to an IEEE journal</p></details> |
 | **[SAFER: Risk-Constrained Sample-then-Filter in Large Language Models](https://arxiv.org/abs/2510.10193v3)** | 2026-02-16 |  |
-| **[Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities](https://arxiv.org/abs/2602.14616v1)** | 2026-02-16 |  |
-| **[Constrained and Composite Sampling via Proximal Sampler](https://arxiv.org/abs/2602.14478v1)** | 2026-02-16 | <details><summary>The m...</summary><p>The main paper is 13 pages; the rest are appendices</p></details> |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models](https://arxiv.org/abs/2510.17196v3)** | 2026-04-30 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera-ready version</p></details> |
+| **[Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution](https://arxiv.org/abs/2604.27326v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE GRSL 2026</p></details> |
+| **[Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://arxiv.org/abs/2604.26837v1)** | 2026-04-29 | 15 pages |
 | **[Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation](https://arxiv.org/abs/2604.10103v2)** | 2026-04-28 |  |
 | **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v3)** | 2026-04-28 |  |
 | **[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](https://arxiv.org/abs/2508.07101v2)** | 2026-04-27 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](https://arxiv.org/abs/2604.21592v1)** | 2026-04-23 |  |
 | **[Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](https://arxiv.org/abs/2604.21221v1)** | 2026-04-23 |  |
 | **[DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion](https://arxiv.org/abs/2604.20470v1)** | 2026-04-22 |  |
-| **[Forget, Then Recall: Learnable Compression and Selective Unfolding via Gist Sparse Attention](https://arxiv.org/abs/2604.20920v1)** | 2026-04-22 |  |
-| **[i-WiViG: Interpretable Window Vision GNN](https://arxiv.org/abs/2503.08321v2)** | 2026-04-22 |  |
-| **[AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/abs/2604.19747v1)** | 2026-04-21 | <details><summary>Webpa...</summary><p>Webpage: https://yutian10.github.io/AnyRecon/</p></details> |
 
