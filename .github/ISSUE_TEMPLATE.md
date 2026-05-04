@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 03, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161v1)** | 2026-04-30 | ICML 2026 |
 | **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v2)** | 2026-04-29 |  |
 | **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v2)** | 2026-04-29 |  |
 | **[Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v3)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main)</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v3)** | 2026-04-24 | <details><summary>ACL 2...</summary><p>ACL 2026 - Main Conference</p></details> |
 | **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
 | **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v2)** | 2026-04-23 | 30 pages, 5 figures |
-| **[BackPlay: Head-Only Look-Back Self-Correction for Diffusion Language Models](https://arxiv.org/abs/2601.06428v3)** | 2026-04-22 | 16 pages |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161v1)** | 2026-04-30 | ICML 2026 |
 | **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v2)** | 2026-04-29 |  |
 | **[Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985v1)** | 2026-04-28 |  |
 | **[On the Trainability of Masked Diffusion Language Models via Blockwise Locality](https://arxiv.org/abs/2604.24832v1)** | 2026-04-27 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v3)** | 2026-04-17 |  |
 | **[Discrete Guidance Matching: Exact Guidance for Discrete Flow Matching](https://arxiv.org/abs/2509.21912v2)** | 2026-04-15 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541v3)** | 2026-04-14 | ICLR 2026 |
-| **[Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling](https://arxiv.org/abs/2505.17384v2)** | 2026-04-14 | <details><summary>ICLR ...</summary><p>ICLR 2026 Poster; 24 pages, 13 figures</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices](https://arxiv.org/abs/2605.00320v1)** | 2026-05-01 | <details><summary>accep...</summary><p>accepted in ISCAS 2026</p></details> |
+| **[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2505.18875v4)** | 2026-04-30 |  |
+| **[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](https://arxiv.org/abs/2602.03216v2)** | 2026-04-30 | ICML 2026 |
 | **[Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models](https://arxiv.org/abs/2510.17196v3)** | 2026-04-30 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera-ready version</p></details> |
 | **[Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution](https://arxiv.org/abs/2604.27326v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE GRSL 2026</p></details> |
 | **[Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://arxiv.org/abs/2604.26837v1)** | 2026-04-29 | 15 pages |
@@ -76,7 +79,4 @@ labels: documentation
 | **[SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference](https://arxiv.org/abs/2604.22575v1)** | 2026-04-24 |  |
 | **[Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation](https://arxiv.org/abs/2604.22312v1)** | 2026-04-24 | 31 Pages, 11 figures |
 | **[SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention](https://arxiv.org/abs/2604.13847v2)** | 2026-04-23 |  |
-| **[Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](https://arxiv.org/abs/2604.21592v1)** | 2026-04-23 |  |
-| **[Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation](https://arxiv.org/abs/2604.21221v1)** | 2026-04-23 |  |
-| **[DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion](https://arxiv.org/abs/2604.20470v1)** | 2026-04-22 |  |
 
