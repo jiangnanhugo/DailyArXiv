@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
+| **[RAFNet: Region-Aware Fusion Network for Pansharpening](https://arxiv.org/abs/2605.02184v1)** | 2026-05-04 | 12 pages, 10 figures |
+| **[Stochastic Sparse Attention for Memory-Bound Inference](https://arxiv.org/abs/2605.01910v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code available at https://github.com/OPUSLab/SANTA</p></details> |
+| **[DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning](https://arxiv.org/abs/2510.09883v2)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices](https://arxiv.org/abs/2605.00320v1)** | 2026-05-01 | <details><summary>accep...</summary><p>accepted in ISCAS 2026</p></details> |
 | **[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2505.18875v4)** | 2026-04-30 |  |
 | **[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](https://arxiv.org/abs/2602.03216v2)** | 2026-04-30 | ICML 2026 |
@@ -74,9 +78,5 @@ labels: documentation
 | **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v3)** | 2026-04-28 |  |
 | **[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](https://arxiv.org/abs/2508.07101v2)** | 2026-04-27 |  |
 | **[Salca: A Sparsity-Aware Hardware Accelerator for Efficient Long-Context Attention Decoding](https://arxiv.org/abs/2604.24820v1)** | 2026-04-27 |  |
-| **[RetroInfer: A Vector Storage Engine for Scalable Long-Context LLM Inference](https://arxiv.org/abs/2505.02922v3)** | 2026-04-27 | <details><summary>16 pa...</summary><p>16 pages; Accepted by VLDB 2026</p></details> |
-| **[RadTwin: Generalizable Wireless Digital Twin for Dynamic Environments](https://arxiv.org/abs/2604.23310v1)** | 2026-04-25 | <details><summary>This ...</summary><p>This paper is accepted by IEEE ICCCN 2026</p></details> |
-| **[SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference](https://arxiv.org/abs/2604.22575v1)** | 2026-04-24 |  |
-| **[Guess-Verify-Refine: Data-Aware Top-K for Sparse-Attention Decoding on Blackwell via Temporal Correlation](https://arxiv.org/abs/2604.22312v1)** | 2026-04-24 | 31 Pages, 11 figures |
-| **[SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention](https://arxiv.org/abs/2604.13847v2)** | 2026-04-23 |  |
+| **[SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging](https://arxiv.org/abs/2605.00887v1)** | 2026-04-27 |  |
 
