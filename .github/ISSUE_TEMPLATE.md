@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Codes and Supplementary Material: https://github.com/viiika/Prism</p></details> |
 | **[Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161v1)** | 2026-04-30 | ICML 2026 |
 | **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v2)** | 2026-04-29 |  |
 | **[Diffusion Language Models for Speech Recognition](https://arxiv.org/abs/2604.14001v2)** | 2026-04-29 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Measuring Temporal Linguistic Emergence in Diffusion Language Models](https://arxiv.org/abs/2604.23235v1)** | 2026-04-25 |  |
 | **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v3)** | 2026-04-24 | <details><summary>ACL 2...</summary><p>ACL 2026 - Main Conference</p></details> |
 | **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
-| **[Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models](https://arxiv.org/abs/2604.16565v2)** | 2026-04-23 | 30 pages, 5 figures |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoveOD: Synthesizing Origin-Destination Commute Distribution from U.S. Census Data](https://arxiv.org/abs/2510.18858v2)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 4 figures (including 3 validation charts and 1 map visualization). The MOVEOD pipeline is an end-to-end automated system for generating granular, time-dependent origin-destination (OD) datasets for any U.S. county, leveraging ACS and LODES data. Code and lightweight browser interface are publicly available at https://github.com/rishavsen1/move_od</p></details> |
 | **[Universal statistical laws governing culinary design](https://arxiv.org/abs/2604.28021v1)** | 2026-04-30 | <details><summary>48 Pa...</summary><p>48 Pages (28 Pages of Main Manuscript + Supplementary Information), 4 Main Figures, 6 Extended Data Figures</p></details> |
 | **[Piecewise Deterministic Sampling for Constrained Distributions](https://arxiv.org/abs/2508.05462v2)** | 2026-04-30 | 44 pages, 9 figures |
 | **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v3)** | 2026-04-26 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Diffusion-MPC in Discrete Domains: Feasibility Constraints, Horizon Effects, and Critic Alignment: Case study with Tetris](https://arxiv.org/abs/2603.02348v1)** | 2026-03-02 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables. Includes regret diagnostics and compute-quality frontier analysis. Code and experiment configurations available in the Diffusion-Tetris repository</p></details> |
 | **[Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation](https://arxiv.org/abs/2505.13667v5)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by IEEE International Conference on Robotics and Automation 2026(ICRA 2026)</p></details> |
 | **[Multi-Fidelity Bayesian Optimization for Nash Equilibria with Black-Box Utilities](https://arxiv.org/abs/2505.11265v2)** | 2026-02-25 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, submitted to an IEEE journal</p></details> |
-| **[SAFER: Risk-Constrained Sample-then-Filter in Large Language Models](https://arxiv.org/abs/2510.10193v3)** | 2026-02-16 |  |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S2O: Early Stopping for Sparse Attention via Online Permutation](https://arxiv.org/abs/2602.22575v2)** | 2026-05-05 |  |
 | **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
 | **[RAFNet: Region-Aware Fusion Network for Pansharpening](https://arxiv.org/abs/2605.02184v1)** | 2026-05-04 | 12 pages, 10 figures |
 | **[Stochastic Sparse Attention for Memory-Bound Inference](https://arxiv.org/abs/2605.01910v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code available at https://github.com/OPUSLab/SANTA</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v3)** | 2026-04-28 |  |
 | **[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](https://arxiv.org/abs/2508.07101v2)** | 2026-04-27 |  |
 | **[Salca: A Sparsity-Aware Hardware Accelerator for Efficient Long-Context Attention Decoding](https://arxiv.org/abs/2604.24820v1)** | 2026-04-27 |  |
-| **[SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging](https://arxiv.org/abs/2605.00887v1)** | 2026-04-27 |  |
 
