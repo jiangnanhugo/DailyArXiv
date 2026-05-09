@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuous Latent Diffusion Language Model](https://arxiv.org/abs/2605.06548v1)** | 2026-05-07 | <details><summary>99 pa...</summary><p>99 pages, 31 figures, 9 tables. Project page: https://hongcanguo.github.io/Cola-DLM/</p></details> |
+| **[Layer Collapse in Diffusion Language Models](https://arxiv.org/abs/2605.06366v1)** | 2026-05-07 | <details><summary>9 Pag...</summary><p>9 Pages, Under Review at NeurIPS</p></details> |
+| **[Chainwash: Multi-Step Rewriting Attacks on Diffusion Language Model Watermarks](https://arxiv.org/abs/2605.05503v1)** | 2026-05-06 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 3 tables</p></details> |
 | **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Codes and Supplementary Material: https://github.com/viiika/Prism</p></details> |
 | **[Consistent Diffusion Language Models](https://arxiv.org/abs/2605.00161v1)** | 2026-04-30 | ICML 2026 |
 | **[Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed](https://arxiv.org/abs/2512.14067v2)** | 2026-04-29 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
 | **[NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization](https://arxiv.org/abs/2604.18471v2)** | 2026-04-26 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v3)** | 2026-04-26 |  |
-| **[Measuring Temporal Linguistic Emergence in Diffusion Language Models](https://arxiv.org/abs/2604.23235v1)** | 2026-04-25 |  |
-| **[The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check](https://arxiv.org/abs/2601.12979v3)** | 2026-04-24 | <details><summary>ACL 2...</summary><p>ACL 2026 - Main Conference</p></details> |
-| **[NPU Design for Diffusion Language Model Inference](https://arxiv.org/abs/2601.20706v2)** | 2026-04-23 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -35,12 +35,12 @@ labels: documentation
 | **[MaskDiME: Adaptive Masked Diffusion for Precise and Efficient Visual Counterfactual Explanations](https://arxiv.org/abs/2602.18792v3)** | 2026-04-23 | Accepted by CVPR2026 |
 | **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/abs/2604.20796v1)** | 2026-04-22 | <details><summary>LLaDA...</summary><p>LLaDA2.0-Uni Technical Report</p></details> |
 | **[Discrete Tilt Matching](https://arxiv.org/abs/2604.18739v1)** | 2026-04-20 |  |
-| **[Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2604.18738v1)** | 2026-04-20 |  |
 | **[Interpolating Discrete Diffusion Models with Controllable Resampling](https://arxiv.org/abs/2604.17310v1)** | 2026-04-19 |  |
 | **[LogicDiff: Logic-Guided Denoising Improves Zero-Shot Reasoning in Masked Diffusion Language Models](https://arxiv.org/abs/2603.26771v2)** | 2026-04-18 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
 | **[CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language](https://arxiv.org/abs/2603.20210v3)** | 2026-04-17 |  |
 | **[Discrete Guidance Matching: Exact Guidance for Discrete Flow Matching](https://arxiv.org/abs/2509.21912v2)** | 2026-04-15 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541v3)** | 2026-04-14 | ICLR 2026 |
+| **[Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling](https://arxiv.org/abs/2505.17384v2)** | 2026-04-14 | <details><summary>ICLR ...</summary><p>ICLR 2026 Poster; 24 pages, 13 figures</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification](https://arxiv.org/abs/2605.06221v1)** | 2026-05-07 | <details><summary>code:...</summary><p>code: https://github.com/qhfan/UniPrefill.git</p></details> |
+| **[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2505.18875v5)** | 2026-05-06 |  |
+| **[Graph Normalization: Fast Binarizing Dynamics for Differentiable MWIS](https://arxiv.org/abs/2605.05330v1)** | 2026-05-06 |  |
+| **[Lightning Unified Video Editing via In-Context Sparse Attention](https://arxiv.org/abs/2605.04569v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[S2O: Early Stopping for Sparse Attention via Online Permutation](https://arxiv.org/abs/2602.22575v2)** | 2026-05-05 |  |
 | **[StreamIndex: Memory-Bounded Compressed Sparse Attention via Streaming Top-k](https://arxiv.org/abs/2605.02568v1)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 7 tables, 2 algorithms, 36 references. Memory-bounded indexer kernel for DeepSeek-V4 CSA via chunked partition-merge top-k. Code: https://github.com/RightNow-AI/StreamIndex</p></details> |
 | **[RAFNet: Region-Aware Fusion Network for Pansharpening](https://arxiv.org/abs/2605.02184v1)** | 2026-05-04 | 12 pages, 10 figures |
 | **[Stochastic Sparse Attention for Memory-Bound Inference](https://arxiv.org/abs/2605.01910v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code available at https://github.com/OPUSLab/SANTA</p></details> |
 | **[DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning](https://arxiv.org/abs/2510.09883v2)** | 2026-05-02 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices](https://arxiv.org/abs/2605.00320v1)** | 2026-05-01 | <details><summary>accep...</summary><p>accepted in ISCAS 2026</p></details> |
-| **[Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation](https://arxiv.org/abs/2505.18875v4)** | 2026-04-30 |  |
 | **[Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection](https://arxiv.org/abs/2602.03216v2)** | 2026-04-30 | ICML 2026 |
 | **[Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models](https://arxiv.org/abs/2510.17196v3)** | 2026-04-30 | <details><summary>ICLR ...</summary><p>ICLR 2026 camera-ready version</p></details> |
 | **[Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution](https://arxiv.org/abs/2604.27326v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE GRSL 2026</p></details> |
 | **[Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving](https://arxiv.org/abs/2604.26837v1)** | 2026-04-29 | 15 pages |
 | **[Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation](https://arxiv.org/abs/2604.10103v2)** | 2026-04-28 |  |
-| **[BLASST: Dynamic BLocked Attention Sparsity via Softmax Thresholding](https://arxiv.org/abs/2512.12087v3)** | 2026-04-28 |  |
-| **[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](https://arxiv.org/abs/2508.07101v2)** | 2026-04-27 |  |
-| **[Salca: A Sparsity-Aware Hardware Accelerator for Efficient Long-Context Attention Decoding](https://arxiv.org/abs/2604.24820v1)** | 2026-04-27 |  |
 
