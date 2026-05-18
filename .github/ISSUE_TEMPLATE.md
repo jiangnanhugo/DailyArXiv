@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 16, 2026
+title: Latest 15 Papers - May 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Chunking for Diffusion Language Models](https://arxiv.org/abs/2605.15676v1)** | 2026-05-15 |  |
+| **[DMax: Aggressive Parallel Decoding for dLLMs](https://arxiv.org/abs/2604.08302v3)** | 2026-05-15 | <details><summary>Worki...</summary><p>Working in progress. Code is available at: https://github.com/czg1225/DMax</p></details> |
+| **[Few-Step Diffusion Language Models via Trajectory Self-Distillation](https://arxiv.org/abs/2602.12262v3)** | 2026-05-15 |  |
 | **[Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](https://arxiv.org/abs/2603.12554v2)** | 2026-05-14 |  |
 | **[From Table to Cell: Attention for Better Reasoning with TABALIGN](https://arxiv.org/abs/2605.14465v1)** | 2026-05-14 |  |
 | **[Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement](https://arxiv.org/abs/2605.14368v1)** | 2026-05-14 |  |
@@ -19,14 +22,11 @@ labels: documentation
 | **[Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion](https://arxiv.org/abs/2605.12825v1)** | 2026-05-12 |  |
 | **[Entropy Aware Reward Guidance for Diffusion Language Model Alignment](https://arxiv.org/abs/2602.05000v2)** | 2026-05-12 | Preprint |
 | **[Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](https://arxiv.org/abs/2506.19037v4)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://arxiv.org/abs/2510.03206v2)** | 2026-05-12 | <details><summary>29 pa...</summary><p>29 pages. Accepted to ICML 2026</p></details> |
-| **[Self-Distilled Trajectory-Aware Boltzmann Modeling: Bridging the Training-Inference Discrepancy in Diffusion Language Models](https://arxiv.org/abs/2605.11854v1)** | 2026-05-12 | Under review |
-| **[Diffusion-State Policy Optimization for Masked Diffusion Language Models](https://arxiv.org/abs/2602.06462v3)** | 2026-05-12 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro](https://arxiv.org/abs/2605.14716v1)** | 2026-05-14 |  |
+| **[AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro](https://arxiv.org/abs/2605.14716v2)** | 2026-05-15 |  |
 | **[Uncertainty Quantification for Large Language Diffusion Models](https://arxiv.org/abs/2605.14570v1)** | 2026-05-14 |  |
 | **[Support Before Frequency in Discrete Diffusion](https://arxiv.org/abs/2605.13999v1)** | 2026-05-13 |  |
 | **[Understanding and Accelerating the Training of Masked Diffusion Language Models](https://arxiv.org/abs/2605.13026v1)** | 2026-05-13 | Preprint |
@@ -64,7 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ElasticDiT: Efficient Diffusion Transformers via Elastic Architecture and Sparse Attention for High-Resolution Image Generation on Mobile Devices](https://arxiv.org/abs/2605.15684v1)** | 2026-05-15 |  |
+| **[STS: Efficient Sparse Attention with Speculative Token Sparsity](https://arxiv.org/abs/2605.15508v1)** | 2026-05-15 | 14 pages, 12 figures |
 | **[HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention](https://arxiv.org/abs/2605.14513v1)** | 2026-05-14 |  |
+| **[FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization](https://arxiv.org/abs/2605.15880v1)** | 2026-05-13 |  |
 | **[Z-Order Transformer for Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2605.13465v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accept by CVPR 2026, Oral</p></details> |
 | **[(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models](https://arxiv.org/abs/2604.16429v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[AB-Sparse: Sparse Attention with Adaptive Block Size for Accurate and Efficient Long-Context Inference](https://arxiv.org/abs/2605.12110v1)** | 2026-05-12 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention](https://arxiv.org/abs/2605.08453v1)** | 2026-05-08 |  |
 | **[EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction](https://arxiv.org/abs/2605.08073v1)** | 2026-05-08 |  |
 | **[Sparse Attention as Compact Kernel Regression](https://arxiv.org/abs/2601.22766v3)** | 2026-05-08 | 16 pages, 5 figures |
-| **[An Efficient Hybrid Sparse Attention with CPU-GPU Parallelism for Long-Context Inference](https://arxiv.org/abs/2605.07719v1)** | 2026-05-08 |  |
-| **[MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference](https://arxiv.org/abs/2605.07363v1)** | 2026-05-08 | <details><summary>https...</summary><p>https://github.com/MuLabPKU/TransArch</p></details> |
-| **[Attention Sparsity is Input-Stable: Training-Free Sparse Attention for Video Generation via Offline Sparsity Profiling and Online QK Co-Clustering](https://arxiv.org/abs/2603.18636v2)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
