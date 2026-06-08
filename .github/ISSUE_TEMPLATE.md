@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2602.02600v3)** | 2026-06-05 | Preprint |
+| **[Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](https://arxiv.org/abs/2606.06888v1)** | 2026-06-05 |  |
+| **[Reinforcement Learning from Denoising Feedback](https://arxiv.org/abs/2605.25638v2)** | 2026-06-05 |  |
+| **[Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation](https://arxiv.org/abs/2606.06712v1)** | 2026-06-04 |  |
 | **[Self-Augmenting Retrieval for Diffusion Language Models](https://arxiv.org/abs/2606.06474v1)** | 2026-06-04 | ICML 2026 |
 | **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875v3)** | 2026-06-04 |  |
 | **[Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission](https://arxiv.org/abs/2606.06273v1)** | 2026-06-04 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Global Sketch-Based Watermarking for Diffusion Language Models](https://arxiv.org/abs/2606.04486v1)** | 2026-06-03 |  |
 | **[Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2606.04396v1)** | 2026-06-03 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 7 Tables</p></details> |
 | **[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](https://arxiv.org/abs/2601.22450v2)** | 2026-06-02 | ICML 2026 |
-| **[Supportive Token Revealing for Fast Diffusion Language Model Decoding](https://arxiv.org/abs/2606.04236v1)** | 2026-06-02 |  |
-| **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
-| **[Backdooring Masked Diffusion Language Models](https://arxiv.org/abs/2605.19262v2)** | 2026-06-02 |  |
-| **[Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](https://arxiv.org/abs/2606.03647v1)** | 2026-06-02 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM](https://arxiv.org/abs/2602.14209v2)** | 2026-06-05 |  |
 | **[You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467v1)** | 2026-06-04 |  |
 | **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
 | **[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/abs/2606.06309v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project Page: https://simon-dcs.github.io/Website-of-RhymeFlow/, Code: https://github.com/Simon-Dcs/RhymeFlow</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](https://arxiv.org/abs/2602.07223v2)** | 2026-05-29 | Accepted to ICML'26 |
 | **[Graphical einops: bridging tensor networks and computation graphs](https://arxiv.org/abs/2605.31485v1)** | 2026-05-29 |  |
 | **[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158v1)** | 2026-05-29 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 3 tables. Project page: https://2843721358l-del.github.io/Light-Interaction-Project/</p></details> |
-| **[LVSA: Training-Free Sparse Attention for Long Video Diffusion](https://arxiv.org/abs/2605.31057v1)** | 2026-05-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 4 tables. Code: https://github.com/JiusiServe/LongVideoSparseAttention</p></details> |
 
