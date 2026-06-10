@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v1)** | 2026-06-09 |  |
+| **[K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling](https://arxiv.org/abs/2606.10820v1)** | 2026-06-09 |  |
+| **[Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models](https://arxiv.org/abs/2606.10537v1)** | 2026-06-09 | Technical Report |
+| **[Whisfusion: Parallel ASR Decoding with Masked Diffusion](https://arxiv.org/abs/2508.07048v2)** | 2026-06-09 | 16 pages, 3 figures |
+| **[Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](https://arxiv.org/abs/2606.06888v2)** | 2026-06-09 |  |
 | **[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](https://arxiv.org/abs/2601.15165v4)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
 | **[Unified Energy for Invariant and Independent Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.09159v1)** | 2026-06-08 |  |
 | **[Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810v1)** | 2026-06-07 |  |
@@ -15,17 +20,16 @@ labels: documentation
 | **[Forward-Free Diffusion Language Models](https://arxiv.org/abs/2606.08357v1)** | 2026-06-06 |  |
 | **[Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](https://arxiv.org/abs/2606.08048v1)** | 2026-06-06 | ICML 2026 |
 | **[Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2602.02600v3)** | 2026-06-05 | Preprint |
-| **[Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](https://arxiv.org/abs/2606.06888v1)** | 2026-06-05 |  |
 | **[Reinforcement Learning from Denoising Feedback](https://arxiv.org/abs/2605.25638v2)** | 2026-06-05 |  |
 | **[Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation](https://arxiv.org/abs/2606.06712v1)** | 2026-06-04 |  |
-| **[Self-Augmenting Retrieval for Diffusion Language Models](https://arxiv.org/abs/2606.06474v1)** | 2026-06-04 | ICML 2026 |
-| **[A Survey on Diffusion Language Models](https://arxiv.org/abs/2508.10875v3)** | 2026-06-04 |  |
-| **[Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission](https://arxiv.org/abs/2606.06273v1)** | 2026-06-04 |  |
-| **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v1)** | 2026-06-09 |  |
+| **[Whisfusion: Parallel ASR Decoding with Masked Diffusion](https://arxiv.org/abs/2508.07048v2)** | 2026-06-09 | 16 pages, 3 figures |
+| **[A Continuous-Time Markov Chain Framework for Insertion Language Models](https://arxiv.org/abs/2606.10199v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026. Code is available at https://github.com/dhruvdcoder/ctmc_dilm</p></details> |
+| **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v2)** | 2026-06-08 |  |
 | **[Insertion Based Sequence Generation with Learnable Order Dynamics](https://arxiv.org/abs/2602.18695v2)** | 2026-06-07 | <details><summary>Some ...</summary><p>Some updated results. Accepted at ICML 2026. Code and checkpoints available at https://github.com/dhruvdcoder/LoFlexMDM</p></details> |
 | **[Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985v2)** | 2026-06-06 |  |
 | **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](https://arxiv.org/abs/2601.22450v2)** | 2026-06-02 | ICML 2026 |
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Backdooring Masked Diffusion Language Models](https://arxiv.org/abs/2605.19262v2)** | 2026-06-02 |  |
-| **[Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](https://arxiv.org/abs/2606.03647v1)** | 2026-06-02 |  |
-| **[Learning Unmasking Policies for Diffusion Language Models](https://arxiv.org/abs/2512.09106v4)** | 2026-06-01 | <details><summary>V4: A...</summary><p>V4: Accepted as an oral spotlight at ICML 2026</p></details> |
-| **[Reconsidering Positional Supervision in Masked Diffusion Language Model Training](https://arxiv.org/abs/2601.22947v2)** | 2026-06-01 | preprint, WIP |
-| **[Deep Learning for Remote Sensing to Improve Flood Inundation Mapping](https://arxiv.org/abs/2606.02310v1)** | 2026-06-01 | <details><summary>This ...</summary><p>This paper has been selected as the top 10 student finalists in IGRASS 2026 paper competition</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079v2)** | 2026-06-09 | <details><summary>Techn...</summary><p>Technical report. 11 pages. Code and model available at https://github.com/libertywing/FlashMemory-Deepseek-V4 and https://huggingface.co/libertywing/FlashMemory-Deepseek-V4</p></details> |
+| **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
 | **[From Rigid to Dynamic: Entropy-Guided Adaptive Inference for Long-Context LLMs](https://arxiv.org/abs/2606.09508v1)** | 2026-06-08 |  |
 | **[ART: Attention Run-time Termination for Efficient Large Language Model Decoding](https://arxiv.org/abs/2606.00024v2)** | 2026-06-08 |  |
-| **[FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079v1)** | 2026-06-08 | <details><summary>Techn...</summary><p>Technical report. 11 pages. Code and model available at https://github.com/libertywing/FlashMemory-Deepseek-V4 and https://huggingface.co/libertywing/FlashMemory-Deepseek-V4</p></details> |
 | **[Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps](https://arxiv.org/abs/2605.16928v2)** | 2026-06-08 | 20 pages, 9 figures |
 | **[Sparrow: Sparse Rollout for Stable and Efficient Long-context RL of Large Language Models](https://arxiv.org/abs/2606.08446v1)** | 2026-06-07 |  |
 | **[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158v2)** | 2026-06-06 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 3 tables. Project page: https://2843721358l-del.github.io/Light-Interaction-Project/</p></details> |
 | **[MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM](https://arxiv.org/abs/2602.14209v2)** | 2026-06-05 |  |
+| **[FG-Attn: Leveraging Fine-Grained Sparse Attention in Video Diffusion Models](https://arxiv.org/abs/2509.16518v2)** | 2026-06-04 |  |
 | **[You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467v1)** | 2026-06-04 |  |
 | **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
 | **[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/abs/2606.06309v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project Page: https://simon-dcs.github.io/Website-of-RhymeFlow/, Code: https://github.com/Simon-Dcs/RhymeFlow</p></details> |
 | **[SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space](https://arxiv.org/abs/2511.20102v4)** | 2026-06-04 | 34 pages |
 | **[Is attention truly all we need? An empirical study of asset pricing in pretrained RNN sparse and global attention models](https://arxiv.org/abs/2508.19006v2)** | 2026-06-03 | <details><summary>72 pa...</summary><p>72 pages including appendix</p></details> |
 | **[Stochastic Sparse Attention for Memory-Bound Inference](https://arxiv.org/abs/2605.01910v2)** | 2026-06-03 | <details><summary>Code ...</summary><p>Code available at https://github.com/OPUSLab/SANTA</p></details> |
-| **[SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511v1)** | 2026-06-03 |  |
-| **[Value-Aware Stochastic KV Cache Eviction for Reasoning Models](https://arxiv.org/abs/2606.03928v1)** | 2026-06-02 | <details><summary>Codes...</summary><p>Codes: https://github.com/terarachang/VaSE</p></details> |
 
