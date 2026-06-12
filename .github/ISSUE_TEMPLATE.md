@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Token Residual Prediction](https://arxiv.org/abs/2605.18817v2)** | 2026-06-11 |  |
+| **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
+| **[Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807v1)** | 2026-06-11 |  |
 | **[Beyond Fully Random Masking: Attention-Guided Denoising and Optimization for Diffusion Language Models](https://arxiv.org/abs/2606.12273v1)** | 2026-06-10 | <details><summary>13 pa...</summary><p>13 pages. Accepted to ACL 2026 Main Conference</p></details> |
 | **[Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232v1)** | 2026-06-10 |  |
 | **[K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling](https://arxiv.org/abs/2606.10820v2)** | 2026-06-10 | <details><summary>Code:...</summary><p>Code: https://github.com/alibaba-damo-academy/K-Forcing</p></details> |
@@ -19,18 +22,17 @@ labels: documentation
 | **[Unified Energy for Invariant and Independent Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.09159v1)** | 2026-06-08 |  |
 | **[Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810v1)** | 2026-06-07 |  |
 | **[AsyncLane: Decoupling Refinement from Advancement in Diffusion Language Model Decoding](https://arxiv.org/abs/2606.08411v1)** | 2026-06-07 |  |
-| **[TimpaTeks: Automatic In-place Text Sequence Modification via Diffusion Language Model Steering](https://arxiv.org/abs/2606.08408v1)** | 2026-06-07 | 16 pages |
-| **[Forward-Free Diffusion Language Models](https://arxiv.org/abs/2606.08357v1)** | 2026-06-06 |  |
-| **[Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge](https://arxiv.org/abs/2606.08048v1)** | 2026-06-06 | ICML 2026 |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v3)** | 2026-06-11 |  |
+| **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
+| **[Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807v1)** | 2026-06-11 |  |
 | **[Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232v1)** | 2026-06-10 |  |
 | **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v1)** | 2026-06-09 |  |
 | **[Whisfusion: Parallel ASR Decoding with Masked Diffusion](https://arxiv.org/abs/2508.07048v2)** | 2026-06-09 | 16 pages, 3 figures |
 | **[A Continuous-Time Markov Chain Framework for Insertion Language Models](https://arxiv.org/abs/2606.10199v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026. Code is available at https://github.com/dhruvdcoder/ctmc_dilm</p></details> |
-| **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v2)** | 2026-06-08 |  |
 | **[Insertion Based Sequence Generation with Learnable Order Dynamics](https://arxiv.org/abs/2602.18695v2)** | 2026-06-07 | <details><summary>Some ...</summary><p>Some updated results. Accepted at ICML 2026. Code and checkpoints available at https://github.com/dhruvdcoder/LoFlexMDM</p></details> |
 | **[Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985v2)** | 2026-06-06 |  |
 | **[Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models](https://arxiv.org/abs/2511.21338v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the Forty-Third International Conference on Machine Learning (ICML 2026)</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Towards A Generative Protein Evolution Machine with DPLM-Evo](https://arxiv.org/abs/2605.00182v3)** | 2026-06-03 | <details><summary>A pee...</summary><p>A peer-reviewed version was accepted to ICML 2026</p></details> |
 | **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v5)** | 2026-06-03 |  |
 | **[Global Sketch-Based Watermarking for Diffusion Language Models](https://arxiv.org/abs/2606.04486v1)** | 2026-06-03 |  |
-| **[Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity](https://arxiv.org/abs/2601.22450v2)** | 2026-06-02 | ICML 2026 |
-| **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392v1)** | 2026-06-11 | 30 pages, 14 figures |
+| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v2)** | 2026-06-11 | <details><summary>Prese...</summary><p>Presented as an Oral at the 5th Conference on Causal Learning and Reasoning</p></details> |
 | **[RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization](https://arxiv.org/abs/2508.09459v3)** | 2026-06-10 |  |
 | **[FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079v2)** | 2026-06-09 | <details><summary>Techn...</summary><p>Technical report. 11 pages. Code and model available at https://github.com/libertywing/FlashMemory-Deepseek-V4 and https://huggingface.co/libertywing/FlashMemory-Deepseek-V4</p></details> |
 | **[Kwai Keye-VL-2.0 Technical Report](https://arxiv.org/abs/2606.10651v1)** | 2026-06-09 | 31 pages, 11 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467v1)** | 2026-06-04 |  |
 | **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
 | **[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/abs/2606.06309v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project Page: https://simon-dcs.github.io/Website-of-RhymeFlow/, Code: https://github.com/Simon-Dcs/RhymeFlow</p></details> |
-| **[SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space](https://arxiv.org/abs/2511.20102v4)** | 2026-06-04 | 34 pages |
-| **[Is attention truly all we need? An empirical study of asset pricing in pretrained RNN sparse and global attention models](https://arxiv.org/abs/2508.19006v2)** | 2026-06-03 | <details><summary>72 pa...</summary><p>72 pages including appendix</p></details> |
 
