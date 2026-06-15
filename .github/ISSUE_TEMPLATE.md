@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neither Parallel Nor Sequential: How DiffusionGemma Actually Commits Tokens](https://arxiv.org/abs/2606.14620v1)** | 2026-06-12 |  |
+| **[Residual Context Diffusion Language Models](https://arxiv.org/abs/2601.22954v2)** | 2026-06-12 |  |
+| **[Diffusion Policy Optimization without Drifting Apart](https://arxiv.org/abs/2606.13795v1)** | 2026-06-11 | <details><summary>Proje...</summary><p>Project page: astro-eric.github.io/blogs/dipod/</p></details> |
 | **[Multi-Token Residual Prediction](https://arxiv.org/abs/2605.18817v2)** | 2026-06-11 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807v1)** | 2026-06-11 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Whisfusion: Parallel ASR Decoding with Masked Diffusion](https://arxiv.org/abs/2508.07048v2)** | 2026-06-09 | 16 pages, 3 figures |
 | **[Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](https://arxiv.org/abs/2606.06888v2)** | 2026-06-09 |  |
 | **[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](https://arxiv.org/abs/2601.15165v4)** | 2026-06-08 | <details><summary>Code ...</summary><p>Code and pre-trained models: https://github.com/LeapLabTHU/JustGRPO</p></details> |
-| **[Unified Energy for Invariant and Independent Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.09159v1)** | 2026-06-08 |  |
-| **[Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810v1)** | 2026-06-07 |  |
-| **[AsyncLane: Decoupling Refinement from Advancement in Diffusion Language Model Decoding](https://arxiv.org/abs/2606.08411v1)** | 2026-06-07 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffusionBlocks: Block-wise Neural Network Training via Diffusion Interpretation](https://arxiv.org/abs/2506.14202v4)** | 2026-06-12 | <details><summary>To ap...</summary><p>To appear at the 14th International Conference on Learning Representations (ICLR 2026). v4: Fixed typos in experimental details (Appendix E.4)</p></details> |
 | **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v3)** | 2026-06-11 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807v1)** | 2026-06-11 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Stop Training for the Worst: Progressive Unmasking Accelerates Masked Diffusion Training](https://arxiv.org/abs/2602.10314v2)** | 2026-06-04 |  |
 | **[Towards A Generative Protein Evolution Machine with DPLM-Evo](https://arxiv.org/abs/2605.00182v3)** | 2026-06-03 | <details><summary>A pee...</summary><p>A peer-reviewed version was accepted to ICML 2026</p></details> |
 | **[T$^\star$: Progressive Block Scaling for Masked Diffusion Language Models Through Trajectory Aware Reinforcement Learning](https://arxiv.org/abs/2601.11214v5)** | 2026-06-03 |  |
-| **[Global Sketch-Based Watermarking for Diffusion Language Models](https://arxiv.org/abs/2606.04486v1)** | 2026-06-03 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392v1)** | 2026-06-11 | 30 pages, 14 figures |
+| **[MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392v2)** | 2026-06-12 | 30 pages, 14 figures |
+| **[Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/abs/2602.01801v2)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Project Page: https://dvirsamuel.github.io/fast-auto-regressive-video/</p></details> |
+| **[Explaining RhythmFormer: A Systematic XAI Analysis of Periodic Sparse Attention for Remote Photoplethysmography](https://arxiv.org/abs/2606.13839v1)** | 2026-06-11 | 26 pages, 8 figures |
 | **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v2)** | 2026-06-11 | <details><summary>Prese...</summary><p>Presented as an Oral at the 5th Conference on Causal Learning and Reasoning</p></details> |
 | **[RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization](https://arxiv.org/abs/2508.09459v3)** | 2026-06-10 |  |
 | **[FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention](https://arxiv.org/abs/2606.09079v2)** | 2026-06-09 | <details><summary>Techn...</summary><p>Technical report. 11 pages. Code and model available at https://github.com/libertywing/FlashMemory-Deepseek-V4 and https://huggingface.co/libertywing/FlashMemory-Deepseek-V4</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM](https://arxiv.org/abs/2602.14209v2)** | 2026-06-05 |  |
 | **[FG-Attn: Leveraging Fine-Grained Sparse Attention in Video Diffusion Models](https://arxiv.org/abs/2509.16518v2)** | 2026-06-04 |  |
 | **[You Only Index Once: Cross-Layer Sparse Attention with Shared Routing](https://arxiv.org/abs/2606.06467v1)** | 2026-06-04 |  |
-| **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
-| **[RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling](https://arxiv.org/abs/2606.06309v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project Page: https://simon-dcs.github.io/Website-of-RhymeFlow/, Code: https://github.com/Simon-Dcs/RhymeFlow</p></details> |
 
