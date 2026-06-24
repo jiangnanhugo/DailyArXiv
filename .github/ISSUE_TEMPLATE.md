@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
+| **[Teaching Diffusion to Speculate Left-to-Right](https://arxiv.org/abs/2606.11552v2)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, technical report</p></details> |
 | **[Diffusion Language Models: An Experimental Analysis](https://arxiv.org/abs/2606.19475v2)** | 2026-06-22 |  |
 | **[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](https://arxiv.org/abs/2606.23567v1)** | 2026-06-22 |  |
 | **[VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999v2)** | 2026-06-22 | <details><summary>Minor...</summary><p>Minor related-work revisions; results unchanged</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models](https://arxiv.org/abs/2604.24357v2)** | 2026-06-16 |  |
 | **[Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810v2)** | 2026-06-15 |  |
 | **[Self-Generated Error Training for Token Editing in Diffusion Language Models](https://arxiv.org/abs/2606.17175v1)** | 2026-06-15 |  |
-| **[LESS Is More: Mutual-Stability Sampling for Diffusion Language Models](https://arxiv.org/abs/2606.16908v1)** | 2026-06-15 |  |
-| **[CoBit: Language Modeling with Bitstream Diffusion](https://arxiv.org/abs/2605.07013v2)** | 2026-06-15 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Posterior Refinement: Fast Language Generation via Any-Order Flow Maps](https://arxiv.org/abs/2606.24773v1)** | 2026-06-23 | 24 pages, 23 figures |
+| **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
 | **[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](https://arxiv.org/abs/2606.23567v1)** | 2026-06-22 |  |
 | **[VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999v2)** | 2026-06-22 | <details><summary>Minor...</summary><p>Minor related-work revisions; results unchanged</p></details> |
 | **[Understanding Parallel Samplers in Masked Diffusion via Random Walks on Graphs](https://arxiv.org/abs/2606.22976v1)** | 2026-06-22 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Variational Learning for Insertion-based Generation](https://arxiv.org/abs/2606.02133v3)** | 2026-06-11 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Detect, Remask, Repair: Diffusion Editing for Faithful Summarization of Evolving Contexts](https://arxiv.org/abs/2606.12807v1)** | 2026-06-11 |  |
-| **[Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232v1)** | 2026-06-10 |  |
-| **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v1)** | 2026-06-09 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -48,6 +48,7 @@ labels: documentation
 | **[Constrained Diffusion Models with Primal-Dual Inference](https://arxiv.org/abs/2606.17192v1)** | 2026-06-15 |  |
 | **[DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](https://arxiv.org/abs/2606.15359v1)** | 2026-06-13 |  |
 | **[Frequency-based Constrained Sampling for Interval Patterns](https://arxiv.org/abs/2606.09666v1)** | 2026-06-08 | 16 pages |
+| **[A Geometry-Informed Computer Vision Method for Detecting and Examining Overtaking Vehicles From A Bicycle](https://arxiv.org/abs/2606.23699v1)** | 2026-06-03 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, in preparation for journal submission</p></details> |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v3)** | 2026-06-01 |  |
 | **[Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling](https://arxiv.org/abs/2602.08058v3)** | 2026-06-01 | <details><summary>15 pa...</summary><p>15 pages, accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
 | **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
@@ -59,14 +60,16 @@ labels: documentation
 | **[TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020v1)** | 2026-05-11 |  |
 | **[MoveOD: Synthesizing Origin-Destination Commute Distribution from U.S. Census Data](https://arxiv.org/abs/2510.18858v2)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 4 figures (including 3 validation charts and 1 map visualization). The MOVEOD pipeline is an end-to-end automated system for generating granular, time-dependent origin-destination (OD) datasets for any U.S. county, leveraging ACS and LODES data. Code and lightweight browser interface are publicly available at https://github.com/rishavsen1/move_od</p></details> |
 | **[Universal statistical laws governing culinary design](https://arxiv.org/abs/2604.28021v1)** | 2026-04-30 | <details><summary>48 Pa...</summary><p>48 Pages (28 Pages of Main Manuscript + Supplementary Information), 4 Main Figures, 6 Extended Data Figures</p></details> |
-| **[Piecewise Deterministic Sampling for Constrained Distributions](https://arxiv.org/abs/2508.05462v2)** | 2026-04-30 | 44 pages, 9 figures |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VSANet: View-aware Sparse Attention Network for Light Field Image Denoising](https://arxiv.org/abs/2606.24737v1)** | 2026-06-23 |  |
+| **[Scalable Physics-Inspired Transformers for Spin Glasses](https://arxiv.org/abs/2606.22984v2)** | 2026-06-23 |  |
+| **[The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768v3)** | 2026-06-22 |  |
 | **[ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers](https://arxiv.org/abs/2606.23019v1)** | 2026-06-22 | 18 pages, 9 figures |
-| **[Scalable Physics-Inspired Transformers for Spin Glasses](https://arxiv.org/abs/2606.22984v1)** | 2026-06-22 |  |
 | **[SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers](https://arxiv.org/abs/2606.22874v1)** | 2026-06-22 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, 9 tables</p></details> |
+| **[Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](https://arxiv.org/abs/2606.23743v1)** | 2026-06-21 |  |
 | **[StreamKL: Fast and Memory-Efficient KL Divergence for Boosting Attention Distillation](https://arxiv.org/abs/2606.20005v1)** | 2026-06-18 |  |
 | **[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158v3)** | 2026-06-18 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 3 tables. Project page: https://2843721358l-del.github.io/Light-Interaction-Project/</p></details> |
 | **[SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL](https://arxiv.org/abs/2606.19746v1)** | 2026-06-18 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Training-free sparse attention based on cumulative energy filtering](https://arxiv.org/abs/2606.16317v1)** | 2026-06-15 |  |
 | **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v3)** | 2026-06-13 | ICML 2026 |
 | **[MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392v2)** | 2026-06-12 | 30 pages, 14 figures |
-| **[Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/abs/2602.01801v2)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Project Page: https://dvirsamuel.github.io/fast-auto-regressive-video/</p></details> |
-| **[Explaining RhythmFormer: A Systematic XAI Analysis of Periodic Sparse Attention for Remote Photoplethysmography](https://arxiv.org/abs/2606.13839v1)** | 2026-06-11 | 26 pages, 8 figures |
-| **[Disentangling Dynamical Systems: Causal Representation Learning Meets Local Sparse Attention](https://arxiv.org/abs/2603.14483v2)** | 2026-06-11 | <details><summary>Prese...</summary><p>Presented as an Oral at the 5th Conference on Causal Learning and Reasoning</p></details> |
 
