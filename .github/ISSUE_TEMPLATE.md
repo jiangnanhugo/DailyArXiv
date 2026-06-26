@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nemotron-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context](https://arxiv.org/abs/2606.26493v1)** | 2026-06-25 | <details><summary>Code ...</summary><p>Code and model weights available at https://huggingface.co/collections/nvidia/nemotron-twotower</p></details> |
 | **[Improved Large Language Diffusion Models](https://arxiv.org/abs/2606.25331v1)** | 2026-06-24 |  |
 | **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
 | **[Teaching Diffusion to Speculate Left-to-Right](https://arxiv.org/abs/2606.11552v2)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, technical report</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Sumi: Open Uniform Diffusion Language Model from Scratch](https://arxiv.org/abs/2606.19005v1)** | 2026-06-17 |  |
 | **[Greedy Coordinate Diffusion: Effective and Semantically Coherent Adversarial Attacks via Diffusion Guidance](https://arxiv.org/abs/2606.15531v2)** | 2026-06-16 |  |
 | **[DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models](https://arxiv.org/abs/2604.24357v2)** | 2026-06-16 |  |
-| **[Continuous Language Diffusion as a Decoder-Interface Problem](https://arxiv.org/abs/2606.08810v2)** | 2026-06-15 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
