@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Block Diffusion: Resolving Training-Inference Mismatch in Diffusion Language Models](https://arxiv.org/abs/2606.29275v1)** | 2026-06-28 |  |
+| **[Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215v1)** | 2026-06-28 |  |
+| **[DiLaServe: High SLO Attainment Serving for Diffusion Language Models](https://arxiv.org/abs/2606.29094v1)** | 2026-06-27 |  |
+| **[Masked Diffusion Decoding as $x$-Prediction Flow](https://arxiv.org/abs/2606.29066v1)** | 2026-06-27 | under review |
 | **[Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation](https://arxiv.org/abs/2606.27732v1)** | 2026-06-26 |  |
 | **[ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938v2)** | 2026-06-26 | <details><summary>Tech ...</summary><p>Tech report. arXiv v2: add distillation results in Appendix B. https://linlu-qiu.github.io/assets/html/elf_pd.html</p></details> |
 | **[Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](https://arxiv.org/abs/2606.27474v1)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages + 2 pages References</p></details> |
@@ -18,14 +22,13 @@ labels: documentation
 | **[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](https://arxiv.org/abs/2606.23567v1)** | 2026-06-22 |  |
 | **[VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999v2)** | 2026-06-22 | <details><summary>Minor...</summary><p>Minor related-work revisions; results unchanged</p></details> |
 | **[When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802v1)** | 2026-06-19 |  |
-| **[S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation](https://arxiv.org/abs/2603.25702v2)** | 2026-06-17 | <details><summary>Code ...</summary><p>Code is available at https://github.com/phymhan/S2D2</p></details> |
-| **[PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://arxiv.org/abs/2606.19534v1)** | 2026-06-17 | <details><summary>Code ...</summary><p>Code available at https://github.com/MSALab-PKU/PerceptionDLM</p></details> |
-| **[DiPOD: Diffusion Policy Optimization without Drifting Apart](https://arxiv.org/abs/2606.13795v2)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page: astro-eric.github.io/blogs/dipod/ Code: https://github.com/Astro-Eric/DiPOD-release</p></details> |
-| **[DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models](https://arxiv.org/abs/2606.19257v1)** | 2026-06-17 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](https://arxiv.org/abs/2506.02459v6)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 17 figures, 11 tables (incl. appendix)</p></details> |
+| **[Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement](https://arxiv.org/abs/2606.29150v1)** | 2026-06-28 |  |
+| **[Masked Diffusion Decoding as $x$-Prediction Flow](https://arxiv.org/abs/2606.29066v1)** | 2026-06-27 | under review |
 | **[VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](https://arxiv.org/abs/2606.28301v1)** | 2026-06-26 | 72 pages |
 | **[Masked Language Flow Models](https://arxiv.org/abs/2606.27617v1)** | 2026-06-26 | Preprint |
 | **[Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](https://arxiv.org/abs/2606.27474v1)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages + 2 pages References</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Sumi: Open Uniform Diffusion Language Model from Scratch](https://arxiv.org/abs/2606.19005v1)** | 2026-06-17 |  |
 | **[Recursive Scaling in Masked Diffusion Models](https://arxiv.org/abs/2606.18022v1)** | 2026-06-16 |  |
 | **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v3)** | 2026-06-16 | <details><summary>Code ...</summary><p>Code to reproduce our experiments is available here: https://github.com/kuleshov-group/proseco</p></details> |
-| **[Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](https://arxiv.org/abs/2606.16700v1)** | 2026-06-15 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 5 tables</p></details> |
-| **[Who Should Lead Decoding Now? Tracking Reliable Trajectories for Ensembling Masked Diffusion Language Models](https://arxiv.org/abs/2606.16281v1)** | 2026-06-15 | preprint |
-| **[Semantic DLM+: Improving Diffusion Language Models through Bias-variance Trade-off in Transition Kernel Design](https://arxiv.org/abs/2606.15327v1)** | 2026-06-13 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predict, Reuse, and Repair: Accelerating Dynamic Sparse Attention for Long-Context LLM Decoding](https://arxiv.org/abs/2606.30389v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages body plus 3 pages appendix, 13 pages total</p></details> |
+| **[Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching](https://arxiv.org/abs/2604.09142v2)** | 2026-06-29 |  |
+| **[MATCH: Modulating Attention via In-Context Retrieval for Long-Context Transformers](https://arxiv.org/abs/2606.29844v1)** | 2026-06-29 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Memory-Managed Long-Context Attention: A Preliminary Study of Editable Request-Local Memory](https://arxiv.org/abs/2606.28876v1)** | 2026-06-27 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables. Preliminary technical report</p></details> |
+| **[Depth-Staggered Fibonacci Spacing for Sparse Attention: Static Schedules Beat Learned Dilation and Extrapolate Where Dense Attention Fails](https://arxiv.org/abs/2606.28560v1)** | 2026-06-26 | 11 pages, 5 tables |
 | **[Simplified Sparse Attention via Gist Tokens](https://arxiv.org/abs/2604.20920v2)** | 2026-06-26 |  |
 | **[Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](https://arxiv.org/abs/2606.23743v2)** | 2026-06-24 |  |
 | **[Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control](https://arxiv.org/abs/2606.25136v1)** | 2026-06-23 | <details><summary>16 pa...</summary><p>16 pages, 5 tables, 8 figures</p></details> |
@@ -74,9 +79,4 @@ labels: documentation
 | **[The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768v3)** | 2026-06-22 |  |
 | **[ScalingAttention: Discovering Intrinsic Sparse Attention Topology for Video Diffusion Transformers](https://arxiv.org/abs/2606.23019v1)** | 2026-06-22 | 18 pages, 9 figures |
 | **[SpotAttention: Plug-In Block-Sparse Routing for Pretrained Long-Context Transformers](https://arxiv.org/abs/2606.22874v1)** | 2026-06-22 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, 9 tables</p></details> |
-| **[StreamKL: Fast and Memory-Efficient KL Divergence for Boosting Attention Distillation](https://arxiv.org/abs/2606.20005v1)** | 2026-06-18 |  |
-| **[Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models](https://arxiv.org/abs/2605.31158v3)** | 2026-06-18 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 3 tables. Project page: https://2843721358l-del.github.io/Light-Interaction-Project/</p></details> |
-| **[SAC: Disaggregated KV Cache System for Sparse Attention LLMs with CXL](https://arxiv.org/abs/2606.19746v1)** | 2026-06-18 |  |
-| **[Multi-Modal Hyper-Graph Fusion for Low-Light Crowd Counting](https://arxiv.org/abs/2606.18566v1)** | 2026-06-17 |  |
-| **[Co-PLNet: A Collaborative Point-Line Network for Prompt-Guided Wireframe Parsing](https://arxiv.org/abs/2601.18252v2)** | 2026-06-16 |  |
 
