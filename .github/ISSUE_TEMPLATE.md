@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion-GR2: Diffusion Generative Reasoning Re-ranker](https://arxiv.org/abs/2607.01170v1)** | 2026-07-01 | Work in progress |
+| **[Low Perplexity is Repetition: A One-Dimensional Self-Conditioning Attractor in Continuous Diffusion LMs](https://arxiv.org/abs/2607.00588v1)** | 2026-07-01 |  |
 | **[Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215v2)** | 2026-06-30 |  |
 | **[TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166v1)** | 2026-06-30 |  |
 | **[Nemotron-Labs-TwoTower: Diffusion Language Modeling with Pretrained Autoregressive Context](https://arxiv.org/abs/2606.26493v2)** | 2026-06-29 | <details><summary>Code ...</summary><p>Code and model weights available at https://huggingface.co/collections/nvidia/nemotron-labs-twotower</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
 | **[Teaching Diffusion to Speculate Left-to-Right](https://arxiv.org/abs/2606.11552v2)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, technical report</p></details> |
 | **[Diffusion Language Models: An Experimental Analysis](https://arxiv.org/abs/2606.19475v2)** | 2026-06-22 |  |
-| **[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](https://arxiv.org/abs/2606.23567v1)** | 2026-06-22 |  |
-| **[VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999v2)** | 2026-06-22 | <details><summary>Minor...</summary><p>Minor related-work revisions; results unchanged</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GryphOne: Symbol-Aware Masked Diffusion for Structural Refinement in Offline Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2602.03370v2)** | 2026-07-01 | ECCV 2026 |
 | **[TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166v1)** | 2026-06-30 |  |
 | **[ReSpace: Text-Driven Autoregressive 3D Indoor Scene Synthesis and Editing](https://arxiv.org/abs/2506.02459v6)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 17 figures, 11 tables (incl. appendix)</p></details> |
 | **[Flow Reasoning Models: Scaling Reasoning Through Iterative Self-Refinement](https://arxiv.org/abs/2606.29150v1)** | 2026-06-28 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[VoidPadding: Let [VOID] Handle Padding in Masked Diffusion Language Models so that [EOS] Can Focus on Semantic Termination](https://arxiv.org/abs/2606.17999v2)** | 2026-06-22 | <details><summary>Minor...</summary><p>Minor related-work revisions; results unchanged</p></details> |
 | **[Understanding Parallel Samplers in Masked Diffusion via Random Walks on Graphs](https://arxiv.org/abs/2606.22976v1)** | 2026-06-22 |  |
 | **[Sumi: Open Uniform Diffusion Language Model from Scratch](https://arxiv.org/abs/2606.19005v1)** | 2026-06-17 |  |
-| **[Recursive Scaling in Masked Diffusion Models](https://arxiv.org/abs/2606.18022v1)** | 2026-06-16 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095v1)** | 2026-06-30 |  |
 | **[Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2602.08557v2)** | 2026-06-30 |  |
 | **[Constrained Diffusion Models with Primal-Dual Inference](https://arxiv.org/abs/2606.17192v1)** | 2026-06-15 |  |
 | **[DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](https://arxiv.org/abs/2606.15359v1)** | 2026-06-13 |  |
@@ -59,11 +60,13 @@ labels: documentation
 | **[Manifold Sampling via Entropy Maximization](https://arxiv.org/abs/2605.12338v1)** | 2026-05-12 |  |
 | **[Enforcing Constraints in Generative Sampling via Adaptive Correction Scheduling](https://arxiv.org/abs/2605.11214v1)** | 2026-05-11 |  |
 | **[TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020v1)** | 2026-05-11 |  |
-| **[MoveOD: Synthesizing Origin-Destination Commute Distribution from U.S. Census Data](https://arxiv.org/abs/2510.18858v2)** | 2026-05-04 | <details><summary>11 pa...</summary><p>11 pages, 4 figures (including 3 validation charts and 1 map visualization). The MOVEOD pipeline is an end-to-end automated system for generating granular, time-dependent origin-destination (OD) datasets for any U.S. county, leveraging ACS and LODES data. Code and lightweight browser interface are publicly available at https://github.com/rishavsen1/move_od</p></details> |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
+| **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v3)** | 2026-07-01 |  |
+| **[Unifying Convolution and Attention via Convolutional Nearest Neighbors](https://arxiv.org/abs/2511.14137v3)** | 2026-07-01 |  |
 | **[RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](https://arxiv.org/abs/2606.31519v1)** | 2026-06-30 | Accept by ICML 26 |
 | **[Hierarchical Global Attention (HGA)](https://arxiv.org/abs/2606.30709v1)** | 2026-06-29 |  |
 | **[Predict, Reuse, and Repair: Accelerating Dynamic Sparse Attention for Long-Context LLM Decoding](https://arxiv.org/abs/2606.30389v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages body plus 3 pages appendix, 13 pages total</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control](https://arxiv.org/abs/2606.25136v1)** | 2026-06-23 | <details><summary>16 pa...</summary><p>16 pages, 5 tables, 8 figures</p></details> |
 | **[Chorus II: Cross-Request Sparsity Reuse for Efficient Image-to-Video Generation](https://arxiv.org/abs/2606.25040v1)** | 2026-06-23 |  |
 | **[Emergent Capabilities Arise Randomly from Learning Sparse Attention Patterns](https://arxiv.org/abs/2606.25010v1)** | 2026-06-23 | 18 pages, 13 figures |
-| **[VSANet: View-aware Sparse Attention Network for Light Field Image Denoising](https://arxiv.org/abs/2606.24737v1)** | 2026-06-23 |  |
-| **[Scalable Physics-Inspired Transformers for Spin Glasses](https://arxiv.org/abs/2606.22984v2)** | 2026-06-23 |  |
-| **[The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs](https://arxiv.org/abs/2504.17768v3)** | 2026-06-22 |  |
 
