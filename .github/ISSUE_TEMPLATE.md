@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding](https://arxiv.org/abs/2607.01775v1)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026. We provide the code at https://github.com/kuleshov-group/setdlms</p></details> |
+| **[Subliminal Clocks: Latent Time Modelling in Diffusion Language Models](https://arxiv.org/abs/2607.01774v1)** | 2026-07-02 | <details><summary>Equal...</summary><p>Equal contribution: Thomas Fontanari and Simone Petruzzi</p></details> |
+| **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v2)** | 2026-07-02 |  |
+| **[Discrete Diffusion Language Models for Interactive Radiology Report Drafting](https://arxiv.org/abs/2607.01436v1)** | 2026-07-01 |  |
 | **[Diffusion-GR2: Diffusion Generative Reasoning Re-ranker](https://arxiv.org/abs/2607.01170v1)** | 2026-07-01 | Work in progress |
 | **[Low Perplexity is Repetition: A One-Dimensional Self-Conditioning Attractor in Continuous Diffusion LMs](https://arxiv.org/abs/2607.00588v1)** | 2026-07-01 |  |
 | **[Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215v2)** | 2026-06-30 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation](https://arxiv.org/abs/2606.27732v1)** | 2026-06-26 |  |
 | **[ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938v2)** | 2026-06-26 | <details><summary>Tech ...</summary><p>Tech report. arXiv v2: add distillation results in Appendix B. https://linlu-qiu.github.io/assets/html/elf_pd.html</p></details> |
 | **[Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](https://arxiv.org/abs/2606.27474v1)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages + 2 pages References</p></details> |
-| **[Improved Large Language Diffusion Models](https://arxiv.org/abs/2606.25331v1)** | 2026-06-24 |  |
-| **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
-| **[Teaching Diffusion to Speculate Left-to-Right](https://arxiv.org/abs/2606.11552v2)** | 2026-06-22 | <details><summary>13 pa...</summary><p>13 pages, technical report</p></details> |
-| **[Diffusion Language Models: An Experimental Analysis](https://arxiv.org/abs/2606.19475v2)** | 2026-06-22 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale](https://arxiv.org/abs/2607.01538v1)** | 2026-07-01 |  |
 | **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
 | **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v3)** | 2026-07-01 |  |
 | **[Unifying Convolution and Attention via Convolutional Nearest Neighbors](https://arxiv.org/abs/2511.14137v3)** | 2026-07-01 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation](https://arxiv.org/abs/2606.23743v2)** | 2026-06-24 |  |
 | **[Memory Retrieval in Visuomotor Policies for Long-Horizon Robot Control](https://arxiv.org/abs/2606.25136v1)** | 2026-06-23 | <details><summary>16 pa...</summary><p>16 pages, 5 tables, 8 figures</p></details> |
 | **[Chorus II: Cross-Request Sparsity Reuse for Efficient Image-to-Video Generation](https://arxiv.org/abs/2606.25040v1)** | 2026-06-23 |  |
-| **[Emergent Capabilities Arise Randomly from Learning Sparse Attention Patterns](https://arxiv.org/abs/2606.25010v1)** | 2026-06-23 | 18 pages, 13 figures |
 
