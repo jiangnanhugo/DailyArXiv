@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.14147v2)** | 2026-07-07 | 28 pages, 11 figures |
 | **[MARLIN: De Novo Molecular Structure Elucidation from Tandem Mass Spectra without a Ground-Truth Formula](https://arxiv.org/abs/2607.04774v1)** | 2026-07-06 |  |
 | **[dOPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2607.04428v1)** | 2026-07-05 |  |
 | **[Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](https://arxiv.org/abs/2607.04206v1)** | 2026-07-05 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v2)** | 2026-07-02 |  |
 | **[Discrete Diffusion Language Models for Interactive Radiology Report Drafting](https://arxiv.org/abs/2607.01436v1)** | 2026-07-01 |  |
 | **[Low Perplexity is Repetition: A One-Dimensional Self-Conditioning Attractor in Continuous Diffusion LMs](https://arxiv.org/abs/2607.00588v1)** | 2026-07-01 |  |
-| **[Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215v2)** | 2026-06-30 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer](https://arxiv.org/abs/2607.05937v1)** | 2026-07-07 |  |
 | **[SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095v1)** | 2026-06-30 |  |
 | **[Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2602.08557v2)** | 2026-06-30 |  |
 | **[Constrained Diffusion Models with Primal-Dual Inference](https://arxiv.org/abs/2606.17192v1)** | 2026-06-15 |  |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling](https://arxiv.org/abs/2605.12754v1)** | 2026-05-12 |  |
 | **[Manifold Sampling via Entropy Maximization](https://arxiv.org/abs/2605.12338v1)** | 2026-05-12 |  |
 | **[Enforcing Constraints in Generative Sampling via Adaptive Correction Scheduling](https://arxiv.org/abs/2605.11214v1)** | 2026-05-11 |  |
-| **[TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020v1)** | 2026-05-11 |  |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think Before You Grid-Search: Floor-First Triage for LLM Serving](https://arxiv.org/abs/2607.05876v1)** | 2026-07-07 | 16 pages, 3 figures |
 | **[Incremental Learning of Sparse Attention Patterns in Transformers](https://arxiv.org/abs/2602.19143v2)** | 2026-07-06 | <details><summary>Publi...</summary><p>Published at ICML 2026. OpenReview: https://openreview.net/forum?id=vSRh1qU5sH. 41 pages, 21 figures</p></details> |
 | **[SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices](https://arxiv.org/abs/2601.08303v3)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/snapgenplusplus/</p></details> |
 | **[SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing](https://arxiv.org/abs/2603.08982v2)** | 2026-07-05 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference](https://arxiv.org/abs/2606.31519v1)** | 2026-06-30 | Accept by ICML 26 |
 | **[Hierarchical Global Attention (HGA)](https://arxiv.org/abs/2606.30709v1)** | 2026-06-29 |  |
 | **[Predict, Reuse, and Repair: Accelerating Dynamic Sparse Attention for Long-Context LLM Decoding](https://arxiv.org/abs/2606.30389v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages body plus 3 pages appendix, 13 pages total</p></details> |
-| **[Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching](https://arxiv.org/abs/2604.09142v2)** | 2026-06-29 |  |
 
