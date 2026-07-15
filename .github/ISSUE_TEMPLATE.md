@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model](https://arxiv.org/abs/2607.13013v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 6 tables</p></details> |
+| **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v2)** | 2026-07-14 |  |
 | **[Diffusion-GR2: Diffusion Generative Reasoning Re-ranker](https://arxiv.org/abs/2607.01170v4)** | 2026-07-12 | Work in progress |
 | **[MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331v3)** | 2026-07-10 |  |
 | **[Reinforcing the Generation Order of Multimodal Masked Diffusion Models](https://arxiv.org/abs/2607.08056v1)** | 2026-07-09 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion](https://arxiv.org/abs/2602.05305v3)** | 2026-07-03 |  |
 | **[TACG: Trajectory-Aware Commit Gating for Diffusion Language Model Decoding](https://arxiv.org/abs/2607.03236v1)** | 2026-07-03 |  |
 | **[Training Hybrid Block Diffusion Language Models with Partial Bidirectionality](https://arxiv.org/abs/2607.02805v1)** | 2026-07-02 | 16 pages, 3 figures |
-| **[Set Diffusion: Interpolating Token Orderings Between Autoregression and Diffusion for Fast and Flexible Decoding](https://arxiv.org/abs/2607.01775v1)** | 2026-07-02 | <details><summary>ICML ...</summary><p>ICML 2026. We provide the code at https://github.com/kuleshov-group/setdlms</p></details> |
-| **[Subliminal Clocks: Latent Time Modelling in Diffusion Language Models](https://arxiv.org/abs/2607.01774v1)** | 2026-07-02 | <details><summary>Equal...</summary><p>Equal contribution: Thomas Fontanari and Simone Petruzzi</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques](https://arxiv.org/abs/2607.12829v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at IJCAI-ECAI 2026 (Survey Track)</p></details> |
+| **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v2)** | 2026-07-14 |  |
 | **[Sticky Jump Diffusions: A Unifying View of Masked, Continuous, and Hybrid Diffusion](https://arxiv.org/abs/2607.10951v1)** | 2026-07-12 |  |
 | **[CANDI: Hybrid Discrete-Continuous Diffusion Models](https://arxiv.org/abs/2510.22510v3)** | 2026-07-11 |  |
 | **[Reinforcing the Generation Order of Multimodal Masked Diffusion Models](https://arxiv.org/abs/2607.08056v1)** | 2026-07-09 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Masked Language Flow Models](https://arxiv.org/abs/2606.27617v1)** | 2026-06-26 | Preprint |
 | **[Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](https://arxiv.org/abs/2606.27474v1)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages + 2 pages References</p></details> |
 | **[Improved Large Language Diffusion Models](https://arxiv.org/abs/2606.25331v1)** | 2026-06-24 |  |
-| **[Posterior Refinement: Fast Language Generation via Any-Order Flow Maps](https://arxiv.org/abs/2606.24773v1)** | 2026-06-23 | 24 pages, 23 figures |
-| **[When Top-1 Fails: Calibrating LoRA Monitors for Masked Diffusion LMs](https://arxiv.org/abs/2606.24119v1)** | 2026-06-23 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Code and result artifacts: https://github.com/lucky-verma/top1-fails-dlm-lora-monitors</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction](https://arxiv.org/abs/2607.12293v1)** | 2026-07-14 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 4 tables. Under review at PeerJ Computer Science</p></details> |
 | **[Sparse Attention for Dense Open-Vocabulary Prediction in CLIP](https://arxiv.org/abs/2607.07135v2)** | 2026-07-13 |  |
+| **[LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention](https://arxiv.org/abs/2607.11976v1)** | 2026-07-13 |  |
 | **[COBS: Cumulant Order Block Sparse Attention](https://arxiv.org/abs/2607.09052v1)** | 2026-07-10 |  |
 | **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v2)** | 2026-07-09 |  |
 | **[Think Before You Grid-Search: Floor-First Triage for LLM Serving](https://arxiv.org/abs/2607.05876v2)** | 2026-07-08 | 16 pages, 3 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](https://arxiv.org/abs/2607.03012v1)** | 2026-07-03 | 21 pages, 8 figures |
 | **[Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](https://arxiv.org/abs/2607.02980v1)** | 2026-07-03 | preprint |
 | **[Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale](https://arxiv.org/abs/2607.01538v1)** | 2026-07-01 |  |
-| **[FSA: An Alternative Efficient Implementation of Native Sparse Attention Kernel](https://arxiv.org/abs/2508.18224v3)** | 2026-07-01 |  |
-| **[Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers](https://arxiv.org/abs/2601.11641v3)** | 2026-07-01 |  |
 
