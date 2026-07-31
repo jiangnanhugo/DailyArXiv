@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Where and When to Commit: Candidate-Aware Decoding for Diffusion Language Models](https://arxiv.org/abs/2607.28166v1)** | 2026-07-30 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ming053l/LATCH-dLLM</p></details> |
+| **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
+| **[Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models](https://arxiv.org/abs/2607.27386v1)** | 2026-07-29 |  |
 | **[Beyond Block Boundaries: Multi-Block Editing for Diffusion Large Language Models](https://arxiv.org/abs/2607.22663v2)** | 2026-07-29 |  |
 | **[Relation Geometry in Semantic Space of Language Models](https://arxiv.org/abs/2607.26762v1)** | 2026-07-29 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
 | **[PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157v1)** | 2026-07-28 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Simple Policy Gradients for Reasoning with Diffusion Language Models](https://arxiv.org/abs/2510.04019v3)** | 2026-07-23 | 19 pages. ICML 2026 |
 | **[Subliminal Clocks: Latent Time Modelling in Diffusion Language Models](https://arxiv.org/abs/2607.01774v2)** | 2026-07-20 | <details><summary>Equal...</summary><p>Equal contribution: Thomas Vaitses Fontanari and Simone Petruzzi</p></details> |
 | **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models](https://arxiv.org/abs/2607.15893v2)** | 2026-07-20 |  |
-| **[FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models](https://arxiv.org/abs/2607.17652v1)** | 2026-07-20 |  |
-| **[Trace-Based On-Policy Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2607.16872v1)** | 2026-07-18 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment](https://arxiv.org/abs/2607.28039v1)** | 2026-07-30 |  |
+| **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
 | **[ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions](https://arxiv.org/abs/2507.14484v2)** | 2026-07-29 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-60545-6}</p></details> |
 | **[From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models](https://arxiv.org/abs/2607.26504v1)** | 2026-07-29 |  |
 | **[PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157v1)** | 2026-07-28 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models](https://arxiv.org/abs/2607.15893v2)** | 2026-07-20 |  |
 | **[One-step lowest-variance selection in a Gaussian random-field model motivated by masked diffusion: Total correlation and a square root collision threshold](https://arxiv.org/abs/2607.17522v1)** | 2026-07-20 | <details><summary>27 pa...</summary><p>27 pages; welcome comments</p></details> |
 | **[Trace-Based On-Policy Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2607.16872v1)** | 2026-07-18 |  |
-| **[DiffuMamba: High-Throughput Diffusion LMs with Mamba Backbone](https://arxiv.org/abs/2511.15927v4)** | 2026-07-17 | 9 pages, 3 figures |
-| **[Adaptive Multi-Step Lookahead Decoding for Diffusion Language Models](https://arxiv.org/abs/2607.15655v1)** | 2026-07-17 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention](https://arxiv.org/abs/2607.27692v1)** | 2026-07-30 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, and 5 tables</p></details> |
+| **[Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs](https://arxiv.org/abs/2607.27591v1)** | 2026-07-30 |  |
 | **[SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging](https://arxiv.org/abs/2605.00887v2)** | 2026-07-29 |  |
 | **[Learning What Matters: Supervising Global Context Pruning with Causal Evidence Sets](https://arxiv.org/abs/2607.21692v2)** | 2026-07-29 | <details><summary>v2: r...</summary><p>v2: retitled; the claim is scoped to pruning context to one block set per pass. Both supervisions now trained per teacher (attention 0.36-0.98, causal 0.99-1.00 where v1 reported one teacher). New appendices: per-query selection, estimator scope, and a budget sweep with path-aware readouts. Corrects a stale figure and three cost statements. 21 pages</p></details> |
 | **[NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement](https://arxiv.org/abs/2607.26633v1)** | 2026-07-29 | <details><summary>14 pa...</summary><p>14 pages, 19 figures. Accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation](https://arxiv.org/abs/2607.21553v1)** | 2026-07-23 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 5 tables</p></details> |
 | **[Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](https://arxiv.org/abs/2512.16615v2)** | 2026-07-23 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/SingleZombie/LLSA</p></details> |
 | **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v3)** | 2026-07-22 |  |
-| **[ELSAA: Efficient Low-Rank and Sparse Attention Approximation for Training Transformers](https://arxiv.org/abs/2607.20214v1)** | 2026-07-22 |  |
-| **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v3)** | 2026-07-22 | 43 pages, 12 figures |
 
