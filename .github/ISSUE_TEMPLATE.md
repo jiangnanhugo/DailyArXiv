@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
+| **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
+| **[LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models](https://arxiv.org/abs/2608.03457v1)** | 2026-08-04 |  |
+| **[FLARE: Diffusion for Hybrid Language Model](https://arxiv.org/abs/2606.01774v2)** | 2026-08-04 |  |
+| **[OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models](https://arxiv.org/abs/2608.02942v1)** | 2026-08-03 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
 | **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://arxiv.org/abs/2608.02602v1)** | 2026-08-03 | <details><summary>40 pa...</summary><p>40 pages, 17tables, project page: https://aurora-lm-project.github.io/</p></details> |
 | **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 | **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v1)** | 2026-08-03 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs](https://arxiv.org/abs/2603.07475v4)** | 2026-08-02 | <details><summary>v4: i...</summary><p>v4: improving writing and adding Qwen2.5-Instruct results with all v3 changes</p></details> |
 | **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v2)** | 2026-08-02 | Under review |
 | **[Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models](https://arxiv.org/abs/2607.29079v1)** | 2026-07-31 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables. Preprint</p></details> |
-| **[Where and When to Commit: Candidate-Aware Decoding for Diffusion Language Models](https://arxiv.org/abs/2607.28166v1)** | 2026-07-30 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ming053l/LATCH-dLLM</p></details> |
-| **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
-| **[Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models](https://arxiv.org/abs/2607.27386v1)** | 2026-07-29 |  |
-| **[Beyond Block Boundaries: Multi-Block Editing for Diffusion Large Language Models](https://arxiv.org/abs/2607.22663v2)** | 2026-07-29 |  |
-| **[Relation Geometry in Semantic Space of Language Models](https://arxiv.org/abs/2607.26762v1)** | 2026-07-29 | <details><summary>Manus...</summary><p>Manuscript under review</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
 | **[OSAGEN: Object-Aware Mask Priors and Multistage Decoupled Diffusion for Industrial Anomaly Generation](https://arxiv.org/abs/2607.29533v1)** | 2026-07-31 |  |
 | **[TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment](https://arxiv.org/abs/2607.28039v1)** | 2026-07-30 |  |
 | **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation](https://arxiv.org/abs/2604.11052v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
 | **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models](https://arxiv.org/abs/2607.15893v2)** | 2026-07-20 |  |
-| **[One-step lowest-variance selection in a Gaussian random-field model motivated by masked diffusion: Total correlation and a square root collision threshold](https://arxiv.org/abs/2607.17522v1)** | 2026-07-20 | <details><summary>27 pa...</summary><p>27 pages; welcome comments</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,11 +64,14 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention](https://arxiv.org/abs/2608.03555v1)** | 2026-08-04 |  |
+| **[SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://arxiv.org/abs/2608.03335v1)** | 2026-08-04 | <details><summary>Publi...</summary><p>Published in the 63rd ACM/IEEE Design Automation Conference (DAC '26). 7 pages, 6 figures, 3 tables</p></details> |
+| **[LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing](https://arxiv.org/abs/2608.01662v2)** | 2026-08-04 |  |
+| **[$π$-Attention: Online Efficient Sparse Transformers for Long-Context Modeling](https://arxiv.org/abs/2511.10696v3)** | 2026-08-04 |  |
 | **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v4)** | 2026-08-03 | 43 pages, 12 figures |
 | **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
 | **[HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval](https://arxiv.org/abs/2606.21633v2)** | 2026-08-03 |  |
 | **[Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation](https://arxiv.org/abs/2608.01676v1)** | 2026-08-03 |  |
-| **[LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing](https://arxiv.org/abs/2608.01662v1)** | 2026-08-03 |  |
 | **[Perspectives on Tsallis Statistics for Artificial Intelligence](https://arxiv.org/abs/2608.01223v1)** | 2026-08-02 |  |
 | **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v4)** | 2026-08-01 | ICML 2026 |
 | **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v2)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Lin Niu and Xin Luo contributed equally to this work. Camera-ready version</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs](https://arxiv.org/abs/2607.27591v1)** | 2026-07-30 |  |
 | **[SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging](https://arxiv.org/abs/2605.00887v2)** | 2026-07-29 |  |
 | **[Learning What Matters: Supervising Global Context Pruning with Causal Evidence Sets](https://arxiv.org/abs/2607.21692v2)** | 2026-07-29 | <details><summary>v2: r...</summary><p>v2: retitled; the claim is scoped to pruning context to one block set per pass. Both supervisions now trained per teacher (attention 0.36-0.98, causal 0.99-1.00 where v1 reported one teacher). New appendices: per-query selection, estimator scope, and a budget sweep with path-aware readouts. Corrects a stale figure and three cost statements. 21 pages</p></details> |
-| **[NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement](https://arxiv.org/abs/2607.26633v1)** | 2026-07-29 | <details><summary>14 pa...</summary><p>14 pages, 19 figures. Accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[Wonder: Video World Model Done Better](https://arxiv.org/abs/2607.26037v1)** | 2026-07-28 | <details><summary>Proje...</summary><p>Project Page: https://wonder-world-model.github.io/</p></details> |
-| **[CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291v1)** | 2026-07-28 |  |
 
