@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 | **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
 | **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
 | **[LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models](https://arxiv.org/abs/2608.03457v1)** | 2026-08-04 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](https://arxiv.org/abs/2602.08404v3)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs](https://arxiv.org/abs/2603.07475v4)** | 2026-08-02 | <details><summary>v4: i...</summary><p>v4: improving writing and adding Qwen2.5-Instruct results with all v3 changes</p></details> |
 | **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v2)** | 2026-08-02 | Under review |
-| **[Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models](https://arxiv.org/abs/2607.29079v1)** | 2026-07-31 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables. Preprint</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Masked diffusion enables coherent beat tracking](https://arxiv.org/abs/2608.04624v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR), 2026</p></details> |
+| **[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](https://arxiv.org/abs/2506.01928v5)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
 | **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
 | **[OSAGEN: Object-Aware Mask Priors and Multistage Decoupled Diffusion for Industrial Anomaly Generation](https://arxiv.org/abs/2607.29533v1)** | 2026-07-31 |  |
 | **[TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment](https://arxiv.org/abs/2607.28039v1)** | 2026-07-30 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v2)** | 2026-07-24 | <details><summary>Needs...</summary><p>Needs corporate approval</p></details> |
 | **[Understanding and Accelerating the Training of Masked Diffusion Language Models](https://arxiv.org/abs/2605.13026v2)** | 2026-07-23 | Preprint |
 | **[LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation](https://arxiv.org/abs/2604.11052v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
-| **[UnMaskFork: Test-Time Scaling for Masked Diffusion via Deterministic Action Branching](https://arxiv.org/abs/2602.04344v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Induction in Both Directions: A Mechanistic Analysis of In-Context Learning in Masked Diffusion Language Models](https://arxiv.org/abs/2607.15893v2)** | 2026-07-20 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
 | **[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168v1)** | 2026-08-03 |  |
 | **[Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling](https://arxiv.org/abs/2602.08058v4)** | 2026-07-28 | <details><summary>15 pa...</summary><p>15 pages, accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
 | **[Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities](https://arxiv.org/abs/2602.14616v2)** | 2026-07-16 | Accepted at UAI'26 |
@@ -56,7 +57,6 @@ labels: documentation
 | **[Frequency-based Constrained Sampling for Interval Patterns](https://arxiv.org/abs/2606.09666v1)** | 2026-06-08 | 16 pages |
 | **[A Geometry-Informed Computer Vision Method for Detecting and Examining Overtaking Vehicles From A Bicycle](https://arxiv.org/abs/2606.23699v1)** | 2026-06-03 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, in preparation for journal submission</p></details> |
 | **[Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398v3)** | 2026-06-01 |  |
-| **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
 | **[Learning the Error Patterns of Language Models](https://arxiv.org/abs/2605.28328v1)** | 2026-05-27 |  |
 | **[SAGE: Scalable Automatic Gating Ensemble for Confident Negative Harvesting in Fraud Detection](https://arxiv.org/abs/2605.20157v1)** | 2026-05-19 |  |
 | **[Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling](https://arxiv.org/abs/2605.12754v1)** | 2026-05-12 |  |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment](https://arxiv.org/abs/2608.04472v1)** | 2026-08-05 |  |
+| **[Training-Free Hashing-Based Attention via Binary Principal Components](https://arxiv.org/abs/2608.04405v1)** | 2026-08-05 | ICML 2026 |
 | **[Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention](https://arxiv.org/abs/2608.03555v1)** | 2026-08-04 |  |
 | **[SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://arxiv.org/abs/2608.03335v1)** | 2026-08-04 | <details><summary>Publi...</summary><p>Published in the 63rd ACM/IEEE Design Automation Conference (DAC '26). 7 pages, 6 figures, 3 tables</p></details> |
 | **[LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing](https://arxiv.org/abs/2608.01662v2)** | 2026-08-04 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v2)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Lin Niu and Xin Luo contributed equally to this work. Camera-ready version</p></details> |
 | **[Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention](https://arxiv.org/abs/2607.27692v1)** | 2026-07-30 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, and 5 tables</p></details> |
 | **[Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs](https://arxiv.org/abs/2607.27591v1)** | 2026-07-30 |  |
-| **[SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging](https://arxiv.org/abs/2605.00887v2)** | 2026-07-29 |  |
-| **[Learning What Matters: Supervising Global Context Pruning with Causal Evidence Sets](https://arxiv.org/abs/2607.21692v2)** | 2026-07-29 | <details><summary>v2: r...</summary><p>v2: retitled; the claim is scoped to pruning context to one block set per pass. Both supervisions now trained per teacher (attention 0.36-0.98, causal 0.99-1.00 where v1 reported one teacher). New appendices: per-query selection, estimator scope, and a budget sweep with path-aware readouts. Corrects a stale figure and three cost statements. 21 pages</p></details> |
 
