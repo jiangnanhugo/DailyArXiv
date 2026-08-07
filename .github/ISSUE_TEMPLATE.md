@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 | **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
 | **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models](https://arxiv.org/abs/2511.21759v2)** | 2026-08-03 | Accepted by DAC 2026 |
 | **[TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](https://arxiv.org/abs/2602.08404v3)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs](https://arxiv.org/abs/2603.07475v4)** | 2026-08-02 | <details><summary>v4: i...</summary><p>v4: improving writing and adding Qwen2.5-Instruct results with all v3 changes</p></details> |
-| **[Just on Time: Token-Level Early Stopping for Diffusion Language Models](https://arxiv.org/abs/2602.11133v2)** | 2026-08-02 | Under review |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
 | **[Masked diffusion enables coherent beat tracking](https://arxiv.org/abs/2608.04624v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR), 2026</p></details> |
 | **[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](https://arxiv.org/abs/2506.01928v5)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
 | **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising](https://arxiv.org/abs/2607.24841v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for presentation at 2026 IEEE Workshop on Signal Processing Systems (SiPS)</p></details> |
 | **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v2)** | 2026-07-24 | <details><summary>Needs...</summary><p>Needs corporate approval</p></details> |
 | **[Understanding and Accelerating the Training of Masked Diffusion Language Models](https://arxiv.org/abs/2605.13026v2)** | 2026-07-23 | Preprint |
-| **[LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation](https://arxiv.org/abs/2604.11052v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding](https://arxiv.org/abs/2608.05780v1)** | 2026-08-06 | <details><summary>Proje...</summary><p>Project Page: https://zhangbo135.github.io/EviSelect/</p></details> |
 | **[EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment](https://arxiv.org/abs/2608.04472v1)** | 2026-08-05 |  |
 | **[Training-Free Hashing-Based Attention via Binary Principal Components](https://arxiv.org/abs/2608.04405v1)** | 2026-08-05 | ICML 2026 |
 | **[Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention](https://arxiv.org/abs/2608.03555v1)** | 2026-08-04 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v4)** | 2026-08-01 | ICML 2026 |
 | **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v2)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Lin Niu and Xin Luo contributed equally to this work. Camera-ready version</p></details> |
 | **[Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention](https://arxiv.org/abs/2607.27692v1)** | 2026-07-30 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, and 5 tables</p></details> |
-| **[Prox: Training-Free FFN Activation Sparsity via Approximate Intermediate-Channel Salience in LLMs](https://arxiv.org/abs/2607.27591v1)** | 2026-07-30 |  |
 
