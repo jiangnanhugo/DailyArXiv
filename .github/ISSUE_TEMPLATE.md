@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 09, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006v1)** | 2026-08-07 |  |
+| **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v5)** | 2026-08-06 | COLM 2026 |
+| **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628v1)** | 2026-08-06 |  |
+| **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 | **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
@@ -18,14 +22,12 @@ labels: documentation
 | **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
 | **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v1)** | 2026-08-03 |  |
 | **[REFLEX: Rethinking MoE Inference as Refinement-Aware Compute Allocation in Diffusion Language Models](https://arxiv.org/abs/2608.01784v1)** | 2026-08-03 |  |
-| **[Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2608.01717v1)** | 2026-08-03 |  |
-| **[Orchestrating Dual-Boundaries: An Arithmetic Intensity Inspired Acceleration Framework for Diffusion Language Models](https://arxiv.org/abs/2511.21759v2)** | 2026-08-03 | Accepted by DAC 2026 |
-| **[TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](https://arxiv.org/abs/2602.08404v3)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[A Comparative analysis of Layer-wise Representational Capacity in AR and Diffusion LLMs](https://arxiv.org/abs/2603.07475v4)** | 2026-08-02 | <details><summary>v4: i...</summary><p>v4: improving writing and adding Qwen2.5-Instruct results with all v3 changes</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stoicheia: Character-Level Masked Diffusion for Ancient Greek Textual Restoration, Parsing, and Metrical Scansion](https://arxiv.org/abs/2608.07249v1)** | 2026-08-07 | <details><summary>12 pa...</summary><p>12 pages, 7 tables. Models, datasets and code released: https://huggingface.co/collections/Ericu950/stoicheia-6a6fbf9800c82d93020a7ceb and https://github.com/ericu9500/stoicheia</p></details> |
+| **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
 | **[Masked diffusion enables coherent beat tracking](https://arxiv.org/abs/2608.04624v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR), 2026</p></details> |
 | **[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](https://arxiv.org/abs/2506.01928v5)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[UNIFUSION: Adapting Autoregressive Language Models into Discrete Diffusion under a Unified Reverse-Rate Objective](https://arxiv.org/abs/2607.24507v1)** | 2026-07-27 |  |
 | **[Rethinking the Generation Order of Block Diffusion Language Models](https://arxiv.org/abs/2607.24306v1)** | 2026-07-27 | <details><summary>20 pa...</summary><p>20 pages, 15 figures, 6 tables</p></details> |
 | **[Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising](https://arxiv.org/abs/2607.24841v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for presentation at 2026 IEEE Workshop on Signal Processing Systems (SiPS)</p></details> |
-| **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v2)** | 2026-07-24 | <details><summary>Needs...</summary><p>Needs corporate approval</p></details> |
-| **[Understanding and Accelerating the Training of Masked Diffusion Language Models](https://arxiv.org/abs/2605.13026v2)** | 2026-07-23 | Preprint |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniInfer: System-Wide Acceleration Techniques for Optimizing LLM Serving Throughput and Latency](https://arxiv.org/abs/2511.22481v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: [this https URL](https://gitee.com/omniai/omniinfer)</p></details> |
+| **[HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management](https://arxiv.org/abs/2608.07009v1)** | 2026-08-07 |  |
+| **[CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291v2)** | 2026-08-07 |  |
+| **[Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849v1)** | 2026-08-07 |  |
 | **[Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding](https://arxiv.org/abs/2608.05780v1)** | 2026-08-06 | <details><summary>Proje...</summary><p>Project Page: https://zhangbo135.github.io/EviSelect/</p></details> |
 | **[EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment](https://arxiv.org/abs/2608.04472v1)** | 2026-08-05 |  |
 | **[Training-Free Hashing-Based Attention via Binary Principal Components](https://arxiv.org/abs/2608.04405v1)** | 2026-08-05 | ICML 2026 |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
 | **[HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval](https://arxiv.org/abs/2606.21633v2)** | 2026-08-03 |  |
 | **[Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation](https://arxiv.org/abs/2608.01676v1)** | 2026-08-03 |  |
-| **[Perspectives on Tsallis Statistics for Artificial Intelligence](https://arxiv.org/abs/2608.01223v1)** | 2026-08-02 |  |
-| **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v4)** | 2026-08-01 | ICML 2026 |
-| **[Stem: Rethinking Causal Information Flow in Sparse Attention](https://arxiv.org/abs/2603.06274v2)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Lin Niu and Xin Luo contributed equally to this work. Camera-ready version</p></details> |
-| **[Recall Before You Rank: Similarity-Guided Top-$K$ Reuse for Efficient Long-Context Attention](https://arxiv.org/abs/2607.27692v1)** | 2026-07-30 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, and 5 tables</p></details> |
 
