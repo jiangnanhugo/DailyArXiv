@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reducing Pretraining-Generation Mismatch in Diffusion Language Models](https://arxiv.org/abs/2608.09424v1)** | 2026-08-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table</p></details> |
+| **[When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models](https://arxiv.org/abs/2605.28181v2)** | 2026-08-10 | Preprint |
+| **[Unsure but Certain: Uncovering the Representation-Confidence Gap in Diffusion Language Models](https://arxiv.org/abs/2608.08791v1)** | 2026-08-09 |  |
+| **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
+| **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v2)** | 2026-08-08 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
+| **[Wiener Representation Filtering for VLM Hallucination Suppression](https://arxiv.org/abs/2608.08167v1)** | 2026-08-08 |  |
+| **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v1)** | 2026-08-08 |  |
+| **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 | **[Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006v1)** | 2026-08-07 |  |
 | **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v5)** | 2026-08-06 | COLM 2026 |
 | **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628v1)** | 2026-08-06 |  |
 | **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
+| **[Scaling Inherently Interpretable Language Models](https://arxiv.org/abs/2608.07594v1)** | 2026-08-06 |  |
 | **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
-| **[Separating quantum circuits from classical LLMs](https://arxiv.org/abs/2608.03962v1)** | 2026-08-04 | 60 pages, 6 figures |
-| **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
-| **[LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models](https://arxiv.org/abs/2608.03457v1)** | 2026-08-04 |  |
-| **[FLARE: Diffusion for Hybrid Language Model](https://arxiv.org/abs/2606.01774v2)** | 2026-08-04 |  |
-| **[OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models](https://arxiv.org/abs/2608.02942v1)** | 2026-08-03 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 5 tables</p></details> |
-| **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://arxiv.org/abs/2608.02602v1)** | 2026-08-03 | <details><summary>40 pa...</summary><p>40 pages, 17tables, project page: https://aurora-lm-project.github.io/</p></details> |
-| **[Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v1)** | 2026-08-03 |  |
-| **[REFLEX: Rethinking MoE Inference as Refinement-Aware Compute Allocation in Diffusion Language Models](https://arxiv.org/abs/2608.01784v1)** | 2026-08-03 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models](https://arxiv.org/abs/2607.26504v2)** | 2026-08-09 |  |
+| **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
+| **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 | **[Stoicheia: Character-Level Masked Diffusion for Ancient Greek Textual Restoration, Parsing, and Metrical Scansion](https://arxiv.org/abs/2608.07249v1)** | 2026-08-07 | <details><summary>12 pa...</summary><p>12 pages, 7 tables. Models, datasets and code released: https://huggingface.co/collections/Ericu950/stoicheia-6a6fbf9800c82d93020a7ceb and https://github.com/ericu9500/stoicheia</p></details> |
 | **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
@@ -36,11 +39,8 @@ labels: documentation
 | **[TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment](https://arxiv.org/abs/2607.28039v1)** | 2026-07-30 |  |
 | **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
 | **[ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions](https://arxiv.org/abs/2507.14484v2)** | 2026-07-29 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-60545-6}</p></details> |
-| **[From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models](https://arxiv.org/abs/2607.26504v1)** | 2026-07-29 |  |
 | **[PreDiff-LM: Pretrained Discrete Masked Diffusion Language Modeling with Hybrid Attention](https://arxiv.org/abs/2607.25157v1)** | 2026-07-28 |  |
 | **[UNIFUSION: Adapting Autoregressive Language Models into Discrete Diffusion under a Unified Reverse-Rate Objective](https://arxiv.org/abs/2607.24507v1)** | 2026-07-27 |  |
-| **[Rethinking the Generation Order of Block Diffusion Language Models](https://arxiv.org/abs/2607.24306v1)** | 2026-07-27 | <details><summary>20 pa...</summary><p>20 pages, 15 figures, 6 tables</p></details> |
-| **[Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising](https://arxiv.org/abs/2607.24841v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted for presentation at 2026 IEEE Workshop on Signal Processing Systems (SiPS)</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Attention to Emotion: Efficient Facial Emotion Recognition via Token Reduction](https://arxiv.org/abs/2608.08873v1)** | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, published at ICIP 2026</p></details> |
+| **[HEART: Exploiting Head Heterogeneity in Sparse Attention for Video Diffusion](https://arxiv.org/abs/2605.14513v2)** | 2026-08-09 |  |
+| **[MotionCraft: Latent World Modeling with Sparse Attention for Visual Upscaling](https://arxiv.org/abs/2608.08553v1)** | 2026-08-09 | 14 pages, 6 figures |
 | **[OmniInfer: System-Wide Acceleration Techniques for Optimizing LLM Serving Throughput and Latency](https://arxiv.org/abs/2511.22481v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: [this https URL](https://gitee.com/omniai/omniinfer)</p></details> |
 | **[HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management](https://arxiv.org/abs/2608.07009v1)** | 2026-08-07 |  |
 | **[CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291v2)** | 2026-08-07 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing](https://arxiv.org/abs/2608.01662v2)** | 2026-08-04 |  |
 | **[$π$-Attention: Online Efficient Sparse Transformers for Long-Context Modeling](https://arxiv.org/abs/2511.10696v3)** | 2026-08-04 |  |
 | **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v4)** | 2026-08-03 | 43 pages, 12 figures |
-| **[Belief-Contraction-Driven Active Inverse Source Localization and Characterization](https://arxiv.org/abs/2501.13084v2)** | 2026-08-03 |  |
-| **[HERALD: High-Throughput Block Diffusion LLM Serving via CPU-GPU Cooperative KV Cache Retrieval](https://arxiv.org/abs/2606.21633v2)** | 2026-08-03 |  |
-| **[Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation](https://arxiv.org/abs/2608.01676v1)** | 2026-08-03 |  |
 
