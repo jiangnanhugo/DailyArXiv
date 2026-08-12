@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v2)** | 2026-08-11 |  |
+| **[Continuous Interaction Diffusion: A Diffusion-Native Runtime for Asynchronous Tool-Augmented Reasoning](https://arxiv.org/abs/2608.10438v1)** | 2026-08-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 1 table</p></details> |
+| **[A Tale of Two Temperatures: Simple, Efficient, and Diverse Sampling from Diffusion Language Models](https://arxiv.org/abs/2604.09921v2)** | 2026-08-10 | <details><summary>V2: a...</summary><p>V2: accepted as a full conference paper at COLM</p></details> |
 | **[Reducing Pretraining-Generation Mismatch in Diffusion Language Models](https://arxiv.org/abs/2608.09424v1)** | 2026-08-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table</p></details> |
 | **[When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models](https://arxiv.org/abs/2605.28181v2)** | 2026-08-10 | Preprint |
 | **[Unsure but Certain: Uncovering the Representation-Confidence Gap in Diffusion Language Models](https://arxiv.org/abs/2608.08791v1)** | 2026-08-09 |  |
 | **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
 | **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v2)** | 2026-08-08 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
 | **[Wiener Representation Filtering for VLM Hallucination Suppression](https://arxiv.org/abs/2608.08167v1)** | 2026-08-08 |  |
-| **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v1)** | 2026-08-08 |  |
 | **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 | **[Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006v1)** | 2026-08-07 |  |
 | **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v5)** | 2026-08-06 | COLM 2026 |
 | **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628v1)** | 2026-08-06 |  |
 | **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
-| **[Scaling Inherently Interpretable Language Models](https://arxiv.org/abs/2608.07594v1)** | 2026-08-06 |  |
-| **[DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech](https://arxiv.org/abs/2607.04140v2)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 SPIGM Workshop</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex](https://arxiv.org/abs/2608.11173v1)** | 2026-08-11 | 33 pages, 10 figures |
+| **[SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis](https://arxiv.org/abs/2608.10519v1)** | 2026-08-11 |  |
 | **[Sparse Attention to Emotion: Efficient Facial Emotion Recognition via Token Reduction](https://arxiv.org/abs/2608.08873v1)** | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, published at ICIP 2026</p></details> |
 | **[HEART: Exploiting Head Heterogeneity in Sparse Attention for Video Diffusion](https://arxiv.org/abs/2605.14513v2)** | 2026-08-09 |  |
 | **[MotionCraft: Latent World Modeling with Sparse Attention for Visual Upscaling](https://arxiv.org/abs/2608.08553v1)** | 2026-08-09 | 14 pages, 6 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention](https://arxiv.org/abs/2608.03555v1)** | 2026-08-04 |  |
 | **[SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference](https://arxiv.org/abs/2608.03335v1)** | 2026-08-04 | <details><summary>Publi...</summary><p>Published in the 63rd ACM/IEEE Design Automation Conference (DAC '26). 7 pages, 6 figures, 3 tables</p></details> |
 | **[LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing](https://arxiv.org/abs/2608.01662v2)** | 2026-08-04 |  |
-| **[$π$-Attention: Online Efficient Sparse Transformers for Long-Context Modeling](https://arxiv.org/abs/2511.10696v3)** | 2026-08-04 |  |
-| **[TempoNet: Slack-Quantized Transformer-Guided Reinforcement Scheduler for Adaptive Deadline-Centric Real-Time Dispatchs](https://arxiv.org/abs/2602.18109v4)** | 2026-08-03 | 43 pages, 12 figures |
 
