@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v2)** | 2026-08-14 |  |
 | **[Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](https://arxiv.org/abs/2607.28166v2)** | 2026-08-13 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ming053l/C4-dLLM</p></details> |
 | **[Luna-TTS Family Technical Report](https://arxiv.org/abs/2608.11593v1)** | 2026-08-12 |  |
 | **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v2)** | 2026-08-11 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 | **[Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006v1)** | 2026-08-07 |  |
 | **[Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement](https://arxiv.org/abs/2507.08390v5)** | 2026-08-06 | COLM 2026 |
-| **[Retrofitting Linear Attention into Diffusion Language Models](https://arxiv.org/abs/2608.06628v1)** | 2026-08-06 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SALSA-V: Shortcut-Augmented Long-form Synchronized Audio from Videos](https://arxiv.org/abs/2510.02916v2)** | 2026-08-13 |  |
 | **[The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity](https://arxiv.org/abs/2608.13520v1)** | 2026-08-13 |  |
 | **[Masked diffusion LLMs can use EoS tokens for hidden reasoning](https://arxiv.org/abs/2603.05197v2)** | 2026-08-13 |  |
 | **[From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models](https://arxiv.org/abs/2607.26504v2)** | 2026-08-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[OSAGEN: Object-Aware Mask Priors and Multistage Decoupled Diffusion for Industrial Anomaly Generation](https://arxiv.org/abs/2607.29533v1)** | 2026-07-31 |  |
 | **[TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment](https://arxiv.org/abs/2607.28039v1)** | 2026-07-30 |  |
 | **[Latent-Kernel Discrete Flow Maps for Few-Step Generation](https://arxiv.org/abs/2607.27529v1)** | 2026-07-29 |  |
-| **[ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions](https://arxiv.org/abs/2507.14484v2)** | 2026-07-29 | <details><summary>The a...</summary><p>The article has been accepted by Frontiers of Computer Science (FCS), with the DOI: {10.1007/s11704-026-60545-6}</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
