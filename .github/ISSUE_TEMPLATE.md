@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207v2)** | 2026-08-18 | 22 pages. Preprint |
+| **[When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802v2)** | 2026-08-17 |  |
 | **[$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066v2)** | 2026-08-17 | under review |
 | **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v2)** | 2026-08-14 |  |
 | **[Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](https://arxiv.org/abs/2607.28166v2)** | 2026-08-13 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ming053l/C4-dLLM</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
 | **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v2)** | 2026-08-08 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
 | **[Wiener Representation Filtering for VLM Hallucination Suppression](https://arxiv.org/abs/2608.08167v1)** | 2026-08-08 |  |
-| **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
-| **[Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006v1)** | 2026-08-07 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,12 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](https://arxiv.org/abs/2608.18063v1)** | 2026-08-18 |  |
+| **[Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546v2)** | 2026-08-18 |  |
+| **[TabNSM: Neural Sparse Mixer for Tabular Regression](https://arxiv.org/abs/2608.18026v1)** | 2026-08-18 |  |
+| **[SFMformer: A Spatial-Frequency Modulation Transformer for Lightweight Image Super-Resolution](https://arxiv.org/abs/2608.17966v1)** | 2026-08-18 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 5 tables</p></details> |
 | **[Efficient Audio-Visual Generation via Synchrony-Aware Cross-Modal Sparse Attention](https://arxiv.org/abs/2608.15522v1)** | 2026-08-16 |  |
 | **[Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off](https://arxiv.org/abs/2608.15459v1)** | 2026-08-16 | <details><summary>53 pa...</summary><p>53 pages, 8 figures, 16 tables. Code and analysis artifacts: https://github.com/Nixon-H/not-all-attention-is-equal</p></details> |
-| **[Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546v1)** | 2026-08-13 |  |
 | **[SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://arxiv.org/abs/2607.03612v2)** | 2026-08-13 | <details><summary>ECCV ...</summary><p>ECCV 2026. Updated related work</p></details> |
 | **[SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention](https://arxiv.org/abs/2608.12780v1)** | 2026-08-13 |  |
 | **[LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration](https://arxiv.org/abs/2608.12032v1)** | 2026-08-12 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[HEART: Exploiting Head Heterogeneity in Sparse Attention for Video Diffusion](https://arxiv.org/abs/2605.14513v2)** | 2026-08-09 |  |
 | **[MotionCraft: Latent World Modeling with Sparse Attention for Visual Upscaling](https://arxiv.org/abs/2608.08553v1)** | 2026-08-09 | 14 pages, 6 figures |
 | **[OmniInfer: System-Wide Acceleration Techniques for Optimizing LLM Serving Throughput and Latency](https://arxiv.org/abs/2511.22481v2)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project page: [this https URL](https://gitee.com/omniai/omniinfer)</p></details> |
-| **[HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management](https://arxiv.org/abs/2608.07009v1)** | 2026-08-07 |  |
-| **[CoSA: Accelerating Long-Context Inference via Proxy-Kernel Co-Designed Sparse Attention](https://arxiv.org/abs/2607.25291v2)** | 2026-08-07 |  |
-| **[Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry](https://arxiv.org/abs/2608.06849v1)** | 2026-08-07 |  |
 
