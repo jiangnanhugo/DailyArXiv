@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models](https://arxiv.org/abs/2604.18738v3)** | 2026-08-20 |  |
+| **[Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo](https://arxiv.org/abs/2608.20123v1)** | 2026-08-20 |  |
 | **[JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207v2)** | 2026-08-18 | 22 pages. Preprint |
 | **[When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802v2)** | 2026-08-17 |  |
 | **[$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066v2)** | 2026-08-17 | under review |
@@ -20,8 +22,6 @@ labels: documentation
 | **[When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models](https://arxiv.org/abs/2605.28181v2)** | 2026-08-10 | Preprint |
 | **[Unsure but Certain: Uncovering the Representation-Confidence Gap in Diffusion Language Models](https://arxiv.org/abs/2608.08791v1)** | 2026-08-09 |  |
 | **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
-| **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v2)** | 2026-08-08 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
-| **[Wiener Representation Filtering for VLM Hallucination Suppression](https://arxiv.org/abs/2608.08167v1)** | 2026-08-08 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning how to Forget: Fine-tuning for Long-Context Sparse Attention](https://arxiv.org/abs/2608.19920v1)** | 2026-08-20 | 39 pages, no figures |
+| **[SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis](https://arxiv.org/abs/2608.10519v2)** | 2026-08-20 |  |
+| **[FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](https://arxiv.org/abs/2608.19758v1)** | 2026-08-20 | FlashPrefill V2 |
 | **[Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models](https://arxiv.org/abs/2608.18484v1)** | 2026-08-19 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Project page: https://pardistaghavi.github.io/SparsePR-website/</p></details> |
 | **[EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](https://arxiv.org/abs/2608.18063v1)** | 2026-08-18 |  |
 | **[Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546v2)** | 2026-08-18 |  |
@@ -75,8 +78,5 @@ labels: documentation
 | **[SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention](https://arxiv.org/abs/2608.12780v1)** | 2026-08-13 |  |
 | **[LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration](https://arxiv.org/abs/2608.12032v1)** | 2026-08-12 |  |
 | **[A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex](https://arxiv.org/abs/2608.11173v1)** | 2026-08-11 | 33 pages, 10 figures |
-| **[SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis](https://arxiv.org/abs/2608.10519v1)** | 2026-08-11 |  |
 | **[Sparse Attention to Emotion: Efficient Facial Emotion Recognition via Token Reduction](https://arxiv.org/abs/2608.08873v1)** | 2026-08-09 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, published at ICIP 2026</p></details> |
-| **[HEART: Exploiting Head Heterogeneity in Sparse Attention for Video Diffusion](https://arxiv.org/abs/2605.14513v2)** | 2026-08-09 |  |
-| **[MotionCraft: Latent World Modeling with Sparse Attention for Visual Upscaling](https://arxiv.org/abs/2608.08553v1)** | 2026-08-09 | 14 pages, 6 figures |
 
