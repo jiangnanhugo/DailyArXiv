@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
+| **[FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation](https://arxiv.org/abs/2601.23182v2)** | 2026-08-24 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, under review</p></details> |
+| **[Accelerating Diffusion Language Models via Structured Suffix Modeling](https://arxiv.org/abs/2608.23167v1)** | 2026-08-24 |  |
+| **[SelFusion: Self-distillation for Diffusion Language Models](https://arxiv.org/abs/2608.22898v1)** | 2026-08-24 | <details><summary>Publi...</summary><p>Published as a main conference paper at ACL 2026</p></details> |
+| **[CAI-DLLM: Convergence Aware Inference for Diffusion Language Models](https://arxiv.org/abs/2608.22646v1)** | 2026-08-23 |  |
+| **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
+| **[Semantic Reasoning Denoising: Correcting Language Model Reasoning with Semantic Operators](https://arxiv.org/abs/2608.22090v1)** | 2026-08-22 |  |
+| **[Syntax-Guided Diffusion Language Models with User-Integrated Personalization](https://arxiv.org/abs/2510.01028v2)** | 2026-08-22 |  |
+| **[Adaptive Test-Time Compute Allocation for Block Diffusion Language Models in Complex Reasoning](https://arxiv.org/abs/2602.09555v3)** | 2026-08-22 |  |
 | **[Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760v2)** | 2026-08-21 | <details><summary>accep...</summary><p>accepted to ACL 2026 Main</p></details> |
 | **[SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields](https://arxiv.org/abs/2608.20839v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 13 figures</p></details> |
 | **[Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models](https://arxiv.org/abs/2604.18738v3)** | 2026-08-20 |  |
 | **[Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo](https://arxiv.org/abs/2608.20123v1)** | 2026-08-20 |  |
 | **[JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207v2)** | 2026-08-18 | 22 pages. Preprint |
 | **[When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802v2)** | 2026-08-17 |  |
-| **[$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066v2)** | 2026-08-17 | under review |
-| **[EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning](https://arxiv.org/abs/2608.01856v2)** | 2026-08-14 |  |
-| **[Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](https://arxiv.org/abs/2607.28166v2)** | 2026-08-13 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ming053l/C4-dLLM</p></details> |
-| **[Luna-TTS Family Technical Report](https://arxiv.org/abs/2608.11593v1)** | 2026-08-12 |  |
-| **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v2)** | 2026-08-11 |  |
-| **[Continuous Interaction Diffusion: A Diffusion-Native Runtime for Asynchronous Tool-Augmented Reasoning](https://arxiv.org/abs/2608.10438v1)** | 2026-08-11 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 1 table</p></details> |
-| **[A Tale of Two Temperatures: Simple, Efficient, and Diverse Sampling from Diffusion Language Models](https://arxiv.org/abs/2604.09921v2)** | 2026-08-10 | <details><summary>V2: a...</summary><p>V2: accepted as a full conference paper at COLM</p></details> |
-| **[Reducing Pretraining-Generation Mismatch in Diffusion Language Models](https://arxiv.org/abs/2608.09424v1)** | 2026-08-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table</p></details> |
-| **[When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models](https://arxiv.org/abs/2605.28181v2)** | 2026-08-10 | Preprint |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
+| **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
 | **[Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2026</p></details> |
 | **[$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066v2)** | 2026-08-17 | under review |
 | **[Solvable Sokoban Without a Solver via Diffusion](https://arxiv.org/abs/2608.15958v1)** | 2026-08-16 |  |
@@ -37,10 +39,8 @@ labels: documentation
 | **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 | **[Stoicheia: Character-Level Masked Diffusion for Ancient Greek Textual Restoration, Parsing, and Metrical Scansion](https://arxiv.org/abs/2608.07249v1)** | 2026-08-07 | <details><summary>12 pa...</summary><p>12 pages, 7 tables. Models, datasets and code released: https://huggingface.co/collections/Ericu950/stoicheia-6a6fbf9800c82d93020a7ceb and https://github.com/ericu9500/stoicheia</p></details> |
 | **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
-| **[Answer First, Reason Later: Commitment Order in Diffusion LLMs](https://arxiv.org/abs/2608.05687v1)** | 2026-08-06 |  |
 | **[Masked diffusion enables coherent beat tracking](https://arxiv.org/abs/2608.04624v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR), 2026</p></details> |
 | **[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](https://arxiv.org/abs/2506.01928v5)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
-| **[MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models](https://arxiv.org/abs/2608.03769v1)** | 2026-08-04 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
