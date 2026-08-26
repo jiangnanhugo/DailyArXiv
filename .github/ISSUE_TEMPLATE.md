@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Commit Alone: Joint Token Commitment in Diffusion Language Models](https://arxiv.org/abs/2607.04469v2)** | 2026-08-24 |  |
+| **[Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware](https://arxiv.org/abs/2608.23807v1)** | 2026-08-24 |  |
 | **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
 | **[FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation](https://arxiv.org/abs/2601.23182v2)** | 2026-08-24 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, under review</p></details> |
 | **[Accelerating Diffusion Language Models via Structured Suffix Modeling](https://arxiv.org/abs/2608.23167v1)** | 2026-08-24 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields](https://arxiv.org/abs/2608.20839v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. 24 pages, 13 figures</p></details> |
 | **[Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models](https://arxiv.org/abs/2604.18738v3)** | 2026-08-20 |  |
 | **[Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo](https://arxiv.org/abs/2608.20123v1)** | 2026-08-20 |  |
-| **[JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207v2)** | 2026-08-18 | 22 pages. Preprint |
-| **[When to Plan, When to Polish: Noise Level as a Granularity Axis for Diffusion Language Models](https://arxiv.org/abs/2606.21802v2)** | 2026-08-17 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware](https://arxiv.org/abs/2608.23807v1)** | 2026-08-24 |  |
 | **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
 | **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
 | **[Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Stoicheia: Character-Level Masked Diffusion for Ancient Greek Textual Restoration, Parsing, and Metrical Scansion](https://arxiv.org/abs/2608.07249v1)** | 2026-08-07 | <details><summary>12 pa...</summary><p>12 pages, 7 tables. Models, datasets and code released: https://huggingface.co/collections/Ericu950/stoicheia-6a6fbf9800c82d93020a7ceb and https://github.com/ericu9500/stoicheia</p></details> |
 | **[Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models](https://arxiv.org/abs/2608.06529v1)** | 2026-08-06 | 15 pages |
 | **[Masked diffusion enables coherent beat tracking](https://arxiv.org/abs/2608.04624v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at the 27th International Society for Music Information Retrieval Conference (ISMIR), 2026</p></details> |
-| **[Esoteric Language Models: A Family of Any-Order Diffusion LLMs](https://arxiv.org/abs/2506.01928v5)** | 2026-08-05 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation](https://arxiv.org/abs/2608.24674v1)** | 2026-08-25 |  |
 | **[Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers](https://arxiv.org/abs/2608.21229v1)** | 2026-08-21 |  |
 | **[STS: Efficient Sparse Attention with Speculative Token Sparsity](https://arxiv.org/abs/2605.15508v3)** | 2026-08-21 | 14 pages, 12 figures |
 | **[Learning how to Forget: Fine-tuning for Long-Context Sparse Attention](https://arxiv.org/abs/2608.19920v1)** | 2026-08-20 | 39 pages, no figures |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Efficient Audio-Visual Generation via Synchrony-Aware Cross-Modal Sparse Attention](https://arxiv.org/abs/2608.15522v1)** | 2026-08-16 |  |
 | **[Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off](https://arxiv.org/abs/2608.15459v1)** | 2026-08-16 | <details><summary>53 pa...</summary><p>53 pages, 8 figures, 16 tables. Code and analysis artifacts: https://github.com/Nixon-H/not-all-attention-is-equal</p></details> |
 | **[SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://arxiv.org/abs/2607.03612v2)** | 2026-08-13 | <details><summary>ECCV ...</summary><p>ECCV 2026. Updated related work</p></details> |
-| **[SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention](https://arxiv.org/abs/2608.12780v1)** | 2026-08-13 |  |
 
