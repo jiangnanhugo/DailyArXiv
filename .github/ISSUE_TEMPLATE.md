@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v3)** | 2026-08-28 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
+| **[Trajectory-Level Speculative Decoding for Diffusion Language Models](https://arxiv.org/abs/2608.27514v1)** | 2026-08-27 |  |
 | **[Forward-Free Diffusion Language Models with BPTT-Free Looped Refinement](https://arxiv.org/abs/2606.08357v2)** | 2026-08-27 |  |
 | **[Survival-Guided Length Control for Efficient Diffusion Language Models](https://arxiv.org/abs/2608.26374v1)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference)</p></details> |
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[CAI-DLLM: Convergence Aware Inference for Diffusion Language Models](https://arxiv.org/abs/2608.22646v1)** | 2026-08-23 |  |
 | **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
 | **[Semantic Reasoning Denoising: Correcting Language Model Reasoning with Semantic Operators](https://arxiv.org/abs/2608.22090v1)** | 2026-08-22 |  |
-| **[Syntax-Guided Diffusion Language Models with User-Integrated Personalization](https://arxiv.org/abs/2510.01028v2)** | 2026-08-22 |  |
-| **[Adaptive Test-Time Compute Allocation for Block Diffusion Language Models in Complex Reasoning](https://arxiv.org/abs/2602.09555v3)** | 2026-08-22 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners](https://arxiv.org/abs/2606.29150v2)** | 2026-08-28 |  |
+| **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v3)** | 2026-08-28 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
 | **[The Attribution Contract for Generative Language Models](https://arxiv.org/abs/2605.23080v3)** | 2026-08-26 | Preprint, 15 pages |
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
 | **[DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models](https://arxiv.org/abs/2608.25428v1)** | 2026-08-26 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity](https://arxiv.org/abs/2608.13520v1)** | 2026-08-13 |  |
 | **[Masked diffusion LLMs can use EoS tokens for hidden reasoning](https://arxiv.org/abs/2603.05197v2)** | 2026-08-13 |  |
 | **[From Interface to Inference: Eliciting Any-Order Inference from Any-Order Models](https://arxiv.org/abs/2607.26504v2)** | 2026-08-09 |  |
-| **[Rethinking Reasoning with MDLMs: Early Exits, Post-hoc Reasoning, and Beyond](https://arxiv.org/abs/2510.19990v2)** | 2026-08-08 | <details><summary>COLM ...</summary><p>COLM 2026 Camera Ready</p></details> |
-| **[Commitment Before Realization: When Classifier-Free Guidance Becomes Unnecessary in Masked Diffusion Language Models](https://arxiv.org/abs/2608.08082v1)** | 2026-08-08 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,10 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trust the Mass: Forced Weights in KV-Cache Eviction](https://arxiv.org/abs/2608.25230v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages; revised wording in 2.3 for increased accuracy (main results unchanged)</p></details> |
 | **[EditaLive! Unified Character Video Editing for Live Streaming](https://arxiv.org/abs/2608.27123v1)** | 2026-08-27 |  |
 | **[ClusterAttention: A training-free speedup of bidirectional attention](https://arxiv.org/abs/2608.26965v1)** | 2026-08-27 | 18 pages, 3 figures |
 | **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v3)** | 2026-08-26 |  |
-| **[Trust the Mass: Forced Weights in KV-Cache Eviction](https://arxiv.org/abs/2608.25230v1)** | 2026-08-25 |  |
 | **[TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation](https://arxiv.org/abs/2608.24674v1)** | 2026-08-25 |  |
 | **[Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers](https://arxiv.org/abs/2608.21229v1)** | 2026-08-21 |  |
 | **[STS: Efficient Sparse Attention with Speculative Token Sparsity](https://arxiv.org/abs/2605.15508v3)** | 2026-08-21 | 14 pages, 12 figures |
