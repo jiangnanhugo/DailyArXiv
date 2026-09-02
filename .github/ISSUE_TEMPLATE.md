@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry](https://arxiv.org/abs/2609.00873v1)** | 2026-09-01 | <details><summary>18 pa...</summary><p>18 pages. EMNLP 2026 (Findings)</p></details> |
+| **[Decoding Strategies for Diffusion-Based ASR: A Systematic Evaluation of Confidence-Based Thresholding](https://arxiv.org/abs/2605.29613v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
+| **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. Code: https://github.com/OSSS-KU/BiCache</p></details> |
+| **[Beyond Token Positions: Safety Alignment Across Denoising Steps in Diffusion Language Models](https://arxiv.org/abs/2609.00495v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 | **[CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models](https://arxiv.org/abs/2608.30922v1)** | 2026-08-31 | EMNLP 2026 Findings |
 | **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v3)** | 2026-08-31 |  |
 | **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532v1)** | 2026-08-31 |  |
@@ -18,19 +22,17 @@ labels: documentation
 | **[Forward-Free Diffusion Language Models with BPTT-Free Looped Refinement](https://arxiv.org/abs/2606.08357v2)** | 2026-08-27 |  |
 | **[Survival-Guided Length Control for Efficient Diffusion Language Models](https://arxiv.org/abs/2608.26374v1)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference)</p></details> |
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
-| **[Prefix-Denoising Consistency: Test-Time Verification for Diffusion Language Models](https://arxiv.org/abs/2608.25311v1)** | 2026-08-26 |  |
-| **[Don't Commit Alone: Joint Token Commitment in Diffusion Language Models](https://arxiv.org/abs/2607.04469v2)** | 2026-08-24 |  |
-| **[Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware](https://arxiv.org/abs/2608.23807v1)** | 2026-08-24 |  |
-| **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](https://arxiv.org/abs/2606.29150v3)** | 2026-09-01 |  |
+| **[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](https://arxiv.org/abs/2506.19935v2)** | 2026-09-01 | <details><summary>ICML ...</summary><p>ICML 2026 Oral Presentation; updated to the camera-ready version</p></details> |
+| **[Elite-Weighted Supervised Fine-tuning for Goal-Directed Molecular Optimization](https://arxiv.org/abs/2609.00189v1)** | 2026-08-31 |  |
 | **[CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models](https://arxiv.org/abs/2608.30922v1)** | 2026-08-31 | EMNLP 2026 Findings |
 | **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v3)** | 2026-08-31 |  |
 | **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532v1)** | 2026-08-31 |  |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v5)** | 2026-08-31 | <details><summary>This ...</summary><p>This Paper has been accepted for publication at EMNLP 2026</p></details> |
-| **[Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners](https://arxiv.org/abs/2606.29150v2)** | 2026-08-28 |  |
 | **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v3)** | 2026-08-28 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
 | **[The Attribution Contract for Generative Language Models](https://arxiv.org/abs/2605.23080v3)** | 2026-08-26 | Preprint, 15 pages |
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
 | **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
 | **[Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2026</p></details> |
-| **[$x$-Prediction Flow: Efficient Continuous Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2606.29066v2)** | 2026-08-17 | under review |
-| **[Solvable Sokoban Without a Solver via Diffusion](https://arxiv.org/abs/2608.15958v1)** | 2026-08-16 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
