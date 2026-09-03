@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v4)** | 2026-09-02 | <details><summary>Publi...</summary><p>Published at EMNLP 2026 (Main). Code: https://github.com/chen-hao-chao/mdm-prime-v2</p></details> |
+| **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
+| **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v4)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. Code: https://github.com/OSSS-KU/BiCache</p></details> |
+| **[DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/abs/2506.00290v2)** | 2026-09-02 |  |
+| **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v3)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages; Accepted at COLM 2026</p></details> |
+| **[Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models](https://arxiv.org/abs/2609.02108v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main Conference)</p></details> |
+| **[Covert Multi-bit LLM Watermarking: An Information Theory and Coding Approach](https://arxiv.org/abs/2605.16709v2)** | 2026-09-02 |  |
 | **[Membership Inference in Fine-tuned Diffusion Language Models via Token-level Memorization Asymmetry](https://arxiv.org/abs/2609.00873v1)** | 2026-09-01 | <details><summary>18 pa...</summary><p>18 pages. EMNLP 2026 (Findings)</p></details> |
 | **[Decoding Strategies for Diffusion-Based ASR: A Systematic Evaluation of Confidence-Based Thresholding](https://arxiv.org/abs/2605.29613v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
-| **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. Code: https://github.com/OSSS-KU/BiCache</p></details> |
 | **[Beyond Token Positions: Safety Alignment Across Denoising Steps in Diffusion Language Models](https://arxiv.org/abs/2609.00495v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 | **[CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models](https://arxiv.org/abs/2608.30922v1)** | 2026-08-31 | EMNLP 2026 Findings |
 | **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v3)** | 2026-08-31 |  |
 | **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532v1)** | 2026-08-31 |  |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v5)** | 2026-08-31 | <details><summary>This ...</summary><p>This Paper has been accepted for publication at EMNLP 2026</p></details> |
 | **[Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models](https://arxiv.org/abs/2606.10537v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2026 Main Conference</p></details> |
-| **[DIP: Dynamic In-Context Planner For Diffusion Language Models](https://arxiv.org/abs/2601.03199v2)** | 2026-08-29 | EMNLP Findings 2026 |
-| **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v3)** | 2026-08-28 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
-| **[Trajectory-Level Speculative Decoding for Diffusion Language Models](https://arxiv.org/abs/2608.27514v1)** | 2026-08-27 |  |
-| **[Forward-Free Diffusion Language Models with BPTT-Free Looped Refinement](https://arxiv.org/abs/2606.08357v2)** | 2026-08-27 |  |
-| **[Survival-Guided Length Control for Efficient Diffusion Language Models](https://arxiv.org/abs/2608.26374v1)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference)</p></details> |
-| **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v4)** | 2026-09-02 | <details><summary>Publi...</summary><p>Published at EMNLP 2026 (Main). Code: https://github.com/chen-hao-chao/mdm-prime-v2</p></details> |
+| **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
+| **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v3)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages; Accepted at COLM 2026</p></details> |
 | **[Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](https://arxiv.org/abs/2606.29150v3)** | 2026-09-01 |  |
 | **[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](https://arxiv.org/abs/2506.19935v2)** | 2026-09-01 | <details><summary>ICML ...</summary><p>ICML 2026 Oral Presentation; updated to the camera-ready version</p></details> |
 | **[Elite-Weighted Supervised Fine-tuning for Goal-Directed Molecular Optimization](https://arxiv.org/abs/2609.00189v1)** | 2026-08-31 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
 | **[DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models](https://arxiv.org/abs/2608.25428v1)** | 2026-08-26 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
 | **[Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware](https://arxiv.org/abs/2608.23807v1)** | 2026-08-24 |  |
-| **[Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models](https://arxiv.org/abs/2608.05687v2)** | 2026-08-24 |  |
-| **[Length-Adaptive Decoding for Masked Diffusion Machine Translation](https://arxiv.org/abs/2608.22274v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026. 22 pages, 7 figures. Code: https://github.com/Entropy-Valley/Entropy-Valley ; dataset and model: https://huggingface.co/collections/YanZhanPKU/entropy-valley</p></details> |
-| **[Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](https://arxiv.org/abs/2608.19119v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to NeurIPS 2026</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737v1)** | 2026-09-02 |  |
+| **[CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing](https://arxiv.org/abs/2609.01925v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 16 pages, 7 figures, 12 tables</p></details> |
 | **[On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320v1)** | 2026-08-31 |  |
 | **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v2)** | 2026-08-31 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
 | **[A.X K2 Technical Report](https://arxiv.org/abs/2608.30181v1)** | 2026-08-31 | <details><summary>https...</summary><p>https://huggingface.co/skt/A.X-K2</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[STS: Efficient Sparse Attention with Speculative Token Sparsity](https://arxiv.org/abs/2605.15508v3)** | 2026-08-21 | 14 pages, 12 figures |
 | **[Learning how to Forget: Fine-tuning for Long-Context Sparse Attention](https://arxiv.org/abs/2608.19920v1)** | 2026-08-20 | 39 pages, no figures |
 | **[SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis](https://arxiv.org/abs/2608.10519v2)** | 2026-08-20 |  |
-| **[FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving](https://arxiv.org/abs/2608.19758v1)** | 2026-08-20 | FlashPrefill V2 |
-| **[BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers](https://arxiv.org/abs/2608.20427v1)** | 2026-08-19 |  |
 
