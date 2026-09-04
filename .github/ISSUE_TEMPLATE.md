@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes](https://arxiv.org/abs/2609.03796v1)** | 2026-09-03 |  |
 | **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v4)** | 2026-09-02 | <details><summary>Publi...</summary><p>Published at EMNLP 2026 (Main). Code: https://github.com/chen-hao-chao/mdm-prime-v2</p></details> |
 | **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
 | **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v4)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. Code: https://github.com/OSSS-KU/BiCache</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829v3)** | 2026-08-31 |  |
 | **[DiffPDE: Masked Diffusion Language Models as PDE Solver](https://arxiv.org/abs/2608.30532v1)** | 2026-08-31 |  |
 | **[Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758v5)** | 2026-08-31 | <details><summary>This ...</summary><p>This Paper has been accepted for publication at EMNLP 2026</p></details> |
-| **[Prefilling-dLLM: Predictive Prefilling for Long-Context Inference in Diffusion Language Models](https://arxiv.org/abs/2606.10537v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2026 Main Conference</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fill My Mirror: Geometry-Constrained Mirror Inpainting](https://arxiv.org/abs/2609.03740v1)** | 2026-09-03 |  |
+| **[EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation](https://arxiv.org/abs/2609.03522v1)** | 2026-09-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 3 tables</p></details> |
 | **[MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Scaling of Diffusion Language Models](https://arxiv.org/abs/2603.16077v4)** | 2026-09-02 | <details><summary>Publi...</summary><p>Published at EMNLP 2026 (Main). Code: https://github.com/chen-hao-chao/mdm-prime-v2</p></details> |
 | **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
 | **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v3)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages; Accepted at COLM 2026</p></details> |
@@ -39,18 +41,16 @@ labels: documentation
 | **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v3)** | 2026-08-28 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
 | **[The Attribution Contract for Generative Language Models](https://arxiv.org/abs/2605.23080v3)** | 2026-08-26 | Preprint, 15 pages |
 | **[Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling](https://arxiv.org/abs/2608.25505v1)** | 2026-08-26 |  |
-| **[DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models](https://arxiv.org/abs/2608.25428v1)** | 2026-08-26 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
-| **[Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware](https://arxiv.org/abs/2608.23807v1)** | 2026-08-24 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095v2)** | 2026-09-03 |  |
 | **[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168v2)** | 2026-08-12 |  |
 | **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
 | **[Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling](https://arxiv.org/abs/2602.08058v4)** | 2026-07-28 | <details><summary>15 pa...</summary><p>15 pages, accepted to Robotics: Science and Systems (RSS) 2026</p></details> |
 | **[Higher-Order Hit-&-Run Samplers for Linearly Constrained Densities](https://arxiv.org/abs/2602.14616v2)** | 2026-07-16 | Accepted at UAI'26 |
 | **[Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer](https://arxiv.org/abs/2607.05937v1)** | 2026-07-07 |  |
-| **[SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095v1)** | 2026-06-30 |  |
 | **[Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2602.08557v2)** | 2026-06-30 |  |
 | **[Constrained Diffusion Models with Primal-Dual Inference](https://arxiv.org/abs/2606.17192v1)** | 2026-06-15 |  |
 | **[DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](https://arxiv.org/abs/2606.15359v1)** | 2026-06-13 |  |
