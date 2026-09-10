@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
 | **[Decomposition-Guided Diffusion Language Models for Inertial Confinement Fusion Prediction](https://arxiv.org/abs/2609.07756v1)** | 2026-09-07 |  |
 | **[In-Place Instruction Following in Diffusion Language Models](https://arxiv.org/abs/2609.07160v1)** | 2026-09-07 |  |
 | **[Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2602.02600v4)** | 2026-09-06 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2026 Main Conference</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/abs/2506.00290v2)** | 2026-09-02 |  |
 | **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v3)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages; Accepted at COLM 2026</p></details> |
 | **[Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models](https://arxiv.org/abs/2609.02108v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main Conference)</p></details> |
-| **[Covert Multi-bit LLM Watermarking: An Information Theory and Coding Approach](https://arxiv.org/abs/2605.16709v2)** | 2026-09-02 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,10 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VestigeKV: The NoPE-MLA KV Cache Carries Its Own Sparse-Attention Signal in a Vestigial Branch](https://arxiv.org/abs/2609.03949v2)** | 2026-09-09 | 18 pages, 5 figures |
+| **[TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation](https://arxiv.org/abs/2608.24674v3)** | 2026-09-09 |  |
+| **[AMEND: Audited Margins Enable Nonblocking Drops in GPU-PIM LLM Decoding](https://arxiv.org/abs/2609.09823v1)** | 2026-09-09 | <details><summary>17 pa...</summary><p>17 pages, including appendices and references</p></details> |
 | **[Sample-Guided Exact Top-K Selection for Long-Context Sparse Attention](https://arxiv.org/abs/2609.08450v1)** | 2026-09-08 | <details><summary>28 pa...</summary><p>28 pages. Code: https://github.com/Tencent/hpc-ops</p></details> |
-| **[TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation](https://arxiv.org/abs/2608.24674v2)** | 2026-09-07 |  |
 | **[RouteRelay: Event-Triggered Cross-Layer Route Reuse for Efficient Dynamic Sparse Attention](https://arxiv.org/abs/2609.07306v1)** | 2026-09-07 |  |
 | **[CEDAR: Error-Bounded Residual Routing for Efficient Long-Context Attention](https://arxiv.org/abs/2609.07237v1)** | 2026-09-07 |  |
 | **[A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex](https://arxiv.org/abs/2608.11173v2)** | 2026-09-06 | 33 pages, 10 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[RouteSparse: Input-Conditional Pattern Routing for Budgeted Long-Context Prefilling](https://arxiv.org/abs/2608.29058v1)** | 2026-08-29 |  |
 | **[Trust the Mass: Forced Weights in KV-Cache Eviction](https://arxiv.org/abs/2608.25230v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages; revised wording in 2.3 for increased accuracy (main results unchanged)</p></details> |
 | **[EditaLive! Unified Character Video Editing for Live Streaming](https://arxiv.org/abs/2608.27123v1)** | 2026-08-27 |  |
-| **[ClusterAttention: A training-free speedup of bidirectional attention](https://arxiv.org/abs/2608.26965v1)** | 2026-08-27 | 18 pages, 3 figures |
-| **[Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention](https://arxiv.org/abs/2602.04711v3)** | 2026-08-26 |  |
 
