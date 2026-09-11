@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2026
+title: Latest 15 Papers - September 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAC-Copula: Quality-Preserving Watermarking for Diffusion Language Models via Smooth Correlated Gumbel Fields](https://arxiv.org/abs/2608.20839v2)** | 2026-09-10 | <details><summary>24 pa...</summary><p>24 pages, 14 figures. Accepted to Findings of EMNLP 2026</p></details> |
+| **[Continuous Diffusion Scales Competitively with Discrete Diffusion for Language](https://arxiv.org/abs/2605.18530v2)** | 2026-09-09 |  |
 | **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
 | **[Decomposition-Guided Diffusion Language Models for Inertial Confinement Fusion Prediction](https://arxiv.org/abs/2609.07756v1)** | 2026-09-07 |  |
 | **[In-Place Instruction Following in Diffusion Language Models](https://arxiv.org/abs/2609.07160v1)** | 2026-09-07 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
 | **[Enabling KV Caching of Shared Prefix for Diffusion Language Models](https://arxiv.org/abs/2606.07571v4)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. Code: https://github.com/OSSS-KU/BiCache</p></details> |
 | **[DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/abs/2506.00290v2)** | 2026-09-02 |  |
-| **[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/abs/2607.19686v3)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages; Accepted at COLM 2026</p></details> |
-| **[Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models](https://arxiv.org/abs/2609.02108v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main Conference)</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis](https://arxiv.org/abs/2608.10519v3)** | 2026-09-10 | <details><summary>Proje...</summary><p>Project page: https://jigsaw0612.github.io/SparSTAR_project_page/</p></details> |
+| **[HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention](https://arxiv.org/abs/2603.28458v4)** | 2026-09-10 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
 | **[VestigeKV: The NoPE-MLA KV Cache Carries Its Own Sparse-Attention Signal in a Vestigial Branch](https://arxiv.org/abs/2609.03949v2)** | 2026-09-09 | 18 pages, 5 figures |
 | **[TurboT2VA: Fast Large-Scale Text-to-Video-Audio Generation via Score-Regularized Consistency Distillation](https://arxiv.org/abs/2608.24674v3)** | 2026-09-09 |  |
 | **[AMEND: Audited Margins Enable Nonblocking Drops in GPU-PIM LLM Decoding](https://arxiv.org/abs/2609.09823v1)** | 2026-09-09 | <details><summary>17 pa...</summary><p>17 pages, including appendices and references</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference](https://arxiv.org/abs/2512.16391v2)** | 2026-08-31 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 3 tables and 1 algorithm</p></details> |
 | **[A.X K2 Technical Report](https://arxiv.org/abs/2608.30181v1)** | 2026-08-31 | <details><summary>https...</summary><p>https://huggingface.co/skt/A.X-K2</p></details> |
 | **[RouteSparse: Input-Conditional Pattern Routing for Budgeted Long-Context Prefilling](https://arxiv.org/abs/2608.29058v1)** | 2026-08-29 |  |
-| **[Trust the Mass: Forced Weights in KV-Cache Eviction](https://arxiv.org/abs/2608.25230v2)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages; revised wording in 2.3 for increased accuracy (main results unchanged)</p></details> |
-| **[EditaLive! Unified Character Video Editing for Live Streaming](https://arxiv.org/abs/2608.27123v1)** | 2026-08-27 |  |
 
