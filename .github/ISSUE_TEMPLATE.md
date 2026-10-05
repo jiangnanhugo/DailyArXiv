@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665v1)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main (Oral)</p></details> |
+| **[Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation](https://arxiv.org/abs/2610.03326v1)** | 2026-10-02 |  |
+| **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** | 2026-10-02 |  |
+| **[Large Language Continuous Diffusion Models](https://arxiv.org/abs/2610.02665v1)** | 2026-10-02 |  |
+| **[Context-Tower Conversion Preserves Generation While Freezing Retains Knowledge: Low-Budget AR-to-Diffusion Conversion of MoE LLMs](https://arxiv.org/abs/2610.02657v1)** | 2026-10-02 |  |
 | **[Hierarchical Continuous Diffusion Language Models](https://arxiv.org/abs/2610.02193v1)** | 2026-10-01 |  |
 | **[ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models](https://arxiv.org/abs/2610.01296v1)** | 2026-10-01 |  |
 | **[Blackboard Intelligence Can Surpass Autoregressive on Globally Constrained Problems](https://arxiv.org/abs/2609.38806v2)** | 2026-10-01 | 32 pages, 9 figures |
@@ -17,15 +22,12 @@ labels: documentation
 | **[Clock Diffusion: Efficient Semi-Autoregressive Continuous Diffusion Language Models](https://arxiv.org/abs/2610.00894v1)** | 2026-10-01 |  |
 | **[Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models](https://arxiv.org/abs/2610.00661v1)** | 2026-09-30 | <details><summary>40 pa...</summary><p>40 pages, 12 figures, 2 tables. The first two authors contributed equally</p></details> |
 | **[Distribution Matching Distillation for Continuous Diffusion Language Models](https://arxiv.org/abs/2609.40235v1)** | 2026-09-30 |  |
-| **[Fork-dLLM: Avoiding the Flexibility Trap in Diffusion Language Models](https://arxiv.org/abs/2609.39859v1)** | 2026-09-30 |  |
-| **[Self-Repulsive Sampling for Diffusion Language Models](https://arxiv.org/abs/2609.39560v1)** | 2026-09-30 |  |
-| **[A Heckler in the Hidden State: Correctness Signals in Diffusion Language Models](https://arxiv.org/abs/2609.36783v2)** | 2026-09-30 |  |
-| **[A Ticket from Marginals to Joints: Coupled-Noise Distillation for One-Step Block Generation in Diffusion Language Models](https://arxiv.org/abs/2609.06324v4)** | 2026-09-30 |  |
-| **[A Dominant Self-Conditioning Direction Drives Repetition in Unconditional Continuous Diffusion Language Models](https://arxiv.org/abs/2607.00588v2)** | 2026-09-30 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665v1)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main (Oral)</p></details> |
+| **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** | 2026-10-02 |  |
 | **[Fixed-point neural samplers on discrete spaces](https://arxiv.org/abs/2610.01739v1)** | 2026-10-01 |  |
 | **[The Confidence Shortcut: A Reasoning Failure Mode of Masked Diffusion Models](https://arxiv.org/abs/2605.29123v2)** | 2026-10-01 |  |
 | **[Blackboard Intelligence Can Surpass Autoregressive on Globally Constrained Problems](https://arxiv.org/abs/2609.38806v2)** | 2026-10-01 | 32 pages, 9 figures |
@@ -39,17 +41,16 @@ labels: documentation
 | **[E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://arxiv.org/abs/2609.37533v1)** | 2026-09-29 |  |
 | **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 | **[One Readout, Many Repairs: Diffusion-Guided Hierarchical Search for Tool-Agent Repair](https://arxiv.org/abs/2609.34879v2)** | 2026-09-29 |  |
-| **[Reliable Parallel Decoding in Masked Diffusion Language Models](https://arxiv.org/abs/2609.36452v1)** | 2026-09-29 |  |
-| **[FastGuide: Accelerating Reward Guidance for Diffusion Large Language Models](https://arxiv.org/abs/2609.36202v1)** | 2026-09-28 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Distributional Training for One-Step Visual Generation](https://arxiv.org/abs/2609.35763v3)** | 2026-10-01 | <details><summary>Proje...</summary><p>Project page: https://shihaoyang0423.github.io/MGFlow-website/</p></details> |
+| **[Unifying Distributional Training for One-Step Visual Generation](https://arxiv.org/abs/2609.35763v4)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project page: https://shihaoyang0423.github.io/MGFlow-website/</p></details> |
+| **[Penalized Nonreversible Langevin for Constrained Sampling](https://arxiv.org/abs/2609.25381v2)** | 2026-10-02 | 68 pages, 8 figures |
+| **[MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching](https://arxiv.org/abs/2610.02260v1)** | 2026-09-30 |  |
 | **[Twist, Don't Tilt: Trajectory-Exact Constrained Decoding for Masked Diffusion Models](https://arxiv.org/abs/2609.35609v1)** | 2026-09-28 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
 | **[Notes on Generative Modeling for Feedback Control and Planning](https://arxiv.org/abs/2609.33164v1)** | 2026-09-27 |  |
 | **[Constraints Are Graphs, Not Chains: Exact Decoding for Diffusion Language Models](https://arxiv.org/abs/2609.32900v1)** | 2026-09-26 |  |
-| **[Penalized Nonreversible Langevin for Constrained Sampling](https://arxiv.org/abs/2609.25381v1)** | 2026-09-21 | <details><summary>There...</summary><p>There are 68 pages and has 8 figures</p></details> |
 | **[VAST: V2X/Dynamic Map-Aware Autonomous Driving Systems Validation Toolchain](https://arxiv.org/abs/2609.19681v1)** | 2026-09-17 |  |
 | **[SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling](https://arxiv.org/abs/2607.00095v2)** | 2026-09-03 |  |
 | **[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168v2)** | 2026-08-12 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Is Domain Adaptation Always Helpful? A Frozen-Backbone Study of Cross-Domain Sentiment Transfer](https://arxiv.org/abs/2607.05937v1)** | 2026-07-07 |  |
 | **[Combined Constrained Sampling and Reinforcement Learning for Robotic Manipulation](https://arxiv.org/abs/2602.08557v2)** | 2026-06-30 |  |
 | **[Constrained Diffusion Models with Primal-Dual Inference](https://arxiv.org/abs/2606.17192v1)** | 2026-06-15 |  |
-| **[DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](https://arxiv.org/abs/2606.15359v1)** | 2026-06-13 |  |
 
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
