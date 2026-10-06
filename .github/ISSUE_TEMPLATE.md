@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,33 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representation-Space MMD for Diffusion Language Models](https://arxiv.org/abs/2610.06648v1)** | 2026-10-05 | <details><summary>Tech ...</summary><p>Tech Report. Code: https://github.com/yandex-research/mmd-dlm</p></details> |
+| **[Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering](https://arxiv.org/abs/2610.05894v1)** | 2026-10-05 |  |
+| **[Context-Tower Conversion Preserves Generation While Freezing Retains Knowledge: Low-Budget AR-to-Diffusion Conversion of MoE LLMs](https://arxiv.org/abs/2610.02657v2)** | 2026-10-05 | <details><summary>v2: a...</summary><p>v2: author order updated</p></details> |
+| **[Towards Unbiased On-Policy Distillation for Block Diffusion Language Models](https://arxiv.org/abs/2610.05373v1)** | 2026-10-04 |  |
+| **[EPIC: Efficient and Parallel Inference under CFG Constraints for Diffusion Language Models](https://arxiv.org/abs/2606.00722v2)** | 2026-10-04 |  |
+| **[Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models](https://arxiv.org/abs/2610.05125v1)** | 2026-10-04 |  |
+| **[SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2610.04875v1)** | 2026-10-04 |  |
+| **[From Table to Cell: Attention for Better Reasoning with TABALIGN](https://arxiv.org/abs/2605.14465v2)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Subliminal Clocks: Latent Time Modelling in Diffusion Language Models](https://arxiv.org/abs/2607.01774v3)** | 2026-10-03 | <details><summary>Equal...</summary><p>Equal contribution: Thomas Vaitses Fontanari and Simone Petruzzi. Accepted at EMNLP 2026</p></details> |
+| **[ALoDLM: Adaptively Looped Diffusion Language Models](https://arxiv.org/abs/2610.04198v1)** | 2026-10-03 |  |
 | **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665v1)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main (Oral)</p></details> |
 | **[Preserving Mathematical Reasoning in Compressed Diffusion Language Models via Trajectory-Aware Low-Rank Approximation](https://arxiv.org/abs/2610.03326v1)** | 2026-10-02 |  |
 | **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** | 2026-10-02 |  |
+| **[All you need to break LLMs are Black-Box, Adapting, Efficient, Transferable, Harmful, Applicable ... Attacks](https://arxiv.org/abs/2606.03647v2)** | 2026-10-02 |  |
 | **[Large Language Continuous Diffusion Models](https://arxiv.org/abs/2610.02665v1)** | 2026-10-02 |  |
-| **[Context-Tower Conversion Preserves Generation While Freezing Retains Knowledge: Low-Budget AR-to-Diffusion Conversion of MoE LLMs](https://arxiv.org/abs/2610.02657v1)** | 2026-10-02 |  |
-| **[Hierarchical Continuous Diffusion Language Models](https://arxiv.org/abs/2610.02193v1)** | 2026-10-01 |  |
-| **[ITC-MoE: Importance-guided Token-aware Compression for MoE Diffusion Language Models](https://arxiv.org/abs/2610.01296v1)** | 2026-10-01 |  |
-| **[Blackboard Intelligence Can Surpass Autoregressive on Globally Constrained Problems](https://arxiv.org/abs/2609.38806v2)** | 2026-10-01 | 32 pages, 9 figures |
-| **[Know When to Hold 'em: Correct-Token Retention in Uniform-State Diffusion Language Models](https://arxiv.org/abs/2610.01275v1)** | 2026-10-01 | 38 pages, 8 figures |
-| **[Temporally-Resolved Token Attribution Reveals the Generation Dynamics of Diffusion Language Models](https://arxiv.org/abs/2610.01177v1)** | 2026-10-01 |  |
-| **[Adaptive Steering and Remasking for Safe Generation in Diffusion Language Models](https://arxiv.org/abs/2605.13043v2)** | 2026-10-01 | 23 pages, 5 figures |
-| **[Scaling and Distilling Text Embeddings for Better Diffusibility](https://arxiv.org/abs/2610.01016v1)** | 2026-10-01 | <details><summary>28 pa...</summary><p>28 pages, 12 figures. Code is available at https://github.com/la0ka1/diffusing-scaled-text-embeddings</p></details> |
-| **[Clock Diffusion: Efficient Semi-Autoregressive Continuous Diffusion Language Models](https://arxiv.org/abs/2610.00894v1)** | 2026-10-01 |  |
-| **[Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models](https://arxiv.org/abs/2610.00661v1)** | 2026-09-30 | <details><summary>40 pa...</summary><p>40 pages, 12 figures, 2 tables. The first two authors contributed equally</p></details> |
-| **[Distribution Matching Distillation for Continuous Diffusion Language Models](https://arxiv.org/abs/2609.40235v1)** | 2026-09-30 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering](https://arxiv.org/abs/2610.05894v1)** | 2026-10-05 |  |
+| **[DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design](https://arxiv.org/abs/2610.05808v1)** | 2026-10-05 |  |
+| **[Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection](https://arxiv.org/abs/2607.15527v2)** | 2026-10-04 |  |
+| **[Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models](https://arxiv.org/abs/2610.05125v1)** | 2026-10-04 |  |
+| **[SUAVE: Unified Video-Action Models via Masked Diffusion](https://arxiv.org/abs/2610.04009v1)** | 2026-10-02 | Preprint version |
 | **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665v1)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main (Oral)</p></details> |
 | **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** | 2026-10-02 |  |
+| **[All you need to break LLMs are Black-Box, Adapting, Efficient, Transferable, Harmful, Applicable ... Attacks](https://arxiv.org/abs/2606.03647v2)** | 2026-10-02 |  |
 | **[Fixed-point neural samplers on discrete spaces](https://arxiv.org/abs/2610.01739v1)** | 2026-10-01 |  |
 | **[The Confidence Shortcut: A Reasoning Failure Mode of Masked Diffusion Models](https://arxiv.org/abs/2605.29123v2)** | 2026-10-01 |  |
 | **[Blackboard Intelligence Can Surpass Autoregressive on Globally Constrained Problems](https://arxiv.org/abs/2609.38806v2)** | 2026-10-01 | 32 pages, 9 figures |
@@ -35,12 +41,6 @@ labels: documentation
 | **[Two Clocks in Diffusion MLLMs: When Answers Stabilize Before Rationales Unfold](https://arxiv.org/abs/2610.00953v1)** | 2026-10-01 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on BeNTo (Beyond Next-Token Prediction - Diffusion & Flow Models for Next-Generation Decoding)</p></details> |
 | **[Fork-dLLM: Avoiding the Flexibility Trap in Diffusion Language Models](https://arxiv.org/abs/2609.39859v1)** | 2026-09-30 |  |
 | **[Self-Repulsive Sampling for Diffusion Language Models](https://arxiv.org/abs/2609.39560v1)** | 2026-09-30 |  |
-| **[CDMD: A Cross-Dataset Mixed-Type Diffusion Model for Tabular Data](https://arxiv.org/abs/2609.39124v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at BeNTo workshop (NeurIPS 2026)</p></details> |
-| **[Conditional Generation of Creative Chess Puzzles with Diffusion Models](https://arxiv.org/abs/2609.38577v1)** | 2026-09-29 |  |
-| **[On Trajectory-Aware Training for Masked Diffusion Language Models](https://arxiv.org/abs/2609.37974v1)** | 2026-09-29 |  |
-| **[E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://arxiv.org/abs/2609.37533v1)** | 2026-09-29 |  |
-| **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
-| **[One Readout, Many Repairs: Diffusion-Guided Hierarchical Search for Tool-Agent Repair](https://arxiv.org/abs/2609.34879v2)** | 2026-09-29 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](https://arxiv.org/abs/2610.06801v1)** | 2026-10-05 | 11 pages, 8 figures |
+| **[OVAL: Output-Aware Local Page Bases for KV Cache Retrieval](https://arxiv.org/abs/2610.06686v1)** | 2026-10-05 |  |
+| **[Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](https://arxiv.org/abs/2610.05416v1)** | 2026-10-04 |  |
+| **[More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding](https://arxiv.org/abs/2610.04753v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[LatentIndex: Cross-Layer Sharing with Layer-Specific Selection for Sparse Attention](https://arxiv.org/abs/2610.04635v1)** | 2026-10-03 | preprint |
+| **[On the Trade-off Between Information Loss and Generalization in Sparse Attention](https://arxiv.org/abs/2610.04424v1)** | 2026-10-03 | 24 pages |
+| **[Can Language Models Actually Retrieve In-Context? Drowning in Documents at Million Token Scale](https://arxiv.org/abs/2607.01538v2)** | 2026-10-03 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026</p></details> |
 | **[HHR: Hierarchical Hash Retrieval for Efficient LLM Generation](https://arxiv.org/abs/2610.01230v1)** | 2026-10-01 |  |
 | **[VASC: Value-Aware Sparse Attention with Cross-Layer Memory for Efficient 3D Reconstruction](https://arxiv.org/abs/2610.01013v1)** | 2026-10-01 | <details><summary>21 pa...</summary><p>21 pages, including references and appendices</p></details> |
 | **[CommunityKV: Efficient Long-Context Decoding via Graph Partitioning](https://arxiv.org/abs/2610.00418v1)** | 2026-09-30 |  |
@@ -72,11 +79,4 @@ labels: documentation
 | **[PARK: Accurate Block Retrieval for Sparse Attention in Video Diffusion Transformers](https://arxiv.org/abs/2609.38978v1)** | 2026-09-30 |  |
 | **[Scaling Parameter and Context in Attention: Native Sparse Attention from Mixture-of-Head](https://arxiv.org/abs/2609.38832v1)** | 2026-09-30 |  |
 | **[SparLeak: Privacy Leakage from Sparse Attention in LLM Inference on Shared GPUs](https://arxiv.org/abs/2609.38830v1)** | 2026-09-30 |  |
-| **[ClusterAttention: A training-free speedup of bidirectional attention](https://arxiv.org/abs/2608.26965v2)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, plus appendix. September update: Faster compensation kernel, fixed TabPFN-3 preprocessing and autocast scope (giving better accuracy and larger speedup), corrections in the error analysis and complexities, expanded comparison with similar work, revised the writing</p></details> |
-| **[Block Sparse Flash Attention](https://arxiv.org/abs/2512.07011v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 16 pages, 3 figures, 7 tables. Code: https://github.com/Danielohayon/Block-Sparse-Flash-Attention</p></details> |
-| **[Parameterized Stripe Attention for Efficient Video Generation](https://arxiv.org/abs/2609.37001v1)** | 2026-09-29 |  |
-| **[OmniTide: Co-Designing Algorithms and Systems for Efficient On-Device Omni-LLM Streaming](https://arxiv.org/abs/2609.34653v2)** | 2026-09-29 |  |
-| **[Efficient Agentic LLM Serving over SSD-based Sparse KV Storage](https://arxiv.org/abs/2609.36938v1)** | 2026-09-29 |  |
-| **[ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers](https://arxiv.org/abs/2609.35593v1)** | 2026-09-28 |  |
-| **[FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates](https://arxiv.org/abs/2609.29812v2)** | 2026-09-28 | 15 pages, 9 figures |
 
