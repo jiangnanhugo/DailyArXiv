@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Design Space of Continuous Diffusion Language Models](https://arxiv.org/abs/2610.13834v1)** | 2026-10-09 |  |
+| **[Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models](https://arxiv.org/abs/2610.00661v2)** | 2026-10-09 | <details><summary>40 pa...</summary><p>40 pages, 12 figures, 2 tables. The first two authors contributed equally</p></details> |
+| **[Forecasting Corpus-Sampling Disagreement in Masked Text Reconstruction](https://arxiv.org/abs/2610.12987v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages + Appendices</p></details> |
+| **[Rethinking the Roles of Diffusion and Decoding: Predictive-State Flows for Parallel Language Generation](https://arxiv.org/abs/2610.12898v1)** | 2026-10-09 |  |
+| **[One-Step Text Generation by Seq-Drifting](https://arxiv.org/abs/2610.12879v1)** | 2026-10-09 |  |
 | **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v2)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code available at https://github.com/roymiles/diffusion-stitching</p></details> |
 | **[Noise Your Prompt: Noising Conditioning Tokens in Continuous Diffusion Language Models](https://arxiv.org/abs/2610.09145v2)** | 2026-10-08 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
 | **[ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks](https://arxiv.org/abs/2609.29102v3)** | 2026-10-08 |  |
@@ -17,15 +22,13 @@ labels: documentation
 | **[Efficient Reasoning with Flow Language Models](https://arxiv.org/abs/2610.09416v1)** | 2026-10-07 |  |
 | **[Denoising Blocks, Not Tokens: Efficient Compressed Continuous Diffusion with Branching Token Realization](https://arxiv.org/abs/2610.09311v1)** | 2026-10-07 |  |
 | **[Decomposition-Guided Diffusion Language Models for Inertial Confinement Fusion Prediction](https://arxiv.org/abs/2609.07756v2)** | 2026-10-07 |  |
-| **[Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models](https://arxiv.org/abs/2605.10971v2)** | 2026-10-06 |  |
-| **[Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](https://arxiv.org/abs/2610.08738v1)** | 2026-10-06 | 27 pages, 10 figures |
-| **[Enhancing Diffusion Language Models with Autoregressive Post-Training Weights](https://arxiv.org/abs/2610.08108v1)** | 2026-10-06 |  |
-| **[SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2610.04875v2)** | 2026-10-06 |  |
-| **[Cross-Modality Controlled Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2508.14748v2)** | 2026-10-06 | <details><summary>Revis...</summary><p>Revised manuscript with updated references</p></details> |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Masked Diffusion Language Agents for Tool-Integrated Chemical Reasoning](https://arxiv.org/abs/2610.13330v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Forecasting Corpus-Sampling Disagreement in Masked Text Reconstruction](https://arxiv.org/abs/2610.12987v1)** | 2026-10-09 | <details><summary>12 pa...</summary><p>12 pages + Appendices</p></details> |
+| **[Transformer-Based Masked Diffusion Models Provably Learn Distributions with Latent Structure](https://arxiv.org/abs/2610.12544v1)** | 2026-10-08 |  |
 | **[DiffuPlex: Accelerating Full-Duplex Spoken Dialog Models via Rolling Masked Diffusion](https://arxiv.org/abs/2610.12214v1)** | 2026-10-08 | <details><summary>41 pa...</summary><p>41 pages, 11 figures, 18 tables. Preprint, under review. Project page: https://diffuplex.github.io/</p></details> |
 | **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v2)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code available at https://github.com/roymiles/diffusion-stitching</p></details> |
 | **[Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](https://arxiv.org/abs/2607.16204v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Dataset: https://huggingface.co/PatronusAI/world_model_corpus Training code: https://github.com/patronus-ai/mdlm_world_modeling</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Physics-aware Masked Diffusion-based Flood Simulation for Urban Fisheye Disaster Detection](https://arxiv.org/abs/2607.15527v2)** | 2026-10-04 |  |
 | **[Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models](https://arxiv.org/abs/2610.05125v1)** | 2026-10-04 |  |
 | **[Stabilizing language models under continual learning via condition-anchored distillation](https://arxiv.org/abs/2610.06940v1)** | 2026-10-03 |  |
-| **[SUAVE: Unified Video-Action Models via Masked Diffusion](https://arxiv.org/abs/2610.04009v1)** | 2026-10-02 | Preprint version |
-| **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665v1)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main (Oral)</p></details> |
-| **[Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS](https://arxiv.org/abs/2610.03320v1)** | 2026-10-02 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeltaLLM: Delta-Key Sparse Attention for Edge LLMs](https://arxiv.org/abs/2507.19608v2)** | 2026-10-09 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)</p></details> |
+| **[S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding](https://arxiv.org/abs/2610.13202v1)** | 2026-10-09 |  |
+| **[Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction](https://arxiv.org/abs/2610.12727v1)** | 2026-10-08 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, 22 tables</p></details> |
 | **[SPIN: Shadow Predictive Indexer for Sparse Attention](https://arxiv.org/abs/2610.09025v2)** | 2026-10-08 | <details><summary>12 pa...</summary><p>12 pages, 4 figures; corrected an author's name</p></details> |
 | **[Generative Adversarial Loops](https://arxiv.org/abs/2610.11458v1)** | 2026-10-08 |  |
 | **[BioBigBird: A Sparse Attention Model for Long-Range Dependency Processing in Biomedical Text](https://arxiv.org/abs/2610.11430v1)** | 2026-10-08 |  |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation](https://arxiv.org/abs/2610.08772v2)** | 2026-10-07 |  |
 | **[More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding](https://arxiv.org/abs/2610.04753v2)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[A Pipelined FPGA Architecture for Banded Sparse Matrix Dense Matrix Multiplication in Longformer](https://arxiv.org/abs/2610.07301v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at ICECS 2026</p></details> |
-| **[MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers](https://arxiv.org/abs/2610.06801v1)** | 2026-10-05 | 11 pages, 8 figures |
-| **[OVAL: Output-Aware Local Page Bases for KV Cache Retrieval](https://arxiv.org/abs/2610.06686v1)** | 2026-10-05 |  |
-| **[Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](https://arxiv.org/abs/2610.05416v1)** | 2026-10-04 |  |
 
