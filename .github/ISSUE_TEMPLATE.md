@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2026
+title: Latest 15 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v3)** | 2026-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code available at https://github.com/roymiles/diffusion-stitching</p></details> |
+| **[LED: Improving Masked Diffusion Language Models by Lookahead Editing](https://arxiv.org/abs/2610.23122v1)** | 2026-10-16 | 10 pages, 5 figures |
+| **[TimpaTeks: Automatic In-place Text Sequence Modification via Diffusion Language Model Steering](https://arxiv.org/abs/2606.08408v2)** | 2026-10-16 | 16 pages |
+| **[On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction](https://arxiv.org/abs/2610.22543v1)** | 2026-10-15 | <details><summary>Prepr...</summary><p>Preprint, project page: https://eliezer318.github.io/SPOT-dLLM/</p></details> |
 | **[Designing Transformers for Continuous Diffusion Language Models](https://arxiv.org/abs/2610.22330v1)** | 2026-10-15 |  |
 | **[Multi-Target Few-Shot Prompting with Diffusion Language Models](https://arxiv.org/abs/2610.22294v1)** | 2026-10-15 |  |
 | **[Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models](https://arxiv.org/abs/2608.08086v3)** | 2026-10-15 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 12 tables; revised manuscript, updated author list and affiliations</p></details> |
@@ -15,17 +19,15 @@ labels: documentation
 | **[Diffusion Language Models as Open Quantum Systems](https://arxiv.org/abs/2610.21672v1)** | 2026-10-15 | 48 pages, 8 figures |
 | **[Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation](https://arxiv.org/abs/2610.20818v1)** | 2026-10-14 | <details><summary>47 pa...</summary><p>47 pages, 12 figures, 22 tables</p></details> |
 | **[On-Policy Residual Learning for Diffusion Language Models](https://arxiv.org/abs/2610.20687v1)** | 2026-10-14 |  |
+| **[Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](https://arxiv.org/abs/2610.22400v1)** | 2026-10-14 |  |
 | **[LEAP: Unlocking dLLM Parallelism via Lookahead Early-Convergence Token Detection](https://arxiv.org/abs/2605.10980v2)** | 2026-10-14 |  |
 | **[Energy Consumption Analysis of Discrete Diffusion and Autoregressive Language Models](https://arxiv.org/abs/2610.19855v1)** | 2026-10-14 |  |
-| **[Commit Locally, Exit Globally: Coordinating Adaptive Sampling and Early Exit in Diffusion Language Models](https://arxiv.org/abs/2607.28166v3)** | 2026-10-14 | <details><summary>Code:...</summary><p>Code: https://github.com/ming053l/C4-dLLM. Project page: https://ming053l.github.io/c4-dllm.github.io/</p></details> |
-| **[One Block Ahead: Promoting Sampler State in Diffusion Language Models](https://arxiv.org/abs/2610.19510v1)** | 2026-10-14 |  |
-| **[ForkGRPO: Efficient Exploration and Fine-Grained Credit Assignment for Diffusion Language Models](https://arxiv.org/abs/2610.19408v1)** | 2026-10-14 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. The first two authors contributed equally</p></details> |
-| **[Outcome-Routed Distillation and Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2610.19271v1)** | 2026-10-13 | <details><summary>V1: c...</summary><p>V1: camera ready version for the diffulm@neurips 2026</p></details> |
-| **[Backpropagating Verifier Rewards Through Continuous Flow Language Models](https://arxiv.org/abs/2610.19080v1)** | 2026-10-13 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v3)** | 2026-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code available at https://github.com/roymiles/diffusion-stitching</p></details> |
+| **[LED: Improving Masked Diffusion Language Models by Lookahead Editing](https://arxiv.org/abs/2610.23122v1)** | 2026-10-16 | 10 pages, 5 figures |
 | **[Query-Efficient Rejection Sampling for Parallel Masked Diffusion](https://arxiv.org/abs/2610.22238v1)** | 2026-10-15 | 22 pages,2 figures |
 | **[TIPS: A Tiny Inference-time Policy for Scaling in Diffusion Language Models](https://arxiv.org/abs/2610.22099v1)** | 2026-10-15 |  |
 | **[Diffusion Language Models as Open Quantum Systems](https://arxiv.org/abs/2610.21672v1)** | 2026-10-15 | 48 pages, 8 figures |
@@ -39,8 +41,6 @@ labels: documentation
 | **[The Tokens Strike Back: Safety-Aware Denoising with Directional Embedding-based Revision](https://arxiv.org/abs/2610.17636v1)** | 2026-10-13 | 43 pages, 4 figures |
 | **[Masked Diffusion for Travel Diaries Synthesis](https://arxiv.org/abs/2610.17109v1)** | 2026-10-12 |  |
 | **[Rate-Resolved Text Evaluation with Masked Diffusion Language Models](https://arxiv.org/abs/2610.15667v1)** | 2026-10-11 |  |
-| **[Understanding Unified VLMs: From Attention Probing to Guidance Tuning for Multimodal Generation](https://arxiv.org/abs/2610.15227v1)** | 2026-10-10 |  |
-| **[Masked Diffusion Language Agents for Tool-Integrated Chemical Reasoning](https://arxiv.org/abs/2610.13330v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](https://arxiv.org/abs/2610.22985v1)** | 2026-10-16 | <details><summary>Publi...</summary><p>Published as a main conference paper at NeurIPS 2026</p></details> |
+| **[On the Trade-off Between Information Loss and Generalization in Sparse Attention](https://arxiv.org/abs/2610.04424v2)** | 2026-10-16 | 24 pages |
+| **[A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex](https://arxiv.org/abs/2608.11173v3)** | 2026-10-15 | 27 pages, 10 figures |
 | **[Sparse Attention for Video Generation Acceleration via Growing Sparsity and Reduced Search](https://arxiv.org/abs/2610.21129v1)** | 2026-10-15 |  |
+| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
 | **[Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737v2)** | 2026-10-14 |  |
 | **[NeuroDETR: Multiscale Discrete Spatiotemporal Tokenization for Asynchronous EEG Event Detection](https://arxiv.org/abs/2610.20349v1)** | 2026-10-14 |  |
 | **[Joint Subspace Sparse Attention for Efficient Long-Context Decoding](https://arxiv.org/abs/2610.19026v1)** | 2026-10-13 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Competition Domains Matter: Selective Head Globalization for Training-Free Sparse Attention in Video Diffusion Transformers](https://arxiv.org/abs/2610.14672v1)** | 2026-10-10 |  |
 | **[RIS-Kernel: A Model-Agnostic Architecture for Long-Context LLM Inference via Sparse Attention](https://arxiv.org/abs/2607.21927v2)** | 2026-10-09 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 5 tables</p></details> |
 | **[Attention via Black-Box Vector Search](https://arxiv.org/abs/2610.10135v2)** | 2026-10-09 | <details><summary>added...</summary><p>added funding acknowledgement</p></details> |
-| **[DeltaLLM: Delta-Key Sparse Attention for Edge LLMs](https://arxiv.org/abs/2507.19608v2)** | 2026-10-09 | <details><summary>This ...</summary><p>This paper has been accepted by IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI)</p></details> |
-| **[S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding](https://arxiv.org/abs/2610.13202v1)** | 2026-10-09 |  |
-| **[Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction](https://arxiv.org/abs/2610.12727v1)** | 2026-10-08 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, 22 tables</p></details> |
-| **[SPIN: Shadow Predictive Indexer for Sparse Attention](https://arxiv.org/abs/2610.09025v2)** | 2026-10-08 | <details><summary>12 pa...</summary><p>12 pages, 4 figures; corrected an author's name</p></details> |
 
