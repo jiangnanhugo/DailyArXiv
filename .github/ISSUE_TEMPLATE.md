@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,32 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Loopholing All the Way: Language Modeling with pure Self-Conditioning](https://arxiv.org/abs/2610.30068v1)** | 2026-10-21 |  |
+| **[Looped Uniform Diffusion Language Models](https://arxiv.org/abs/2610.30066v1)** | 2026-10-21 | 27 pages |
+| **[Language Modeling with Hyperspherical Flows](https://arxiv.org/abs/2605.11125v4)** | 2026-10-21 |  |
+| **[A Diagnostic Study of Faithfulness in Diffusion Language Models for Table-to-Text Generation](https://arxiv.org/abs/2610.29602v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, including references and appendix. Diagnostic study on source faithfulness in table-to-text generation</p></details> |
+| **[A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse](https://arxiv.org/abs/2602.02133v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Hierarchical Masked Diffusion Language Models](https://arxiv.org/abs/2610.29255v1)** | 2026-10-21 |  |
+| **[Adaptive Steering and Remasking for Safe Generation in Diffusion Language Models](https://arxiv.org/abs/2605.13043v3)** | 2026-10-21 | 23 pages, 5 figures |
+| **[GRAFT: Restoring the Missing Sampling Interface in Continuous Diffusion Language Models](https://arxiv.org/abs/2610.29136v1)** | 2026-10-21 |  |
+| **[Beyond Model Weights: Sampling-Dependent Fairness in Diffusion Language Models](https://arxiv.org/abs/2610.27584v2)** | 2026-10-21 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 17 tables. Project page: https://pakapaka333.github.io/Beyond-Model-Weights/ ; v2: corrected an author's name in metadata (no change to content)</p></details> |
+| **[DiffResearch: Accelerating Deep Research with Diffusion Language Models](https://arxiv.org/abs/2610.28909v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Industry Track</p></details> |
+| **[Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication](https://arxiv.org/abs/2610.28905v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at the DiffuLM Workshop at NeurIPS 2026</p></details> |
 | **[Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](https://arxiv.org/abs/2610.28584v1)** | 2026-10-20 |  |
 | **[Exploring More, Reasoning Better: Stepwise Risk-Sensitive GRPO for Diffusion Language Models](https://arxiv.org/abs/2610.00661v3)** | 2026-10-20 | <details><summary>47 pa...</summary><p>47 pages, 12 figures, 4 tables. Writing and presentation have been polished in this revision. The first two authors contributed equally</p></details> |
 | **[Self-Decomposing Diffusion for Code Generation](https://arxiv.org/abs/2610.27600v1)** | 2026-10-20 |  |
-| **[Beyond Model Weights: Sampling-Dependent Fairness in Diffusion Language Models](https://arxiv.org/abs/2610.27584v1)** | 2026-10-20 | <details><summary>31 pa...</summary><p>31 pages, 11 figures, 17 tables. Project page: https://pakapaka333.github.io/Beyond-Model-Weights/</p></details> |
 | **[Factual Access States in Diffusion Language Models: From Mechanism to Knowledge Editing and Retrieval](https://arxiv.org/abs/2610.27580v1)** | 2026-10-20 |  |
-| **[Guided Diffusion for Trustworthy Synthetic Text Generation](https://arxiv.org/abs/2610.27259v1)** | 2026-10-19 |  |
-| **[Answering While You Type: Optimizing Time-to-Answer with Streaming Generation](https://arxiv.org/abs/2610.26296v1)** | 2026-10-19 |  |
-| **[Balance-Aware Pivot Selection for Parallel Diffusion LLM Decoding](https://arxiv.org/abs/2610.26040v1)** | 2026-10-19 | 18 pages, 4 figures |
-| **[Keep the Lineages Alive: Diversity-Preserving SMC for Diffusion LLM Decoding](https://arxiv.org/abs/2610.25932v1)** | 2026-10-19 |  |
-| **[Diffusion Language Models Change Speed Across Tasks and Languages](https://arxiv.org/abs/2610.25835v1)** | 2026-10-19 |  |
-| **[Learning to Couple: Context-Adaptive Joint Denoising for Diffusion Language Models](https://arxiv.org/abs/2610.25723v1)** | 2026-10-19 |  |
-| **[Enhanced Masked Diffusion Unlearning](https://arxiv.org/abs/2610.25447v1)** | 2026-10-18 |  |
-| **[A Ticket from Marginals to Joints: Coupled-Noise Distillation for One-Step Block Generation in Diffusion Language Models](https://arxiv.org/abs/2609.06324v6)** | 2026-10-18 |  |
-| **[Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models](https://arxiv.org/abs/2610.24795v1)** | 2026-10-17 |  |
-| **[PV-Decoding: Progressive Verification Decoding with Decode Gating for Diffusion Language Models](https://arxiv.org/abs/2610.24722v1)** | 2026-10-17 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Looped Uniform Diffusion Language Models](https://arxiv.org/abs/2610.30066v1)** | 2026-10-21 | 27 pages |
+| **[Language Modeling with Hyperspherical Flows](https://arxiv.org/abs/2605.11125v4)** | 2026-10-21 |  |
+| **[A Diagnostic Study of Faithfulness in Diffusion Language Models for Table-to-Text Generation](https://arxiv.org/abs/2610.29602v1)** | 2026-10-21 | <details><summary>9 pag...</summary><p>9 pages, including references and appendix. Diagnostic study on source faithfulness in table-to-text generation</p></details> |
+| **[BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion](https://arxiv.org/abs/2609.35407v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 camera ready version</p></details> |
+| **[Block Diffusion for Longitudinal EHR: Accuracy, Efficiency, and Representation Trade-offs](https://arxiv.org/abs/2610.29533v1)** | 2026-10-21 |  |
+| **[A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse](https://arxiv.org/abs/2602.02133v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Hierarchical Masked Diffusion Language Models](https://arxiv.org/abs/2610.29255v1)** | 2026-10-21 |  |
 | **[Serial Depth of Adaptive Parallel Sampling: Lower Bounds and Schedules for Masked Diffusion Models](https://arxiv.org/abs/2608.25505v2)** | 2026-10-20 | <details><summary>45 pa...</summary><p>45 pages. Revised version with a new title</p></details> |
 | **[Factual Access States in Diffusion Language Models: From Mechanism to Knowledge Editing and Retrieval](https://arxiv.org/abs/2610.27580v1)** | 2026-10-20 |  |
 | **[Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](https://arxiv.org/abs/2602.11590v4)** | 2026-10-20 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code to reproduce our experiments is available here: https://github.com/kuleshov-group/proseco</p></details> |
@@ -34,13 +41,6 @@ labels: documentation
 | **[DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design](https://arxiv.org/abs/2610.05808v2)** | 2026-10-19 |  |
 | **[Enhanced Masked Diffusion Unlearning](https://arxiv.org/abs/2610.25447v1)** | 2026-10-18 |  |
 | **[Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v4)** | 2026-10-18 | <details><summary>24 pa...</summary><p>24 pages,17 figures, 5 tables</p></details> |
-| **[Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871v3)** | 2026-10-16 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Code available at https://github.com/roymiles/diffusion-stitching</p></details> |
-| **[LED: Improving Masked Diffusion Language Models by Lookahead Editing](https://arxiv.org/abs/2610.23122v1)** | 2026-10-16 | 10 pages, 5 figures |
-| **[Query-Efficient Rejection Sampling for Parallel Masked Diffusion](https://arxiv.org/abs/2610.22238v1)** | 2026-10-15 | 22 pages,2 figures |
-| **[TIPS: A Tiny Inference-time Policy for Scaling in Diffusion Language Models](https://arxiv.org/abs/2610.22099v1)** | 2026-10-15 |  |
-| **[Diffusion Language Models as Open Quantum Systems](https://arxiv.org/abs/2610.21672v1)** | 2026-10-15 | 48 pages, 8 figures |
-| **[DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models](https://arxiv.org/abs/2608.25428v2)** | 2026-10-14 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
-| **[Masked Diffusion Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2605.29858v3)** | 2026-10-14 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,12 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UlaCache: Unified Logical Addressing for Sparse LLM Serving](https://arxiv.org/abs/2610.29820v1)** | 2026-10-21 |  |
+| **[Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](https://arxiv.org/abs/2603.18712v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
+| **[Sparsity Should Be ALLOTted by Output: Training-Free Allocation of Block-Sparse Attention for Video Diffusion Transformers](https://arxiv.org/abs/2610.29441v1)** | 2026-10-21 | <details><summary>26 pa...</summary><p>26 pages, 11 figures, including supplementary material</p></details> |
+| **[Observation Assimilation Transformer: Probabilistic Weather Analysis from Sparse Station Observations](https://arxiv.org/abs/2610.28327v2)** | 2026-10-21 |  |
+| **[FlashNext-RL: A System Optimization Study for Long-Horizon Agentic RL of Qwen3.8-Flash-Next](https://arxiv.org/abs/2610.28998v1)** | 2026-10-20 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 16 tables</p></details> |
 | **[Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity](https://arxiv.org/abs/2610.28441v1)** | 2026-10-20 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 13 tables</p></details> |
-| **[Observation Assimilation Transformer: Probabilistic Weather Analysis from Sparse Station Observations](https://arxiv.org/abs/2610.28327v1)** | 2026-10-20 |  |
 | **[Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation](https://arxiv.org/abs/2610.08772v3)** | 2026-10-20 |  |
 | **[KPage: Cross-Block Page Compaction for Hardware-Efficient Sparse Attention](https://arxiv.org/abs/2610.28096v1)** | 2026-10-20 |  |
 | **[PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.01077v3)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
@@ -75,8 +79,4 @@ labels: documentation
 | **[CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection](https://arxiv.org/abs/2605.16839v2)** | 2026-10-19 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight</p></details> |
 | **[Improving the Expressive Power of Hybrid Sequence Models via Multi-Hop Retrieval](https://arxiv.org/abs/2610.25250v1)** | 2026-10-18 |  |
 | **[SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](https://arxiv.org/abs/2602.13515v2)** | 2026-10-18 |  |
-| **[Certified Sparse Attention via Perturbed Retrieval](https://arxiv.org/abs/2610.24991v1)** | 2026-10-18 | <details><summary>58 pa...</summary><p>58 pages (10 pages main text, 48 pages appendix), 10 figures, 35 tables</p></details> |
-| **[Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](https://arxiv.org/abs/2610.22985v1)** | 2026-10-16 | <details><summary>Publi...</summary><p>Published as a main conference paper at NeurIPS 2026</p></details> |
-| **[On the Trade-off Between Information Loss and Generalization in Sparse Attention](https://arxiv.org/abs/2610.04424v2)** | 2026-10-16 | 24 pages |
-| **[A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex](https://arxiv.org/abs/2608.11173v3)** | 2026-10-15 | 27 pages, 10 figures |
 
