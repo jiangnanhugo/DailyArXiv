@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models](https://arxiv.org/abs/2611.05066v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs](https://arxiv.org/abs/2611.04948v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted in WACV 2027</p></details> |
+| **[PACT: Certifying What Is Written in Parallel Decoding of Diffusion Language Models](https://arxiv.org/abs/2611.04152v1)** | 2026-11-03 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Code: https://github.com/LiZaiyuan0619/PACT</p></details> |
 | **[Train the Sampler You Run: Few-Step Masked Diffusion Language Models via Mixture-Likelihood Fine-Tuning](https://arxiv.org/abs/2611.02666v1)** | 2026-11-02 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 34 tables</p></details> |
 | **[EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](https://arxiv.org/abs/2603.18489v2)** | 2026-11-02 | NeurIPS 2026 |
 | **[TrajDLM: Topology-Aware Block Diffusion Language Model for Trajectory Generation](https://arxiv.org/abs/2605.10020v2)** | 2026-11-01 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Self-Augmenting Retrieval for Diffusion Language Models](https://arxiv.org/abs/2606.06474v2)** | 2026-10-29 | ICML 2026 |
 | **[KV Cache Quantization for Diffusion Language Models](https://arxiv.org/abs/2610.39853v1)** | 2026-10-29 |  |
 | **[Cord: Confidence-Anchored Order Residual Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2610.39372v1)** | 2026-10-29 |  |
-| **[Self-Regularized Flow Language Models](https://arxiv.org/abs/2610.37115v1)** | 2026-10-27 |  |
-| **[Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](https://arxiv.org/abs/2610.08738v2)** | 2026-10-27 | 27 pages, 10 figures |
-| **[TDLM: Adaptive Temporal Integration for Diffusion Language Models](https://arxiv.org/abs/2610.36940v1)** | 2026-10-27 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PACT: Certifying What Is Written in Parallel Decoding of Diffusion Language Models](https://arxiv.org/abs/2611.04152v1)** | 2026-11-03 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Code: https://github.com/LiZaiyuan0619/PACT</p></details> |
 | **[Train the Sampler You Run: Few-Step Masked Diffusion Language Models via Mixture-Likelihood Fine-Tuning](https://arxiv.org/abs/2611.02666v1)** | 2026-11-02 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 34 tables</p></details> |
 | **[Randomization Beyond Deterministic Adaptivity in Parallel Sampling](https://arxiv.org/abs/2610.03335v2)** | 2026-11-02 | 20 pages |
 | **[Asynchronous Flow Map Language Models](https://arxiv.org/abs/2610.42018v1)** | 2026-10-30 | <details><summary>Code ...</summary><p>Code available at: https://github.com/david3684/async-fmlm</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232v2)** | 2026-10-26 | NeurIPS 2026 |
 | **[Adaptive Order Policies for Masked Diffusion](https://arxiv.org/abs/2606.00295v3)** | 2026-10-26 |  |
 | **[From Denoising Dynamics to Endpoint Uncertainty in Diffusion Language Models](https://arxiv.org/abs/2610.35425v1)** | 2026-10-26 |  |
-| **[HobbyLM: A Sparse Mixture-of-Experts Model Family on a Hobby Budget](https://arxiv.org/abs/2610.34582v1)** | 2026-10-25 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding](https://arxiv.org/abs/2610.13202v2)** | 2026-11-03 |  |
+| **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147v2)** | 2026-11-03 |  |
+| **[Latent-Condensed Transformer for Efficient Long Context Modeling](https://arxiv.org/abs/2604.12452v3)** | 2026-11-03 | Accepted by ACL 2026 |
+| **[LeanSparse: Memory-Efficient Serving for Native Sparse-Attention LLMs](https://arxiv.org/abs/2611.04671v1)** | 2026-11-03 |  |
+| **[Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention](https://arxiv.org/abs/2605.08453v2)** | 2026-11-03 |  |
+| **[Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation](https://arxiv.org/abs/2508.12969v2)** | 2026-11-03 | <details><summary>Updat...</summary><p>Updated to the accepted version of IEEE Transactions on Multimedia. Minor corrections and formatting improvements were made. The main conclusions remain unchanged</p></details> |
+| **[A Parametric Linear Conic Projection for Structured Sparse Attention](https://arxiv.org/abs/2611.04479v1)** | 2026-11-03 |  |
+| **[Coarse Semantic Blocks for Efficient Training-Free Sparse Attention](https://arxiv.org/abs/2611.04313v1)** | 2026-11-03 |  |
+| **[HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention](https://arxiv.org/abs/2603.28458v5)** | 2026-11-03 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
 | **[Subquadratic Attention with a Hierarchical Tree-Structured Indexer](https://arxiv.org/abs/2610.42112v2)** | 2026-11-02 | 42 pages |
+| **[Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention](https://arxiv.org/abs/2611.03768v1)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages (8 pages main text), 4 figures, 11 tables. Accepted to the Long-Context Foundation Models (LCFM) Workshop at NeurIPS 2026, Atlanta, December 12, 2026. Code: https://github.com/ArjunKrishnak/dsa-multi-layer-indexer</p></details> |
 | **[CISA: Retrofitting Dense Attention Models with Chunk-Indexed Sparse Attention](https://arxiv.org/abs/2611.03200v1)** | 2026-11-02 |  |
 | **[SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding](https://arxiv.org/abs/2611.02846v1)** | 2026-11-02 |  |
 | **[iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity](https://arxiv.org/abs/2610.11302v2)** | 2026-11-02 |  |
 | **[AttentionIndex: Accelerating Learned Sparse Attention with a Causal Inverted-File Index](https://arxiv.org/abs/2611.02508v1)** | 2026-11-02 |  |
-| **[HERALD: High-Throughput Block Diffusion LLM Inference via CPU-GPU Cooperative KV Cache Retrieval](https://arxiv.org/abs/2606.21633v3)** | 2026-11-01 |  |
-| **[When Should an Agent Refresh? Adaptive Index Reuse for Efficient Long-Horizon Reasoning](https://arxiv.org/abs/2611.01429v1)** | 2026-11-01 |  |
-| **[Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference](https://arxiv.org/abs/2611.01320v1)** | 2026-10-31 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 18 pages</p></details> |
-| **[SPIN: Shadow Predictive Indexer for Sparse Attention](https://arxiv.org/abs/2610.09025v3)** | 2026-10-31 | 15 pages, 7 figures |
-| **[Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention](https://arxiv.org/abs/2611.01022v1)** | 2026-10-31 |  |
-| **[UlaCache: Unified Logical Addressing for Sparse LLM Serving](https://arxiv.org/abs/2610.29820v2)** | 2026-10-31 |  |
-| **[TileWeave: Heterogeneous Tiling for Sparse Prefill on Mobile SoCs](https://arxiv.org/abs/2611.00408v1)** | 2026-10-30 |  |
-| **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](https://arxiv.org/abs/2610.42147v1)** | 2026-10-30 |  |
-| **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 3 tables</p></details> |
-| **[OpenAttention: One Percent Is Enough with Tail Proxies](https://arxiv.org/abs/2610.30951v3)** | 2026-10-29 | <details><summary>27 pa...</summary><p>27 pages. v2: revised Appendix C and corrected abstract wording. v3: corrected author and affiliation formatting in the HTML version; scientific content unchanged. Project page: https://hyunwoo137.github.io/OpenAttention/ ; Code: https://github.com/hyunwoo137/OpenAttention</p></details> |
 
