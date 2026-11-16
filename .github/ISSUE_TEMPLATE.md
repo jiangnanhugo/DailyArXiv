@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2026
+title: Latest 15 Papers - November 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[See Every Block Once: Variance-Reduced Post-Training for Masked Diffusion Language Models](https://arxiv.org/abs/2611.17754v1)** | 2026-11-13 | <details><summary>AACL-...</summary><p>AACL-IJCNLP 2026 Main</p></details> |
 | **[Learning When Diffusion Language Models Should Regenerate](https://arxiv.org/abs/2611.17320v1)** | 2026-11-12 |  |
 | **[Large Language Continuous Diffusion Models](https://arxiv.org/abs/2610.02665v2)** | 2026-11-12 | <details><summary>Model...</summary><p>Model family weights are publicly available at https://huggingface.co/collections/nvidia/nemotron-labs-sigma</p></details> |
 | **[Schedule-Calibrated Commitment Order in Blockwise Masked Diffusion Language Models](https://arxiv.org/abs/2611.15234v1)** | 2026-11-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 2 tables. Includes appendices and ancillary code for algebraic verification</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](https://arxiv.org/abs/2603.12554v3)** | 2026-11-07 |  |
 | **[Test-Time Scaling for Diffusion Language Models with Frequency-Aware Remasking](https://arxiv.org/abs/2611.10486v1)** | 2026-11-07 |  |
 | **[FEROM: Frontier Endogenous Reveal-Order Marginal Policy Optimization for Masked Diffusion LMs](https://arxiv.org/abs/2611.10369v1)** | 2026-11-07 | NeurIPS 2026 |
-| **[CoBit: Language Modeling with Bitstream Diffusion](https://arxiv.org/abs/2605.07013v3)** | 2026-11-06 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[See Every Block Once: Variance-Reduced Post-Training for Masked Diffusion Language Models](https://arxiv.org/abs/2611.17754v1)** | 2026-11-13 | <details><summary>AACL-...</summary><p>AACL-IJCNLP 2026 Main</p></details> |
 | **[Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model](https://arxiv.org/abs/2611.15238v1)** | 2026-11-11 |  |
 | **[Schedule-Calibrated Commitment Order in Blockwise Masked Diffusion Language Models](https://arxiv.org/abs/2611.15234v1)** | 2026-11-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 2 tables. Includes appendices and ancillary code for algebraic verification</p></details> |
 | **[When Should Diffusion Language Models Reconsider Their Commitments?](https://arxiv.org/abs/2611.11551v2)** | 2026-11-10 | <details><summary>This ...</summary><p>This paper is being withdrawn because agreement has not yet been reached regarding Google's authorization for its public release</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains](https://arxiv.org/abs/2611.08362v1)** | 2026-11-05 | 28 pages, 5 figures |
 | **[Corrective Diffusion Language Models](https://arxiv.org/abs/2512.15596v3)** | 2026-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2026. 72 pages. Code: https://github.com/zhangshuibai/CDLM</p></details> |
 | **[Masked diffusion as random sequential adsorption: an exactly solvable model for parallel decoding](https://arxiv.org/abs/2611.07845v1)** | 2026-11-05 | <details><summary>14 pa...</summary><p>14 pages (incl. appendices), 3 figures</p></details> |
-| **[CMDiff: Left Atrial Scar Segmentation from 3D LGE MRI Using Conditional Mask Diffusion Model: A Feasibility Study](https://arxiv.org/abs/2611.07814v1)** | 2026-11-05 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 4 tables</p></details> |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMFlash: Faster Speculative Decoding for Vision-Language Models](https://arxiv.org/abs/2611.18482v1)** | 2026-11-13 | <details><summary>Work ...</summary><p>Work in process, website: \url{https://fscdc.github.io/MMFlash/}</p></details> |
+| **[Token2Tile: Token-Wise Sparse Attention with Tile Execution through a Low-Rank Space for Video DiTs](https://arxiv.org/abs/2611.17930v1)** | 2026-11-13 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, 23 tables</p></details> |
+| **[AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling](https://arxiv.org/abs/2611.08752v2)** | 2026-11-13 |  |
 | **[VMonarch: Efficient Video Diffusion Transformers with Structured Attention](https://arxiv.org/abs/2601.22275v2)** | 2026-11-12 |  |
 | **[EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling](https://arxiv.org/abs/2602.10811v2)** | 2026-11-12 | Accepted by KDD2026 |
 | **[Incremental Learning of Sparse Attention Patterns in Transformers](https://arxiv.org/abs/2602.19143v3)** | 2026-11-10 | <details><summary>Publi...</summary><p>Published at ICML 2026. OpenReview: https://openreview.net/forum?id=vSRh1qU5sH. 55 pages, 21 figures. v3: revised proofs in the appendix, with explicit assumptions in Theorems 4 and 5</p></details> |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Coverage-Verified Sparse Attention: Closed-Loop Quality Control for Long-Context LLM Decoding](https://arxiv.org/abs/2611.10634v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 35 pages, 12 figures, 35 tables</p></details> |
 | **[OneReel: Efficient Multi-Scene Video Generation with Scene-Structured Attention](https://arxiv.org/abs/2611.10594v1)** | 2026-11-07 |  |
 | **[ADIndex: Layer-Adaptive Sparse Attention Indexing via Group-Level Distillation](https://arxiv.org/abs/2611.12956v1)** | 2026-11-07 | 27 pages,13 figures |
-| **[ESTRA: Enabling Extreme Attention Sparsity for Training-Free Video Diffusion Acceleration](https://arxiv.org/abs/2611.10448v1)** | 2026-11-07 |  |
-| **[Attend at the Right Resolution: Head-Adaptive Sparse Attention via Query-Key Interaction Structure](https://arxiv.org/abs/2611.09700v1)** | 2026-11-06 |  |
-| **[Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference](https://arxiv.org/abs/2510.18413v2)** | 2026-11-06 |  |
 
