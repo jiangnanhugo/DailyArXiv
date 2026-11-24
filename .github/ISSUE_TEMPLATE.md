@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2026
+title: Latest 15 Papers - November 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders](https://arxiv.org/abs/2611.27652v1)** | 2026-11-20 | <details><summary>14 pa...</summary><p>14 pages, 1 figure. Accepted at the NeurIPS 2026 Workshop on Inference-Time AI Privacy (InfPriv 2026)</p></details> |
+| **[Open CDLM: A Benchmark and Library for Continuous Diffusion Language Models](https://arxiv.org/abs/2611.27536v1)** | 2026-11-20 |  |
 | **[dLoop: Looped Diffusion Language Models via Recurrent Latent Refinement](https://arxiv.org/abs/2611.26275v1)** | 2026-11-19 |  |
 | **[One Schedule Does Not Fit All: Adaptive Inference Schedules for Diffusion Language Models](https://arxiv.org/abs/2611.25895v1)** | 2026-11-19 |  |
 | **[One Latent, Many Tokens: Jointly Learning Compressed Embeddings for Efficient Language Diffusion](https://arxiv.org/abs/2609.33698v2)** | 2026-11-19 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, and 8 tables. Includes appendices.Code is available at https://github.com/infiniteYuanyl/JPEG-DLM</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Beyond Replacement: Levenshtein Editing for Diffusion Language Models](https://arxiv.org/abs/2611.23750v1)** | 2026-11-18 | 21 pages, 9 figures |
 | **[ReMaRL: Learning to Unmask and Remask in Frozen Diffusion Language Models](https://arxiv.org/abs/2611.22576v1)** | 2026-11-17 |  |
 | **[RISA: Recoverable Sparse Attention for Block-Diffusion Language Models](https://arxiv.org/abs/2611.22191v1)** | 2026-11-17 |  |
-| **[The Hidden Cost of MoE Diffusion Decoding: Profiling and Fixing the Sampler](https://arxiv.org/abs/2611.21852v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS workshop DiffuLM 2026</p></details> |
-| **[Fast at the Frontier, Wrong at the Fallback: A Commit-Level Analysis of Threshold Decoding in Diffusion Language Models](https://arxiv.org/abs/2611.20693v1)** | 2026-11-16 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
@@ -64,10 +64,14 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973v1)** | 2026-11-20 | <details><summary>Proje...</summary><p>Project Page: https://clare-nie.github.io/MemOnce</p></details> |
+| **[PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation](https://arxiv.org/abs/2611.22717v3)** | 2026-11-20 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Project page: https://anorak-games.github.io/pcrg/</p></details> |
+| **[Zing-1.0: A Playable World System Built on Controllable Rendering](https://arxiv.org/abs/2611.27336v1)** | 2026-11-20 | <details><summary>34 pa...</summary><p>34 pages, 17 figures. Authors listed in reverse alphabetical order by surname</p></details> |
+| **[Mosaic: Efficient CPU-GPU Coordinated Block-Sparse Attention](https://arxiv.org/abs/2605.07719v2)** | 2026-11-20 | ACM SIGOPS ATC 2026 |
+| **[LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference](https://arxiv.org/abs/2611.27233v1)** | 2026-11-20 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 2 tables</p></details> |
 | **[SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention](https://arxiv.org/abs/2611.26493v1)** | 2026-11-19 |  |
 | **[HiSA: Sparsifying the Hidden Dimension of RoPE Attention in LLMs](https://arxiv.org/abs/2611.26363v1)** | 2026-11-19 |  |
 | **[DTS: Delta-Based Tile Scoring for Efficient Long-Context Sparse Attention](https://arxiv.org/abs/2611.25938v1)** | 2026-11-19 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Accepted at DATE 2027. Emre Uğur and Jiawen Qi contributed equally</p></details> |
-| **[PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation](https://arxiv.org/abs/2611.22717v2)** | 2026-11-19 | 11 pages, 5 figures |
 | **[Twindex: Index Cache Offloading with Coarse-to-Fine Selection for Long-Context Sparse-Attention Serving](https://arxiv.org/abs/2611.25078v1)** | 2026-11-18 | 25 pages |
 | **[SPLASH: Co-Designing Flash-Aware Sparse Attention with a Virtualized HBM-HBF Hierarchy](https://arxiv.org/abs/2609.23816v3)** | 2026-11-18 |  |
 | **[Every Query Routes Itself: Accelerating Video Diffusion Transformers with Per-Query Routed Sparse Attention](https://arxiv.org/abs/2611.24479v1)** | 2026-11-18 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Layer-Matched Sparse Attention for Low-Redundancy 3D Reconstruction](https://arxiv.org/abs/2611.23554v1)** | 2026-11-17 |  |
 | **[DexAttention: Distributed Sparse Attention through Rapid Online Planning and Persistent GPU Execution](https://arxiv.org/abs/2611.23512v1)** | 2026-11-17 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 7 tables. Code: https://github.com/CsRic/DexAttention</p></details> |
 | **[OVAL: Output-Aware Local Page Bases for KV Cache Compression](https://arxiv.org/abs/2610.06686v2)** | 2026-11-17 |  |
-| **[XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools](https://arxiv.org/abs/2611.22280v1)** | 2026-11-17 | 13 pages, 11 figures |
-| **[RISA: Recoverable Sparse Attention for Block-Diffusion Language Models](https://arxiv.org/abs/2611.22191v1)** | 2026-11-17 |  |
-| **[Lost in a Few Heads: Diagnosing and Repairing Block Selection in Sparse Attention](https://arxiv.org/abs/2611.21917v1)** | 2026-11-16 | <details><summary>25 pa...</summary><p>25 pages, 8 figures, 20 tables. Code: https://github.com/zhangwenhe1007/blind-attention-heads</p></details> |
-| **[Sparse Attention for Visual Generation: Toward Algorithm-System Co-Design](https://arxiv.org/abs/2611.21029v1)** | 2026-11-16 |  |
 
