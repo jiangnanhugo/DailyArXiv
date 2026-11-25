@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2026
+title: Latest 15 Papers - November 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416v1)** | 2026-11-24 |  |
+| **[Beyond Autoregression: Diffusion Language Model is All Analog In-Memory Computing Need](https://arxiv.org/abs/2611.32223v1)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accept by Design, Automation and Test in Europe Conference(DATE2027)</p></details> |
+| **[How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding](https://arxiv.org/abs/2611.31990v1)** | 2026-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning (DiffuLM). Code: https://github.com/DovudAsadov/dllm-total-correlation</p></details> |
+| **[Look Before You Commit: Visual-Evidence-Guided Decoding for Multimodal Diffusion Language Models](https://arxiv.org/abs/2611.31677v1)** | 2026-11-23 |  |
+| **[Noise Your Prompt: Noising Conditioning Tokens in Continuous Diffusion Language Models](https://arxiv.org/abs/2610.09145v3)** | 2026-11-23 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026</p></details> |
 | **[TAP: Policy Interfaces for Diffusion Language Models](https://arxiv.org/abs/2611.30406v1)** | 2026-11-23 | <details><summary>42 pa...</summary><p>42 pages. Published at EMNLP 2026 (Main Conference)</p></details> |
 | **[The Answer Is Not the State: Trajectory-Level Corrigibility in Diffusion Language Models](https://arxiv.org/abs/2611.29937v1)** | 2026-11-23 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 28 tables</p></details> |
 | **[Constrained Code Generation with Diffusion Language Models](https://arxiv.org/abs/2605.16829v2)** | 2026-11-22 |  |
@@ -17,20 +22,17 @@ labels: documentation
 | **[Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders](https://arxiv.org/abs/2611.27652v1)** | 2026-11-20 | <details><summary>14 pa...</summary><p>14 pages, 1 figure. Accepted at the NeurIPS 2026 Workshop on Inference-Time AI Privacy (InfPriv 2026)</p></details> |
 | **[Open CDLM: A Benchmark and Library for Continuous Diffusion Language Models](https://arxiv.org/abs/2611.27536v1)** | 2026-11-20 |  |
 | **[dLoop: Looped Diffusion Language Models via Recurrent Latent Refinement](https://arxiv.org/abs/2611.26275v1)** | 2026-11-19 |  |
-| **[One Schedule Does Not Fit All: Adaptive Inference Schedules for Diffusion Language Models](https://arxiv.org/abs/2611.25895v1)** | 2026-11-19 |  |
-| **[One Latent, Many Tokens: Jointly Learning Compressed Embeddings for Efficient Language Diffusion](https://arxiv.org/abs/2609.33698v2)** | 2026-11-19 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, and 8 tables. Includes appendices.Code is available at https://github.com/infiniteYuanyl/JPEG-DLM</p></details> |
-| **[Closing Performance Gap for Diffusion Language Models under Low Inference Budgets](https://arxiv.org/abs/2611.25763v1)** | 2026-11-19 | 23 pages, 3 figures |
-| **[TRAC: Efficient Diffusion Language Models for Machine Translation via Length-Aware Decoding](https://arxiv.org/abs/2611.25643v1)** | 2026-11-19 | <details><summary>Accep...</summary><p>Accepted at CCMT 2026</p></details> |
-| **[Supportive Token Revealing for Fast Diffusion Language Model Decoding](https://arxiv.org/abs/2606.04236v2)** | 2026-11-19 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving](https://arxiv.org/abs/2611.23211v3)** | 2026-11-24 | <details><summary>Equal...</summary><p>Equal contribution: John Gideon and Anshul Gupta. 24 pages, 8 figures. Supplementary video: https://www.youtube.com/watch?v=IvG7YobBwdY Project page: https://toyotaresearchinstitute.github.io/DIVERT/</p></details> |
+| **[On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416v1)** | 2026-11-24 |  |
+| **[How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding](https://arxiv.org/abs/2611.31990v1)** | 2026-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning (DiffuLM). Code: https://github.com/DovudAsadov/dllm-total-correlation</p></details> |
 | **[TAP: Policy Interfaces for Diffusion Language Models](https://arxiv.org/abs/2611.30406v1)** | 2026-11-23 | <details><summary>42 pa...</summary><p>42 pages. Published at EMNLP 2026 (Main Conference)</p></details> |
 | **[RoomTokens: Masked Diffusion over Structured Tokens for Indoor Scene Synthesis](https://arxiv.org/abs/2611.30219v1)** | 2026-11-23 | <details><summary>Proje...</summary><p>Project page: https://3dlg-hcvc.github.io/RoomToken/</p></details> |
 | **[Interaction Retention and Output-Likelihood Training in Parallel Sampling](https://arxiv.org/abs/2611.28858v1)** | 2026-11-21 | <details><summary>44 pa...</summary><p>44 pages (35-page paper followed by a 9-page online appendix), 3 figures. Submitted to the Journal of Machine Learning Research</p></details> |
 | **[Mitigating Backdoors in Masked Diffusion Language Models](https://arxiv.org/abs/2611.28640v1)** | 2026-11-21 |  |
-| **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving](https://arxiv.org/abs/2611.23211v2)** | 2026-11-18 | <details><summary>Equal...</summary><p>Equal contribution: John Gideon and Anshul Gupta. 8 pages, 6 figures</p></details> |
 | **[ViLFlow: Parallel Vision-Language Generation with Continuous Latent Flows](https://arxiv.org/abs/2611.24240v1)** | 2026-11-18 |  |
 | **[Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models](https://arxiv.org/abs/2609.24657v2)** | 2026-11-18 | Work in progress |
 | **[Unlocking Continuous Diffusion Language Models via Discrete Stochastic Localization](https://arxiv.org/abs/2602.16169v3)** | 2026-11-18 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[The Hidden Cost of MoE Diffusion Decoding: Profiling and Fixing the Sampler](https://arxiv.org/abs/2611.21852v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS workshop DiffuLM 2026</p></details> |
 | **[The Price of Not Planning: Parallel Sampling Depth Peaks at the Reconstruction Threshold](https://arxiv.org/abs/2611.21285v1)** | 2026-11-16 |  |
 | **[Sharp Convergence Rates for Masked Diffusion Models](https://arxiv.org/abs/2602.22505v2)** | 2026-11-15 |  |
-| **[PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models](https://arxiv.org/abs/2611.20010v1)** | 2026-11-15 | 10 pages, 2 figures |
-| **[Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers](https://arxiv.org/abs/2611.19127v1)** | 2026-11-14 | NeurIPS 2026 |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sol$^{3}$: Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing](https://arxiv.org/abs/2611.32562v1)** | 2026-11-24 |  |
+| **[Factorized Context Attention: From Emulated to Native Grid Probing](https://arxiv.org/abs/2611.32423v1)** | 2026-11-24 | <details><summary>Code:...</summary><p>Code: https://github.com/mohammad2012191/FCA</p></details> |
+| **[When Exact Token Importance Is Not Enough: Limits of Top-K Selection in LLM Attention](https://arxiv.org/abs/2611.32324v1)** | 2026-11-24 |  |
+| **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v3)** | 2026-11-24 | CVPR 2026 |
+| **[Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention](https://arxiv.org/abs/2609.25869v2)** | 2026-11-24 | <details><summary>19 pa...</summary><p>19 pages, 12 figures. Preprint</p></details> |
 | **[Near-Far Attention: Region-Aware Sparse Retrieval for Long-Context LLM Decoding](https://arxiv.org/abs/2611.30554v1)** | 2026-11-23 | 7 pages, 8 figures |
 | **[SparSelect: Training-Free Sparse Attention for Efficient 3D Reconstruction](https://arxiv.org/abs/2610.01013v2)** | 2026-11-23 | <details><summary>19 pa...</summary><p>19 pages, including references and appendices</p></details> |
 | **[ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy](https://arxiv.org/abs/2611.30417v1)** | 2026-11-23 | 15 pages, 20 figures |
@@ -74,9 +79,4 @@ labels: documentation
 | **[Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds](https://arxiv.org/abs/2611.29252v1)** | 2026-11-22 | <details><summary>Ident...</summary><p>Identical to https://zenodo.org/records/23674584</p></details> |
 | **[Learning how to Forget: Fine-tuning for Long-Context Sparse Attention](https://arxiv.org/abs/2608.19920v3)** | 2026-11-21 | 54 pages, 2 figures |
 | **[IndexerStage: Staging Indexer-K across Memory Tiers for Sparse-Attention LLM Serving](https://arxiv.org/abs/2611.28625v1)** | 2026-11-21 |  |
-| **[PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](https://arxiv.org/abs/2602.01077v5)** | 2026-11-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[DisSparse: Pipelined Top-$p$ Sparse Attention for Long-Context LLM Serving](https://arxiv.org/abs/2611.28522v1)** | 2026-11-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/nnurlan008/DisSparse</p></details> |
-| **[MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973v1)** | 2026-11-20 | <details><summary>Proje...</summary><p>Project Page: https://clare-nie.github.io/MemOnce</p></details> |
-| **[PCRG: Training-Free Pruning and Caching of Reference Tokens for Video Generation](https://arxiv.org/abs/2611.22717v3)** | 2026-11-20 | <details><summary>11 pa...</summary><p>11 pages, 5 figures. Project page: https://anorak-games.github.io/pcrg/</p></details> |
-| **[LongCat Recall Sparse Attention: Co-Designing Key Organization and Retrieval for Long-Context Inference](https://arxiv.org/abs/2611.27233v1)** | 2026-11-20 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 2 tables</p></details> |
 
