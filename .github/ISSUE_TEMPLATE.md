@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 26, 2026
+title: Latest 15 Papers - November 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/jiangnanhugo/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Diffusion Language Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiCALM: Converting Autoregressive Convolution-Attention Language Models into Discrete Diffusion Language Models](https://arxiv.org/abs/2611.33919v1)** | 2026-11-25 | <details><summary>To ap...</summary><p>To appear in Proceedings of EACL 2027 (Main conference paper)</p></details> |
+| **[Pitfalls of Dependency-Ready Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2611.33823v1)** | 2026-11-25 | Under Submission |
+| **[Rethinking Knowledge Distillation for Diffusion Language Models](https://arxiv.org/abs/2611.33670v1)** | 2026-11-25 |  |
 | **[On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416v1)** | 2026-11-24 |  |
 | **[Beyond Autoregression: Diffusion Language Model is All Analog In-Memory Computing Need](https://arxiv.org/abs/2611.32223v1)** | 2026-11-24 | <details><summary>Accep...</summary><p>Accept by Design, Automation and Test in Europe Conference(DATE2027)</p></details> |
 | **[How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding](https://arxiv.org/abs/2611.31990v1)** | 2026-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning (DiffuLM). Code: https://github.com/DovudAsadov/dllm-total-correlation</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Interaction Retention and Output-Likelihood Training in Parallel Sampling](https://arxiv.org/abs/2611.28858v1)** | 2026-11-21 | <details><summary>44 pa...</summary><p>44 pages (35-page paper followed by a 9-page online appendix), 3 figures. Submitted to the Journal of Machine Learning Research</p></details> |
 | **[Mitigating Backdoors in Masked Diffusion Language Models](https://arxiv.org/abs/2611.28640v1)** | 2026-11-21 |  |
 | **[Match the Canvas, Not Just the Answer: Predictability-Aware SFT for Diffusion Language Models](https://arxiv.org/abs/2610.18001v2)** | 2026-11-20 |  |
-| **[Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders](https://arxiv.org/abs/2611.27652v1)** | 2026-11-20 | <details><summary>14 pa...</summary><p>14 pages, 1 figure. Accepted at the NeurIPS 2026 Workshop on Inference-Time AI Privacy (InfPriv 2026)</p></details> |
-| **[Open CDLM: A Benchmark and Library for Continuous Diffusion Language Models](https://arxiv.org/abs/2611.27536v1)** | 2026-11-20 |  |
-| **[dLoop: Looped Diffusion Language Models via Recurrent Latent Refinement](https://arxiv.org/abs/2611.26275v1)** | 2026-11-19 |  |
 
 ## Masked Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiCALM: Converting Autoregressive Convolution-Attention Language Models into Discrete Diffusion Language Models](https://arxiv.org/abs/2611.33919v1)** | 2026-11-25 | <details><summary>To ap...</summary><p>To appear in Proceedings of EACL 2027 (Main conference paper)</p></details> |
+| **[Pitfalls of Dependency-Ready Decoding for Masked Diffusion Language Models](https://arxiv.org/abs/2611.33823v1)** | 2026-11-25 | Under Submission |
 | **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving](https://arxiv.org/abs/2611.23211v3)** | 2026-11-24 | <details><summary>Equal...</summary><p>Equal contribution: John Gideon and Anshul Gupta. 24 pages, 8 figures. Supplementary video: https://www.youtube.com/watch?v=IvG7YobBwdY Project page: https://toyotaresearchinstitute.github.io/DIVERT/</p></details> |
 | **[On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416v1)** | 2026-11-24 |  |
 | **[How Much Dependency Can a Marginal Rule See? Total Correlation in Diffusion LM Parallel Decoding](https://arxiv.org/abs/2611.31990v1)** | 2026-11-24 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning (DiffuLM). Code: https://github.com/DovudAsadov/dllm-total-correlation</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Uncertainty Quantification for Large Language Diffusion Models](https://arxiv.org/abs/2605.14570v2)** | 2026-11-17 | <details><summary>Advan...</summary><p>Advances in Neural Information Processing Systems 39 (NeurIPS 2026)</p></details> |
 | **[ReMaRL: Learning to Unmask and Remask in Frozen Diffusion Language Models](https://arxiv.org/abs/2611.22576v1)** | 2026-11-17 |  |
 | **[The Hidden Cost of MoE Diffusion Decoding: Profiling and Fixing the Sampler](https://arxiv.org/abs/2611.21852v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS workshop DiffuLM 2026</p></details> |
-| **[The Price of Not Planning: Parallel Sampling Depth Peaks at the Reconstruction Threshold](https://arxiv.org/abs/2611.21285v1)** | 2026-11-16 |  |
-| **[Sharp Convergence Rates for Masked Diffusion Models](https://arxiv.org/abs/2602.22505v2)** | 2026-11-15 |  |
 
 ## Constrained Sampling
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Sparse Attention
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DFly2: Turbocharging Long-Context Speculative Decoding by Sharing the Target's Sparsity](https://arxiv.org/abs/2611.34776v1)** | 2026-11-25 | 20 pages, 8 figures |
+| **[DuCo: Exploiting Dual Cross-Layer Consistency for Sparse Geometric Attention](https://arxiv.org/abs/2611.34608v1)** | 2026-11-25 |  |
+| **[db-SP: Accelerating Sparse Attention for Visual Generative Models with Dual-Balanced Sequence Parallelism](https://arxiv.org/abs/2511.23113v2)** | 2026-11-25 |  |
+| **[L2C2: Enhancing Large-scale Chiplets for Agent Long-Context LLM Inference with Sparse and Distributed Attention](https://arxiv.org/abs/2611.33691v1)** | 2026-11-25 | Accepted by ICCAD 26 |
+| **[Linear-Time Online Visual Geometry Transformer with Hybrid Architecture](https://arxiv.org/abs/2611.33650v1)** | 2026-11-25 |  |
+| **[What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration](https://arxiv.org/abs/2611.33636v1)** | 2026-11-25 |  |
+| **[GazeVLM: Gaze-Guided Foveated Inference for Efficient Vision-Language Models](https://arxiv.org/abs/2509.16476v2)** | 2026-11-24 | <details><summary>5 pag...</summary><p>5 pages; substantially revised with the new GazeVLM-VQA benchmark, expanded evaluations including Qwen3-VL-8B, and prefill latency measurements; title and author list updated</p></details> |
+| **[SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference](https://arxiv.org/abs/2606.04511v2)** | 2026-11-24 | NeurIPS 2026 |
+| **[JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention](https://arxiv.org/abs/2611.33268v1)** | 2026-11-24 |  |
 | **[Sol$^{3}$: Accelerating Video Diffusion for Free via Hierarchical Sparse Attention Routing](https://arxiv.org/abs/2611.32562v1)** | 2026-11-24 |  |
 | **[Factorized Context Attention: From Emulated to Native Grid Probing](https://arxiv.org/abs/2611.32423v1)** | 2026-11-24 | <details><summary>Code:...</summary><p>Code: https://github.com/mohammad2012191/FCA</p></details> |
 | **[When Exact Token Importance Is Not Enough: Limits of Top-K Selection in LLM Attention](https://arxiv.org/abs/2611.32324v1)** | 2026-11-24 |  |
 | **[SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](https://arxiv.org/abs/2602.04361v3)** | 2026-11-24 | CVPR 2026 |
 | **[Decoupling Logical Masks from GPU Execution for Dynamic Block-Sparse Attention](https://arxiv.org/abs/2609.25869v2)** | 2026-11-24 | <details><summary>19 pa...</summary><p>19 pages, 12 figures. Preprint</p></details> |
 | **[Near-Far Attention: Region-Aware Sparse Retrieval for Long-Context LLM Decoding](https://arxiv.org/abs/2611.30554v1)** | 2026-11-23 | 7 pages, 8 figures |
-| **[SparSelect: Training-Free Sparse Attention for Efficient 3D Reconstruction](https://arxiv.org/abs/2610.01013v2)** | 2026-11-23 | <details><summary>19 pa...</summary><p>19 pages, including references and appendices</p></details> |
-| **[ANOR: Scaling Sparse Attention with a GPU-PNM Computing Hierarchy](https://arxiv.org/abs/2611.30417v1)** | 2026-11-23 | 15 pages, 20 figures |
-| **[Mosaic: Efficient CPU--GPU Coordinated Block-Sparse Attention for Long-Context Decoding](https://arxiv.org/abs/2605.07719v3)** | 2026-11-23 | ACM SIGOPS ATC 2026 |
-| **[Zing-1.0: A Playable World System Built on Controllable Rendering](https://arxiv.org/abs/2611.27336v2)** | 2026-11-23 | <details><summary>34 pa...</summary><p>34 pages, 17 figures. Authors listed in reverse alphabetical order by surname. v2 corrects the project link to https://zing.loopit.me/</p></details> |
-| **[Position-Skipped Distillation of Sparse-Attention Indexers: Train Short, Serve Long](https://arxiv.org/abs/2611.29664v1)** | 2026-11-22 | <details><summary>55 pa...</summary><p>55 pages, 4 figures, 48 tables</p></details> |
-| **[QASparse: Query-Adaptive Sparse Attention with Tailored Budgets and Tokens](https://arxiv.org/abs/2611.29280v1)** | 2026-11-22 |  |
-| **[Zarc: Exact Nearest Neighbors over a Billion Vectors in Seconds](https://arxiv.org/abs/2611.29252v1)** | 2026-11-22 | <details><summary>Ident...</summary><p>Identical to https://zenodo.org/records/23674584</p></details> |
-| **[Learning how to Forget: Fine-tuning for Long-Context Sparse Attention](https://arxiv.org/abs/2608.19920v3)** | 2026-11-21 | 54 pages, 2 figures |
-| **[IndexerStage: Staging Indexer-K across Memory Tiers for Sparse-Attention LLM Serving](https://arxiv.org/abs/2611.28625v1)** | 2026-11-21 |  |
 
